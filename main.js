@@ -242,6 +242,9 @@ async function main() {
   writeArrayToTxt(path.join(OUTPUT_DIR, 'hosts.txt'), hostsArray);
   writeJson(path.join(OUTPUT_DIR, 'hosts.json'), hostsArray);
 
+  writeArrayToTxt(path.join(OUTPUT_DIR, 'networks.txt'), networksArray);
+  writeJson(path.join(OUTPUT_DIR, 'networks.json'), networksArray);
+
   writeJson(path.join(OUTPUT_DIR, 'summary.json'), {
     generated_at: new Date().toISOString(),
     total: {

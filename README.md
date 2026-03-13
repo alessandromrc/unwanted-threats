@@ -15,6 +15,8 @@ All generated files live in the `output` directory (and in the `output` branch w
 | **IP addresses (JSON array)** | `ips.json` |
 | **Hostnames/domains (one per line)** | `hosts.txt` |
 | **Hostnames/domains (JSON array)** | `hosts.json` |
+| **CIDR networks (one per line)** | `networks.txt` |
+| **CIDR networks (JSON array)** | `networks.json` |
 | **Summary / metadata** | `summary.json` |
 
 ---
