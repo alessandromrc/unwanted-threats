@@ -234,7 +234,11 @@ async function main() {
 
   const ipsArray = Array.from(allIps).sort();
   const hostsArray = Array.from(allHosts).sort();
-  const networksArray = Array.from(allNetworks).sort();
+
+  const networksSet = new Set();
+  allNetworks.forEach(n => networksSet.add(n));
+  allIps.forEach(ip => networksSet.add(`${ip}/32`));
+  const networksArray = Array.from(networksSet).sort();
 
   writeArrayToTxt(path.join(OUTPUT_DIR, 'ips.txt'), ipsArray);
   writeJson(path.join(OUTPUT_DIR, 'ips.json'), ipsArray);
