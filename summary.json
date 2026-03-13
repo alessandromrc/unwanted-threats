@@ -1,0 +1,87 @@
+{
+  "generated_at": "2026-03-13T07:00:26.679Z",
+  "total": {
+    "ips": 550544,
+    "hosts": 50516,
+    "networks": 44
+  },
+  "per_feed": [
+    {
+      "name": "AIP_historical_blacklist",
+      "url": "https://mcfp.felk.cvut.cz/publicDatasets/CTU-AIPP-BlackList/Todays-Blacklists/AIP_historical_blacklist_prioritized_by_newest_attackers.csv",
+      "type": "csv_ip",
+      "counts": {
+        "ips": 10767,
+        "hosts": 0,
+        "networks": 0
+      },
+      "error": null
+    },
+    {
+      "name": "adblock_nocoin_hosts",
+      "url": "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt",
+      "type": "hosts",
+      "counts": {
+        "ips": 0,
+        "hosts": 313,
+        "networks": 0
+      },
+      "error": null
+    },
+    {
+      "name": "emerging_block_ips",
+      "url": "https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt",
+      "type": "plain_ip",
+      "counts": {
+        "ips": 5,
+        "hosts": 0,
+        "networks": 0
+      },
+      "error": null
+    },
+    {
+      "name": "urlhaus_hostfile",
+      "url": "https://urlhaus.abuse.ch/downloads/hostfile/",
+      "type": "hosts",
+      "counts": {
+        "ips": 0,
+        "hosts": 445,
+        "networks": 0
+      },
+      "error": null
+    },
+    {
+      "name": "ipsum",
+      "url": "https://raw.githubusercontent.com/stamparm/ipsum/master/ipsum.txt",
+      "type": "csv_like_ip",
+      "counts": {
+        "ips": 547812,
+        "hosts": 0,
+        "networks": 0
+      },
+      "error": null
+    },
+    {
+      "name": "threatfox_hostfile",
+      "url": "https://threatfox.abuse.ch/downloads/hostfile/",
+      "type": "hosts",
+      "counts": {
+        "ips": 0,
+        "hosts": 49776,
+        "networks": 0
+      },
+      "error": null
+    },
+    {
+      "name": "dshield_7d",
+      "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/dshield_7d.netset",
+      "type": "plain_ip_or_cidr",
+      "counts": {
+        "ips": 0,
+        "hosts": 0,
+        "networks": 44
+      },
+      "error": null
+    }
+  ]
+}
