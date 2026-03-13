@@ -1,0 +1,23 @@
+{
+  "name": "unwanted-threats",
+  "version": "1.0.0",
+  "description": "Aggregates multiple public threat intelligence feeds into simple JSON and text files for easy consumption.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "threat-intel",
+    "blocklist",
+    "security",
+    "ips",
+    "hosts"
+  ],
+  "author": "alessandromrc",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
+
