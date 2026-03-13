@@ -1,6 +1,9 @@
 name: Auto
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     # every hour
     - cron: "0 */1 * * *"
