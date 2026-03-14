@@ -4225,6 +4225,7 @@ api-microservice-us8.com
 api-microservice-us9.com
 api-node-v2.kristallwelt.in.net
 api-server-cdn.sbs
+api-v1-storage.altamontagna.in.net
 api-v3-auth.sturmwelle.in.net
 api-w11c.onrender.com
 api.78win88.co.com
@@ -5854,7 +5855,6 @@ bbjj.nageshks.com
 bbjzotm.ru
 bbl.jyhsolucion.ar
 bbl.whitehallalliance.co.uk
-bblissmassage.com
 bbmfswfgmljwj.com
 bbnlexs.com
 bbos.homes
@@ -6545,6 +6545,7 @@ blink2.hre9in7mamma.ru
 blink6.hre9in7mamma.ru
 blink8.brahtr0phy.ru
 blintepeeste.org
+blit.co.za
 blitz-deal.blaukraft.coupons
 blitz.elmfalter.ru
 blitz.gu-5-hnatr-3-mb.ru
@@ -8047,6 +8048,7 @@ cdn-server.click
 cdn-sss.click
 cdn-static-1.kristallwelt.in.net
 cdn-static-2.sturmwelle.in.net
+cdn-static-3.altamontagna.in.net
 cdn.adless.io
 cdn.aref.co.com
 cdn.cloudcoins.co
@@ -8518,10 +8520,12 @@ chimneyrepairgulfbreeze.com
 chimusgen.duckdns.org
 chimxik.shop
 china-sec.gl.at.ply.gg
+chinaapper.com
 chinana5.com
 chinij.mom
 chinmayapublicschool.co.in
 chinollek-51048.portmap.host
+chiptune.com
 chirag.kusherp.com
 chirin-chirin.jp
 chirkqa.shop
@@ -8944,6 +8948,7 @@ clock6.4-pytim-30-ua.ru
 closeconection.duckdns.org
 closedgranite.chifdark.in.net
 clothcrib.xyz
+cloud-drive-x.bleusoleil.in.net
 cloud-file-explorer.netlify.app
 cloud-ker.horsesence.in.net
 cloud-m3.plum5parcel.coupons
@@ -10212,6 +10217,7 @@ czvum-84-84-38-102.a.free.pinggy.link
 czzdpkj.ru
 d-ac.jp
 d.0-c448.ru
+d.14yaa.com
 d.1z2p9.ru
 d.5i4u8.ru
 d.7-gb.ru
@@ -10552,6 +10558,7 @@ data-clear-sync.clearfield.in.net
 data-f6.orbitcapture.in.net
 data-flow-central.amber9stash.coupons
 data-gate.quantovault.in.net
+data-sync-00.grandemuro.in.net
 data-transfer-srv.starkwind.coupons
 data-unit.quantovault.in.net
 data-vault.cryptonest.in.net
@@ -11113,6 +11120,7 @@ deuwre.com
 dev-js-cdn.cfd
 dev-moral.askloop.in.net
 dev-test-01.kristallwelt.in.net
+dev-test-hub.altamontagna.in.net
 dev.18m.sn
 dev.camidstudios.com
 dev.cryptobara.com
@@ -13504,6 +13512,7 @@ espace.servebeer.com
 espada.ddns.net
 espied.diversist.com
 espoir.plar9ten2zo.ru
+esr.ro
 esrndndubsbsifurfd.ru
 essaugavada.com
 essay8.5-forez-515-o.ru
@@ -13974,6 +13983,7 @@ f8bet.casino
 f8bet.gr.com
 f8beta-2.com
 f8bkf.grim1atin0s.ru
+f8designstudio.com
 f8rn.i-c-81.ru
 f8s.amberr0cket.ru
 f8t.emberfrontier.ru
@@ -14483,7 +14493,6 @@ fikp.ru
 fikysandroisder.com
 file.blackint3.com
 file.oss-flash.shop
-file.uhsea.com
 file.yy88.ru
 filegrace2026.duckdns.org
 fileless-market.cc
@@ -15965,6 +15974,7 @@ gatcachesec.com
 gate-07.orbit6crate.coupons
 gate-gri.fastlog.in.net
 gate-node.lakegate.in.net
+gate-proxy-7.grandemuro.in.net
 gate-v05.lakegate.in.net
 gate-v7.nuitetoile.coupons
 gate.1710.cn.com
@@ -19170,7 +19180,6 @@ host0.tikmaps.com
 host123.zz.am
 host4.thebookcult.com
 hostdgg.ddns.net
-hostealo.com
 hostel.org.br
 hostikslu.is
 hosting-concepts.gl.at.ply.gg
@@ -20171,6 +20180,7 @@ infozzle.testingweblink.com
 infra-and-aws.tokyo
 infra-hub.altimetrica.in.net
 infra-net.altimetrica.in.net
+infra-web-v4.grandemuro.in.net
 infrastructure-service.urbanlake.ru
 inglostad.duckdns.org
 ingodgracebabyangelgivenblesswellwithmyl.duckdns.org
@@ -20557,7 +20567,6 @@ it.quladao75.ru
 it4.5b-c.ru
 it885.com
 it8zf5px.darkc0a5t.ru
-ita-airwaysva.com
 italiane.radio.fm
 italiantuorism.com
 itallgrealomeirac.duckdns.org
@@ -22686,7 +22695,6 @@ kosmiceventsja.com
 koszulki.net
 kotabansal.in.net
 kotobanohiroba.com
-kotogadang-pusako.com
 kouad100.sbs
 kouei-sangyou.net
 kouhousentai.com
@@ -26463,6 +26471,7 @@ metr-k44.metricfusion.in.net
 metr1-hinge.skyip.in.net
 metreatments.pro
 metric2-route.starload.in.net
+metrics-node.altamontagna.in.net
 metrics-sync.kristallwelt.in.net
 metrics.gocloudmaps.com
 metricspan.icu
@@ -28407,15 +28416,19 @@ nassified.eu.com
 nastwest.icu
 natalialfutova.com
 natanisralninoklips.com
+natas-haarstudio.de
 natctqo.fun
 nathanhowe.nathanhowemusic.com
+nathaniellouk.com
 nathanjokers.com
 nathetsof.com
 national-constitution.org.ua
+nationalmarinaday.org
 nationalwaste.uk.com
 nativeworkscsc.org
 natsu213dz-30472.portmap.host
 natsu213dz213-46328.portmap.host
+natturamty.com
 natur-klang.waldlied.coupons
 nature-gabriel.gl.at.ply.gg
 nature-grove-data.vividgrove.in.net
@@ -28537,6 +28550,7 @@ neha.kusherp.com
 nehfauheudhuela.co
 neighborhoodroofingllc.com
 neighll.click
+neilshairdressers.co.uk
 neincl19vt.top
 nejyd.icu
 nekoamerikaheiku.info
@@ -32741,7 +32755,6 @@ prospectorplumbing.com
 protection-hub.cfd
 protectormexico.com.mx
 proteggereseg.com.br
-protherapycenter.com
 proto-p45s.overtmantram.in.net
 proto-re4ge.oakbay.in.net
 proton.eu.com
@@ -35451,6 +35464,7 @@ roblox.gr.com
 robobotics.eu
 robotproject.ddns.net
 rochaesantos.agencialegalads.com
+rock-core-99.silenziovia.in.net
 rock-core-v7.ferroluna.in.net
 rock-net.stonehaven.in.net
 rock-spot.rockbend.in.net
@@ -36239,6 +36253,7 @@ sarvim.b1uegras5hia.ru
 sas.kidizue6.ru
 sasndfsdfghjasd.run
 sass2.authcaptcha.com
+sat-uplink-2.silenziovia.in.net
 sat-uplink.ferroluna.in.net
 sat.cn.com
 satabi-guide.com
@@ -36452,7 +36467,6 @@ scraminebilk.agencialegalads.com
 scraminebilkadvogados.agencialegalads.com
 scrape.gravel-whisk.ru
 scratfx.asia
-scrcarental.com
 scree.rapidstone.ru
 screen-debut.gl.at.ply.gg
 screen-suggesting.gl.at.ply.gg
@@ -47063,6 +47077,7 @@ www.hpdgih.top
 www.hpsvifx.bond
 www.hsck.pub
 www.hsdfecc498xya.net
+www.hseda.com
 www.hubsmartproperties.com
 www.hx671.top
 www.hxcwyj.com
@@ -47340,6 +47355,7 @@ www.mehmetarhan.com
 www.membros.agencialegalads.com
 www.memedia.africa.com
 www.metmuseum.wordt-ontwikkeld.be
+www.mevetlab.cl
 www.mh7am.bond
 www.miacheap.flights
 www.micoestan.es
@@ -49227,6 +49243,7 @@ xy53k61z.udmu7tsw2rp.ru
 xybblqk.net
 xydizainten.org
 xyfkt0.sp2ceba7tie.ru
+xyfsd.com
 xyh.lypelya2.ru
 xyhyleo1.ru
 xyiqdyb.ru
