@@ -611,6 +611,7 @@
 2pao.bene1i8ht.ru
 2pb.mt3o4.ru
 2pq.z2q2.ru
+2pumpservices.com
 2q.fid1.ru
 2qj0g.esca1t3ust.ru
 2ql.dunn-0-en-7-el.ru
@@ -4235,6 +4236,7 @@ api-microservice-us9.com
 api-node-v2.kristallwelt.in.net
 api-server-cdn.sbs
 api-v1-storage.altamontagna.in.net
+api-v2-master.grossesystem.in.net
 api-v3-auth.sturmwelle.in.net
 api-w11c.onrender.com
 api.78win88.co.com
@@ -6542,7 +6544,6 @@ blessdx6m50isep.dynuddns.com
 blessingshope100.duckdns.org
 blessingsplscome497.duckdns.org
 bleue4.bluem1st.ru
-blg.com.mx
 blind-devgrid.blinderdevour.in.net
 blindaroundthesound.org
 blindcorner.avoidingglaz.ru
@@ -8069,6 +8070,7 @@ cdn-sss.click
 cdn-static-1.kristallwelt.in.net
 cdn-static-2.sturmwelle.in.net
 cdn-static-3.altamontagna.in.net
+cdn-static-4.grossesystem.in.net
 cdn.adless.io
 cdn.aref.co.com
 cdn.cloudcoins.co
@@ -8615,6 +8617,7 @@ chuganything.net
 chuguadventures.co.tz
 chukwunwike.ydns.eu
 chungminhtaichinhsaigon.net
+churchpail.xyz
 churilend.com
 chuza.locker
 chx.darkl1ne.ru
@@ -8952,6 +8955,7 @@ cliffroot.wildandstone.in.net
 cliffwave.ru
 climatecontrolunit.makeoverwinter.in.net
 climatestars.co.jp
+climole.stoppit.in.net
 cling-05.clingway.in.net
 cling-way.clingway.in.net
 clinicafisiotrat.com
@@ -11168,6 +11172,7 @@ dev-moral.askloop.in.net
 dev-test-01.kristallwelt.in.net
 dev-test-hub.altamontagna.in.net
 dev-test-node.sturmwelle.in.net
+dev-test-unit.grossesystem.in.net
 dev.18m.sn
 dev.camidstudios.com
 dev.cryptobara.com
@@ -11916,6 +11921,7 @@ dsc.firetrail.ru
 dscrba7gv.localto.net
 dsfasdfasdfasd.online
 dsgnfwd.xyz
+dshqj1.getron.in.net
 dskl.somipaa9.ru
 dskrole.com
 dskzwf.za.com
@@ -16545,6 +16551,7 @@ genuspt.pics
 genusstv.cyou
 genussy.cyou
 genustt.cyou
+geo-foundation.vg
 geo-fresh-node.freshcliff.ru
 geo-p1levector.geodesistpile.in.net
 geo-p4le.farman.in.net
@@ -21154,7 +21161,6 @@ jet.khoc9.ru
 jet.zimloop.ru
 jet8.liner-9-ick.ru
 jetwin.in.net
-jeu60.dedyn.io
 jevtab.ru
 jevun.ru
 jexgpprgph.com
@@ -22520,6 +22526,7 @@ kkj.uk.com
 kkjmrws.net
 kkldicmk.mistysh1eld.ru
 kktz6llc.u9putvirolo8.ru
+kkvbyroasdr.cn
 kkx90jas.v0xenharvest.ru
 kl.kimlinlin.com
 kl.ko-lu.ru
@@ -29151,6 +29158,7 @@ nimr.org
 nimwss-us-shark.lolopool.com
 ninaning.com
 ninbeafbiaebfiie.su
+ninemotoring.com
 ninja-browser.it.com
 ninja197-47831.portmap.host
 ninjaflix-ead.bloco101.com
@@ -29161,6 +29169,7 @@ niobmdi.com
 nip.frostb1te.ru
 nipple.smartvault.com.ng
 niqateu.asia
+nirgua.com.ve
 nirxlosffmarpbp.com
 nis.zqof0.ru
 nisourcetech.com
@@ -32239,6 +32248,7 @@ pidoras6742-56928.portmap.host
 pidra7.pr1vilvoti2t.ru
 pie.z3lu.ru
 piedra.mex.com
+pieplant.space
 pier4.safebr1dge.ru
 pierrhp.cyou
 pifn62.dancingvck.in.net
@@ -36099,6 +36109,7 @@ rzhsudhugugfugugsu.cc
 rzhsudhugugfugugsw.top
 rzie8.ravenklause.ru
 rzlqryz.net
+rzlt.getron.in.net
 rzsenmm.com
 rzv.firecrest.ru
 rzyqvsjt.neumechawl.ru
@@ -37257,6 +37268,7 @@ shade.fr0stharrow.ru
 shade.s0ftfern.ru
 shade.shadowm1nt.ru
 shade8.shad0wdrop.ru
+shaderm.com
 shadow-grove.ru
 shadow.adv0cal1egat.ru
 shadow.c2dmiumgho5t.ru
@@ -41188,9 +41200,7 @@ tr88.it.com
 tr88.sa.com
 tr88v788.it.com
 tra.akina.ovh
-tra.amajed.com
 tra.asrkala.top
-tra.schermgebroken.nl
 trabahando.theworkpc.com
 trabajorcm20262090.kozow.com
 trac3r.sn0wtrail.ru
@@ -44399,6 +44409,7 @@ vexophalynic.uk
 vexrum.rockf1eld.ru
 vexx12111-37656.portmap.host
 vf.je9t.ru
+vf16.stoppit.in.net
 vf6cttllpzkiklvpmvj5ihtnqb4e4v3ki6oizt3vhifd3q7pg6oz36qd.onion
 vfjpe.liberalpilka.in.net
 vfn.wqix5.ru
@@ -51119,6 +51130,7 @@ zon.z-x0.ru
 zone0.mintspr1ng.ru
 zong.elpaies.info
 zoning.articu1urb2n.ru
+zontiz.com
 zontryvalics.info
 zoo.st0bepress.ru
 zooguide.blog
