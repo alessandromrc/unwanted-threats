@@ -5785,6 +5785,7 @@ basaltstern.ru
 basaltwisp9.ru
 base-infra-5.mondoluce.in.net
 base-infra-9.mondosolido.in.net
+base-infra-v3.petitjardin.in.net
 base.fa1cbrea5t.ru
 base.vsmu9.ru
 base7.d7un4recid.ru
@@ -15256,7 +15257,6 @@ fruitpack.pack12pear.coupons
 fruits.tasawk.net
 frukinvel.luxmailer.store
 frunglewump.gb.net
-frvrefrigeracao.com.br
 frx.clashofmaps.vip
 frx.kindnessbrand.com
 fry.fa0n.ru
@@ -16888,6 +16888,7 @@ glob-k2.siliconcanyon.in.net
 global-api.bomain.ru
 global-net-1.mondosolido.in.net
 global-net-2.mondoluce.in.net
+global-net-8.petitjardin.in.net
 global-site-check.bonus3basket.coupons
 global-sync-srv.orbit6crate.coupons
 global.bomain.ru
@@ -20264,6 +20265,7 @@ intercttp.xyz
 interest-weather.gl.at.ply.gg
 intermanagers.com.br.touruvaevinho.tur.br
 internal-dns-2.vitagrazia.in.net
+internal-dns-v.schnellkraft.in.net
 internal-dns.cielonumerique.in.net
 internal-promo-link.federleicht.coupons
 internal-promo-zone.perkparcel.coupons
@@ -23870,6 +23872,7 @@ loam.clears0il.ru
 loam.s0ftcliff.ru
 loamcpps.asia
 loans.loanroad.co.uk
+local-hub-01.ondeviva.in.net
 local-hub-sec.espacerapide.in.net
 local-hub-test.petitbureau.in.net
 local-s1.patternshadow.in.net
@@ -28476,6 +28479,7 @@ nch-software.info
 nchawa.magizz.com
 nci5ab3x.preisdrop.qpon
 ncj.nq-8-e-9.ru
+nctam.org
 ncwg03c0.stormc1oud.ru
 ncxps.com
 nd.wi7o.ru
@@ -28483,6 +28487,7 @@ nd.yuxuanow.com
 nd4ih.padohooing.in.net
 nd77.oakstart.in.net
 nd9eh.kn-1-fecast.ru
+nda.khuddam.de
 ndbf79ap3.localto.net
 ndcwsww.com
 ndgdzzl.ru
@@ -30038,6 +30043,7 @@ offerclinic.rockbay.in.net
 offerreality.com
 office-link-0.petitbureau.in.net
 office-link-1.espacerapide.in.net
+office-link-z.ondeviva.in.net
 office-winemag.duckdns.org
 office-winemagbk.duckdns.org
 office.newmmaintenanhomes.online
@@ -38634,6 +38640,7 @@ stack.suf-1-nau-8-h.ru
 stack8.f-2-na-7-under.ru
 staff-portal-5.petitbureau.in.net
 staff-portal-9.espacerapide.in.net
+staff-portal-x.ondeviva.in.net
 staffbase.chelnperson.in.net
 staging.alaincasault.com
 staging.asbeast.be
@@ -38698,7 +38705,6 @@ static-data-srv.snapbargain.coupons
 static-hotjar.com
 static-mtpjoriqkv.cn-beijing.fcapp.run
 static.198.219.245.188.clients.your-server.de
-static.72.214.69.159.clients.your-server.de
 static.coppsindoor.org
 static.cos-tencent.cloud
 static.ilclock.com
@@ -45386,7 +45392,6 @@ wholesalecharitysupply.com
 wholeworllydbelongto.duckdns.org
 whombium.net
 whomever-initially.gl.at.ply.gg
-whonixgateway.online
 whooptm.cyou
 whorl.murmurplex.ru
 whorl.uk.com
@@ -45921,6 +45926,7 @@ wordpress-theme-collection.com
 wordt-ontwikkeldbe.site.tb-hosting.com
 worfik.sy2bkywa1tz.ru
 worgip.j1tterfoam.ru
+work-flow-99.ondeviva.in.net
 work-flow-v2.petitbureau.in.net
 work-flow-v3.espacerapide.in.net
 work.c0mpen5ducky.ru
@@ -46553,6 +46559,7 @@ www.beearchitects.co.in
 www.beihu-jlbank.com
 www.belaijobackup1.com
 www.belaijobackup2.com
+www.benshamcentre.co.uk
 www.bepansa.com
 www.bercaja-es.shop
 www.berwiannicoslife7.com
