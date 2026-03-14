@@ -4334,6 +4334,7 @@ app-6-v.online
 app-6-v.ru
 app-adj.bomain.ru
 app-chrome.com
+app-data-flow.vitasicura.in.net
 app-data-log.fortezzablu.in.net
 app-data-sync.bleusoleil.in.net
 app-data-sync.vittoriastrada.in.net
@@ -5611,6 +5612,7 @@ backend-core-7.cielonumerique.in.net
 backend-core-v.schnellkraft.in.net
 backend-core-x.vitagrazia.in.net
 backend-knwv.onrender.com
+backend-node-x.petitreseau.in.net
 backend.conoeste.cl
 backend.datasystemconsulting.com
 backend.zyde.org
@@ -7715,6 +7717,7 @@ cab.n4ke.ru
 cabe99slot.org
 cable2.ba1ustje7ky.ru
 cabym.press
+cache-dist-01.petitreseau.in.net
 cache-dist-12.cielonumerique.in.net
 cache-dist-5.vitagrazia.in.net
 cache-dist-77.schnellkraft.in.net
@@ -8980,6 +8983,7 @@ cloflart.com
 closeconection.duckdns.org
 closedgranite.chifdark.in.net
 clothcrib.xyz
+cloud-drive-a1.vitasicura.in.net
 cloud-drive-x.bleusoleil.in.net
 cloud-file-explorer.netlify.app
 cloud-ker.horsesence.in.net
@@ -15456,6 +15460,7 @@ fuchstone.info
 fucirai75.ru
 fuck.wz-3-a-7.ru
 fuckgoogle.shilohbn.ru.com
+fuckniggerspajeetsandkikes.icu
 fuckrabbit.com
 fuckzachebt.meowmeowmeowmeowmeow.meow.indiahackgod.su
 fudgeshop.com.au
@@ -20253,6 +20258,7 @@ industrialvacuums.net.au
 industroyer.latelierduchocolat.com.mx
 inefabledesfile.com
 ineffqa.asia
+ineguade.info
 inelogis-wp.centoria.net
 ineox.pl
 inessoz.com
@@ -26631,6 +26637,7 @@ metr-k44.metricfusion.in.net
 metr1-hinge.skyip.in.net
 metreatments.pro
 metric2-route.starload.in.net
+metrics-core.grossesystem.in.net
 metrics-hub.sturmwelle.in.net
 metrics-node.altamontagna.in.net
 metrics-sync.kristallwelt.in.net
@@ -29003,6 +29010,7 @@ nf0g.shad0wmist.ru
 nfbaeiudhaiedhhgf.su
 nfc.iamart.com.do
 nfckgpp.net
+nfclf.com
 nfdgnpm.ru
 nfgmalz.net
 nfkavn.bond
@@ -29206,6 +29214,8 @@ nk.bluef0rest.ru
 nk.d0nit7then.ru
 nkcipxf.com
 nkn7.mooo.com
+nkoforward.com
+nkollpest.com
 nkomvdvv.r2nkteh2.ru
 nkpoor.sa.com
 nkskhifhiwgahoehih.ru
@@ -31832,6 +31842,7 @@ paypan.co
 payroll-notify.org
 payrolladvice.fr
 paysoko.ke
+pazotti.info
 pb.g-69-p.ru
 pb.gtus-4.ru
 pb4.ei8htyern1k.ru
@@ -32896,6 +32907,7 @@ primedatahost4.lol
 primenewserviceogfirewall.dynuddns.com
 primerelays.com
 primeshare33.com
+primetimehost.me
 primurib1er.ru
 princess-mens-club.com
 princess-mens.click
@@ -38850,6 +38862,7 @@ srs01.sn0wmint.ru
 srst.somipaa9.ru
 sruewaq.ru
 srv-90.dealharbor.coupons
+srv-cluster-33.vitasicura.in.net
 srv-cluster-7.fortezzablu.in.net
 srv-cluster-9.bleusoleil.in.net
 srv-cluster-beta.vittoriastrada.in.net
@@ -45336,6 +45349,7 @@ web-ocean.com
 web-proxy-12.bleusoleil.in.net
 web-proxy-88.fortezzablu.in.net
 web-proxy-99.vittoriastrada.in.net
+web-proxy-v.vitasicura.in.net
 web-q9t2n.kolos56tomat.coupons
 web-security.beer
 web-spot.solariana.in.net
