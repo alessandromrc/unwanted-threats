@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-15T06:15:18.581Z",
+  "generated_at": "2026-03-15T07:16:43.828Z",
   "total": {
     "ips": 620914,
-    "hosts": 51484,
-    "networks": 620958
+    "hosts": 51590,
+    "networks": 620956
   },
   "per_feed": [
     {
@@ -45,7 +45,7 @@
       "type": "hosts",
       "counts": {
         "ips": 0,
-        "hosts": 459,
+        "hosts": 460,
         "networks": 0
       },
       "error": null
@@ -67,7 +67,7 @@
       "type": "hosts",
       "counts": {
         "ips": 0,
-        "hosts": 50734,
+        "hosts": 50842,
         "networks": 0
       },
       "error": null
@@ -79,7 +79,7 @@
       "counts": {
         "ips": 0,
         "hosts": 0,
-        "networks": 44
+        "networks": 42
       },
       "error": null
     }
