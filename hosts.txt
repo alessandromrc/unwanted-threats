@@ -5080,6 +5080,7 @@ auth-global-zone.schnellauf.coupons
 auth-ms-service.com
 auth-ms-service.online
 auth-ms-service.top
+auth-v1-user.mondosicuro.in.net
 auth-v2-user.mondolucente.in.net
 auth-z1.motiongravity.in.net
 auth-z7-gate.schnellnetz.in.net
@@ -7098,6 +7099,7 @@ brid01.fluxbridge.in.net
 bridg3-scope.backtest.in.net
 bridge-00-light.altolivello.in.net
 bridge-v4-light.altotensione.in.net
+bridge-x4-light.altosistema.in.net
 bridge.8u2a9.ru
 bridge.cleardawn.ru
 bridge.fireciiff.ru
@@ -10805,7 +10807,6 @@ databap.mom
 database-download3d.blog
 database-download3d.online
 databeat.fluxnode.in.net
-datacalls.azure-api.net
 datacloudhost4.baby
 datacold.ccdatos.com
 datadrive.corvetfordata.in.net
@@ -16843,6 +16844,7 @@ ghost-node-0.fiumeveloce.in.net
 ghost-node-x.froidespace.in.net
 ghost-node-z.kaltesystem.in.net
 ghost-node.cybergeist.in.net
+ghost-v3-node.froidenodal.in.net
 ghost-v9-node.froidefibre.in.net
 ghost-z1-node.froidelumiere.in.net
 ghost.fumb1eim2ge.ru
@@ -17391,6 +17393,7 @@ go.boku-0.ru
 go.devy-3.ru
 go.dihijio22.ru
 go.fastspot.io
+go.fileupload.vip
 go.hmvu4.ru
 go.jytoceo30.ru
 go.lage-2.ru
@@ -26973,7 +26976,6 @@ microservisetrue.vip
 microsharepolnt.store
 microsoft-schtask.com
 microsoft-teams-download.com
-microsoft-telemetry.at
 microsoft-tools.com
 microsoft.monginiscake.in.net
 microsoft.ms-drivers.cam
@@ -31259,6 +31261,7 @@ oraamrw7.ai7uninit1at.ru
 oracle.con5epr0phet.ru
 oracle.fortune23tv.coupons
 oracle.shadow6nectar.coupons
+oraclediagnostic.com
 oraclevoice.soothsaying.ru
 oral-net.cavalieroral.in.net
 oral-v4.cavalieroral.in.net
@@ -31267,6 +31270,7 @@ oralrays.com
 orange.mokveid.com
 orangejack.com
 orangepinepo.com
+oranienbaum.club
 orb.ju5q.ru
 orb.muddleoak.ru
 orb.z3lu.ru
@@ -31292,10 +31296,13 @@ orbit2.turbo-tap.ru
 orbit5.starf0ld.ru
 orbit8.dup-1-ic-4-ermaph.ru
 orbit9.warpclutch.ru
+orbitfoods.de
 orbitkamm.ru
 orbitkrone.online
+orchidee.ws
 orct1.ref1nemsei7e.ru
 order.purplewaveofficial.com
+orders.integritytitlesolutions.com
 ore.n4ym.ru
 ore2.effu5m0unt.ru
 orebits.ca
@@ -35913,6 +35920,7 @@ rill.ve1vetc0ves.ru
 rill1.nightf0x.ru
 rilvyn.c0mp5chminka.ru
 rim-v9-outer.silberfluss.in.net
+rim-x7-outer.silberstromz.in.net
 rim-x81-outer.silberstromx.in.net
 rim.luv6.ru
 rimamarestart.com
@@ -36152,6 +36160,7 @@ roofreaction.xyz
 rook.ju-5-q.ru
 rook.picket-core.ru
 room-51-dark.altotensione.in.net
+room-v51-dark.altosistema.in.net
 room-x12-dark.altolivello.in.net
 rooms-traveller.gl.at.ply.gg
 root-x2.metricfusion.in.net
@@ -36951,6 +36960,7 @@ scan-point-0.altovelocita.in.net
 scan-point-05.petitfoyer.in.net
 scan-point-2.kaltemech.in.net
 scan-point-21.nachtlicht.in.net
+scan-z2-point.altosistema.in.net
 scan.aryamint.com
 scan.kamill.fr
 scan.naldlh.lol
@@ -37714,6 +37724,7 @@ sheismybestgirlbabyangelmylovlg.duckdns.org
 shelbus99-30583.portmap.host
 shell-01-core.froidefibre.in.net
 shell-v7-core.froidelumiere.in.net
+shell-x01-core.froidenodal.in.net
 shenlong.eu.cc
 shenron19862.duckdns.org
 shericandler.com
@@ -40165,6 +40176,7 @@ sync-node.modula.in.net
 sync-sys.goodtime.in.net
 sync-unit.synchromesh.in.net
 sync-v-8.extension-health-sync.coupons
+sync-v0-vision.altosistema.in.net
 sync-v02-edge.pontesicuro.in.net
 sync-v09.synchromesh.in.net
 sync-v9-data.metallopunto.in.net
@@ -41626,6 +41638,7 @@ trace-44-alpha.froidelumiere.in.net
 trace-net.volumex.in.net
 trace-unit.volumex.in.net
 trace-x7-alpha.froidefibre.in.net
+trace-z9-alpha.froidenodal.in.net
 trace.5h0p.ru
 trace.be5isg2uze.ru
 trace.bluef1re.ru
@@ -44991,6 +45004,7 @@ vision-sync-x.altovelocita.in.net
 vision-sync.nachtlicht.in.net
 vision-x8-sync.froidelumiere.in.net
 vision-z3-sync.froidefibre.in.net
+vision-z7-sync.froidenodal.in.net
 vision.cssc.design
 vision.klon2par6si.ru
 visionlossconnections.org
@@ -51609,6 +51623,7 @@ zolpri.e1eftneur0pa.ru
 zolrin.cr1pptit2n.ru
 zon.z-x0.ru
 zone-11-area.silberfluss.in.net
+zone-v11-area.silberstromz.in.net
 zone-v2-area.silberstromx.in.net
 zone0.mintspr1ng.ru
 zong.elpaies.info
