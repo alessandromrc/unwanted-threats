@@ -5080,6 +5080,7 @@ auth-global-zone.schnellauf.coupons
 auth-ms-service.com
 auth-ms-service.online
 auth-ms-service.top
+auth-v2-user.mondolucente.in.net
 auth-z1.motiongravity.in.net
 auth-z9-user.mondofuturo.in.net
 auth.factionwarfare.net
@@ -5844,6 +5845,7 @@ base-infra-99.grandestat.in.net
 base-infra-v3.petitjardin.in.net
 base-v5-steel.grandeparole.in.net
 base-x5-infra.mondofuturo.in.net
+base-z3-infra.mondolucente.in.net
 base.fa1cbrea5t.ru
 base.vsmu9.ru
 base7.d7un4recid.ru
@@ -7092,6 +7094,7 @@ briczir.net
 brid-v3.fluxbridge.in.net
 brid01.fluxbridge.in.net
 bridg3-scope.backtest.in.net
+bridge-00-light.altolivello.in.net
 bridge-v4-light.altotensione.in.net
 bridge.8u2a9.ru
 bridge.cleardawn.ru
@@ -10870,6 +10873,7 @@ daycuroanhatthanhdat.com
 daysincome.ddnsguru.com
 daytrace.hourillusion.in.net
 db-v12-point.mondofuturo.in.net
+db-x55-point.mondolucente.in.net
 db.f05t.ru
 db.truckporter.com
 db.yinyang.eu.org
@@ -16825,6 +16829,7 @@ ghost-node-0.fiumeveloce.in.net
 ghost-node-x.froidespace.in.net
 ghost-node-z.kaltesystem.in.net
 ghost-node.cybergeist.in.net
+ghost-v9-node.froidefibre.in.net
 ghost-z1-node.froidelumiere.in.net
 ghost.fumb1eim2ge.ru
 ghost4senator.duckdns.org
@@ -20404,7 +20409,6 @@ indu-1-ra-8-ing.ru
 indu1ra8ing.ru
 indusedgeengg.sa.com
 industrial-listed.gl.at.ply.gg
-industrial-vegetation.gl.at.ply.gg
 industrialvacuums.net.au
 industroyer.latelierduchocolat.com.mx
 inefabledesfile.com
@@ -20501,7 +20505,6 @@ inspirec.com
 inspni3q15.nimpr.uk
 installinfo.dynu.net
 instance-p3rfvx-relay.screenconnect.com
-instantaoprime.dynuddns.net
 instel.insti8sc2tter.ru
 instiga.cyou
 institutogeraldeprofissoes.site
@@ -20919,7 +20922,6 @@ iuirshriuisruruufy.net
 iuonnjj.com
 iusefatalbtw-34401.portmap.host
 iusefatalbtw-48418.portmap.host
-iusefatalbtw-63960.portmap.host
 iusrhiufhsirurif.su
 iv.amb1gf0rest.ru
 iv.nyfc.ru
@@ -28993,6 +28995,7 @@ nestlingflight.childbird.ru
 net-0-prosa.online
 net-88-global.mondofuturo.in.net
 net-hub.commundesign.in.net
+net-v11-global.mondolucente.in.net
 net.botsu.pw
 net.ckon0.ru
 net.tatyziu58.ru
@@ -30949,13 +30952,16 @@ online.asesoriaprof.com.mx
 online.fundacaoiluminar.com.br
 online.igad.edu.ec
 online.itehcmc.travel
+online.prealternativo.com.br
 onlineappdownload.507.net.cn
+onlinebusinessbee.com
 onlineclub.info
 onlinekings.cyou
 onlinelearning.efcde.com
 onlinelectricalsupply.com
 onlinemobileporngames.com
 onlinestore.footballtoolbox.net
+onlinestore.volleyballtoolbox.net
 onlineverifyportal.us
 only-one.novalis.in.net
 only-symposium.gl.at.ply.gg
@@ -32896,6 +32902,7 @@ point-entry-z.mondolavoro.in.net
 point-entry.mondosolido.in.net
 point-up.valeriana.in.net
 point-v.velante.in.net
+point-v4-scan.altolivello.in.net
 point-x2-scan.altotensione.in.net
 pointblank100.zapto.org
 poisonivy1.no-ip.org
@@ -35555,7 +35562,6 @@ remcos26.dynuddns.com
 remcos5050.duckdns.org
 remcosnuevo5.duckdns.org
 remcuonwinsun.com
-remdefrem.duckdns.org
 remember-marks.gl.at.ply.gg
 remembrance.love
 remgreat2740.duckdns.org
@@ -36113,6 +36119,7 @@ roofreaction.xyz
 rook.ju-5-q.ru
 rook.picket-core.ru
 room-51-dark.altotensione.in.net
+room-x12-dark.altolivello.in.net
 rooms-traveller.gl.at.ply.gg
 root-x2.metricfusion.in.net
 root.bhware.store
@@ -37675,6 +37682,7 @@ sheep.gl.at.ply.gg
 sheh-0.ru
 sheismybestgirlbabyangelmylovlg.duckdns.org
 shelbus99-30583.portmap.host
+shell-01-core.froidefibre.in.net
 shell-v7-core.froidelumiere.in.net
 shenlong.eu.cc
 shenron19862.duckdns.org
@@ -41584,6 +41592,7 @@ trac3r.sn0wtrail.ru
 trace-44-alpha.froidelumiere.in.net
 trace-net.volumex.in.net
 trace-unit.volumex.in.net
+trace-x7-alpha.froidefibre.in.net
 trace.5h0p.ru
 trace.be5isg2uze.ru
 trace.bluef1re.ru
@@ -44948,6 +44957,7 @@ vision-sync-v.kaltemech.in.net
 vision-sync-x.altovelocita.in.net
 vision-sync.nachtlicht.in.net
 vision-x8-sync.froidelumiere.in.net
+vision-z3-sync.froidefibre.in.net
 vision.cssc.design
 vision.klon2par6si.ru
 visionlossconnections.org
@@ -46310,7 +46320,6 @@ winner999.gleeze.com
 winningisamust285.duckdns.org
 winnipeglandscapingpros.com
 winoutin.mywire.org
-winsrvc.ddns.net
 winstarplumbing.com
 winter-snow.su
 winterblast.coldwind.in.net
