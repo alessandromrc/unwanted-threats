@@ -5808,6 +5808,7 @@ base-infra-77.mondolavoro.in.net
 base-infra-9.mondosolido.in.net
 base-infra-99.grandestat.in.net
 base-infra-v3.petitjardin.in.net
+base-x5-infra.mondofuturo.in.net
 base.fa1cbrea5t.ru
 base.vsmu9.ru
 base7.d7un4recid.ru
@@ -7292,7 +7293,6 @@ buradabmwking.com
 buradakimvar.com
 buradakimvar.xyz
 burger-cx-free-work.fun
-buriallifeinsurancepolicies.com
 burkinafaso.duckdns.org
 burmas.net
 burn0t.firew0rd.ru
@@ -7733,7 +7733,6 @@ cache-dist-77.schnellkraft.in.net
 cache-optimize.top
 cache.datash1ft.ru
 cacodsq.click
-cad.659t.cn
 caddov.mom
 cadence.ch0reo8fin.ru
 cadence.me2nin8harp.ru
@@ -10797,6 +10796,7 @@ daybright.mex.com
 daycuroanhatthanhdat.com
 daysincome.ddnsguru.com
 daytrace.hourillusion.in.net
+db-v12-point.mondofuturo.in.net
 db.f05t.ru
 db.truckporter.com
 db.yinyang.eu.org
@@ -16718,6 +16718,7 @@ ghosrurruheudla.co
 ghost-node-x.froidespace.in.net
 ghost-node-z.kaltesystem.in.net
 ghost-node.cybergeist.in.net
+ghost-z1-node.froidelumiere.in.net
 ghost.fumb1eim2ge.ru
 ghost4senator.duckdns.org
 ghosternew.casa
@@ -28834,6 +28835,7 @@ nest1.gu5hnatr3mb.ru
 nest5.windfiare.ru
 nestlingflight.childbird.ru
 net-0-prosa.online
+net-88-global.mondofuturo.in.net
 net-hub.commundesign.in.net
 net.botsu.pw
 net.ckon0.ru
@@ -29765,14 +29767,18 @@ nurvak.wildstream.ru
 nusatoyota.co.id
 nut.jaxdrill.ru
 nutlios.cyou
+nutracomplete.com
 nutraforyou.com
 nutraforyou.com.suavidaadois.com.br
 nutraforyou.shop.suavidaadois.com.br
+nutri.claudineroberto.com.br
 nutricell.tunegocioreal.com
 nutrieat.es
 nutrisana.com.uy
 nutritionadvicehub.com
+nutrivet.com.vn
 nuu.qacacoe3.ru
+nuu.zone
 nuunjwb.ru
 nuvixof.com
 nuwof.icu
@@ -37453,6 +37459,7 @@ sheep.gl.at.ply.gg
 sheh-0.ru
 sheismybestgirlbabyangelmylovlg.duckdns.org
 shelbus99-30583.portmap.host
+shell-v7-core.froidelumiere.in.net
 shenlong.eu.cc
 shenron19862.duckdns.org
 shericandler.com
@@ -39105,7 +39112,6 @@ static-assets-srv.stillesee.coupons
 static-data-srv.snapbargain.coupons
 static-hotjar.com
 static-mtpjoriqkv.cn-beijing.fcapp.run
-static.198.219.245.188.clients.your-server.de
 static.coppsindoor.org
 static.cos-tencent.cloud
 static.ilclock.com
@@ -41321,6 +41327,7 @@ tra.asrkala.top
 trabahando.theworkpc.com
 trabajorcm20262090.kozow.com
 trac3r.sn0wtrail.ru
+trace-44-alpha.froidelumiere.in.net
 trace-net.volumex.in.net
 trace-unit.volumex.in.net
 trace.5h0p.ru
@@ -44327,6 +44334,7 @@ vat.me2v.ru
 vault.hollow-zip.ru
 vault08.savingssit.in.net
 vaultofsalt.com
+vaultx.lol
 vaw.du2iv.ru
 vaw2.du2iv.ru
 vaxhim.t0rquefinch.ru
@@ -44673,6 +44681,7 @@ vision-sync-9.petitfoyer.in.net
 vision-sync-v.kaltemech.in.net
 vision-sync-x.altovelocita.in.net
 vision-sync.nachtlicht.in.net
+vision-x8-sync.froidelumiere.in.net
 vision.cssc.design
 vision.klon2par6si.ru
 visionlossconnections.org
