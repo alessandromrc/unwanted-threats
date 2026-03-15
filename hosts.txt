@@ -3747,6 +3747,7 @@ alpeoqa.cyou
 alpha-cinder.ru
 alpha-trace-0.cybergeist.in.net
 alpha-trace-9.froidespace.in.net
+alpha-trace-v.fiumeveloce.in.net
 alpha-trace-x.kaltesystem.in.net
 alpha.agr0chem1nter.ru
 alpha.ambercoil.ru
@@ -5805,6 +5806,7 @@ basaltwisp9.ru
 base-infra-5.mondoluce.in.net
 base-infra-77.mondolavoro.in.net
 base-infra-9.mondosolido.in.net
+base-infra-99.grandestat.in.net
 base-infra-v3.petitjardin.in.net
 base.fa1cbrea5t.ru
 base.vsmu9.ru
@@ -9368,6 +9370,7 @@ connectspecial.us
 connff77.com
 connff88.com
 connff99.com
+connor223-53497.portmap.host
 conqueringtheland.com
 conquestcourier.testingweblink.com
 consengautomacao.com
@@ -9481,6 +9484,7 @@ core-land.com
 core-shell-11.kaltesystem.in.net
 core-shell-77.cybergeist.in.net
 core-shell-v4.froidespace.in.net
+core-shell-z8.fiumeveloce.in.net
 core-stone-vault.vividrock.ru
 core-t9.tensorfield.in.net
 core.bowin-1-nca-5.ru
@@ -10538,6 +10542,7 @@ dariusbazukii2025-38390.portmap.host
 dark-core.darkhaven.in.net
 dark-kok01.duckdns.org
 dark-room-v3.petitfoyer.in.net
+dark-room-v5.kaltemech.in.net
 dark-room-v8.nachtlicht.in.net
 dark-room-z.altovelocita.in.net
 dark-shi.droplast.in.net
@@ -10610,6 +10615,7 @@ data-base-00.mondolavoro.in.net
 data-base-101.petitjardin.in.net
 data-base-v3.mondosolido.in.net
 data-base-v4.mondoluce.in.net
+data-base-v5.grandestat.in.net
 data-clear-sync.clearfield.in.net
 data-f6.orbitcapture.in.net
 data-flow-central.amber9stash.coupons
@@ -17001,6 +17007,7 @@ global-api.bomain.ru
 global-net-1.mondosolido.in.net
 global-net-2.mondoluce.in.net
 global-net-8.petitjardin.in.net
+global-net-v1.grandestat.in.net
 global-net-x.mondolavoro.in.net
 global-site-check.bonus3basket.coupons
 global-sync-srv.orbit6crate.coupons
@@ -21977,6 +21984,7 @@ kaioqsmwuiomqqmm.xyz
 kaiwa-club.tokyo
 kaiwuuokqsoaiakm.xyz
 kajec.icu
+kaka56436346-61220.portmap.host
 kakapupuneww.com
 kakciaaccasaamau.xyz
 kakmekakedemi.nexus-my.com
@@ -23755,6 +23763,7 @@ liga-stroy.su
 light-bridge-1.altovelocita.in.net
 light-bridge-4.nachtlicht.in.net
 light-bridge-7.petitfoyer.in.net
+light-bridge-x.kaltemech.in.net
 light-grove-hub.brightgrove.ru
 light-valley-hub.brightvale.ru
 light-way.ambertide.in.net
@@ -29544,8 +29553,12 @@ novgorod-electro.ru
 novi.stadionshoppingcenter.rs
 novikon.nikolaev.ua
 novo.blockerbrasil.com.br
+novo.danubiahelmich.com
+novo.midiaestrela.com.br
+novo.sicilianobalancas.com.br
 novocheboksarsk.logomebel.ru
 novocrematoriodocaju.com.br
+novoeen.designconsult.com.br
 now-clause.gl.at.ply.gg
 nowbirdrank.com
 nowbirdrep.com
@@ -30585,6 +30598,7 @@ oknkywzi.in2che1ncrem.ru
 oknoplastik.sk
 okoaiaznjbwuzudhuf.su
 okolosedal.com
+okos-redony.hu
 okta.meta-email.online
 okta.relatec.it.com
 oktobetroliohaser.com
@@ -32650,6 +32664,7 @@ pocketpenguin.net
 pocof.icu
 pogmwmo.com
 point-entry-1.mondoluce.in.net
+point-entry-4.grandestat.in.net
 point-entry-b.petitjardin.in.net
 point-entry-z.mondolavoro.in.net
 point-entry.mondosolido.in.net
@@ -32984,6 +32999,7 @@ prli-1.ru
 proactiveitinfrastructure.com
 proappv2.com
 probable-winner.info
+probandonuevodomicolombia.cfd
 probellsadss.mysynology.net
 probirdrank.com
 probirdrep.com
@@ -42850,6 +42866,7 @@ useful-divine.gl.at.ply.gg
 user-auth-11.froidespace.in.net
 user-auth-v8.kaltesystem.in.net
 user-auth-x2.cybergeist.in.net
+user-auth-x3.fiumeveloce.in.net
 user-highly.gl.at.ply.gg
 user-node4.mintvoucher.coupons
 user29.debug-edge-cases.coupons
