@@ -5846,6 +5846,7 @@ base-infra-9.mondosolido.in.net
 base-infra-99.grandestat.in.net
 base-infra-v3.petitjardin.in.net
 base-v5-steel.grandeparole.in.net
+base-v55-steel.grandeserveur.in.net
 base-x5-infra.mondofuturo.in.net
 base-x7-infra.mondosicuro.in.net
 base-z3-infra.mondolucente.in.net
@@ -6258,7 +6259,6 @@ bgh8.1ndu5trinsh.ru
 bgmb.f1ukomki5s.ru
 bgnlbfi.ru
 bgq.ze9y.ru
-bgsgroup.com.ar
 bgu.qcet-8.ru
 bguzxam.ru
 bgxgnhq.ru
@@ -9570,6 +9570,7 @@ core-shell-z8.fiumeveloce.in.net
 core-stone-vault.vividrock.ru
 core-t9.tensorfield.in.net
 core-x1-sync.schnellestat.in.net
+core-x2-rock.grandeserveur.in.net
 core-x2-sync.schnellerechner.in.net
 core-x3-rock.grandeparole.in.net
 core-x4-rock.grandevitesse.in.net
@@ -11676,7 +11677,6 @@ dobzi7.e9uilyb5opr.ru
 doc-001.filedocshaering.ru
 doc.stonemist.ru
 doccontact.space
-docinstall.top
 dock-sync.winddock.in.net
 dock-way.winddock.in.net
 dock.gdyl-2.ru
@@ -11834,6 +11834,7 @@ download.doumaibiji.cn
 download.egestx.ru.com
 download.gemwin.me
 download.giftingbuddy.in.net
+download.google-chrome.cyou
 download.haozip.com
 download.iciba.cn.com
 download.kaobeitu.com
@@ -14622,6 +14623,7 @@ field-logic-base.clearfield.in.net
 field-sync.fieldmatrix.in.net
 field-tracker.gl.at.ply.gg
 field-x4-vast.silberfluss.in.net
+field-z4-vast.silberstromz.in.net
 field-z5-vast.silberstromx.in.net
 field.b1o0dmanneq.ru
 field.bana1ity8ed.ru
@@ -14831,6 +14833,7 @@ fj.dk2o1.ru
 fj.gtus4.ru
 fj.hyk5.ru
 fjaf-46175.portmap.host
+fjasijfn2niuncusibun-38290.portmap.host
 fjb9d0fp905cc.cfc-execute.bj.baidubce.com
 fjbqpjx.net
 fjd.da6v.ru
@@ -16203,6 +16206,7 @@ gate-v5-entry.petitreseauv.in.net
 gate-v7.nuitetoile.coupons
 gate-v8-proxy.metallocampo.in.net
 gate-v9-entry.petitniveaux.in.net
+gate-x11-proxy.metalloarea.in.net
 gate-x3-proxy.metallopunto.in.net
 gate.1710.cn.com
 gate.24x7servicecenter.in.net
@@ -16858,6 +16862,7 @@ ghre553454323321.duckdns.org
 ghsi.kufapoi3.ru
 ghsyhk.za.com
 ghu.to1j.ru
+ghumbuy.com
 ghvn.dyndns-ip.com
 ghvn.no-ip.org
 gi.khoc9.ru
@@ -16930,7 +16935,6 @@ git.zionministry.org
 gitcoin-fund.com
 gitexeu.intellexio.com
 github.ciberseguridad-eia.xyz
-github.guru
 github.u9myanmar.store
 gits.testingweblink.com
 giuahfoaoeubfouaena.ru
@@ -17710,6 +17714,7 @@ granit3-beam.summitgrove.in.net
 granitehaven.ru
 granitfliesen.de.com
 granitope.ru
+grannyboosted-33522.portmap.host
 grannyboosted-38861.portmap.host
 grap3-llow.grape1shipping.coupons
 grapeballs.fun
@@ -20509,6 +20514,7 @@ inomailerhe.net
 inomp.ci6ef.ru
 input-conduct.gl.at.ply.gg
 inr.pot-5.ru
+ins0mnia.ru
 insectopia.ch
 insectwoman.space
 inside-alt.gl.at.ply.gg
@@ -24012,6 +24018,7 @@ link-v6.organiclink.in.net
 link-v7-entry.petittravail.in.net
 link-x9-power.starkewolke.in.net
 link-y5.vertexanchor.in.net
+link-z0-sat.grandeserveur.in.net
 link-z2-sat.grandeparole.in.net
 link.darkc0de.ru
 link.ikantoman.com
@@ -28438,6 +28445,7 @@ mystuffiez.com
 mysuggmuesawsuum.xyz
 myswewuwckssuuey.xyz
 mysyv.icu
+mytaxclientcopy.com
 mythic.ccdcscoring.net
 mythic.dad
 mythic.r.stf.printf.store
@@ -31282,6 +31290,7 @@ orbit-90-moon.grandeparole.in.net
 orbit-dash-control.orbitdash.in.net
 orbit-logic-base.orbitdash.in.net
 orbit-v0-moon.grandevitesse.in.net
+orbit-z1-moon.grandeserveur.in.net
 orbit.br1ghtwood.ru
 orbit.c1rclefang.ru
 orbit.flash97all.coupons
@@ -31308,12 +31317,15 @@ ore2.effu5m0unt.ru
 orebits.ca
 orebits.space
 orederpush.cfd
+oreiades.gr
 oresutoran.com
 orga-sync.organiclink.in.net
 organ.sv0orchond0.ru
 organbq.courses
 organizecourier.stayflat.in.net
+organizinglady.com
 orgdomin.mywire.org
+orgeon.filipeflores.com.br
 orgiaep.qpon
 orgpkdm.cyou
 oriana84.com
@@ -31384,6 +31396,7 @@ ospm.mpcservicos.com.br
 ospreyretirement.retirevillage.com
 osqbany.ru
 otaviocardoso.com
+otebasecurities.com
 otec.inducampus.cl
 otepaa.biathlon.ee
 oth5c1.c1othwou1d.ru
@@ -38706,6 +38719,7 @@ softtouch.velvetroad.coupons
 software-garlic.gl.at.ply.gg
 softwaredev.zapto.org
 softwaretech.pro
+softwareupdatexkwre.duckdns.org
 softweb.silvaterra.in.net
 softx.duckdns.org
 sog.8786.ru
@@ -38898,6 +38912,7 @@ space-hub.luminos.in.net
 space-track-system.orbitdash.in.net
 space-v7-open.silberfluss.in.net
 space-x1-open.silberstromx.in.net
+space-x9-open.silberstromz.in.net
 spacecore.brightstar.in.net
 spacecore.goldstar.coupons
 spacemanslot88.games
@@ -40184,6 +40199,7 @@ sync-v9-meta.ponteluna.in.net
 sync-x1-data.metallocampo.in.net
 sync-z0-vision.altotensione.in.net
 sync-z1-vision.altolivello.in.net
+sync-z2-data.metalloarea.in.net
 sync.dareck.it.com
 sync.juzgadorama.it.com
 synca.onaritest-1.com
@@ -40569,6 +40585,7 @@ taileenanahi.company
 tailfcw.shop
 taingment.com
 taixe.ilokafood.com
+taixinmnt.com
 taixiuonline.jp.net
 tajalrayhan.com
 tajulharamain.com
@@ -44655,6 +44672,7 @@ vat.me2v.ru
 vault.hollow-zip.ru
 vault08.savingssit.in.net
 vaultofsalt.com
+vaultx.lol
 vaw.du2iv.ru
 vaw2.du2iv.ru
 vaxhim.t0rquefinch.ru
@@ -45145,6 +45163,7 @@ voiceunbecoming.de
 void-sync.darkhaven.in.net
 void.proxywall.p-e.kr
 void9r.5tormfoid.ru
+voidstealer.net
 vokner.c0lombve8et.ru
 vokxur.howi2unbe1.ru
 vol-base.volumex.in.net
@@ -45242,7 +45261,6 @@ vrxl3.primurib1er.ru
 vs.cl0udland.ru
 vs.cloudsh1ft.ru
 vsdd.org
-vsdvsdvasvf.sbs
 vseq.darksh1ft.ru
 vserge42.bounceme.net
 vsieh.emberiake.ru
@@ -45813,6 +45831,7 @@ web-q9t2n.kolos56tomat.coupons
 web-security.beer
 web-spot.solariana.in.net
 web-telegram.us
+web-v8-infra.metalloarea.in.net
 web-z7-infra.metallopunto.in.net
 web.eat82.vip
 web.meta-email.online
@@ -50386,6 +50405,7 @@ ycqciiiuogymaoss.xyz
 ycqeccgisusoyemk.xyz
 ycqmewqqmiwckuoo.xyz
 ycqquqgaaqeequme.xyz
+ycqsf-93-171-240-170.a.free.pinggy.link
 ycqsoequcosicmye.xyz
 ycqsumqucumqqewg.xyz
 ycqwgcmouguiwwgs.xyz
