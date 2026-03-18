@@ -4366,6 +4366,7 @@ api-microservice-us8.com
 api-microservice-us9.com
 api-node-v2.kristallwelt.in.net
 api-proxy.mersiblagodarutebya.workers.dev
+api-r2-remote.densa-materia.in.net
 api-r5-remote.vectorbase.in.net
 api-r8-remote.fluido-v.cfd
 api-r8-remote.veloxfundo.in.net
@@ -6014,6 +6015,7 @@ base-b4-steel.densocore.cfd
 base-b9-steel.purosentido.in.net
 base-f11-infra.durolocus.in.net
 base-f3-infra.termoviva.cfd
+base-f4-infra.foco-global.in.net
 base-f4-infra.optimumvia.in.net
 base-infra-5.mondoluce.in.net
 base-infra-77.mondolavoro.in.net
@@ -7820,7 +7822,6 @@ c2.clc2.cl
 c2.enanana.site
 c2.kdesu.ru
 c2.kzg-w-4-y.ru
-c2.mc-live.online
 c2.muksecurity.fun
 c2.t4mox.ru
 c2.tiktok-js.top
@@ -8948,6 +8949,7 @@ chuckbartman.retirevillage.com
 chucks.ydns.eu
 chuckyr.cyou
 chuganything.net
+chuguadventures.co.tz
 chukwunwike.ydns.eu
 chungminhtaichinhsaigon.net
 churchpail.xyz
@@ -9336,6 +9338,7 @@ cloud-storage-b.fortezzablu.in.net
 cloud-v10-store.petittravail.in.net
 cloud-v2-store.petitreseauv.in.net
 cloud-v5-store.plasmaviva.in.net
+cloud-w11-store.densa-materia.in.net
 cloud-w12-store.vectorbase.in.net
 cloud-w2-store.veloxfundo.in.net
 cloud-w22-store.fluido-v.cfd
@@ -11172,6 +11175,7 @@ daybright.mex.com
 daycuroanhatthanhdat.com
 daysincome.ddnsguru.com
 daytrace.hourillusion.in.net
+db-g0-point.foco-global.in.net
 db-g1-point.termoviva.cfd
 db-g3-point.durolocus.in.net
 db-g7-point.optimumvia.in.net
@@ -11585,6 +11589,7 @@ deujayb.net
 deuwre.com
 dev-js-cdn.cfd
 dev-moral.askloop.in.net
+dev-t0-host.densa-materia.in.net
 dev-t0-host.vectorbase.in.net
 dev-t4-host.fluido-v.cfd
 dev-t44-host.veloxfundo.in.net
@@ -14064,6 +14069,7 @@ espied.diversist.com
 espoir.plar9ten2zo.ru
 espreesso.lol
 espresso.name
+esr.ro
 esrndndubsbsifurfd.ru
 essaugavada.com
 essay8.5-forez-515-o.ru
@@ -15405,6 +15411,7 @@ flow-z0-work.biosphera.in.net
 flow-z2-work.metropunto.in.net
 flow-z4-work.prismagrid.cfd
 flow-z4-work.starkewolke.in.net
+flow-z9-work.punto-viva.in.net
 flow.acr0b2tdiffer.ru
 flow.cloudf0rm.ru
 flow.drift-meadow.ru
@@ -16627,6 +16634,7 @@ gate-proxy-x.silberstrom.in.net
 gate-proxy-z.metallocielo.in.net
 gate-v05.lakegate.in.net
 gate-v1-entry.enzymecore.in.net
+gate-v5-entry.densa-materia.in.net
 gate-v5-entry.fluido-v.cfd
 gate-v5-entry.petitreseauv.in.net
 gate-v7-entry.veloxfundo.in.net
@@ -20141,6 +20149,7 @@ hub-path.crimsonridge.in.net
 hub-phase.darkboll.in.net
 hub-sync.runfast.in.net
 hub-v01-local.metropunto.in.net
+hub-v02-local.punto-viva.in.net
 hub-v11-local.biosphera.in.net
 hub-v22-local.prismagrid.cfd
 hub-v22-local.starkewolke.in.net
@@ -22452,7 +22461,6 @@ k2.3c38h.ru
 k2.5h4553.online
 k2.a-8-xp.ru
 k2.q8-v-4of.ru
-k2.z-67.ru
 k23scpbns32qywfu.iloveanimals.shop
 k2hf.9-88.online
 k2i1p.chri5t1anget.ru
@@ -24609,6 +24617,7 @@ link-logic.astronis.in.net
 link-logic.spectris.in.net
 link-net.structovista.in.net
 link-node.structovista.in.net
+link-p1-power.punto-viva.in.net
 link-p9-power.prismagrid.cfd
 link-r1-sat.densocore.cfd
 link-r5-sat.purosentido.in.net
@@ -29634,6 +29643,7 @@ ndhxikv.takefree.in.net
 ndmtqfk.ru
 ndnkhgz.ru
 ndocpw5ek.localto.net
+ndown2.ra2ol.com
 ndpparticipacoes.com.br
 ndy.yw9a.ru
 ne-w88.vip
@@ -29751,6 +29761,7 @@ net-v33-global.mondosicuro.in.net
 net-v6-global.biosphera.in.net
 net-v8-access.medivault.in.net
 net-v8-global.metropunto.in.net
+net-v88-global.foco-global.in.net
 net.botsu.pw
 net.ckon0.ru
 net.tatyziu58.ru
@@ -33907,7 +33918,6 @@ polpaeva.com.br.caldasservice.com.br
 polpaeva.ind.br
 polucxs.cyou
 polyelwrbl.top
-polyglotik.sbs
 polygon-cnd-stats.sbs
 polygon.qbetfhwz.xyz
 polysies.com
@@ -37908,7 +37918,6 @@ sauna-bassein.com
 sausagenighte.online
 sav.com.shirads.sa.com
 save-node.savingssit.in.net
-save.jnrsmcu.com
 save7.bazidownloader.site
 savenay2.ru
 savethetrident.org
@@ -38035,7 +38044,6 @@ schedule.eznosdrivingschool.com
 schem2-span.yellglass.in.net
 schemaqa.cyou
 scheme.mon2r5chemer.ru
-schenckel.com.br
 scher4.glimmerkranz.ru
 schiff.pumaschiff.ru
 schild.onyxkamm.ru
@@ -40489,7 +40497,6 @@ static-hotjar.com
 static-mtpjoriqkv.cn-beijing.fcapp.run
 static.coppsindoor.org
 static.cos-tencent.cloud
-static.ilclock.com
 static.myonlinegigs.com
 static.sparechange.io
 static.topxgun.com
@@ -41316,6 +41323,7 @@ sys-kernel-update.to
 sys-monitor-x.starkstrom.in.net
 sys-node.bigamyprogramm.in.net
 sys-s01-monitor.prismagrid.cfd
+sys-s33-monitor.punto-viva.in.net
 sys-s44-monitor.metropunto.in.net
 sys-x2-monitor.starkewahl.in.net
 sys-x8-monitor.biosphera.in.net
@@ -41696,6 +41704,7 @@ takayama.ltd
 takbynano.duckdns.org
 takdwtn.ru
 take-baker.gl.at.ply.gg
+take-care.africa
 take-districts.gl.at.ply.gg
 take-fragrances.gl.at.ply.gg
 taken-housewives.gl.at.ply.gg
@@ -43281,7 +43290,6 @@ ty.r.shutupkissme.com
 ty3.62xm.ru
 ty3.8c80.ru
 ty3.a-8-xp.ru
-ty3.z-67.ru
 ty30.vouayger.in.net
 ty7.gj2i3.ru
 tyahelp.top
@@ -49168,6 +49176,7 @@ www.hpdgih.top
 www.hpsvifx.bond
 www.hsck.pub
 www.hsdfecc498xya.net
+www.hseda.com
 www.hubsmartproperties.com
 www.hx671.top
 www.hxcwyj.com
@@ -50839,7 +50848,6 @@ xbex.in0cubwal1.ru
 xbfrncm.ru
 xbiq-2.ru
 xbox.sumillionaires.com
-xboxtelemetry-defender.cc
 xbqj.sa.com
 xbsyxih.net
 xbusrwue.zecoko.in.net
@@ -52770,7 +52778,6 @@ zendra2is.reinsurunrock.in.net
 zendraix.stayflat.in.net
 zenfusionhub.me
 zenfusionnowx.uk
-zenglobalenerji.com
 zeniqaa7.ru
 zenith.cl0udcrest.ru
 zenith.m1stycl0ud.ru
@@ -53135,6 +53142,7 @@ zy.pgka-9.ru
 zy6ym.ru
 zy8.fe7a.ru
 zybtxui.ru
+zycdjz.com
 zydytuy3.ru
 zye0i6nx.stormc1oud.ru
 zyfkjj8j.r2nkteh2.ru
