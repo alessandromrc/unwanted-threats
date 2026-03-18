@@ -2819,7 +2819,6 @@ academic-suits.gl.at.ply.gg
 academie.habg.ci
 academies.retailo.net
 acat.com.br
-acaviationsupplies.com
 acbp0020171456.page.tl
 acc.akkerman-mechan.nl
 acc.cn.com
@@ -4462,6 +4461,7 @@ app-microsoft.com
 app-sanctum.top
 app-server.comof72509.workers.dev
 app-slash.co.com
+app-v09-data.optic-prime.cfd
 app-v12-data.core-protocol.net
 app-v3-flow.enzymecore.in.net
 app-v4-data.schnellerechner.in.net
@@ -7963,7 +7963,6 @@ cache-dist-77.schnellkraft.in.net
 cache-optimize.top
 cache.datash1ft.ru
 cacodsq.click
-cad.659t.cn
 caddov.mom
 cadence.ch0reo8fin.ru
 cadence.me2nin8harp.ru
@@ -9266,6 +9265,7 @@ cloud-v10-store.petittravail.in.net
 cloud-v2-store.petitreseauv.in.net
 cloud-v5-store.plasmaviva.in.net
 cloud-w2-store.veloxfundo.in.net
+cloud-w22-store.fluido-v.cfd
 cloud-z1-store.petitniveaux.in.net
 cloud.8u2a9.ru
 cloud.8y7o4.ru
@@ -9754,6 +9754,7 @@ coralasargetia.ro
 coralwil.draniercismn.in.net
 coratuikilooklosd.com
 core-allowing.gl.at.ply.gg
+core-j1-sync.optic-prime.cfd
 core-land.com
 core-q1-rock.purosentido.in.net
 core-shell-11.kaltesystem.in.net
@@ -11445,6 +11446,8 @@ denometricit.com.de
 denseplume.condenfeather.ru
 denshikeiyaku-hikaku.com
 dent.twigmantle.ru
+dentalux202.ydns.eu
+dentalux202bk.ydns.eu
 deoxyrq.click
 dep0t9-well.sunpit.in.net
 depkayo.com
@@ -11609,6 +11612,7 @@ diabetescareandwellness.com
 diabezill.com.br
 diabezill.com.br.estiloefeito.com
 diagcsl.click
+dialkwik.in
 diamondexportind.com
 diamondmusicent.com.ng
 diamondmusicent.com.ng.mosesogenyi.com.ng
@@ -11735,6 +11739,7 @@ dist-sync.veloxis.in.net
 dist-v8-cache.vittoriaviva.in.net
 dist-x2-cache.system-uplink.net
 dist-z02-edge.ponteluna.in.net
+dist-z7-cache.ventonodal.cfd
 distakes.com
 distancebedroom.xyz
 distortedcoin.digital
@@ -14973,7 +14978,6 @@ fikp.ru
 fikysandroisder.com
 file.blackint3.com
 file.oss-flash.shop
-file.uhsea.com
 file.yy88.ru
 filegrace2026.duckdns.org
 fileless-market.cc
@@ -15547,7 +15551,6 @@ forremed.com
 forreststonesolutions.com
 forrn4-mark.getlight.in.net
 forsacecobol.online
-forsalenear.me
 forsizillenazzlle.duckdns.org
 fortelio.karina2bento-com.xyz
 forthepeople-58907.portmap.host
@@ -15713,7 +15716,6 @@ fri.technicalprorj.xyz
 fricaec.cyou
 friday-barbados.gl.at.ply.gg
 friday.vn
-friendsofsclarc.org
 frienel-blog.duckdns.org
 frilldash.ru
 friovjk.cyou
@@ -17759,6 +17761,7 @@ goauhoednoaueouabbeu.info
 goauhoednoaueouabbex.biz
 gobeercoin2.lol
 gobfs.lol
+gobiotechpestcontrol.com
 gobirdrank.com
 gobirdrep.com
 gobxur.buoyc0mp1aint.ru
@@ -19691,6 +19694,7 @@ hobefork.com
 hobework.com
 hobidir.com
 hobmjoi.click
+hobobot.net
 hobsmedia.com
 hobx.run
 hocn9.0palsummit.ru
@@ -20837,6 +20841,7 @@ infoupdator.zapto.org
 infozzle.testingweblink.com
 infra-and-aws.tokyo
 infra-hub.altimetrica.in.net
+infra-k1-static.ventonodal.cfd
 infra-net.altimetrica.in.net
 infra-static-z.vittoriaviva.in.net
 infra-v1-static.pontesicuro.in.net
@@ -21641,7 +21646,6 @@ javnek.mintbrook.ru
 javsenpai.pages.dev
 javsenpaiii.pages.dev
 javxet.imp0rttwi5t.ru
-jawaratekno.com
 jawared1-63785.portmap.host
 jawks.t3.storage.dev
 jax3um.gu1detr2in.ru
@@ -23405,7 +23409,6 @@ kosmiceventsja.com
 koszulki.net
 kotabansal.in.net
 kotobanohiroba.com
-kotogadang-pusako.com
 kouad100.sbs
 kouei-sangyou.net
 kouhousentai.com
@@ -27262,6 +27265,7 @@ mercado3f.com.ar
 mercanmuhendislik.com
 merceriarosa.com
 merchandise.risemyrank.com
+merctransfers.gradycares.com
 merdax.b2rtdenia1.ru
 merfluxon8.farman.in.net
 merfluxor5.costfee.in.net
@@ -28650,6 +28654,7 @@ mux.uk.com
 muxizct.ru
 muxler.gir1y5om.ru
 muxlin.wavec0re.ru
+muzzumilruheel.com
 mv.comp0ser5kid.ru
 mv.ethicaltechinstitute.org.uk
 mv.fabiankorte.net
@@ -28798,6 +28803,7 @@ myamiii.com
 myantoine.pl
 myaso-kovaliv.com
 myawogcgywqckcku.xyz
+myayurvedashoppe.com
 mybestangelgirlinsideofmyheartwithlovebe.duckdns.org
 mybirdrank.com
 mybirdrep.com
@@ -30090,6 +30096,7 @@ node-b92-auth.vittoriaviva.in.net
 node-s0.quartzhorizon.in.net
 node-v99.amber9stash.coupons
 node-x91-auth.pontesicuro.in.net
+node-x911-auth.ventonodal.cfd
 node.bray-circuit.ru
 node.digncbe.top
 node.ky-4-x.ru
@@ -37844,7 +37851,6 @@ scraminebilk.agencialegalads.com
 scraminebilkadvogados.agencialegalads.com
 scrape.gravel-whisk.ru
 scratfx.asia
-scrcarental.com
 scree.rapidstone.ru
 screen-debut.gl.at.ply.gg
 screen-suggesting.gl.at.ply.gg
@@ -39546,6 +39552,7 @@ solspireis6.lakepit.in.net
 solstice77.reward2rocket.coupons
 soltrencher.com
 solunacoin.lol
+solutelco.com
 solution.myddns.me
 solve.bogx.org
 solve.dpqx.org
@@ -39826,6 +39833,7 @@ splo8s.rainbyte.ru
 sploaeieifuebaub.ru
 splwplx.cyou
 spn38una.pu7eer0d.ru
+spoar.org.in
 sponged.qpon
 sponges.cyou
 sponsored-background.gl.at.ply.gg
@@ -40045,6 +40053,7 @@ srv-cluster-7.fortezzablu.in.net
 srv-cluster-9.bleusoleil.in.net
 srv-cluster-beta.vittoriastrada.in.net
 srv-p8.staticmotion.in.net
+srv-q44-meta.optic-prime.cfd
 srv-x11-host.ponteluna.in.net
 srv-x12-unit.enzymecore.in.net
 srv-x99-meta.core-protocol.net
@@ -40849,7 +40858,6 @@ swiftbranch.fastleaf.in.net
 swiftcore.cloudbridge.city
 swiftechohub.biz
 swiftfluss.ru
-swiftfusion.tech
 swiftmining.win
 swiikoqgcycqeica.xyz
 swiiwaseummcewiw.xyz
@@ -40976,6 +40984,7 @@ sync-v-8.extension-health-sync.coupons
 sync-v0-vision.altosistema.in.net
 sync-v0-vision.opticlocus.in.net
 sync-v02-edge.pontesicuro.in.net
+sync-v02-edge.ventonodal.cfd
 sync-v09-edge.system-uplink.net
 sync-v09.synchromesh.in.net
 sync-v9-data.metallopunto.in.net
@@ -41655,6 +41664,7 @@ technologieshub.com
 technoxpertsgroup.com
 techsanjay.in.net
 techsupp.fun
+techtattva.in
 techtotalix.com.topmostfreight.com
 techtrendsblogs.com
 techvirtus.caldasservice.com.br
@@ -46713,6 +46723,7 @@ weareriu.cyou
 weather-station-data.quietwind.ru
 weather-warning-system.stormbay.ru
 weave.m00nweaver.ru
+web-303-proxy.optic-prime.cfd
 web-303-proxy.schnellestat.in.net
 web-31-infra.metallocampo.in.net
 web-90-cache.enzymecore.in.net
@@ -49093,6 +49104,7 @@ www.mehmetarhan.com
 www.membros.agencialegalads.com
 www.memedia.africa.com
 www.metmuseum.wordt-ontwikkeld.be
+www.mevetlab.cl
 www.mh7am.bond
 www.miacheap.flights
 www.micoestan.es
@@ -49638,7 +49650,6 @@ www.tebarit.net
 www.techfabintl.com
 www.techihub.store
 www.technologieshub.adskonic.com
-www.tecunonline.com
 www.teddyclub.su
 www.telier-moode.com
 www.teluge.top
@@ -49966,6 +49977,7 @@ www.zeitgeistguard.xyz
 www.zelani.xyz
 www.zf12521.info
 www.zg92k9yc.shop
+www.zhikey.com
 www.ziga555slot.com
 www.zlbk7uj.bond
 www.zm7.top
@@ -52586,8 +52598,6 @@ zoby-0.ru
 zoby0.ru
 zobyyog3nyah123-35769.portmap.host
 zodrey.gig8lere1y.ru
-zoe.aztu.edu.az
-zoe.demoserviciopcmendoza.com.ar
 zoebdut.ru
 zofe5k.g2erharve5t.ru
 zogun.run
