@@ -4491,6 +4491,7 @@ app-microsoft.com
 app-sanctum.top
 app-server.comof72509.workers.dev
 app-slash.co.com
+app-v09-data.faser-tech.in.net
 app-v09-data.optic-prime.cfd
 app-v12-data.core-protocol.net
 app-v3-flow.enzymecore.in.net
@@ -8393,6 +8394,7 @@ cdn-static-3.altamontagna.in.net
 cdn-static-4.grossesystem.in.net
 cdn-static-v5.petitnuage.in.net
 cdn-yethounds.beer
+cdn-z7-edge.optico-voda.in.net
 cdn.adless.io
 cdn.aref.co.com
 cdn.cloudcoins.co
@@ -9832,6 +9834,7 @@ coralasargetia.ro
 coralwil.draniercismn.in.net
 coratuikilooklosd.com
 core-allowing.gl.at.ply.gg
+core-j1-sync.faser-tech.in.net
 core-j1-sync.optic-prime.cfd
 core-land.com
 core-q1-rock.purosentido.in.net
@@ -12615,7 +12618,6 @@ e.v57eo.ru
 e.xavv.ru
 e.y742au.ru
 e.y83v.ru
-e.z-67.ru
 e0.meltquark.ru
 e08z3.forestcl0ud.ru
 e0925-38257.portmap.host
@@ -20994,6 +20996,7 @@ infra-and-aws.tokyo
 infra-hub.altimetrica.in.net
 infra-k1-static.ventonodal.cfd
 infra-k7-static.turboflow.in.net
+infra-m2-static.optico-voda.in.net
 infra-net.altimetrica.in.net
 infra-static-z.vittoriaviva.in.net
 infra-v1-static.pontesicuro.in.net
@@ -33931,6 +33934,7 @@ pooun.acidwrench.ru
 poouyangostar.com
 pop-experimental.gl.at.ply.gg
 pop-progressive.gl.at.ply.gg
+pop-x88-node.optico-voda.in.net
 pop.arcmidlands.org
 pop.caodangyduoctphcm.com.vn
 pop.hifeboi3.ru
@@ -40334,6 +40338,7 @@ srv-cluster-33.vitasicura.in.net
 srv-cluster-7.fortezzablu.in.net
 srv-cluster-9.bleusoleil.in.net
 srv-cluster-beta.vittoriastrada.in.net
+srv-k44-meta.faser-tech.in.net
 srv-p8.staticmotion.in.net
 srv-q44-meta.optic-prime.cfd
 srv-x11-host.ponteluna.in.net
@@ -41143,6 +41148,7 @@ swiftbranch.fastleaf.in.net
 swiftcore.cloudbridge.city
 swiftechohub.biz
 swiftfluss.ru
+swiftfusion.tech
 swiftmining.win
 swiikoqgcycqeica.xyz
 swiiwaseummcewiw.xyz
@@ -41272,6 +41278,7 @@ sync-unit.synchromesh.in.net
 sync-v-8.extension-health-sync.coupons
 sync-v0-vision.altosistema.in.net
 sync-v0-vision.opticlocus.in.net
+sync-v01-auth.optico-voda.in.net
 sync-v02-edge.pontesicuro.in.net
 sync-v02-edge.ventonodal.cfd
 sync-v09-edge.system-uplink.net
@@ -47064,6 +47071,7 @@ web-login-cdn.kelvrion.com
 web-login-cdn.tonescapesccbnv.live
 web-ocean.com
 web-proxy-12.bleusoleil.in.net
+web-proxy-707.faser-tech.in.net
 web-proxy-808.acustica-v.in.net
 web-proxy-88.fortezzablu.in.net
 web-proxy-99.vittoriastrada.in.net
