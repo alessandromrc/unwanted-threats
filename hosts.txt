@@ -4124,7 +4124,6 @@ an.bo-x2.ru
 an.boku0.ru
 an.ht-if.ru
 an.k5b2q.ru
-an.q6o4.ru
 an.t3m3d.ru
 an.uht3o.ru
 an1sepechu7ka.ru
@@ -5188,6 +5187,7 @@ auth-device-553-security-3314.click
 auth-global-zone.schnellauf.coupons
 auth-in-extranet.com
 auth-l9-user.optimumvia.in.net
+auth-l9-user.termoviva.cfd
 auth-ms-service.com
 auth-ms-service.online
 auth-ms-service.top
@@ -5967,6 +5967,7 @@ basa-cod.skyroad.in.net
 basaltstern.ru
 basaltwisp9.ru
 base-b9-steel.purosentido.in.net
+base-f3-infra.termoviva.cfd
 base-f4-infra.optimumvia.in.net
 base-infra-5.mondoluce.in.net
 base-infra-77.mondolavoro.in.net
@@ -7255,6 +7256,7 @@ brid-v3.fluxbridge.in.net
 brid01.fluxbridge.in.net
 bridg3-scope.backtest.in.net
 bridge-00-light.altolivello.in.net
+bridge-e1-light.curva-flux.cfd
 bridge-e6-light.nexustech-v.in.net
 bridge-v4-light.altotensione.in.net
 bridge-x1-light.opticlocus.in.net
@@ -11088,6 +11090,7 @@ daybright.mex.com
 daycuroanhatthanhdat.com
 daysincome.ddnsguru.com
 daytrace.hourillusion.in.net
+db-g1-point.termoviva.cfd
 db-g7-point.optimumvia.in.net
 db-v12-point.mondofuturo.in.net
 db-x55-point.mondolucente.in.net
@@ -17169,6 +17172,7 @@ ghost-node-x.froidespace.in.net
 ghost-node-z.kaltesystem.in.net
 ghost-node.cybergeist.in.net
 ghost-u3-node.primasfera.in.net
+ghost-u9-node.nauticbase.cfd
 ghost-v3-node.froidenodal.in.net
 ghost-v9-node.froidefibre.in.net
 ghost-z1-node.froidelumiere.in.net
@@ -17765,7 +17769,6 @@ goauhoednoaueouabbeu.info
 goauhoednoaueouabbex.biz
 gobeercoin2.lol
 gobfs.lol
-gobiotechpestcontrol.com
 gobirdrank.com
 gobirdrep.com
 gobxur.buoyc0mp1aint.ru
@@ -36438,7 +36441,6 @@ resumerous.gb.net
 resusct.qpon
 retai-rapid.uptrend.in.net
 retainerflee.rassvet.in.net
-retiregenz.com
 retirementmaxradio.southernsummits.com
 retiriu.cyou
 retoinnovacion.xyz
@@ -36899,6 +36901,7 @@ rook.ju-5-q.ru
 rook.picket-core.ru
 room-51-dark.altotensione.in.net
 room-v0-dark.nexustech-v.in.net
+room-v5-dark.curva-flux.cfd
 room-v51-dark.altosistema.in.net
 room-v7-dark.opticlocus.in.net
 room-x12-dark.altolivello.in.net
@@ -37715,6 +37718,7 @@ scallok.pics
 scam.mallukas.com
 scamkiller.loseyourip.com
 scan-a4-point.nexustech-v.in.net
+scan-a9-point.curva-flux.cfd
 scan-point-0.altovelocita.in.net
 scan-point-05.petitfoyer.in.net
 scan-point-2.kaltemech.in.net
@@ -38495,6 +38499,7 @@ sheh-0.ru
 sheismybestgirlbabyangelmylovlg.duckdns.org
 shelbus99-30583.portmap.host
 shell-01-core.froidefibre.in.net
+shell-t0-core.nauticbase.cfd
 shell-t5-core.primasfera.in.net
 shell-v7-core.froidelumiere.in.net
 shell-v9-core.genomax.in.net
@@ -42494,6 +42499,7 @@ trace-unit.volumex.in.net
 trace-x1-alpha.genomax.in.net
 trace-x7-alpha.froidefibre.in.net
 trace-y2-alpha.primasfera.in.net
+trace-y21-alpha.nauticbase.cfd
 trace-z9-alpha.froidenodal.in.net
 trace.5h0p.ru
 trace.be5isg2uze.ru
@@ -45914,6 +45920,7 @@ visa.ourdubaitravel.com
 visam.info
 viscosity-vertex.gl.at.ply.gg
 vision-i1-sync.primasfera.in.net
+vision-i4-sync.nauticbase.cfd
 vision-sync-9.petitfoyer.in.net
 vision-sync-v.kaltemech.in.net
 vision-sync-x.altovelocita.in.net
