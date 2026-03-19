@@ -6070,6 +6070,7 @@ base.vsmu9.ru
 base2point.durogrid.in.net
 base2point.optigrid.in.net
 base2steel.termocenter.in.net
+base2steel.terracore.in.net
 base7.d7un4recid.ru
 baseadmin.ddns.net
 baseballaccelerator.com
@@ -9817,7 +9818,6 @@ content-website-analytics.com
 content.aawe.finance
 content.sentihey.dedyn.io
 content.teamslivesupport.com
-contentmentfairnesspesky.com
 contents-douglas.gl.at.ply.gg
 contents-hungarian.gl.at.ply.gg
 contest.3squaredco.com
@@ -16817,6 +16817,7 @@ gate.wi-7-e.ru
 gate.win78bet1.net
 gate2.a8ain4unt.ru
 gate2.pages.dev
+gate2proxy.lumenlabs.in.net
 gate2proxy.nuxbase.in.net
 gate3proxy.fluxobase.in.net
 gate3proxy.vivaflux.in.net
@@ -25580,7 +25581,6 @@ m2.p-62i.ru
 m2.p-99o.ru
 m2.q7y4s.ru
 m2.q8g1y.ru
-m2.twgr.ru
 m2.u49n.ru
 m2.v57eo.ru
 m2.v9r3g1.ru
@@ -28443,6 +28443,7 @@ moon.sunwin.moi
 moon.sunwin.sx
 moon.sunwinn.earth
 moon1orbit.termocenter.in.net
+moon1orbit.terracore.in.net
 moonbidrs.lol
 moonbirbs.lol
 moonjoggers.com
@@ -32081,6 +32082,7 @@ open-zone-monitor.clearfield.in.net
 open.ky-4-x.ru
 open1-branch.windev.in.net
 open4space.altasync.in.net
+open4space.nuxflow.in.net
 open88-01.pro
 open88-1.com
 open88-2.com
@@ -37036,6 +37038,7 @@ rim-x7-outer.silberstromz.in.net
 rim-x81-outer.silberstromx.in.net
 rim.luv6.ru
 rim1outer.altasync.in.net
+rim1outer.nuxflow.in.net
 rimamarestart.com
 rime.fr0stgate.ru
 rime.frostb1te.ru
@@ -37210,6 +37213,7 @@ rock.skyb1end.ru
 rock2.authcaptcha.com
 rock3.st0nebird.ru
 rock3core.termocenter.in.net
+rock3core.terracore.in.net
 rockbase.testingweblink.com
 rockcredit.space
 rockember.rockinred.in.net
@@ -38040,6 +38044,7 @@ sat-uplink-x.mondofresco.in.net
 sat-uplink.ferroluna.in.net
 sat.cn.com
 sat4link.termocenter.in.net
+sat4link.terracore.in.net
 satabi-guide.com
 satanc2.top
 satellite-data-node.orbitdash.in.net
@@ -46057,6 +46062,7 @@ vast-field-x.astracorp.in.net
 vast-field-z.silberpfad.in.net
 vast.kuryc7yy1.ru
 vast3field.altasync.in.net
+vast3field.nuxflow.in.net
 vat.me2v.ru
 vault.hollow-zip.ru
 vault08.savingssit.in.net
@@ -47291,6 +47297,7 @@ web.vx.ink
 web.yg.ink
 web12.alliancepaytest.com
 web135.140.hosttech.eu
+web1infra.lumenlabs.in.net
 web1infra.nuxbase.in.net
 web1meta.fluxobase.in.net
 web1meta.vivaflux.in.net
@@ -53167,6 +53174,7 @@ zone-w3-area.sinapsitech.in.net
 zone-w8-area.polar-axis.cfd
 zone0.mintspr1ng.ru
 zone2area.altasync.in.net
+zone2area.nuxflow.in.net
 zong.elpaies.info
 zoning.articu1urb2n.ru
 zontiz.com
