@@ -2330,7 +2330,6 @@ a0coka3w.a5hsuper1or.ru
 a0gqv.pe8d.online
 a0mvufym.misthollow.digital
 a0p2.2bj82sg.ru
-a1.246-b.ru
 a1.2f8-2.ru
 a1.4a7vci9.ru
 a1.5sv1g.ru
@@ -20062,8 +20061,11 @@ host.retirevillage.com
 host0.tikmaps.com
 host123.zz.am
 host1store.datacentricnode.in.net
+host2remote.datacentricnode.in.net
+host3dev.datacentricnode.in.net
 host3dev.quarzbase.in.net
 host4.thebookcult.com
+host4link.datacentricnode.in.net
 hostdgg.ddns.net
 hostel.org.br
 hostikslu.is
@@ -34047,6 +34049,10 @@ point-v.velante.in.net
 point-v4-scan.altolivello.in.net
 point-v91-power.starkewahl.in.net
 point-x2-scan.altotensione.in.net
+point1proc.virtualresource.in.net
+point2power.virtualresource.in.net
+point3local.virtualresource.in.net
+point4work.virtualresource.in.net
 pointblank100.zapto.org
 poisonivy1.no-ip.org
 poisonmantr.online
