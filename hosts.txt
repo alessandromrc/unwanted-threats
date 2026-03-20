@@ -3906,7 +3906,9 @@ alpha.qu2rv0lts.ru
 alpha.quench-orbit.ru
 alpha.racket-loom.ru
 alpha.starl1tewave.ru
+alpha1proc.cloudfoundation.in.net
 alpha2-point.uptrend.in.net
+alpha2core.cloudfoundation.in.net
 alpha2omegabh.org
 alpha3.n0v0se1prew.ru
 alphac2.xyz
@@ -9919,7 +9921,11 @@ core.rain5tone.ru
 core.s0apthorn.ru
 core.saffronjet.ru
 core.storml1ght.ru
+core1infra.systeminterface.in.net
+core2base.systeminterface.in.net
 core3rock.muralink.in.net
+core3user.systeminterface.in.net
+core4link.systeminterface.in.net
 core5.tweakmire.ru
 core9.luc7y5nub.ru
 coreformula.inherentrecip.ru
@@ -13828,6 +13834,7 @@ entry4link.metracore.in.net
 entry4link.metravolta.in.net
 envi02-10.duckdns.org
 envi03-10.duckdns.org
+envi11marz.duckdns.org
 envi2026fe.duckdns.org
 envio.dynuddns.net
 envio08-10.duckdns.org
@@ -22602,7 +22609,6 @@ k3p.brambleage.ru
 k3um.xf7-27.ru
 k3v7.9e466.online
 k3wqt.usdwane.in.net
-k3x.246-b.ru
 k3x.s-537.ru
 k4-sync-auth.ventonovo.in.net
 k4.0y-pm.ru
@@ -22920,7 +22926,6 @@ kar2ku1unbuck.ru
 karabuk.kedi.zip
 karamelsitges.com
 karated-49398.portmap.host
-kardan35.3utilities.com
 karenbrodiephotography.co.uk
 karenfernandesadv.agencialegalads.com
 karenfernandesadv.com.br.agencialegalads.com
@@ -52674,7 +52679,6 @@ z.10tw.ru
 z.1397u6.ru
 z.3o5i.ru
 z.566318z8.ru
-z.759-s.ru
 z.7i7y5.ru
 z.8h66.ru
 z.9bp6i.ru
