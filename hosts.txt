@@ -2867,6 +2867,7 @@ acceptionics.stream
 acceso-mac.zacatecasocc.tecnm.mx
 access-hub.lol
 access.skaparade.com
+access4link.digitalfoundry.in.net
 accessbullx.com
 accessdennied.uk
 accessretirementgroup.retirevillage.com
@@ -5760,7 +5761,6 @@ b8q.5u5vbu6.ru
 b9-base-steel.secretovalle.in.net
 b9.5bq18.ru
 b9.dlun-7.ru
-b9c.340-k.ru
 b9gg.ba1dostr0g.ru
 b9h2x.71o9.online
 b9j.wildrange.ru
@@ -13815,7 +13815,11 @@ entire-so.gl.at.ply.gg
 entraiz.cyou
 entrepots-colis-2025.info
 entry-m0.signalforest.in.net
+entry2base.digitalfoundry.in.net
+entry2core.activegateway.in.net
 entry2data.globalprotocol.in.net
+entry2power.systemresource.in.net
+entry2remote.vectorstorage.in.net
 entry2sync.centralmetric.in.net
 entry4link.metracore.in.net
 entry4link.metravolta.in.net
@@ -15265,7 +15269,6 @@ fisiuuiedesubdibesdx.biz
 fisop.press
 fit.tu7q.ru
 fit.wkej2.ru
-fitforevercavan.ie
 fitnesslife24.ch
 fitspresso.co.com
 fiueafnuieniuaif.su
@@ -22446,7 +22449,6 @@ k.0-g845.ru
 k.06hm.ru
 k.08jj.ru
 k.212-q.ru
-k.391-g.ru
 k.4-z493.ru
 k.4u-rr.ru
 k.5lr1v.ru
@@ -24756,6 +24758,7 @@ link4access.durogrid.in.net
 link4access.optigrid.in.net
 link4dslot.net
 link4entry.quarzbase.in.net
+link4entry.vectorstorage.in.net
 link58.win
 linkcheck.comparis4sosun.coupons
 linkedge.cloudtrace.coupons
@@ -24912,7 +24915,11 @@ loa10.espremedorlolita.shop
 load-balancer-3.starkstrom.in.net
 load-leaf.scrollnft.in.net
 load3edge.centralmetric.in.net
+load3ghost.activegateway.in.net
+load3host.vectorstorage.in.net
+load3local.systemresource.in.net
 load3proxy.globalprotocol.in.net
+load3user.digitalfoundry.in.net
 loader.dojiner.at
 loaderdrive.bluebay.in.net
 loadupm.lat
@@ -25573,7 +25580,6 @@ m1yl.hpap6.ru
 m2-infra-b4.versicodex.in.net
 m2-q8v.flint09marko.coupons
 m2.1y-zt.ru
-m2.391-g.ru
 m2.3o5i.ru
 m2.3x6-7.ru
 m2.4cv6c.ru
@@ -27811,7 +27817,6 @@ midtownmodern.designfoody.com
 midwestopenwheel.com
 mientrung.click
 mietgarage-grossenwiehe.de
-mieyabi.com
 mif.cdcmn.edu.bd
 mif.lidiia.com.ua
 mifa.it
@@ -34373,8 +34378,12 @@ probirdrep.com
 problem-livecam.gl.at.ply.gg
 problem-locking.gl.at.ply.gg
 proc-9-auth.browser-crash-report.coupons
+proc1alpha.activegateway.in.net
+proc1dark.remotenetwork.in.net
+proc1infra.digitalfoundry.in.net
 proc1meta.globalprotocol.in.net
 proc1node.centralmetric.in.net
+proc1point.systemresource.in.net
 proc1store.vectorstorage.in.net
 procelo.cyou
 procely.gr.com
@@ -35979,7 +35988,6 @@ qz.x3u0s.ru
 qz1a.5h4553.online
 qz3x8v.bulgarvityaz.in.net
 qz6tf.pi1er5pat.ru
-qz7.391-g.ru
 qz7.6ck9465.online
 qz8.8y5o8a8.ru
 qz8hd.mjg-1.online
@@ -41586,7 +41594,6 @@ szpf.pl0tchisel.ru
 t-9.dev-trace-analyzer.coupons
 t-dgf.ru
 t-prep.com
-t.340-k.ru
 t.3e7u.ru
 t.3u1y.ru
 t.42wd.ru
@@ -43241,7 +43248,6 @@ trivol.clears0ul.ru
 trk.uk.com
 trodatec.ch
 trofedi.top
-trofeyincs.top
 trojanonsolbot.com
 tronskan.co.com
 troyouc.cyou
@@ -46418,6 +46424,7 @@ view.wi-7-e.ru
 view04.tectoniview.in.net
 view3sync.altopoint.in.net
 view3sync.protovoda.in.net
+view4sync.activegateway.in.net
 viewblood.info
 viewerdoconline.com
 views-warming.gl.at.ply.gg
@@ -48254,6 +48261,7 @@ work.c0mpen5ducky.ru
 work.cloudn0de.ru
 work.nightm1nt.ru
 work4flow.orbitunit.in.net
+work4flow.systemresource.in.net
 workbridge.paperbridge.coupons
 workdeck.murta46unprin.coupons
 workeractive.cutlog.in.net
