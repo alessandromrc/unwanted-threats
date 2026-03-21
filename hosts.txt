@@ -8851,6 +8851,7 @@ cfcdist.gdn
 cfdasjjiophg.cn
 cfdimex.cloud
 cfg.brasilinst.site
+cfg1store.resourcebalancer.in.net
 cfhilbn.com
 cfmhd.sa.com
 cg.plum-wav-ru.ru
@@ -22287,7 +22288,6 @@ javnek.mintbrook.ru
 javsenpai.pages.dev
 javsenpaiii.pages.dev
 javxet.imp0rttwi5t.ru
-jawaratekno.com
 jawared1-63785.portmap.host
 jawks.t3.storage.dev
 jax3um.gu1detr2in.ru
@@ -29314,6 +29314,10 @@ msi.tiendajae.com
 msi25.dynnamn.ru
 msicpl.com
 msipep.com
+msk1sync.distributedledger.in.net
+msk2data.distributedledger.in.net
+msk3edge.distributedledger.in.net
+msk4static.distributedledger.in.net
 mslethd.ru
 mslog5-57647.portmap.host
 msmanager.network
@@ -38076,6 +38080,10 @@ rt.andreeacomansinger.com
 rt.lobd.ru
 rt.realassetsrealtors.com
 rt.to1j.ru
+rt1meta.integritychecker.in.net
+rt2proc.integritychecker.in.net
+rt3gate.integritychecker.in.net
+rt4sync.integritychecker.in.net
 rt642hmhgx3u6hk2.org
 rtcocsaitmadupgl.com
 rtku.lat
@@ -47238,10 +47246,12 @@ vld2data.cyberneticsystems.in.net
 vld2point.dynamictelemetry.in.net
 vld2power.dataintegritynet.in.net
 vld2proxy.logicflowmanager.in.net
+vld3data.logicflowmanager.in.net
 vld3edge.cyberneticsystems.in.net
 vld3local.dataintegritynet.in.net
 vld3view.dynamictelemetry.in.net
 vld4path.dynamictelemetry.in.net
+vld4point.logicflowmanager.in.net
 vld4static.cyberneticsystems.in.net
 vld4work.dataintegritynet.in.net
 vle.in.net
@@ -52174,7 +52184,6 @@ xq.lalz.ru
 xq.nybk.ru
 xq.y742au.ru
 xq0.1y-zt.ru
-xq0.6k47.ru
 xq0.7o3u8.ru
 xq0.9-f566.ru
 xq0.9t6p5.ru
@@ -53418,7 +53427,6 @@ z.1397u6.ru
 z.3o5i.ru
 z.566318z8.ru
 z.7i7y5.ru
-z.8h66.ru
 z.9bp6i.ru
 z.b-395.ru
 z.cdn-886.ru
