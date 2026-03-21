@@ -2679,7 +2679,6 @@ aa.v96g.ru
 aa.x0e8.ru
 aa888.br.com
 aa9.1y-zt.ru
-aa9.23df.ru
 aa9.6i-xm.ru
 aa9.9-f566.ru
 aa9.9-k588.ru
@@ -22881,7 +22880,6 @@ jzyc.mintburst.ru
 k-7.mainsage.coupons
 k-minami-lawyer.com
 k.0-g845.ru
-k.06hm.ru
 k.4-z493.ru
 k.4u-rr.ru
 k.5lr1v.ru
@@ -25403,6 +25401,7 @@ lobstarsol.lol
 lobstartoken.live
 lobstartoken.run
 lobstercoin.digital
+loc1infra.analyticspipeline.in.net
 loc1proc.distributednetwork.in.net
 loc1proc.managementresource.in.net
 loc1proc.networkcontroller.in.net
@@ -25413,9 +25412,11 @@ loc2core.managementresource.in.net
 loc2data.streamdatahandler.in.net
 loc2point.systemintegration.in.net
 loc2power.networkcontroller.in.net
+loc2proxy.analyticspipeline.in.net
 loc2remote.telemetryinterface.in.net
 loc2steel.distributednetwork.in.net
 loc3core.distributednetwork.in.net
+loc3data.analyticspipeline.in.net
 loc3dev.telemetryinterface.in.net
 loc3edge.streamdatahandler.in.net
 loc3ghost.managementresource.in.net
@@ -25424,6 +25425,7 @@ loc3net.orbitunit.in.net
 loc3view.systemintegration.in.net
 loc4link.telemetryinterface.in.net
 loc4path.systemintegration.in.net
+loc4point.analyticspipeline.in.net
 loc4sat.distributednetwork.in.net
 loc4static.streamdatahandler.in.net
 loc4view.managementresource.in.net
@@ -26275,7 +26277,6 @@ m8.4fg2n.ru
 m8.4xq2k.ru
 m8.4y2o5.ru
 m8.ahz-ya.ru
-m8.b-395.ru
 m8.bejw.ru
 m8.bpva0.ru
 m8.c109s.ru
@@ -31026,6 +31027,7 @@ node.skysh1ft.ru
 node.vorticeye.ru
 node0.cog-whittle.ru
 node1proc.databaseintegrity.in.net
+node1proc.remotemanagement.in.net
 node1store.securityframework.in.net
 node1sync.networkobserver.in.net
 node2-py-store.com
@@ -31033,15 +31035,18 @@ node2core.databaseintegrity.in.net
 node2data.networkobserver.in.net
 node2flow.veloxunit.in.net
 node2remote.securityframework.in.net
+node2steel.remotemanagement.in.net
 node3.proxyjet.ru
 node3.sketch-loom.ru
 node3.trickilygrey.com
+node3core.remotemanagement.in.net
 node3dev.securityframework.in.net
 node3edge.networkobserver.in.net
 node3ghost.databaseintegrity.in.net
 node3ghost.ventaserv.in.net
 node44.starkwind.coupons
 node4link.securityframework.in.net
+node4sat.remotemanagement.in.net
 node4static.networkobserver.in.net
 node4view.databaseintegrity.in.net
 nodepoint.orbitalmap.coupons
@@ -31251,7 +31256,6 @@ novasghey.ru.com
 novashimpath.org.uk
 novasoftbd.com
 novazelandiadestino.com.br
-november-surgeon.gl.at.ply.gg
 noverfault.org
 novgorod-electro.ru
 novi.stadionshoppingcenter.rs
@@ -32707,7 +32711,6 @@ open88.kim
 open88.red
 open888.biz
 open88top1.com
-openai-pidor-with-ai.com
 openai.digitalsails.nl
 openfield.swiftmotion.coupons
 openfield.westwind.coupons
@@ -40499,7 +40502,6 @@ sn0wy7.sn0wtrail.ru
 sn7.saffrondent.ru
 sn7.vexdapper.ru
 snabeuffhshsueur.ru
-snaifre.sbs
 snak3.dyndns-server.com
 snakeig.click
 snakezl.cyou
@@ -48607,7 +48609,6 @@ widexenmexico.com.mx
 widgetservicecenter.com
 wie.cl0udforge.ru
 wieieieros.su
-wieish.sbs
 wiener.lat
 wienerhotdog.lol
 wifi-dengen.com
@@ -48806,7 +48807,6 @@ wise7r.f1amewise.ru
 wiseconsolidation.wisefunders.com
 wisemerchantservices.wisefunders.com
 wisepath.overdue13wizard.coupons
-wisev.sbs
 wiseword.ancienttree.coupons
 wiseword.brightminds.coupons
 wish-carefully.gl.at.ply.gg
