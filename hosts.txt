@@ -10055,7 +10055,6 @@ contour.paw85silhouette.coupons
 contracterium.info
 contribute.to-support.me
 control-7721-process-550-update.click
-control-spent.gl.at.ply.gg
 control.minecraftplanet.de
 control.myaffiliateincome.com
 controliumbt.com
@@ -11430,6 +11429,7 @@ datavoyage.icu
 datayotta.com
 datescruciferra22.duckdns.org
 dateserenabailey.com
+dateseticos.bounceme.net
 datesnewplus.duckdns.org
 datesud12.duckdns.org
 datetimetoticks-converter.com
@@ -12430,7 +12430,6 @@ doodimemecoin.lol
 dooeys.com
 doomcoin.lat
 doomsday.mokveid.com
-door-generates.gl.at.ply.gg
 doorforum.com
 doormatic.tn
 doorsleeds.co.uk
@@ -14666,7 +14665,6 @@ eveezueigohehtr.cc
 evekonutabasvur.cfd
 evelynn.redirectme.net
 even-sponsorlink.evenssponsor.in.net
-event-cpd.com
 event.2-fyzog-201-e.ru
 event53.5-juzeb-0-io.ru
 eventocontaduriafce.com
@@ -15505,7 +15503,6 @@ fikolasdklnbhgss.com
 fikp.ru
 file.blackint3.com
 file.oss-flash.shop
-file.uhsea.com
 file.yy88.ru
 filegrace2026.duckdns.org
 fileless-market.cc
@@ -16615,7 +16612,6 @@ g-0-ss-lamp.ru
 g-terrace.net
 g.13-yz.ru
 g.1jd3t.ru
-g.23df.ru
 g.3u1y.ru
 g.527w.ru
 g.5e7i0.ru
@@ -25410,10 +25406,12 @@ lobstercoin.digital
 loc1proc.distributednetwork.in.net
 loc1proc.managementresource.in.net
 loc1proc.networkcontroller.in.net
+loc1proc.systemintegration.in.net
 loc1store.telemetryinterface.in.net
 loc1sync.streamdatahandler.in.net
 loc2core.managementresource.in.net
 loc2data.streamdatahandler.in.net
+loc2point.systemintegration.in.net
 loc2power.networkcontroller.in.net
 loc2remote.telemetryinterface.in.net
 loc2steel.distributednetwork.in.net
@@ -25423,7 +25421,9 @@ loc3edge.streamdatahandler.in.net
 loc3ghost.managementresource.in.net
 loc3local.networkcontroller.in.net
 loc3net.orbitunit.in.net
+loc3view.systemintegration.in.net
 loc4link.telemetryinterface.in.net
+loc4path.systemintegration.in.net
 loc4sat.distributednetwork.in.net
 loc4static.streamdatahandler.in.net
 loc4view.managementresource.in.net
@@ -31038,10 +31038,12 @@ node3.sketch-loom.ru
 node3.trickilygrey.com
 node3dev.securityframework.in.net
 node3edge.networkobserver.in.net
+node3ghost.databaseintegrity.in.net
 node3ghost.ventaserv.in.net
 node44.starkwind.coupons
 node4link.securityframework.in.net
 node4static.networkobserver.in.net
+node4view.databaseintegrity.in.net
 nodepoint.orbitalmap.coupons
 nodes.ipmoyu.xyz
 nodesteri.sunbit.in.net
@@ -37791,6 +37793,7 @@ rise.fl0wstone.ru
 rise.st0negate.ru
 rising-s.co.jp
 risk.nqyf-7.ru
+risunok-zimy.in.net
 risv99a3.gr2vityta1k.ru
 ritual2.chan8eembr2ce.ru
 ritualex.com
@@ -41307,11 +41310,15 @@ srv1auth.primanode.in.net
 srv1infra.resourcevalidator.in.net
 srv1meta.cloudinfrastructure.in.net
 srv1node.flexonode.in.net
+srv1proc.virtualenvironment.in.net
 srv2base.resourcevalidator.in.net
+srv2outer.virtualenvironment.in.net
 srv2proc.cloudinfrastructure.in.net
+srv3field.virtualenvironment.in.net
 srv3gate.cloudinfrastructure.in.net
 srv3user.resourcevalidator.in.net
 srv4link.resourcevalidator.in.net
+srv4space.virtualenvironment.in.net
 srv4sync.cloudinfrastructure.in.net
 srvc-av.com
 srvc-mcrst.com
@@ -41324,6 +41331,7 @@ ss.meqt.ru
 ss.qf0u2.ru
 ss.razorplume.ru
 ss7e.softr1ver.ru
+ssagntroplexa.com
 ssasdasd34-63321.portmap.host
 sscaterer.com
 sseeo.org
@@ -44959,6 +44967,7 @@ ukguk71.ru
 ukhorizons.com
 ukixhx.whitelist.in.net
 uklidprolidi.cz
+uko.uk.com
 ukocpmma.offe7sawmi1.ru
 ukp.us.com
 ukpod.co.uk
@@ -45763,7 +45772,6 @@ v1zt.37i658094.online
 v2.0-g845.ru
 v2.101wilsonbar.com
 v2.1phuttietkiemtrieuniemvui.com
-v2.23df.ru
 v2.4-z493.ru
 v2.4u-rr.ru
 v2.50thirdand3rd.com
@@ -47370,6 +47378,7 @@ vld4static.cyberneticsystems.in.net
 vld4work.dataintegritynet.in.net
 vle.in.net
 vlecktv.checkbro.in.net
+vlitke.za.com
 vlns-andb-cdn.sbs
 vlogmasterpro.com
 vlooma.bl0omgate.ru
@@ -53544,7 +53553,6 @@ z.3o5i.ru
 z.566318z8.ru
 z.7i7y5.ru
 z.9bp6i.ru
-z.b-395.ru
 z.cdn-886.ru
 z.ctze0.ru
 z.e-410.ru
