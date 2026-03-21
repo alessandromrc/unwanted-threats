@@ -7171,7 +7171,6 @@ bnb.kievteplo.in.ua
 bnb.passadisco.com.br
 bnd.di5r.ru
 bnet-api.playm8ru.win
-bnet.playm8ru.win
 bng.bg-4-o-2.ru
 bnh19.fl-0-wmortar.ru
 bnhacod.net
@@ -8851,9 +8850,12 @@ cfdasjjiophg.cn
 cfdimex.cloud
 cfg.brasilinst.site
 cfg1proc.interfacehandler.in.net
+cfg1proc.networkoptimizer.in.net
 cfg1store.resourcebalancer.in.net
 cfg2core.interfacehandler.in.net
 cfg2remote.resourcebalancer.in.net
+cfg2steel.networkoptimizer.in.net
+cfg3core.networkoptimizer.in.net
 cfg3dev.resourcebalancer.in.net
 cfg3ghost.interfacehandler.in.net
 cfg4link.resourcebalancer.in.net
@@ -27158,6 +27160,7 @@ malext.com
 malikodjonsbastoliosd.com
 malkim.com
 maltguard.brannysuppress.ru
+malupieng.com.br
 malware.24x7servicecenter.in.net
 malware.55clubz.com
 malware.6hmcw0.sa.com
@@ -29329,6 +29332,8 @@ msk2point.gatewayprocessor.in.net
 msk2power.endpointvalidator.in.net
 msk3edge.distributedledger.in.net
 msk3local.endpointvalidator.in.net
+msk3view.gatewayprocessor.in.net
+msk4path.gatewayprocessor.in.net
 msk4static.distributedledger.in.net
 msk4work.endpointvalidator.in.net
 mslethd.ru
@@ -38095,11 +38100,15 @@ rt.realassetsrealtors.com
 rt.to1j.ru
 rt1infra.protocolanalyzer.in.net
 rt1meta.integritychecker.in.net
+rt1proc.terminalobserver.in.net
 rt2base.protocolanalyzer.in.net
+rt2outer.terminalobserver.in.net
 rt2proc.integritychecker.in.net
+rt3field.terminalobserver.in.net
 rt3gate.integritychecker.in.net
 rt3user.protocolanalyzer.in.net
 rt4link.protocolanalyzer.in.net
+rt4space.terminalobserver.in.net
 rt4sync.integritychecker.in.net
 rt642hmhgx3u6hk2.org
 rtcocsaitmadupgl.com
@@ -45675,7 +45684,6 @@ v2.4u-rr.ru
 v2.50thirdand3rd.com
 v2.5bfilm.com
 v2.6i-xm.ru
-v2.6s95.ru
 v2.70leonardst.com
 v2.70leonardstreet.com
 v2.7i091.online
