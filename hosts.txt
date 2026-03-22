@@ -10957,7 +10957,6 @@ d.dvn-4-i.ru
 d.e-134.ru
 d.e-72t.ru
 d.fa-99.ru
-d.h-214.ru
 d.hansang.top
 d.k5d1y.ru
 d.k645.ru
@@ -12904,6 +12903,7 @@ dyncorear9.tatneft.in.net
 dyncoreen.astpink.in.net
 dyncresten.alfabon.in.net
 dynfluxon.plotsafe.in.net
+dynforgear.systemchck.in.net
 dynlbdf.com
 dynlineal3.yellglass.in.net
 dynlineum5.dotnet.in.net
@@ -14772,6 +14772,7 @@ ext1meta.securityaccessgateway.in.net
 ext1proc.coreconnectivity.in.net
 ext1proc.remotediagnosticlink.in.net
 ext1proc.synchrometrichub.in.net
+ext1sync.volumetricproxy.in.net
 ext2base.operationalmatrix.in.net
 ext2base.vectoraltimeter.in.net
 ext2base.virtualinterfacenet.in.net
@@ -14781,12 +14782,14 @@ ext2outer.synchrometrichub.in.net
 ext2proc.analyticalhubnode.in.net
 ext2proc.cartopointgate.in.net
 ext2proc.securityaccessgateway.in.net
+ext2proc.volumetricproxy.in.net
 ext3field.coreconnectivity.in.net
 ext3field.remotediagnosticlink.in.net
 ext3field.synchrometrichub.in.net
 ext3gate.analyticalhubnode.in.net
 ext3gate.cartopointgate.in.net
 ext3gate.securityaccessgateway.in.net
+ext3gate.volumetricproxy.in.net
 ext3user.operationalmatrix.in.net
 ext3user.vectoraltimeter.in.net
 ext3user.virtualinterfacenet.in.net
@@ -14799,6 +14802,7 @@ ext4space.synchrometrichub.in.net
 ext4sync.analyticalhubnode.in.net
 ext4sync.cartopointgate.in.net
 ext4sync.securityaccessgateway.in.net
+ext4sync.volumetricproxy.in.net
 extemzd.pics
 extendbuild.gatedale.in.net
 extendnode.granitevalley.in.net
@@ -37553,6 +37557,7 @@ resumebuilders.us
 resumerous.gb.net
 resusct.qpon
 retai-rapid.uptrend.in.net
+retailclip.systemchck.in.net
 retainerflee.rassvet.in.net
 retirementmaxradio.southernsummits.com
 retiriu.cyou
@@ -37849,7 +37854,6 @@ rk8.64198.ru
 rk8.7g37b.ru
 rk8.d597o.ru
 rk8.pdv4m6.ru
-rk8.q-083.ru
 rka7q.fox-ab.ru
 rkacqse.ru
 rkjptbfgpc.duckdns.org
@@ -42058,10 +42062,12 @@ svc2data.oscilloflowunit.in.net
 svc2point.protopathfinder.in.net
 svc2power.modulardatastream.in.net
 svc2proxy.activetensorbase.in.net
+svc3data.activetensorbase.in.net
 svc3edge.oscilloflowunit.in.net
 svc3local.modulardatastream.in.net
 svc3view.protopathfinder.in.net
 svc4path.protopathfinder.in.net
+svc4point.activetensorbase.in.net
 svc4static.oscilloflowunit.in.net
 svc4work.modulardatastream.in.net
 svchost1.linkpc.net
@@ -47793,7 +47799,6 @@ w4.dvn-4-i.ru
 w4.e-134.ru
 w4.e-72t.ru
 w4.fa-99.ru
-w4.h-214.ru
 w4.k5d1y.ru
 w4.lq-8-e-1.ru
 w4.m-77u.ru
