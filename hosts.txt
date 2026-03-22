@@ -5854,7 +5854,6 @@ b2.j8k2a.ru
 b2.jk-3-y-7.ru
 b2.jwm-3-e.ru
 b2.l-70y.ru
-b2.mo-49.ru
 b2.n-7sol.ru
 b2.n-82o.ru
 b2.o-279.ru
@@ -14824,6 +14823,7 @@ ext-api.housedec.com
 ext-sync.tensora.in.net
 ext-vault.tensora.in.net
 ext1infra.operationalmatrix.in.net
+ext1infra.thermalmatrixlink.in.net
 ext1infra.vectoraltimeter.in.net
 ext1infra.virtualinterfacenet.in.net
 ext1meta.analyticalhubnode.in.net
@@ -14846,6 +14846,8 @@ ext2proc.cartopointgate.in.net
 ext2proc.geospatialnode.in.net
 ext2proc.securityaccessgateway.in.net
 ext2proc.volumetricproxy.in.net
+ext2proxy.thermalmatrixlink.in.net
+ext3data.thermalmatrixlink.in.net
 ext3field.coreconnectivity.in.net
 ext3field.remotediagnosticlink.in.net
 ext3field.synchrometrichub.in.net
@@ -14860,6 +14862,7 @@ ext3user.virtualinterfacenet.in.net
 ext4link.operationalmatrix.in.net
 ext4link.vectoraltimeter.in.net
 ext4link.virtualinterfacenet.in.net
+ext4point.thermalmatrixlink.in.net
 ext4space.coreconnectivity.in.net
 ext4space.remotediagnosticlink.in.net
 ext4space.synchrometrichub.in.net
@@ -18164,6 +18167,7 @@ globalsnn8-new.cc
 globalsnn9-new.cc
 globalsourcesinc.duckdns.org
 globalsynchandler.intricessaucy.in.net
+globaltechbilling.com
 globalwork.f2ctoryp1anet.ru
 globeerp.com
 globevis.org
@@ -25437,6 +25441,7 @@ lmg.pot-5.ru
 lmgfqzd.net
 lmh.rocixaa9.ru
 lmklwnfv.afriteblurbcepes.ru
+lmlawcorp.com
 lmn.bl1nkswitch.ru
 lmn.uk.com
 lmn293498-43963.portmap.host
@@ -42155,8 +42160,10 @@ svc1infra.activetensorbase.in.net
 svc1proc.modulardatastream.in.net
 svc1proc.protopathfinder.in.net
 svc1proc.quantumrelaypoint.in.net
+svc1sync.opticalsensorhub.in.net
 svc1sync.oscilloflowunit.in.net
 svc1sync.signalflowmetrics.in.net
+svc2data.opticalsensorhub.in.net
 svc2data.oscilloflowunit.in.net
 svc2data.signalflowmetrics.in.net
 svc2point.protopathfinder.in.net
@@ -42170,6 +42177,7 @@ svc3local.modulardatastream.in.net
 svc3view.protopathfinder.in.net
 svc4path.protopathfinder.in.net
 svc4point.activetensorbase.in.net
+svc4sat.quantumrelaypoint.in.net
 svc4static.oscilloflowunit.in.net
 svc4static.signalflowmetrics.in.net
 svc4work.modulardatastream.in.net
@@ -43868,7 +43876,6 @@ tq1.i-76t.ru
 tq1.j8k2a.ru
 tq1.jwm-3-e.ru
 tq1.l-70y.ru
-tq1.mo-49.ru
 tq1.n-7sol.ru
 tq1.n-82o.ru
 tq1.o-279.ru
