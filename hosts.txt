@@ -6311,7 +6311,6 @@ bb7.gi0x.ru
 bbaqmpj.ru
 bbb.flash-china.com
 bbb.mercadolivreshop.shop
-bbb.xfrwu.cn
 bbc-themes.com
 bbd.imp2rtund0.ru
 bbdbnzb.com
@@ -9210,6 +9209,7 @@ chuckbartman.retirevillage.com
 chucks.ydns.eu
 chuckyr.cyou
 chuganything.net
+chuguadventures.co.tz
 chukwunwike.ydns.eu
 chungminhtaichinhsaigon.net
 churchpail.xyz
@@ -9428,13 +9428,17 @@ cl0udy.rainbyte.ru
 cl0vermint.ru
 cl1ffo.mistpeak.ru
 cl1nic3-point.officeco.in.net
+cl1proc.linearductnode.in.net
 cl1proc.quantumbufferlink.in.net
 cl1store.fluxoverificator.in.net
 cl2core.quantumbufferlink.in.net
 cl2remote.fluxoverificator.in.net
+cl2steel.linearductnode.in.net
+cl3core.linearductnode.in.net
 cl3dev.fluxoverificator.in.net
 cl3ghost.quantumbufferlink.in.net
 cl4link.fluxoverificator.in.net
+cl4sat.linearductnode.in.net
 cl4view.quantumbufferlink.in.net
 cl5t1d.c1othwou1d.ru
 cl7twd.c-1-othwou-1-d.ru
@@ -12601,6 +12605,7 @@ dreams.sys7yn0iy5.ru
 dreamwatchevent.com
 dreem-45850.portmap.host
 dretryout.top
+drevos.ro
 drfdm.za.com
 drg.kidizue6.ru
 driff7.st0rmshade.ru
@@ -13949,6 +13954,7 @@ emb3rz.windf1re.ru
 emba.nu.edu.eg
 embargobe3n5okxyzqphpmk3moinoap2snz5k6765mvtkk7hhi544jid.onion
 embdark.capslock.in.net
+embedone.com
 ember-cloud.ru
 ember-harbor.ru
 ember.0rbishade.ru
@@ -14777,6 +14783,7 @@ ext2proc.cartopointgate.in.net
 ext2proc.securityaccessgateway.in.net
 ext3field.coreconnectivity.in.net
 ext3field.remotediagnosticlink.in.net
+ext3field.synchrometrichub.in.net
 ext3gate.analyticalhubnode.in.net
 ext3gate.cartopointgate.in.net
 ext3gate.securityaccessgateway.in.net
@@ -14788,6 +14795,7 @@ ext4link.vectoraltimeter.in.net
 ext4link.virtualinterfacenet.in.net
 ext4space.coreconnectivity.in.net
 ext4space.remotediagnosticlink.in.net
+ext4space.synchrometrichub.in.net
 ext4sync.analyticalhubnode.in.net
 ext4sync.cartopointgate.in.net
 ext4sync.securityaccessgateway.in.net
@@ -16884,6 +16892,7 @@ gale.x-2-lu.ru
 gale2.rock-bay.ru
 gale7x.windstack.ru
 gale9f.windf1re.ru
+galerisenimutiara.com
 galicaonline.shop
 galleqi.cyou
 gallerydept.us.com
@@ -20305,6 +20314,7 @@ hobefork.com
 hobework.com
 hobidir.com
 hobmjoi.click
+hobobot.net
 hobsmedia.com
 hobx.run
 hocn9.0palsummit.ru
@@ -22554,7 +22564,6 @@ jlk.db-3-a-4.ru
 jllxtfy.com
 jlqawun.net
 jluynhq.ru
-jlwz.cn
 jm.bxof.ru
 jm.vw0e1.ru
 jm58.nmys4.ru
@@ -24152,6 +24161,7 @@ kosmiceventsja.com
 koszulki.net
 kotabansal.in.net
 kotobanohiroba.com
+kotogadang-pusako.com
 kouad100.sbs
 kouei-sangyou.net
 kouhousentai.com
@@ -24801,7 +24811,6 @@ launchwind.tunefour.in.net
 laundryball.com.au
 laundrysyndicserai.com
 lauthaitv.info
-lavacolla.com
 lavender-wallaby-90664.zap.cloud
 lavernecapital.au
 law-necklace.gl.at.ply.gg
@@ -36678,7 +36687,6 @@ qz9.l99oy.ru
 qz9.ll7y5.ru
 qz9.llcvb.ru
 qz9.ls2a9.ru
-qz9.m-754.ru
 qz9.mg1u5.ru
 qz9.mw9y4.ru
 qz9.n46uu.ru
@@ -41633,7 +41641,6 @@ stone3-lab.dancingvck.in.net
 stoneandjon.com
 stonebridge.grayford.in.net
 stonecalcom.com
-stonecradle.com
 stonegraze.goatbreed.in.net
 stonehandlop.com
 stoneo.tuful32io3.ru
@@ -42043,12 +42050,14 @@ sv.mcyz4.ru
 sv.mw2o3.ru
 sv.nqyf7.ru
 svc.lo9q.ru
+svc1infra.activetensorbase.in.net
 svc1proc.modulardatastream.in.net
 svc1proc.protopathfinder.in.net
 svc1sync.oscilloflowunit.in.net
 svc2data.oscilloflowunit.in.net
 svc2point.protopathfinder.in.net
 svc2power.modulardatastream.in.net
+svc2proxy.activetensorbase.in.net
 svc3edge.oscilloflowunit.in.net
 svc3local.modulardatastream.in.net
 svc3view.protopathfinder.in.net
@@ -52301,7 +52310,6 @@ xq.lalz.ru
 xq.nybk.ru
 xq.y742au.ru
 xq0.1y-zt.ru
-xq0.7o3u8.ru
 xq0.9-f566.ru
 xq0.9t6p5.ru
 xq0.a-344.ru
