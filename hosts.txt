@@ -5861,7 +5861,6 @@ b2.o-279.ru
 b2.o-61x.ru
 b2.q-49o.ru
 b2.r-54u.ru
-b2.r219i.ru
 b2.rwzqh.ru
 b2.w-78i.ru
 b2.wy-72.ru
@@ -7695,6 +7694,7 @@ brodyy-39471.portmap.host
 broguenko.su
 broke-girl.lol
 brokecoin.lat
+brokerancient.br1ghtpath.in.net
 brominer.com
 bronze-wilder.ru
 bronzewilder.ru
@@ -13037,6 +13037,7 @@ dz1p-nn0x.duckdns.org
 dz4y1.p2rabpr0nos.ru
 dz65tjrl.sunbit.digital
 dz9gfvy4.a5hsuper1or.ru
+dzadld.hellothere.sbs
 dzdhxx.za.com
 dzqz.waver-mint.ru
 dzthj.dup-1-ic-4-ermaph.ru
@@ -13082,7 +13083,6 @@ e1.4-j722.ru
 e1.8e-hr.ru
 e1.a-342.ru
 e1.a-67x.ru
-e1.cdn-626.ru
 e1.cr-65.ru
 e1.ea-43.ru
 e1.h-23u.ru
@@ -23643,6 +23643,7 @@ kd7u.mistyflare.ru
 kde-exe.with.playit.plus
 kdegulh.ru
 kdfmmikfkafjikmfikfjhm.com
+kdije.weirdthings.site
 kdkdaosdkalkdkdakd.com
 kdpofutk.safaricola.digital
 kdreksu.com
@@ -33624,6 +33625,7 @@ p4p.re7x.ru
 p4r.lo9q.ru
 p4rcel-grid.bejont.in.net
 p4st-logic.fileost.in.net
+p4tter-array.skylint.in.net
 p5.manual1sa1yz.ru
 p5.stix-2.ru
 p5.wildf1re.ru
@@ -36148,7 +36150,6 @@ qk2.4-j722.ru
 qk2.8e-hr.ru
 qk2.a-342.ru
 qk2.a-67x.ru
-qk2.cdn-626.ru
 qk2.cr-65.ru
 qk2.ea-43.ru
 qk2.h-23u.ru
@@ -39132,6 +39133,7 @@ scekkugeyiqgsyya.xyz
 scemmiwwceqgakyq.xyz
 scene4-render.fourscene.in.net
 scenecompr.sandball.in.net
+sceneeast.skylint.in.net
 sceneneur.cokenote.in.net
 sceukqucykmawwgw.xyz
 sceykoqywuessiuk.xyz
@@ -44022,7 +44024,6 @@ tq1.o-279.ru
 tq1.o-61x.ru
 tq1.q-49o.ru
 tq1.r-54u.ru
-tq1.r219i.ru
 tq1.rwzqh.ru
 tq1.w-78i.ru
 tq1.wy-72.ru
@@ -44273,6 +44274,7 @@ trichoi.cyou
 tricitiesbydesign.com
 tridam.clearl1nk.ru
 tridraar2.backyard.in.net
+trifluxos.skylint.in.net
 trikhaus.info
 triline7en.yardnext.in.net
 trilineix.doabove.in.net
@@ -45260,6 +45262,7 @@ ultimate.rjuq-3.ru
 ultiplying.me.uk
 ultra-10ader.biglight.in.net
 ultra-5tric.sightup.in.net
+ultra-f4ct0r.skylint.in.net
 ultra-g3ne.horsesence.in.net
 ultra-re1ay.oakumsenile.in.net
 ultra-rep0r.ravenloop.in.net
@@ -47746,6 +47749,7 @@ volcanishing.info
 volez.icu
 volokno.net
 volp.run
+volt-dock.skylint.in.net
 volt-layer.zipfolder.in.net
 volt-sync.amperelose.in.net
 volt.koq0.ru
@@ -51997,7 +52001,6 @@ x.pi9yj.ru
 x.pymz.ru
 x.q-49o.ru
 x.r-54u.ru
-x.r219i.ru
 x.r46eu.ru
 x.rwzqh.ru
 x.s4m7v4.ru
@@ -53613,6 +53616,7 @@ yt6.ussn-7.ru
 yt6sz.windbr1dge.ru
 ytardwtaufzafzgzfe.su
 ytddownloader.org
+ytjmc4o.br1ghtpath.in.net
 ytloie.za.com
 ytp1swow.fotestat.in.net
 ytppcau.ru
