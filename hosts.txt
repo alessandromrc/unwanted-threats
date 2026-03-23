@@ -1741,6 +1741,7 @@
 70leonardstreet.com
 70x2ky.veloxunit.in.net
 70ywi.emberhoehle.ru
+710fdch.ravenloop.in.net
 71f9.fr0gpulse.ru
 71kxr.cogwhittle.ru
 72i3q.ru
@@ -10257,7 +10258,6 @@ courchellin.com
 courie-sprou.cutlog.in.net
 courier.mint7delivery.coupons
 couriframe.goldpit.in.net
-coursedillema.com
 courses-ai.com
 courses.eonlinesuccess.com
 courthelength.ch
@@ -12006,6 +12006,7 @@ dev3host.metravolta.in.net
 dev3local.chromaprocessing.in.net
 dev3local.photonicdatanode.in.net
 dev3local.vectorquantizer.in.net
+dev4space.nodalbufferpoint.in.net
 dev4work.chromaprocessing.in.net
 dev4work.photonicdatanode.in.net
 dev4work.vectorquantizer.in.net
@@ -16238,7 +16239,6 @@ fouaoeuhfoauco.su
 fouaoeuhfoauco.ws
 foundation-trying.gl.at.ply.gg
 foundationasdasd.com
-founderevo.com
 four-radiation.gl.at.ply.gg
 four-railway.gl.at.ply.gg
 four.rjuq-3.ru
@@ -16836,7 +16836,6 @@ g4.cogwhittle.ru
 g4.dk-2-o-5.ru
 g4.e-09q.ru
 g4.hovermint.ru
-g4.hu-50.ru
 g4.hwgmm.ru
 g4.k0m7y.ru
 g4.r852o.ru
@@ -17955,7 +17954,6 @@ girl.je-9-r.ru
 girl.k8li.online
 girondh.pics
 git.zionministry.org
-gitcoin-fund.com
 gitexeu.intellexio.com
 github.ciberseguridad-eia.xyz
 github.guru
@@ -26377,7 +26375,6 @@ m7.95tbm.ru
 m7.9s4g2.ru
 m7.ae-18.ru
 m7.bw-06.ru
-m7.cdn-175.ru
 m7.cdn-659.ru
 m7.da2yw.ru
 m7.e-783.ru
@@ -26397,7 +26394,6 @@ m7.n-82o.ru
 m7.n6e8h.ru
 m7.o-279.ru
 m7.o-61x.ru
-m7.p556i.ru
 m7.q-49o.ru
 m7.r-54u.ru
 m7.r219i.ru
@@ -30510,6 +30506,7 @@ nectar.dle759zone.coupons
 ned-granting-opportunities.com
 need-disturbed.gl.at.ply.gg
 needed-tier.gl.at.ply.gg
+needlconver.brightcove.in.net
 needleexperience.xyz
 needlegene.respecti.in.net
 needlshore.si1kforge.in.net
@@ -32861,7 +32858,6 @@ openview.eluvia.in.net
 openview.silvermount.in.net
 openview.ventomaris.in.net
 operafanta.digital
-operation-rent.gl.at.ply.gg
 operationalexcellenceus.com
 operationendgame.live
 opgmoneyhoney.lol
@@ -33510,7 +33506,6 @@ p1fb9.l1ghtshore.ru
 p1k.storm-ripple.ru
 p1kx.99y401874.online
 p1nefour.ru
-p1streetsira-36072.portmap.host
 p1tc2-logic.easttea.in.net
 p1trnan-vvex.pitman123wid.coupons
 p1urn-vvake.plum7ship.coupons
@@ -36076,7 +36071,6 @@ qk2.4-j722.ru
 qk2.8e-hr.ru
 qk2.a-342.ru
 qk2.a-67x.ru
-qk2.cdn-175.ru
 qk2.cdn-626.ru
 qk2.cr-65.ru
 qk2.ea-43.ru
@@ -36088,7 +36082,6 @@ qk2.l8w6u.ru
 qk2.m-49e.ru
 qk2.m-57i.ru
 qk2.n-4daw.ru
-qk2.p556i.ru
 qk2.rdlkc.ru
 qk2.su-08.ru
 qk2.u-989.ru
@@ -38296,6 +38289,7 @@ rss.alpinematters.com
 rss.gadgetwalabd.com
 rsscjmm.com
 rst.lypelya2.ru
+rstaj.storm-ink.in.net
 rsuiharapananda.com
 rsw.g0b1ncore.ru
 rt.andreeacomansinger.com
@@ -41783,7 +41777,6 @@ stop-webshots.gl.at.ply.gg
 stop.m0rning.ru
 stopdicksucking.duckdns.org
 stor4static.astropoint.in.net
-storage.westinsinsurance.com
 store-image.sbs
 store-image.shop
 store.alignfrisco.com
@@ -42198,8 +42191,10 @@ svc2point.protopathfinder.in.net
 svc2power.modulardatastream.in.net
 svc2proxy.activetensorbase.in.net
 svc2steel.acousticnodebase.in.net
+svc2steel.activefusioncore.in.net
 svc2steel.quantumrelaypoint.in.net
 svc3core.acousticnodebase.in.net
+svc3core.activefusioncore.in.net
 svc3data.activetensorbase.in.net
 svc3edge.oscilloflowunit.in.net
 svc3edge.signalflowmetrics.in.net
@@ -42210,6 +42205,7 @@ svc3view.protopathfinder.in.net
 svc4link.binaryflowbuffer.in.net
 svc4path.protopathfinder.in.net
 svc4point.activetensorbase.in.net
+svc4sat.activefusioncore.in.net
 svc4sat.quantumrelaypoint.in.net
 svc4static.oscilloflowunit.in.net
 svc4static.signalflowmetrics.in.net
@@ -42620,7 +42616,6 @@ t1.o-554.ru
 t1.o-y3ii.ru
 t1.ou-86.ru
 t1.p51io.ru
-t1.p556i.ru
 t1.pf6o2.ru
 t1.q210u.ru
 t1.q6t4u.ru
@@ -51841,7 +51836,6 @@ x.bowibo.ru
 x.bpva0.ru
 x.bw-06.ru
 x.c34uu.ru
-x.cdn-175.ru
 x.cdn-659.ru
 x.cheapgylsale.com
 x.d5y6x.ru
@@ -53708,7 +53702,6 @@ z.9bp6i.ru
 z.cdn-886.ru
 z.ctze0.ru
 z.e-410.ru
-z.f342i.ru
 z.g69p.ru
 z.gbta9.ru
 z.h934.ru
@@ -54088,7 +54081,6 @@ zen-v12.zenithra.in.net
 zen.cloudv1be.ru
 zen.erom-e.com
 zen.zeronoiseclassroom.com
-zen1thblkhat-48437.portmap.host
 zen1thblkhat-64408.portmap.host
 zen1thblkhat-64927.portmap.host
 zenblazenow.nl
