@@ -9469,6 +9469,7 @@ cl1store.tensorstorageunit.in.net
 cl2core.quantumbufferlink.in.net
 cl2data.orbitaltraceunit.in.net
 cl2point.binaryintegritynet.in.net
+cl2point.logicmetricgate.in.net
 cl2point.signalpathfinder.in.net
 cl2remote.fluxoverificator.in.net
 cl2remote.microflowprocess.in.net
@@ -9482,6 +9483,7 @@ cl3dev.tensorstorageunit.in.net
 cl3edge.orbitaltraceunit.in.net
 cl3ghost.quantumbufferlink.in.net
 cl3view.binaryintegritynet.in.net
+cl3view.logicmetricgate.in.net
 cl3view.signalpathfinder.in.net
 cl4link.fluxoverificator.in.net
 cl4link.microflowprocess.in.net
@@ -11989,10 +11991,12 @@ dev.united-gs.net
 dev1-server.sogal69343.workers.dev
 dev1proc.chromadatacenter.in.net
 dev1proc.chromaprocessing.in.net
+dev1proc.nodalbufferpoint.in.net
 dev1proc.orbitalvectorhub.in.net
 dev1proc.photonicdatanode.in.net
 dev1proc.vectorquantizer.in.net
 dev2outer.chromadatacenter.in.net
+dev2outer.nodalbufferpoint.in.net
 dev2outer.orbitalvectorhub.in.net
 dev2power.chromaprocessing.in.net
 dev2power.vectorquantizer.in.net
@@ -14905,6 +14909,7 @@ ext4sync.topologygatehub.in.net
 ext4sync.volumetricproxy.in.net
 ext4view.acousticdatabuffer.in.net
 ext4view.tensorpointlink.in.net
+ext4view.vectorstreamlink.in.net
 extemzd.pics
 extendbuild.gatedale.in.net
 extendnode.granitevalley.in.net
@@ -20424,7 +20429,6 @@ hobefork.com
 hobework.com
 hobidir.com
 hobmjoi.click
-hobobot.net
 hobsmedia.com
 hobx.run
 hocn9.0palsummit.ru
@@ -34708,7 +34712,6 @@ pm7.a-90g.ru
 pm7.cdn-325.ru
 pm7.e-09q.ru
 pm7.h-76a.ru
-pm7.hu-50.ru
 pm7.hwgmm.ru
 pm7.k0m7y.ru
 pm7.t-14o.ru
@@ -51877,7 +51880,6 @@ x.onyxmorgen.ru
 x.p2o7l.ru
 x.p3t9b3.ru
 x.p51io.ru
-x.p556i.ru
 x.pi9yj.ru
 x.pymz.ru
 x.q-49o.ru
