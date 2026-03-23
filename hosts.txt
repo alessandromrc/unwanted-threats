@@ -9498,6 +9498,7 @@ cl1proc.logicmetricgate.in.net
 cl1proc.quantumbufferlink.in.net
 cl1proc.signalpathfinder.in.net
 cl1store.fluxoverificator.in.net
+cl1store.industrialmetric.in.net
 cl1store.microflowprocess.in.net
 cl1store.spectralunitgate.in.net
 cl1store.tensorstorageunit.in.net
@@ -9508,12 +9509,14 @@ cl2point.binaryintegritynet.in.net
 cl2point.logicmetricgate.in.net
 cl2point.signalpathfinder.in.net
 cl2remote.fluxoverificator.in.net
+cl2remote.industrialmetric.in.net
 cl2remote.microflowprocess.in.net
 cl2remote.spectralunitgate.in.net
 cl2remote.tensorstorageunit.in.net
 cl2steel.linearductnode.in.net
 cl3core.linearductnode.in.net
 cl3dev.fluxoverificator.in.net
+cl3dev.industrialmetric.in.net
 cl3dev.microflowprocess.in.net
 cl3dev.spectralunitgate.in.net
 cl3dev.tensorstorageunit.in.net
@@ -9523,6 +9526,7 @@ cl3view.binaryintegritynet.in.net
 cl3view.logicmetricgate.in.net
 cl3view.signalpathfinder.in.net
 cl4link.fluxoverificator.in.net
+cl4link.industrialmetric.in.net
 cl4link.microflowprocess.in.net
 cl4link.spectralunitgate.in.net
 cl4link.tensorstorageunit.in.net
@@ -10837,6 +10841,7 @@ customer.grovecityroofing.com
 customercareserviceindia.in
 customers-commander.gl.at.ply.gg
 customwrapsnearme.com
+custosern.digital
 custv.bowin-1-nca-5.ru
 cut-carry.gl.at.ply.gg
 cut-cash.gl.at.ply.gg
@@ -11366,6 +11371,7 @@ daroughgan8hajous40.duckdns.org
 daroughgan8hajous5.duckdns.org
 daroughgan8hajous50.duckdns.org
 darpig.ann0uneterna1.ru
+darrtamusement.com
 dartbanks.com
 darwin151-36102.portmap.host
 darwin151-51782.portmap.host
@@ -11849,7 +11855,6 @@ deepwormtoken.lol
 deeyou.xyz
 default-migration.gl.at.ply.gg
 defenceprodindia.sit
-defender-telemerty.cc
 defender-temeerty.sbs
 defender.proces
 defender.ydns.eu
@@ -12036,12 +12041,14 @@ dev1proc.chromaprocessing.in.net
 dev1proc.nodalbufferpoint.in.net
 dev1proc.orbitalvectorhub.in.net
 dev1proc.photonicdatanode.in.net
+dev1proc.thermalpulserelay.in.net
 dev1proc.vectorquantizer.in.net
 dev2outer.chromadatacenter.in.net
 dev2outer.nodalbufferpoint.in.net
 dev2outer.orbitalvectorhub.in.net
 dev2power.chromaprocessing.in.net
 dev2power.photonicdatanode.in.net
+dev2power.thermalpulserelay.in.net
 dev2power.vectorquantizer.in.net
 dev3field.chromadatacenter.in.net
 dev3field.nodalbufferpoint.in.net
@@ -12050,12 +12057,14 @@ dev3host.metracore.in.net
 dev3host.metravolta.in.net
 dev3local.chromaprocessing.in.net
 dev3local.photonicdatanode.in.net
+dev3local.thermalpulserelay.in.net
 dev3local.vectorquantizer.in.net
 dev4space.chromadatacenter.in.net
 dev4space.nodalbufferpoint.in.net
 dev4space.orbitalvectorhub.in.net
 dev4work.chromaprocessing.in.net
 dev4work.photonicdatanode.in.net
+dev4work.thermalpulserelay.in.net
 dev4work.vectorquantizer.in.net
 devchallengehq.com
 devel.prtaxheaven.com
@@ -12582,6 +12591,7 @@ dotfoods.othersepoxfrontier-win.cloud
 dotfoods.tonescapesccbnv.live
 doth-sync.caliphdotham.in.net
 doth09.caliphdotham.in.net
+dotprompt.digital
 dotsmpk.net
 double-sync.austrodouble.in.net
 double-v6.austrodouble.in.net
@@ -14938,6 +14948,7 @@ ext2proc.hydrofluxstorage.in.net
 ext2proc.securityaccessgateway.in.net
 ext2proc.topologygatehub.in.net
 ext2proc.volumetricproxy.in.net
+ext2proc.wavefrontgateway.in.net
 ext2proxy.thermalmatrixlink.in.net
 ext2proxy.thermalmetrichub.in.net
 ext3data.thermalmatrixlink.in.net
@@ -14952,6 +14963,7 @@ ext3gate.hydrofluxstorage.in.net
 ext3gate.securityaccessgateway.in.net
 ext3gate.topologygatehub.in.net
 ext3gate.volumetricproxy.in.net
+ext3gate.wavefrontgateway.in.net
 ext3ghost.acousticdatabuffer.in.net
 ext3ghost.tensorpointlink.in.net
 ext3ghost.vectorstreamlink.in.net
@@ -14973,6 +14985,7 @@ ext4sync.hydrofluxstorage.in.net
 ext4sync.securityaccessgateway.in.net
 ext4sync.topologygatehub.in.net
 ext4sync.volumetricproxy.in.net
+ext4sync.wavefrontgateway.in.net
 ext4view.acousticdatabuffer.in.net
 ext4view.tensorpointlink.in.net
 ext4view.vectorstreamlink.in.net
@@ -32745,6 +32758,7 @@ only-symposium.gl.at.ply.gg
 onlymaster.ru
 onlysix.com.br
 onlysunset.club
+onnabarabane.info
 onnabarabane.net
 onpointrentals.com
 onsevadm.sbs
@@ -41068,6 +41082,7 @@ solve.zexd.org
 solve.zyde.org
 solvenum.norsdwest.in.net
 solwhitehouse.digital
+somalia-peterson.with.playit.plus
 some-cleveland.gl.at.ply.gg
 something0x.at
 somethingfeellikefresh.duckdns.org
@@ -42307,6 +42322,7 @@ sv.nqyf7.ru
 svc.lo9q.ru
 svc1infra.activetensorbase.in.net
 svc1infra.binaryflowbuffer.in.net
+svc1infra.dynamicshubpoint.in.net
 svc1infra.spectralgateway.in.net
 svc1infra.systemictracebox.in.net
 svc1proc.acousticnodebase.in.net
