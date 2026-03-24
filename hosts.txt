@@ -530,7 +530,6 @@
 21n.glacialufer.ru
 21wg02hmrp1ldfn7.org
 21zqurgr.bur9a5erious.ru
-2209sep25.duckdns.org
 22312mandayyyyyreymcuxe.duckdns.org
 228mxuu79voqll5e.org
 22g3uiuyqqa4txxuyvzmlyvlou4crrgfvgnvodrv3wrxcedtvjgx6aid.onion
@@ -9542,6 +9541,7 @@ cl3view.kineticmatrixduct.in.net
 cl3view.logicmetricgate.in.net
 cl3view.signalpathfinder.in.net
 cl3view.synchrometrixbox.in.net
+cl4link.chrysalisbuffer.in.net
 cl4link.entropicbuffergate.in.net
 cl4link.fluxoverificator.in.net
 cl4link.industrialmetric.in.net
@@ -12059,6 +12059,7 @@ dev1-server.sogal69343.workers.dev
 dev1proc.atomiclogichub.in.net
 dev1proc.chromadatacenter.in.net
 dev1proc.chromaprocessing.in.net
+dev1proc.elytrapointnode.in.net
 dev1proc.linearprocessnode.in.net
 dev1proc.nodalbufferpoint.in.net
 dev1proc.orbitalvectorhub.in.net
@@ -12072,6 +12073,7 @@ dev2outer.linearprocessnode.in.net
 dev2outer.nodalbufferpoint.in.net
 dev2outer.orbitalvectorhub.in.net
 dev2power.chromaprocessing.in.net
+dev2power.elytrapointnode.in.net
 dev2power.photonicdatanode.in.net
 dev2power.tensorvortexlink.in.net
 dev2power.thermalpulserelay.in.net
@@ -12084,6 +12086,7 @@ dev3field.orbitalvectorhub.in.net
 dev3host.metracore.in.net
 dev3host.metravolta.in.net
 dev3local.chromaprocessing.in.net
+dev3local.elytrapointnode.in.net
 dev3local.photonicdatanode.in.net
 dev3local.tensorvortexlink.in.net
 dev3local.thermalpulserelay.in.net
@@ -12094,6 +12097,7 @@ dev4space.linearprocessnode.in.net
 dev4space.nodalbufferpoint.in.net
 dev4space.orbitalvectorhub.in.net
 dev4work.chromaprocessing.in.net
+dev4work.elytrapointnode.in.net
 dev4work.photonicdatanode.in.net
 dev4work.tensorvortexlink.in.net
 dev4work.thermalpulserelay.in.net
@@ -21690,6 +21694,7 @@ imper-strlk5.com
 imperi.a7mpr0tori.ru
 imporategory.net
 imporation.net
+importgenius.duckdns.org
 importhd.cyou
 importities.com
 importsan.rockapp.in.net
@@ -30457,7 +30462,6 @@ nambaohiem.com
 name.sa.com
 namemic.icu
 namenyo.ru
-names-thrown.gl.at.ply.gg
 nameservers.us.com
 nametraff.com
 namgov.com
@@ -34244,6 +34248,7 @@ perfectonnyou.com
 perfectorder.jp
 perferctdmng.is
 perfume-casablanca.com
+pericomaa.duckdns.org
 peridotgarten.ru
 periodicoentretodos.mx
 perk.picket-core.ru
@@ -37165,6 +37170,7 @@ r5.cedarnova.ru
 r5.jk-3-y-7.ru
 r5.ussn-7.ru
 r53hilpf6h4b88r0.org
+r54-45345.portmap.host
 r54v.qu1rkfuse.ru
 r55k.zylotech.in.net
 r58.ynmh-8.ru
@@ -42355,6 +42361,7 @@ svc1infra.activetensorbase.in.net
 svc1infra.binaryflowbuffer.in.net
 svc1infra.coherentmetricunit.in.net
 svc1infra.dynamicshubpoint.in.net
+svc1infra.scutellummatrix.in.net
 svc1infra.spectralgateway.in.net
 svc1infra.systemictracebox.in.net
 svc1proc.acousticnodebase.in.net
@@ -52761,7 +52768,6 @@ xr.fr1zzlepit.ru
 xr.n2zemt0ler.ru
 xr2vok4wlfbjb4g2.org
 xr7.g6xt-5n.ru
-xr9.nq-52.ru
 xrbjetr5.bristle-cove.ru
 xrc.myhehaa4.ru
 xrootx.zapto.org
