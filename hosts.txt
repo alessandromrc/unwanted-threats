@@ -9501,6 +9501,7 @@ cl1proc.logicmetricgate.in.net
 cl1proc.quantumbufferlink.in.net
 cl1proc.signalpathfinder.in.net
 cl1proc.synchrometrixbox.in.net
+cl1store.chrysalisbuffer.in.net
 cl1store.entropicbuffergate.in.net
 cl1store.fluxoverificator.in.net
 cl1store.industrialmetric.in.net
@@ -9517,6 +9518,7 @@ cl2point.kineticmatrixduct.in.net
 cl2point.logicmetricgate.in.net
 cl2point.signalpathfinder.in.net
 cl2point.synchrometrixbox.in.net
+cl2remote.chrysalisbuffer.in.net
 cl2remote.entropicbuffergate.in.net
 cl2remote.fluxoverificator.in.net
 cl2remote.industrialmetric.in.net
@@ -9551,6 +9553,7 @@ cl4path.logicmetricgate.in.net
 cl4path.signalpathfinder.in.net
 cl4path.synchrometrixbox.in.net
 cl4sat.linearductnode.in.net
+cl4static.inertialstreamhub.in.net
 cl4static.orbitaltraceunit.in.net
 cl4view.quantumbufferlink.in.net
 cl5t1d.c1othwou1d.ru
@@ -14953,6 +14956,7 @@ ext1meta.cartopointgate.in.net
 ext1meta.geospatialnode.in.net
 ext1meta.hydrofluxstorage.in.net
 ext1meta.isotopeflowbridge.in.net
+ext1meta.mandibulateflow.in.net
 ext1meta.securityaccessgateway.in.net
 ext1meta.topologygatehub.in.net
 ext1meta.wavefrontgateway.in.net
@@ -14981,6 +14985,7 @@ ext2proc.cartopointgate.in.net
 ext2proc.geospatialnode.in.net
 ext2proc.hydrofluxstorage.in.net
 ext2proc.isotopeflowbridge.in.net
+ext2proc.mandibulateflow.in.net
 ext2proc.securityaccessgateway.in.net
 ext2proc.topologygatehub.in.net
 ext2proc.volumetricproxy.in.net
@@ -15001,6 +15006,7 @@ ext3gate.cartopointgate.in.net
 ext3gate.geospatialnode.in.net
 ext3gate.hydrofluxstorage.in.net
 ext3gate.isotopeflowbridge.in.net
+ext3gate.mandibulateflow.in.net
 ext3gate.securityaccessgateway.in.net
 ext3gate.topologygatehub.in.net
 ext3gate.volumetricproxy.in.net
@@ -15028,6 +15034,7 @@ ext4sync.cartopointgate.in.net
 ext4sync.geospatialnode.in.net
 ext4sync.hydrofluxstorage.in.net
 ext4sync.isotopeflowbridge.in.net
+ext4sync.mandibulateflow.in.net
 ext4sync.securityaccessgateway.in.net
 ext4sync.topologygatehub.in.net
 ext4sync.volumetricproxy.in.net
@@ -16967,7 +16974,6 @@ g4.e-09q.ru
 g4.hovermint.ru
 g4.hwgmm.ru
 g4.k0m7y.ru
-g4.r852o.ru
 g4.t-14o.ru
 g4.t99oo.ru
 g4.ua-20.ru
@@ -23182,7 +23188,6 @@ k.b-9lyb.ru
 k.bw6u0.ru
 k.c-01e.ru
 k.c646a.ru
-k.cdn-748.ru
 k.cpc-8-u.ru
 k.d-76u.ru
 k.db3a4.ru
@@ -36932,7 +36937,6 @@ qz9.b-9lyb.ru
 qz9.bh3i6.ru
 qz9.bw6u0.ru
 qz9.c-01e.ru
-qz9.cdn-748.ru
 qz9.cpc-8-u.ru
 qz9.d-76u.ru
 qz9.db3a4.ru
@@ -42364,6 +42368,7 @@ svc1proc.modulardatastream.in.net
 svc1proc.protopathfinder.in.net
 svc1proc.quantumrelaypoint.in.net
 svc1proc.viscositydataloop.in.net
+svc1sync.formicidavortex.in.net
 svc1sync.kinematicflowunit.in.net
 svc1sync.opticalsensorhub.in.net
 svc1sync.oscilloflowunit.in.net
@@ -42375,6 +42380,7 @@ svc2base.coherentmetricunit.in.net
 svc2base.dynamicshubpoint.in.net
 svc2base.spectralgateway.in.net
 svc2base.systemictracebox.in.net
+svc2data.formicidavortex.in.net
 svc2data.kinematicflowunit.in.net
 svc2data.opticalsensorhub.in.net
 svc2data.oscilloflowunit.in.net
@@ -42395,6 +42401,7 @@ svc3core.activestaticsync.in.net
 svc3core.quantumrelaypoint.in.net
 svc3core.viscositydataloop.in.net
 svc3data.activetensorbase.in.net
+svc3edge.formicidavortex.in.net
 svc3edge.kinematicflowunit.in.net
 svc3edge.opticalsensorhub.in.net
 svc3edge.oscilloflowunit.in.net
@@ -42420,6 +42427,7 @@ svc4sat.activefusioncore.in.net
 svc4sat.activestaticsync.in.net
 svc4sat.quantumrelaypoint.in.net
 svc4sat.viscositydataloop.in.net
+svc4static.formicidavortex.in.net
 svc4static.kinematicflowunit.in.net
 svc4static.opticalsensorhub.in.net
 svc4static.oscilloflowunit.in.net
@@ -46256,7 +46264,6 @@ v2.cakhiatvx.com
 v2.cakhiatvy.com
 v2.carbopro.com
 v2.cclp.org
-v2.cdn-748.ru
 v2.chambaragame.com
 v2.claire-sansgluten.com
 v2.cntm.edu.vn
