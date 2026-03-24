@@ -193,6 +193,7 @@
 0wq.ye-t5c.ru
 0wr.xf7-27.ru
 0x0.7-h9.ru
+0x0security.com
 0xide.lizqa.online
 0xwdn.marble-tug.ru
 0y.m2jo.ru
@@ -4956,7 +4957,6 @@ arrierzh.cyou
 arrondi.monticle-facture.zayat.ineffections.com
 arrowxrayboldyeowps.shop
 arrscre.norsdwest.in.net
-ars1t.cfd
 arsenmarkaruyn.com
 arsija-51460.portmap.host
 art.kvus7.ru
@@ -9205,6 +9205,7 @@ chimusgen.duckdns.org
 china-sec.gl.at.ply.gg
 chinaapper.com
 chinana5.com
+chinasite.com.br
 chinij.mom
 chinmayapublicschool.co.in
 chinollek-51048.portmap.host
@@ -9500,6 +9501,7 @@ cl1proc.logicmetricgate.in.net
 cl1proc.quantumbufferlink.in.net
 cl1proc.signalpathfinder.in.net
 cl1proc.synchrometrixbox.in.net
+cl1proc.tarsusdatagate.in.net
 cl1store.chrysalisbuffer.in.net
 cl1store.entropicbuffergate.in.net
 cl1store.fluxoverificator.in.net
@@ -9987,7 +9989,6 @@ coletuo46.ru
 collectroduce.net
 colleststride.duckdns.org
 collingular.com.se
-colombiaeslibre9889.dynuddns.com
 colonyorder.murasubordin.ru
 coloradospringsfences.com
 colorfulglowllc.com
@@ -11402,7 +11403,6 @@ dashboard2-cqhtfds57-cihan-katircis-projects.vercel.app
 dashcloud.digital
 dashgame.lol
 dashlune.xyz
-dasilva.ydns.eu
 dasktiitititit.com
 dasloikjerihpmawer.com
 dasopdoaodoaoaoao.com
@@ -11824,7 +11824,6 @@ decodecrest.qy7mral.in.net
 decorcom.ddnsguru.com
 decresk.pics
 decreteur.biz
-decrexd.pics
 decrvv.ru.com
 decryn.decor1cry5t.ru
 dededesc-52459.portmap.host
@@ -14968,6 +14967,7 @@ ext1proc.acousticdatabuffer.in.net
 ext1proc.coreconnectivity.in.net
 ext1proc.nebularpointtrace.in.net
 ext1proc.remotediagnosticlink.in.net
+ext1proc.spiraclelinkhub.in.net
 ext1proc.synchrometrichub.in.net
 ext1proc.tensorpointlink.in.net
 ext1proc.vectordiffusion.in.net
@@ -14978,6 +14978,7 @@ ext2base.vectoraltimeter.in.net
 ext2base.virtualinterfacenet.in.net
 ext2core.acousticdatabuffer.in.net
 ext2core.nebularpointtrace.in.net
+ext2core.spiraclelinkhub.in.net
 ext2core.tensorpointlink.in.net
 ext2core.vectordiffusion.in.net
 ext2core.vectorstreamlink.in.net
@@ -15017,6 +15018,7 @@ ext3gate.volumetricproxy.in.net
 ext3gate.wavefrontgateway.in.net
 ext3ghost.acousticdatabuffer.in.net
 ext3ghost.nebularpointtrace.in.net
+ext3ghost.spiraclelinkhub.in.net
 ext3ghost.tensorpointlink.in.net
 ext3ghost.vectordiffusion.in.net
 ext3ghost.vectorstreamlink.in.net
@@ -15045,10 +15047,10 @@ ext4sync.volumetricproxy.in.net
 ext4sync.wavefrontgateway.in.net
 ext4view.acousticdatabuffer.in.net
 ext4view.nebularpointtrace.in.net
+ext4view.spiraclelinkhub.in.net
 ext4view.tensorpointlink.in.net
 ext4view.vectordiffusion.in.net
 ext4view.vectorstreamlink.in.net
-extemzd.pics
 extendbuild.gatedale.in.net
 extendnode.granitevalley.in.net
 extendous.pro
@@ -16491,6 +16493,7 @@ frepanfinbel7.mariaislena.sbs
 frepanlanral563.luxpost.shop
 freqbitsolutions.com
 frequivaldic.com
+frescotrem.com
 fresd.serveblog.net
 fresh-air.miravento.in.net
 fresh-bio-center.freshhill.ru
@@ -41170,6 +41173,7 @@ soulcirclewellness.co.za
 soulcirclewellness.rocketrobs.co.za
 souldey.cyou
 soulguy.lol
+soulharvest.s8nph.com
 soulnxc-62104.portmap.host
 soultrack.afterlifetap.in.net
 soundcraft.iaphonics.in.net
@@ -41192,7 +41196,6 @@ southbaybythegulfdestin.com
 southern-offers.gl.at.ply.gg
 southerngun.com
 southernsolarcell.com
-southgangfree.ooguy.com
 southhillauricpalfrey.com
 southprovesolutions.com
 southstateonline.co.com
@@ -42381,6 +42384,7 @@ svc1sync.spectralsyncunit.in.net
 svc2base.binaryflowbuffer.in.net
 svc2base.coherentmetricunit.in.net
 svc2base.dynamicshubpoint.in.net
+svc2base.scutellummatrix.in.net
 svc2base.spectralgateway.in.net
 svc2base.systemictracebox.in.net
 svc2data.formicidavortex.in.net
@@ -42415,12 +42419,14 @@ svc3local.modulardatastream.in.net
 svc3user.binaryflowbuffer.in.net
 svc3user.coherentmetricunit.in.net
 svc3user.dynamicshubpoint.in.net
+svc3user.scutellummatrix.in.net
 svc3user.spectralgateway.in.net
 svc3user.systemictracebox.in.net
 svc3view.protopathfinder.in.net
 svc4link.binaryflowbuffer.in.net
 svc4link.coherentmetricunit.in.net
 svc4link.dynamicshubpoint.in.net
+svc4link.scutellummatrix.in.net
 svc4link.spectralgateway.in.net
 svc4link.systemictracebox.in.net
 svc4path.protopathfinder.in.net
@@ -42757,7 +42763,6 @@ t.hlgy7.ru
 t.kilut4ou8.ru
 t.m046d.ru
 t.n6e8h.ru
-t.nq-52.ru
 t.qute3.ru
 t.qylyxi.ru
 t.r3j5c.ru
@@ -42842,7 +42847,6 @@ t1.o-y3ii.ru
 t1.ou-86.ru
 t1.p51io.ru
 t1.pf6o2.ru
-t1.q210u.ru
 t1.q6t4u.ru
 t1.qj4y4.ru
 t1.rd1a2.ru
@@ -43684,6 +43688,7 @@ thinksol.lol
 thinlpr.buzz
 thirskk.courses
 thiruvallur.in
+thisisafalsepositive.ru
 thisisgentlemen.lol
 thisisnot24letters.zapto.org
 thissubdomainshouldonlyresolveifwildcard.hermiston.parates.mex.com
@@ -43901,7 +43906,6 @@ tlhppdt.com
 tllts.com
 tlpaenimonadfueh.ws
 tlrrbcc.net
-tls.psigestioncomercial.com.ar
 tlsradc.net
 tlwixed.ru
 tm.aclz9.ru
@@ -47327,6 +47331,7 @@ vcopp.com
 vcp61.checkbro.in.net
 vcq.uk.com
 vcr-logic.dancingvcr.in.net
+vcretysec.top
 vcterypore.top
 vcute69.bounceme.net
 vcv.v0rt3xlab.ru
