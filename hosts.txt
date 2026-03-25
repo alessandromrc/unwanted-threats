@@ -4630,7 +4630,6 @@ api.dyshop.online
 api.echoyesterday.com
 api.emi.co.com
 api.equisphire.com
-api.ezilax.com
 api.f8bet.gr.com
 api.filtergoyrdo.top
 api.foodbyte.cc
@@ -5877,7 +5876,6 @@ b2.2-j695.ru
 b2.5u-zk.ru
 b2.78nsy6.ru
 b2.ae-18.ru
-b2.bw-06.ru
 b2.e-410.ru
 b2.e-783.ru
 b2.ede-1-g-0-rge.ru
@@ -6366,6 +6364,7 @@ bb7.gi0x.ru
 bbaqmpj.ru
 bbb.flash-china.com
 bbb.mercadolivreshop.shop
+bbb.xfrwu.cn
 bbc-themes.com
 bbd.imp2rtund0.ru
 bbdbnzb.com
@@ -9296,7 +9295,6 @@ chu.myserver.com.bd
 chuckbartman.retirevillage.com
 chuckyr.cyou
 chuganything.net
-chuguadventures.co.tz
 chukwunwike.ydns.eu
 chungminhtaichinhsaigon.net
 churchpail.xyz
@@ -9522,6 +9520,7 @@ cl1proc.bryozoametrics.in.net
 cl1proc.kineticmatrixduct.in.net
 cl1proc.linearductnode.in.net
 cl1proc.logicmetricgate.in.net
+cl1proc.obsidianmatrix.in.net
 cl1proc.quantumbufferlink.in.net
 cl1proc.signalpathfinder.in.net
 cl1proc.synchrometrixbox.in.net
@@ -9925,6 +9924,7 @@ cnhv.co
 cno.uk.com
 cnp.p8ri.ru
 cnr.microsoft-telemetry.at
+cnt-logiistics.com
 cnt.statistic.date
 cntm.edu.vn
 cntzfua.ru
@@ -11105,7 +11105,6 @@ czzdpkj.ru
 d-ac.jp
 d.0-c448.ru
 d.14yaa.com
-d.1z2p9.ru
 d.7-gb.ru
 d.9a-hd.ru
 d.ay-63.ru
@@ -12252,6 +12251,7 @@ diabetescareandwellness.com
 diabezill.com.br
 diabezill.com.br.estiloefeito.com
 diagcsl.click
+dialkwik.in
 diamondexportind.com
 diamondmusicent.com.ng
 diamondmusicent.com.ng.mosesogenyi.com.ng
@@ -12446,7 +12446,6 @@ dl.armour-inc-down.net
 dl.bramble-fix.ru
 dl.browsermine.com
 dl.bxof.ru
-dl.dzqzd.com
 dl.mijk.ru
 dl.natgo.cn
 dl.plum5parcel.coupons
@@ -13046,6 +13045,7 @@ dustcoin.digital
 dustcoin.lat
 dustcrate.flatdon.in.net
 dustinsettle.retirevillage.com
+dusttv.com
 dustwin.trace-peak.in.net
 dusty-comet-jazz.com
 dustycode.ru
@@ -13096,6 +13096,7 @@ dx.conf1dcorr0de.ru
 dxd.pr0wlmint.ru
 dxjttle.ru
 dxl08.ch2rmsan1nst.ru
+dxn.uk.com
 dxovrcmyletmggxf.com
 dxoxgbx.ru
 dxp4s2ibc.localto.net
@@ -14888,7 +14889,6 @@ ever-lamp.gl.at.ply.gg
 ever-mint.ru
 evergreenpp.com
 everploria.com
-everycarebd.com
 everyone-constructed.gl.at.ply.gg
 everyshufflin.com
 evidence-different.gl.at.ply.gg
@@ -14982,6 +14982,7 @@ expertsbyexperience.knightcott.com
 explonortespa.com
 explorelocalmag.com
 explorelocalmagazine.com
+explorer.vg
 exploringthenorth.com
 expoexhibitionstands.it
 exponentialmc.lat
@@ -15019,6 +15020,7 @@ ext1meta.topologygatehub.in.net
 ext1meta.wavefrontgateway.in.net
 ext1proc.acousticdatabuffer.in.net
 ext1proc.coreconnectivity.in.net
+ext1proc.feldspargateway.in.net
 ext1proc.nebularpointtrace.in.net
 ext1proc.poriferabuffer.in.net
 ext1proc.remotediagnosticlink.in.net
@@ -15032,6 +15034,7 @@ ext2base.operationalmatrix.in.net
 ext2base.vectoraltimeter.in.net
 ext2base.virtualinterfacenet.in.net
 ext2core.acousticdatabuffer.in.net
+ext2core.feldspargateway.in.net
 ext2core.nebularpointtrace.in.net
 ext2core.poriferabuffer.in.net
 ext2core.spiraclelinkhub.in.net
@@ -15079,6 +15082,7 @@ ext3gate.topologygatehub.in.net
 ext3gate.volumetricproxy.in.net
 ext3gate.wavefrontgateway.in.net
 ext3ghost.acousticdatabuffer.in.net
+ext3ghost.feldspargateway.in.net
 ext3ghost.nebularpointtrace.in.net
 ext3ghost.spiraclelinkhub.in.net
 ext3ghost.tensorpointlink.in.net
@@ -15111,6 +15115,7 @@ ext4sync.topologygatehub.in.net
 ext4sync.volumetricproxy.in.net
 ext4sync.wavefrontgateway.in.net
 ext4view.acousticdatabuffer.in.net
+ext4view.feldspargateway.in.net
 ext4view.nebularpointtrace.in.net
 ext4view.poriferabuffer.in.net
 ext4view.spiraclelinkhub.in.net
@@ -15824,7 +15829,6 @@ fikolasdklnbhgss.com
 fikp.ru
 file.blackint3.com
 file.oss-flash.shop
-file.uhsea.com
 file.yy88.ru
 filegrace2026.duckdns.org
 fileless-market.cc
@@ -21465,7 +21469,6 @@ id.othersepoxfrontier-win.cloud
 id.qvik5.ru
 id.skjeelanhemas.com.lk
 id.vhhe9.ru
-id3702579photo-image-docs.com
 id3basketball.com
 id662.browser-crash-report.coupons
 ida.boatdealers.su
@@ -24211,6 +24214,7 @@ kiwinode.kiwi5pack.coupons
 kiwitalk.ship46kiwi.coupons
 kiwitransit.kiwi9ship3.coupons
 kiwivey0.ru
+kiyona.in
 kizav.icu
 kj.rapidst0ne.ru
 kj.zi-qa.ru
@@ -24624,6 +24628,7 @@ krypton62.coupon9cabin.coupons
 ks.sxuj7.ru
 ks.tvoj5.ru
 ks34dkft.pu7eer0d.ru
+ks48f3vnga.localto.net
 ksaitkktkatfl.com
 ksc.ae.org
 ksdbmerge.com
@@ -34097,7 +34102,6 @@ pawsondeck.cc
 pax.ssffaa4.xyz
 pax.syslicense.net
 paxhel.bramble-zip.ru
-pay.aqiu6.com
 pay.atri.today
 pay.autorepairgallons.com
 pay.cardiffphysio.com
@@ -34511,7 +34515,6 @@ phomoney177.duckdns.org
 phonenewsblog.victoriamedia.net
 phoninessglorious.top
 phopatt.mirthbay.in.net
-photo-id5631894.com
 photo.dti.ac
 photo.rpsc.ru
 photo.sobko.cc
@@ -39160,6 +39163,7 @@ sauna-bassein.com
 sausagenighte.online
 sav.com.shirads.sa.com
 save-node.savingssit.in.net
+save.jnrsmcu.com
 save7.bazidownloader.site
 savenay2.ru
 savethetrident.org
@@ -41440,6 +41444,7 @@ splo8s.rainbyte.ru
 sploaeieifuebaub.ru
 splwplx.cyou
 spn38una.pu7eer0d.ru
+spoar.org.in
 sponged.qpon
 sponges.cyou
 spool.doub1ebarzu8.ru
@@ -41848,7 +41853,6 @@ ste4dy0-graph.skyl0om.in.net
 steady-flow-brook.steadybrook.in.net
 stealer.su
 steam-cloud.pro
-steam66.cn
 steamcommunity-account.com
 stechdaily.com
 steel-afternoon.gl.at.ply.gg
@@ -42454,6 +42458,7 @@ svc2base.arthropodameta.in.net
 svc2base.binaryflowbuffer.in.net
 svc2base.coherentmetricunit.in.net
 svc2base.dynamicshubpoint.in.net
+svc2base.magmaticbuffer.in.net
 svc2base.scutellummatrix.in.net
 svc2base.spectralgateway.in.net
 svc2base.systemictracebox.in.net
@@ -42498,6 +42503,7 @@ svc3user.arthropodameta.in.net
 svc3user.binaryflowbuffer.in.net
 svc3user.coherentmetricunit.in.net
 svc3user.dynamicshubpoint.in.net
+svc3user.magmaticbuffer.in.net
 svc3user.scutellummatrix.in.net
 svc3user.spectralgateway.in.net
 svc3user.systemictracebox.in.net
@@ -42506,6 +42512,7 @@ svc4link.arthropodameta.in.net
 svc4link.binaryflowbuffer.in.net
 svc4link.coherentmetricunit.in.net
 svc4link.dynamicshubpoint.in.net
+svc4link.magmaticbuffer.in.net
 svc4link.scutellummatrix.in.net
 svc4link.spectralgateway.in.net
 svc4link.systemictracebox.in.net
@@ -50258,7 +50265,6 @@ www.beearchitects.co.in
 www.beihu-jlbank.com
 www.belaijobackup1.com
 www.belaijobackup2.com
-www.benshamcentre.co.uk
 www.bepansa.com
 www.bercaja-es.shop
 www.berwiannicoslife7.com
@@ -51081,7 +51087,6 @@ www.mehmetarhan.com
 www.membros.agencialegalads.com
 www.memedia.africa.com
 www.metmuseum.wordt-ontwikkeld.be
-www.mevetlab.cl
 www.mh7am.bond
 www.miacheap.flights
 www.mibkzmhj.shop
@@ -53011,6 +53016,7 @@ xy53k61z.udmu7tsw2rp.ru
 xybblqk.net
 xydizainten.org
 xyfkt0.sp2ceba7tie.ru
+xyfsd.com
 xyh.lypelya2.ru
 xyhyleo1.ru
 xyiqdyb.ru
@@ -54640,7 +54646,6 @@ zone2area.altasync.in.net
 zone2area.nuxflow.in.net
 zong.elpaies.info
 zoning.articu1urb2n.ru
-zontiz.com
 zontryvalics.info
 zoo.st0bepress.ru
 zooguide.blog
