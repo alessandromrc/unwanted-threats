@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-26T09:17:14.531Z",
+  "generated_at": "2026-03-26T10:16:33.151Z",
   "total": {
-    "ips": 11082,
-    "hosts": 55356,
-    "networks": 11131
+    "ips": 135626,
+    "hosts": 55367,
+    "networks": 135675
   },
   "per_feed": [
     {
@@ -55,11 +55,11 @@
       "url": "https://raw.githubusercontent.com/stamparm/ipsum/master/ipsum.txt",
       "type": "csv_like_ip",
       "counts": {
-        "ips": 0,
+        "ips": 132657,
         "hosts": 0,
         "networks": 0
       },
-      "error": "Failed to download https://raw.githubusercontent.com/stamparm/ipsum/master/ipsum.txt: 429 Too Many Requests"
+      "error": null
     },
     {
       "name": "threatfox_hostfile",
@@ -67,7 +67,7 @@
       "type": "hosts",
       "counts": {
         "ips": 0,
-        "hosts": 54620,
+        "hosts": 54630,
         "networks": 0
       },
       "error": null
