@@ -196,6 +196,15 @@ function writeJson(filePath, obj) {
   fs.writeFileSync(filePath, JSON.stringify(obj, null, 2), 'utf8');
 }
 
+function toMikrotikAddressListLine(address) {
+  return `/ip firewall address-list add list=unwanted-threats address=${address} comment="unwanted-threats/mikrotik" timeout=48h;`;
+}
+
+function writeMikrotikRsc(filePath, addresses) {
+  const lines = addresses.map(toMikrotikAddressListLine);
+  writeArrayToTxt(filePath, lines);
+}
+
 async function main() {
   ensureOutputDir();
 
@@ -248,6 +257,8 @@ async function main() {
 
   writeArrayToTxt(path.join(OUTPUT_DIR, 'networks.txt'), networksArray);
   writeJson(path.join(OUTPUT_DIR, 'networks.json'), networksArray);
+  writeMikrotikRsc(path.join(OUTPUT_DIR, 'ips.rsc'), ipsArray);
+  writeMikrotikRsc(path.join(OUTPUT_DIR, 'networks.rsc'), networksArray);
 
   writeJson(path.join(OUTPUT_DIR, 'summary.json'), {
     generated_at: new Date().toISOString(),
