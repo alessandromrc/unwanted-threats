@@ -6245,7 +6245,6 @@ baiduccdn1.com
 baj.pot-5.ru
 bajaban.sa.com
 bajzii.cyou
-bakhtov.com.ua
 bakvau-store.evascientific.com
 bal-rewards.xyz
 bal7ux.s1aughttre5s.ru
@@ -9338,6 +9337,7 @@ chimdikeiheanyichukwu.ydns.eu
 chimneyrepairgulfbreeze.com
 chimusgen.duckdns.org
 china-sec.gl.at.ply.gg
+chinaapper.com
 chinana5.com
 chinasite.com.br
 chinij.mom
@@ -9712,6 +9712,7 @@ cl3view.diversityvent.in.net
 cl3view.kineticmatrixduct.in.net
 cl3view.logicmetricgate.in.net
 cl3view.obsidianmatrix.in.net
+cl3view.quantumbeacon.in.net
 cl3view.signalpathfinder.in.net
 cl3view.sunnode.in.net
 cl3view.synchrometrixbox.in.net
@@ -9736,6 +9737,7 @@ cl4path.diversityvent.in.net
 cl4path.kineticmatrixduct.in.net
 cl4path.logicmetricgate.in.net
 cl4path.obsidianmatrix.in.net
+cl4path.quantumbeacon.in.net
 cl4path.signalpathfinder.in.net
 cl4path.sunnode.in.net
 cl4path.synchrometrixbox.in.net
@@ -12291,6 +12293,7 @@ dev1proc.orbitalvectorhub.in.net
 dev1proc.ovipositortrace.in.net
 dev1proc.patronageshelk.in.net
 dev1proc.photonicdatanode.in.net
+dev1proc.pinnacleforge.in.net
 dev1proc.platyhelminth.in.net
 dev1proc.pyroxenetrace.in.net
 dev1proc.tectonicstream.in.net
@@ -12307,6 +12310,7 @@ dev2outer.oakcore.in.net
 dev2outer.orbitalvectorhub.in.net
 dev2outer.ovipositortrace.in.net
 dev2outer.patronageshelk.in.net
+dev2outer.pinnacleforge.in.net
 dev2outer.platyhelminth.in.net
 dev2outer.pyroxenetrace.in.net
 dev2power.annelidatrace.in.net
@@ -12330,6 +12334,7 @@ dev3field.oakcore.in.net
 dev3field.orbitalvectorhub.in.net
 dev3field.ovipositortrace.in.net
 dev3field.patronageshelk.in.net
+dev3field.pinnacleforge.in.net
 dev3field.platyhelminth.in.net
 dev3field.pyroxenetrace.in.net
 dev3host.metracore.in.net
@@ -12355,6 +12360,7 @@ dev4space.oakcore.in.net
 dev4space.orbitalvectorhub.in.net
 dev4space.ovipositortrace.in.net
 dev4space.patronageshelk.in.net
+dev4space.pinnacleforge.in.net
 dev4space.platyhelminth.in.net
 dev4space.pyroxenetrace.in.net
 dev4work.annelidatrace.in.net
@@ -23104,7 +23110,6 @@ javnek.mintbrook.ru
 javsenpai.pages.dev
 javsenpaiii.pages.dev
 javxet.imp0rttwi5t.ru
-jawaratekno.com
 jawared1-63785.portmap.host
 jawks.t3.storage.dev
 jax3um.gu1detr2in.ru
@@ -24553,7 +24558,6 @@ kingspark.biz
 kingspy.freemyip.com
 kingstare-54289.portmap.host
 kingstellsforlifers.duckdns.org
-kingstreetdental.com.au
 kingsviewpaving.com
 kinkbellow.ru
 kino.br.com
@@ -25531,7 +25535,6 @@ landtransparency.org.zm
 lane7.emberiake.ru
 lanecheck.slashbak.in.net
 laneserv.protdast.in.net
-lankystocks.com
 lanshenglogistics.com
 lantern.plea36slavneck.coupons
 lantern.rocket7flora.coupons
@@ -26095,8 +26098,10 @@ live-ro.gl.at.ply.gg
 live.m365.1drive.zip
 live.zanax6aa1.ru
 livecleveland.org
+livefirestore.com
 livehirehub.com
 livehostingers.shop
+livepokercoaching.com
 liverfatdiet.stechdaily.com
 liveroad.urbanpulse.coupons
 liveworkplaylkn.com
@@ -33273,6 +33278,7 @@ online.fundacaoiluminar.com.br
 online.igad.edu.ec
 online.itehcmc.travel
 online.prealternativo.com.br
+onlineappdownload.507.net.cn
 onlinebusinessbee.com
 onlineclub.info
 onlinekings.cyou
@@ -40498,7 +40504,6 @@ shade.shadowm1nt.ru
 shade8.shad0wdrop.ru
 shadenetwork.live
 shadenetwork.run
-shaderm.com
 shadow-grove.ru
 shadow.adv0cal1egat.ru
 shadow.c2dmiumgho5t.ru
@@ -40534,7 +40539,6 @@ shafun.silvermeadow.in.net
 shahamanatme.com
 shahkkkk-45956.portmap.host
 shaktibiotech.in
-shalimarlpg.com
 shall-latt.alfabon.in.net
 shalyunkotmoroz-104.icu
 shamoon.riveraautomotriz.com.mx
@@ -43036,6 +43040,7 @@ svc1proc.activefusioncore.in.net
 svc1proc.activestaticsync.in.net
 svc1proc.beakprosperity.in.net
 svc1proc.darkcloudgateway.in.net
+svc1proc.elementpatron.in.net
 svc1proc.exuviaestreamnet.in.net
 svc1proc.modulardatastream.in.net
 svc1proc.nematodastream.in.net
@@ -43556,7 +43561,6 @@ t1.fs-8-e-0.ru
 t1.gr3e4.ru
 t1.h-29i.ru
 t1.h9u8w.ru
-t1.i-215.ru
 t1.j-70o.ru
 t1.j0a8n.ru
 t1.j1z2u.ru
@@ -44365,6 +44369,7 @@ theluxespa.co.zw
 them-choose.gl.at.ply.gg
 themccoyhome.com
 themembranes.aurovine.com
+thementordirectory.com
 themexicansuitcase.com
 themillennialdiyer.com
 themillennialdiyer.com.rmi.pau.temporary.site
@@ -51732,7 +51737,6 @@ www.lmfire.net
 www.lntrealty.com
 www.localgrapevines.mobimark.net
 www.lockyloadcollectibles.com
-www.longfeng188.com
 www.lookauth.com.ng
 www.lootlify.ch
 www.loquieroya.website
