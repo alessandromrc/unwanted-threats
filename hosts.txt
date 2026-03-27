@@ -12409,6 +12409,7 @@ dev4space.pinnacleforge.in.net
 dev4space.platyhelminth.in.net
 dev4space.pyroxenetrace.in.net
 dev4work.annelidatrace.in.net
+dev4work.banchiktend.in.net
 dev4work.blackpeakstorage.in.net
 dev4work.chromaprocessing.in.net
 dev4work.elytrapointnode.in.net
@@ -43145,6 +43146,7 @@ sv.mcyz4.ru
 sv.mw2o3.ru
 sv.nqyf7.ru
 svc.lo9q.ru
+svc1infra.accomplicerepreh.in.net
 svc1infra.activetensorbase.in.net
 svc1infra.arthropodameta.in.net
 svc1infra.binaryflowbuffer.in.net
