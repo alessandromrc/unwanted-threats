@@ -9714,6 +9714,7 @@ cl2point.sororatspot.in.net
 cl2point.sunnode.in.net
 cl2point.synchrometrixbox.in.net
 cl2point.tarsusdatagate.in.net
+cl2point.vectorprospera.in.net
 cl2point.wildbranchcluster.in.net
 cl2remote.catalystbloom.in.net
 cl2remote.chrysalisbuffer.in.net
@@ -9768,6 +9769,7 @@ cl3view.sororatspot.in.net
 cl3view.sunnode.in.net
 cl3view.synchrometrixbox.in.net
 cl3view.tarsusdatagate.in.net
+cl3view.vectorprospera.in.net
 cl3view.wildbranchcluster.in.net
 cl4link.catalystbloom.in.net
 cl4link.chrysalisbuffer.in.net
@@ -9800,6 +9802,7 @@ cl4path.sororatspot.in.net
 cl4path.sunnode.in.net
 cl4path.synchrometrixbox.in.net
 cl4path.tarsusdatagate.in.net
+cl4path.vectorprospera.in.net
 cl4path.wildbranchcluster.in.net
 cl4sat.linearductnode.in.net
 cl4static.inertialstreamhub.in.net
@@ -12362,6 +12365,7 @@ dev1proc.investonerous.in.net
 dev1proc.ironrootprocessor.in.net
 dev1proc.linearprocessnode.in.net
 dev1proc.meaningvitiaty.in.net
+dev1proc.nexuspatronage.in.net
 dev1proc.nodalbufferpoint.in.net
 dev1proc.northoak.in.net
 dev1proc.oakcore.in.net
@@ -12384,6 +12388,7 @@ dev2outer.controlpeople.in.net
 dev2outer.ironrootprocessor.in.net
 dev2outer.linearprocessnode.in.net
 dev2outer.meaningvitiaty.in.net
+dev2outer.nexuspatronage.in.net
 dev2outer.nodalbufferpoint.in.net
 dev2outer.oakcore.in.net
 dev2outer.orbitalvectorhub.in.net
@@ -12415,6 +12420,7 @@ dev3field.controlpeople.in.net
 dev3field.ironrootprocessor.in.net
 dev3field.linearprocessnode.in.net
 dev3field.meaningvitiaty.in.net
+dev3field.nexuspatronage.in.net
 dev3field.nodalbufferpoint.in.net
 dev3field.oakcore.in.net
 dev3field.orbitalvectorhub.in.net
@@ -12448,6 +12454,7 @@ dev4space.controlpeople.in.net
 dev4space.ironrootprocessor.in.net
 dev4space.linearprocessnode.in.net
 dev4space.meaningvitiaty.in.net
+dev4space.nexuspatronage.in.net
 dev4space.nodalbufferpoint.in.net
 dev4space.oakcore.in.net
 dev4space.orbitalvectorhub.in.net
@@ -15034,6 +15041,7 @@ espied.diversist.com
 espoir.plar9ten2zo.ru
 espreesso.lol
 espresso.name
+esr.ro
 esrndndubsbsifurfd.ru
 essaugavada.com
 essay8.5-forez-515-o.ru
@@ -21326,6 +21334,7 @@ host.forestcl0ud.ru
 host.globalinfohost.top
 host.pl-8-a.ru
 host.retirevillage.com
+host.wemnbbsweoipmngbyutrdcunbgrtjeroendns.pro
 host123.zz.am
 host1store.datacentricnode.in.net
 host2remote.datacentricnode.in.net
@@ -28376,6 +28385,7 @@ malware.rogerperrybook.com
 malware.ronesanskoltuk.com
 malware.royal-sea-6c18.firebrainss.workers.dev
 malware.rr88-rr886666.com
+malware.rrb.uk.com
 malware.saeruet.com
 malware.safeguard.in.net
 malware.sarahl.ru.com
@@ -31907,7 +31917,6 @@ no.v-96-g.ru
 no.vex-0.ru
 no.wi-7e.ru
 no.windowupdateservice.com
-no.xkqi8.ru
 no.xrhu-7.ru
 no.z3-lu.ru
 no555.wtes4.ru
@@ -40802,6 +40811,7 @@ shenlong.eu.cc
 shenron19862.duckdns.org
 shericandler.com
 shfh-54092.portmap.host
+shfug.org
 shibagod.com
 shie-vit.excitfollower.in.net
 shiel-track.farngo.in.net
@@ -43258,6 +43268,7 @@ svc1proc.modulardatastream.in.net
 svc1proc.nematodastream.in.net
 svc1proc.playrevenater.in.net
 svc1proc.protopathfinder.in.net
+svc1proc.quantumharbinger.in.net
 svc1proc.quantumrelaypoint.in.net
 svc1proc.redbyte.in.net
 svc1proc.rhyolitenodehub.in.net
@@ -43326,6 +43337,7 @@ svc2steel.exuviaestreamnet.in.net
 svc2steel.greyreduction.in.net
 svc2steel.nematodastream.in.net
 svc2steel.playrevenater.in.net
+svc2steel.quantumharbinger.in.net
 svc2steel.quantumrelaypoint.in.net
 svc2steel.redbyte.in.net
 svc2steel.rhyolitenodehub.in.net
@@ -47218,7 +47230,6 @@ v2.9-k588.ru
 v2.90phutiu.cc
 v2.91clubgamez.com
 v2.a-84l.ru
-v2.a-91p.ru
 v2.a3artistsagency.com
 v2.aballerinastale.com
 v2.aboutlocalmagazine.com
