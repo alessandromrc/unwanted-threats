@@ -196,13 +196,34 @@ function writeJson(filePath, obj) {
   fs.writeFileSync(filePath, JSON.stringify(obj, null, 2), 'utf8');
 }
 
-function toMikrotikAddressListLine(address) {
-  return `/ip firewall address-list add list=unwanted-threats address=${address} comment="unwanted-threats/mikrotik" timeout=48h;`;
+function toMikrotikAddressListLine(address, list) {
+  return `/ip firewall address-list add list=${list} address=${address} comment="${list}/mikrotik" timeout=48h;`;
 }
 
-function writeMikrotikRsc(filePath, addresses) {
-  const lines = addresses.map(toMikrotikAddressListLine);
+function writeMikrotikRsc(filePath, addresses, listName = 'unwanted-threats') {
+  const lines = addresses.map((address) => toMikrotikAddressListLine(address, listName));
   writeArrayToTxt(filePath, lines);
+}
+
+async function getUptimeRobotIPs() {
+  const ips = new Set();
+  const URL = 'https://cdn.uptimerobot.com/api/IPv4.txt';
+
+  try {
+    const text = await downloadText(URL);
+    const lines = text.split(/\r?\n/);
+    for (const rawLine of lines) {
+      const line = rawLine.trim();
+      if (!line || line.startsWith('#')) continue;
+      const token = line.split(/\s+/)[0];
+      if (ipv4Regex.test(token) && !isPrivateOrReserved(token)) {
+        ips.add(token);
+      }
+    }
+  } catch (err) {
+    console.error(`Error fetching UptimeRobot IPs: ${err.message}`);
+  }
+  return ips;
 }
 
 async function main() {
@@ -259,6 +280,12 @@ async function main() {
   writeJson(path.join(OUTPUT_DIR, 'networks.json'), networksArray);
   writeMikrotikRsc(path.join(OUTPUT_DIR, 'ips.rsc'), ipsArray);
   writeMikrotikRsc(path.join(OUTPUT_DIR, 'networks.rsc'), networksArray);
+
+
+  writeArrayToTxt(path.join(OUTPUT_DIR, 'uptimerobot_ips.txt'), Array.from(await getUptimeRobotIPs()).sort());
+  writeJson(path.join(OUTPUT_DIR, 'uptimerobot_ips.json'), Array.from(await getUptimeRobotIPs()).sort());
+  writeMikrotikRsc(path.join(OUTPUT_DIR, 'uptimerobot_ips.rsc'), Array.from(await getUptimeRobotIPs()).sort(), 'uptimerobot');
+  writeMikrotikRsc(path.join(OUTPUT_DIR, 'uptimerobot_networks.rsc'), Array.from(await getUptimeRobotIPs()).map(ip => `${ip}/32`).sort(), 'uptimerobot');
 
   writeJson(path.join(OUTPUT_DIR, 'summary.json'), {
     generated_at: new Date().toISOString(),
