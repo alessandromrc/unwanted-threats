@@ -4986,6 +4986,7 @@ archilabdesigns.com
 archive-candidate.gl.at.ply.gg
 archive-common.gl.at.ply.gg
 archive-medical.gl.at.ply.gg
+archive-site.alignmentstorage.in.net
 archive.disapp43squithes.coupons
 archive.orlandoluxuryproperties.com
 archives-buried.gl.at.ply.gg
@@ -6218,6 +6219,7 @@ backsan.cyou
 backstage.cn.com
 backsth.pics
 backstreet.uk.com
+backup-hub.alignmentstorage.in.net
 backup.90phutiu.cc
 backup.a3artistsagency.com
 backup.academy.oligoflora.com.br
@@ -7296,6 +7298,7 @@ bln.vex0.ru
 blo0d.xiqek-40-ye-8.ru
 blob.bl0bspinner.ru
 blobcoin.lat
+block-storage.alignmentstorage.in.net
 block.c2rpyub2n.ru
 block.granitepfad.ru
 blockassess.com
@@ -8523,6 +8526,7 @@ cache-dist-10.stillewasser.in.net
 cache-dist-12.cielonumerique.in.net
 cache-dist-5.vitagrazia.in.net
 cache-dist-77.schnellkraft.in.net
+cache-node.alignmentstorage.in.net
 cache-optimize.top
 cache-path.slashbak.in.net
 cache.datash1ft.ru
@@ -16497,6 +16501,7 @@ fiker.cattermicoffa.sbs
 fiklokasilupafas.com
 fikolasdklnbhgss.com
 fikp.ru
+file-share.alignmentstorage.in.net
 file.blackint3.com
 file.oss-flash.shop
 file.uhsea.com
@@ -17748,7 +17753,6 @@ g4.k0m7y.ru
 g4.t-14o.ru
 g4.t99oo.ru
 g4.ua-20.ru
-g4.v-03e.ru
 g4.w-45u.ru
 g4.x-6kox.ru
 g4.xkx-0-o.ru
@@ -22610,6 +22614,7 @@ indeanapolice.cc
 indef.locker
 independoza.news
 index-hall.gl.at.ply.gg
+index-master.foundationmetric.in.net
 index.datash1ft.ru
 india81news.in.net
 indiadeal.in.net
@@ -24247,7 +24252,6 @@ k4.t99oo.ru
 k4.torque-bud.ru
 k4.tqrjf.ru
 k4.ua-20.ru
-k4.v-03e.ru
 k4.v-36u.ru
 k4.vzj-1-o.ru
 k4.w-45u.ru
@@ -26649,6 +26653,7 @@ lo.vhhe9.ru
 lo.ze-lu.ru
 lo68g.darkw1re.ru
 load-balancer-3.starkstrom.in.net
+load-balancer.cantileverbridge.in.net
 load-leaf.scrollnft.in.net
 load3core.infravariable.in.net
 load3data.secureterminal.in.net
@@ -35881,7 +35886,6 @@ pm7.k0m7y.ru
 pm7.t-14o.ru
 pm7.t99oo.ru
 pm7.ua-20.ru
-pm7.v-03e.ru
 pm7.w-45u.ru
 pm7.x-6kox.ru
 pm7.xkx-0-o.ru
@@ -42428,6 +42432,7 @@ spadeleg.xyz
 spaessentials.net
 spam.authorandrewsmith.com
 spam.onthewifi.com
+span-control.cantileverbridge.in.net
 span2.mistybr1dge.ru
 span2.safebr1dge.ru
 spanblock.diameterimpassab.ru
@@ -43261,6 +43266,7 @@ streetart.velvetmaple.coupons
 streetxhunx.no-ip.biz
 stremy.wildstream.ru
 stress-substance-mall-corrections.trycloudflare.com
+stress-test.cantileverbridge.in.net
 stri5-reach.spinpath.in.net
 strictinspect.jacksend.in.net
 strike-35725.portmap.host
@@ -44036,6 +44042,7 @@ sync-m1-vision.altocentro.in.net
 sync-m2-vision.curva-flux.cfd
 sync-m8-vision.nexustech-v.in.net
 sync-node.modula.in.net
+sync-portal.alignmentstorage.in.net
 sync-route.radiantprospera.in.net
 sync-sys.goodtime.in.net
 sync-unit.synchromesh.in.net
@@ -54423,7 +54430,6 @@ y.pejy1.ru
 y.q1s6c.ru
 y.t-14o.ru
 y.ua-20.ru
-y.v-03e.ru
 y.vxof.ru
 y.w-45u.ru
 y.x-6kox.ru
