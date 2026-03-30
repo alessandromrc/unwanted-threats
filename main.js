@@ -3,6 +3,7 @@ const path = require('path');
 const fetch = require('node-fetch');
 
 const { FALSE_POSITIVES } = require('./false_positives');
+const { uptime } = require('process');
 
 console.log(`Loaded ${FALSE_POSITIVES.length} false positives from false_positives.js`);
 
@@ -244,12 +245,14 @@ async function main() {
   const allNetworks = new Set();
   const perFeedSummary = [];
 
+  const uptimerobotIPs = await getUptimeRobotIPs();
+
   for (const result of results) {
     const { feed, ips, hosts, networks, error } = result;
-
     if (ips) {
       ips.forEach(ip => {
-        if (!isFalsePositive(ip)) {
+        if (!isFalsePositive(ip) && !(uptimerobotIPs.has(ip))) 
+        {
           allIps.add(ip);
         }
       });
@@ -294,10 +297,10 @@ async function main() {
   writeMikrotikRsc(path.join(OUTPUT_DIR, 'networks.rsc'), networksArray);
 
 
-  writeArrayToTxt(path.join(OUTPUT_DIR, 'uptimerobot_ips.txt'), Array.from(await getUptimeRobotIPs()).sort());
-  writeJson(path.join(OUTPUT_DIR, 'uptimerobot_ips.json'), Array.from(await getUptimeRobotIPs()).sort());
-  writeMikrotikRsc(path.join(OUTPUT_DIR, 'uptimerobot_ips.rsc'), Array.from(await getUptimeRobotIPs()).sort(), 'uptimerobot');
-  writeMikrotikRsc(path.join(OUTPUT_DIR, 'uptimerobot_networks.rsc'), Array.from(await getUptimeRobotIPs()).map(ip => `${ip}/32`).sort(), 'uptimerobot');
+  writeArrayToTxt(path.join(OUTPUT_DIR, 'uptimerobot_ips.txt'), Array.from(uptimerobotIPs).sort());
+  writeJson(path.join(OUTPUT_DIR, 'uptimerobot_ips.json'), Array.from(uptimerobotIPs).sort());
+  writeMikrotikRsc(path.join(OUTPUT_DIR, 'uptimerobot_ips.rsc'), Array.from(uptimerobotIPs).sort(), 'uptimerobot');
+  writeMikrotikRsc(path.join(OUTPUT_DIR, 'uptimerobot_networks.rsc'), Array.from(uptimerobotIPs).map(ip => `${ip}/32`).sort(), 'uptimerobot');
 
   writeJson(path.join(OUTPUT_DIR, 'summary.json'), {
     generated_at: new Date().toISOString(),
