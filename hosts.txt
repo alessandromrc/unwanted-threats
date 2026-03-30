@@ -3857,7 +3857,6 @@ agysusgmimucakii.xyz
 agywyyggkmaaasko.xyz
 ah.cpc8u.ru
 ah.n6ri.ru
-ah.qjxo4.ru
 ah.qqd-6-e.ru
 ah.shadowl1nk.ru
 ah.to-qa.ru
@@ -7536,6 +7535,7 @@ booloo.hopto.org
 boom.plume-anchor.ru
 booomaahuuoooapl.ru
 booomaahuuoooapl.su
+boost-engine.velocityterminal.in.net
 boost.bu1gep2lest.ru
 boostbiotics.com
 boosterjuices.com
@@ -10304,6 +10304,7 @@ code.le3nsnet7e.ru
 code.picket-warp.ru
 code.rainst0rm.ru
 code6.dunn0en7el.ru
+codec-proxy.compressionlayer.in.net
 codecog.ru
 codered.chownjoysomerville.com
 codered.ironalarm.io
@@ -12387,6 +12388,7 @@ denjak.store
 dennesbury.com
 denny-holdgrid.dennyportfol.in.net
 denometricit.com.de
+dense-pack.compressionlayer.in.net
 denseplume.condenfeather.ru
 denshikeiyaku-hikaku.com
 densrunw.vertexharbinger.in.net
@@ -16124,6 +16126,7 @@ fast-path-x.clairsol.coupons
 fast-port-logic.quickharbor.in.net
 fast-track-delivery.dealharbor.coupons
 fast-track-sensor.rapidtrail.in.net
+fast-track.velocityterminal.in.net
 fast-web.luminos.in.net
 fast.rjuq-3.ru
 fast7.bokshire.in.net
@@ -16780,6 +16783,7 @@ flashpulsenow.info
 flashvibenowhub.info
 flashzenithx.info
 flasrta.cyou
+flat-buffer.compressionlayer.in.net
 flat.da-5-v.ru
 flat.da5v.online
 flatheadcat.com
@@ -36643,6 +36647,7 @@ pureglownow.de
 pureglowx.dev
 pureland3.estrellis.in.net
 purelight.glasspurity.coupons
+puremartbd.shop
 purenestx.info
 purenexusnow.de
 purepulsenow.me
@@ -37788,6 +37793,7 @@ quibrigalqui.za.com
 quick-7.novalento.in.net
 quick-go.silvura.in.net
 quick-harbor-unit.quickharbor.in.net
+quick-step.velocityterminal.in.net
 quick-verify.terrepure.coupons
 quick.cl0udland.ru
 quick.draft-snip.ru
@@ -38038,7 +38044,6 @@ qz9.gr3e4.ru
 qz9.h-29i.ru
 qz9.j-70o.ru
 qz9.j1z2u.ru
-qz9.jo-59.ru
 qz9.k-72o.ru
 qz9.kj4o0.ru
 qz9.l99oy.ru
@@ -38453,6 +38458,7 @@ rap.xa5r.ru
 rapbmprhwwm.com
 rapetus.online
 rapid-dune-sand.rapiddune.ru
+rapid-fire.velocityterminal.in.net
 rapid-stream-data.rapidbrook.ru
 rapid-trail-path.rapidtrail.in.net
 rapid.brightridge.ru
@@ -38535,6 +38541,7 @@ raven31.valuevault8.coupons
 ravenkw.shop
 ravenreview.currvers.in.net
 ravenwehr.ru
+raw-stream.compressionlayer.in.net
 raw.fix-fg.ru
 raw.flameblox.com
 raw.ju5q.ru
@@ -39140,6 +39147,7 @@ rig.bit-e.ru
 rig.n4ym.ru
 rightea.pics
 rigogabriele.it
+rigpacket.com
 rihuwuo.ru
 riinu.net
 rijd0n.wavec0re.ru
@@ -41191,6 +41199,7 @@ shieldpath.censure47contr.coupons
 shieldretainer.rockbay.in.net
 shienkenkyu.com
 shieshan.ydns.eu
+shift-ctrl.velocityterminal.in.net
 shift.5lau8htwater.ru
 shift.bash-glider.ru
 shift.comp-0-tsab-3-e.ru
@@ -41304,6 +41313,7 @@ shreekrishnaindustries.in.net
 shreeshyammotors.in
 shrewzh.cyou
 shrimpcoin.lol
+shrink-node.compressionlayer.in.net
 shroudcloud.ru.com
 shsq4l7w.urbanforge.digital
 shtcoin.lol
@@ -43592,6 +43602,7 @@ surit2948estoat02.duckdns.org
 surve-spool.bluelight.in.net
 survebroa.dawnspire.in.net
 surveillance.steelpanman.com
+survey-data.topographictrace.in.net
 survey-tennessee-blind-corners.trycloudflare.com
 surveyrock.geodesistpile.in.net
 susanamadre.duckdns.org
@@ -44248,7 +44259,6 @@ t1.h9u8w.ru
 t1.j-70o.ru
 t1.j0a8n.ru
 t1.j1z2u.ru
-t1.jo-59.ru
 t1.k-72o.ru
 t1.kj4o0.ru
 t1.l99oy.ru
@@ -47832,7 +47842,6 @@ v2.j1z2u.ru
 v2.jammu-kashmir.com
 v2.jasmyneacannick.com
 v2.jerrysdogs.com
-v2.jo-59.ru
 v2.journeyblackhome.co
 v2.k-72o.ru
 v2.kallisti.uk.com
@@ -55947,6 +55956,7 @@ zingst24.com
 zinrum.darkn0va.ru
 zinuwue5.top
 zinyjuu1.ru
+zip-archive.compressionlayer.in.net
 zip.zen-and.ru
 ziphelpless.info
 ziplocker.duckdns.org
