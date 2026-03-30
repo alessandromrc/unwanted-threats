@@ -1,0 +1,7 @@
+const FALSE_POSITIVES =
+[
+  "52.123.129.14", // Microsoft
+]
+
+
+exports.FALSE_POSITIVES = FALSE_POSITIVES

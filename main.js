@@ -2,6 +2,10 @@ const fs = require('fs');
 const path = require('path');
 const fetch = require('node-fetch');
 
+const { FALSE_POSITIVES } = require('./false_positives');
+
+console.log(`Loaded ${FALSE_POSITIVES.length} false positives from false_positives.js`);
+
 const OUTPUT_DIR = path.join(__dirname, 'output');
 
 const FEEDS = [
@@ -65,6 +69,10 @@ function isPrivateOrReserved(ip) {
   if (a === 255 && b === 255 && parts[2] === 255 && parts[3] === 255) return true;
 
   return false;
+}
+
+function isFalsePositive(ip) {
+  return FALSE_POSITIVES.includes(ip);
 }
 
 async function downloadText(url) {
@@ -240,7 +248,11 @@ async function main() {
     const { feed, ips, hosts, networks, error } = result;
 
     if (ips) {
-      ips.forEach(ip => allIps.add(ip));
+      ips.forEach(ip => {
+        if (!isFalsePositive(ip)) {
+          allIps.add(ip);
+        }
+      });
     }
     if (hosts) {
       hosts.forEach(h => allHosts.add(h));
