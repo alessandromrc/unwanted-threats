@@ -2805,7 +2805,6 @@ aa9.p-62i.ru
 aa9.p-99o.ru
 aa9.q-5ket.ru
 aa9.q8g1y.ru
-aa9.r99ae.ru
 aa9.t-68e.ru
 aa9.tqxfs.ru
 aa9.x-57u.ru
@@ -5503,6 +5502,7 @@ atmospheric-sensor-unit.quietwind.ru
 atmosphored.de
 atom-lattice.molecularbonding.in.net
 atom-mount.oakwhisper.in.net
+atom-split.quantaflux.in.net
 atomi-point.norsdwest.in.net
 atomi5-watch.woodflo.in.net
 atomicvale.highjoke.in.net
@@ -8418,7 +8418,6 @@ c1x3.8ss4e.ru
 c1z.122suj.ru
 c1z.60nma5.ru
 c2-core-sync.focozero.in.net
-c2.chuliusec1.xyz
 c2.clc2.cl
 c2.enanana.site
 c2.kdesu.ru
@@ -10804,6 +10803,7 @@ corvus-infra.cc
 corvuscoin.digital
 cosalon2022.com
 coscoshippingjp.duckdns.org
+cosmic-link.astrahaven.in.net
 cossak.cos5acklove1.ru
 costactspreadinf.duckdns.org
 costtaadvogados.agencialegalads.com
@@ -12376,6 +12376,7 @@ deep-n.com
 deep-pat.yellglass.in.net
 deep-sea.estoria.in.net
 deep-sea.gr
+deep-sky.astrahaven.in.net
 deep-space.cosmoforge.in.net
 deep-space.lunavilla.in.net
 deep-water-sensor.stormbay.ru
@@ -14310,6 +14311,7 @@ educationexpands.in.net
 educatorshub.org
 educlic.ca
 eduu.dev.prodevr.com
+edward-fwd-vacuum-changelog.trycloudflare.com
 edwinvieira.com
 edzgpr.n1ghtridge.in.net
 edzripy.ru
@@ -19373,6 +19375,7 @@ gloriousinventory.com
 gloscarrie.radiantharbinger.in.net
 gloss.his5isappe2r.ru
 glossapi.greentea.in.net
+glow-portal.luminflux.in.net
 glow-ridge-light.glowridge.ru
 glow.b1tcascade.ru
 glow.br0adtemp1ate.ru
@@ -19990,6 +19993,7 @@ grau.driftklause.ru
 grau5.stormfiare.ru
 grau5e.nebeltal.ru
 gravefrnothere-40108.portmap.host
+gravity-io.orbitforge.in.net
 grayroad.grayford.in.net
 grb.prgss.dev
 grc.jamesbreese.com
@@ -20989,6 +20993,7 @@ hancohomes.com
 hand.gofumoo29.ru
 hand.k-8-li.ru
 handball.in.net
+handed-mines-abc-intensity.trycloudflare.com
 handleramber.cl0verpeak.in.net
 handlerasset.winlog.in.net
 handoff.mango6courier.coupons
@@ -24514,7 +24519,6 @@ k4.w-48u.ru
 k4.x-6kox.ru
 k4.xkx-0-o.ru
 k4.y3-68c.ru
-k4.zi-87.ru
 k459j.bluef0rm.ru
 k4l.puffwarden.ru
 k4m8.h-3t.online
@@ -26266,6 +26270,7 @@ lauderteacher.com
 lauedaiednaibduf.to
 laufschuhe.de.com
 laughing-octo.info
+launch-pad.orbitforge.in.net
 launchprocess.slowcube.in.net
 launchwind.tunefour.in.net
 laundryball.com.au
@@ -27061,6 +27066,7 @@ loganwolverin2027.duckdns.org
 loganwolverin2028.duckdns.org
 logi-base.trailvantage.in.net
 logic-core.primordialis.in.net
+logic-gate.quantaflux.in.net
 logic-rule.axiomforge.in.net
 logic-sync.primordialis.in.net
 logic7.go0dsc1ence.ru
@@ -29843,6 +29849,7 @@ micp.rainf0x.ru
 micr-line.cloudgloss.in.net
 micro-bio.hryvmicrobiol.in.net
 micro-chip.circuitflux.in.net
+micro-pulse.quantaflux.in.net
 micro-v5.hryvmicrobiol.in.net
 microb1o-lattice.sdflkmicrobiol.in.net
 microbecip.zenithventurex.in.net
@@ -35927,6 +35934,7 @@ pike.ci2udforge.ru
 pikkdamatea.hu
 pilaut.nl
 pilhar.dockhype.in.net
+pilot-auth.astrahaven.in.net
 pilotweb.se
 pilsner-creative-media.de
 pilzur.c0lombve8et.ru
@@ -36250,7 +36258,6 @@ pm7.ua-20.ru
 pm7.w-45u.ru
 pm7.x-6kox.ru
 pm7.xkx-0-o.ru
-pm7.zi-87.ru
 pma.jarry.onl
 pmb-dev.uid.ac.id
 pmbaruah.com
@@ -39248,6 +39255,7 @@ reppox.glint39parko.coupons
 repr-net.representtank.in.net
 repr-v8.representtank.in.net
 representativeaddition.info
+represents-causes-conflicts-silver.trycloudflare.com
 reprint-handbook.sa.com
 reprint-stories.sa.com
 repsand.runfast.in.net
@@ -39888,6 +39896,7 @@ routercanva.bluelight.in.net
 routing.apple2dispatch.coupons
 rovae.org
 rovdit.mintbrook.ru
+rover-earlier-baseline-karen.trycloudflare.com
 rovo.sa
 rownip.lupends.com
 rownip.mailredirect.ooo
@@ -40485,6 +40494,7 @@ saerw-caesre-scalova.sbs
 safe-dns.it.com
 safe-harbor.nexushaven.in.net
 safe-railway.gl.at.ply.gg
+safe-ship.astrahaven.in.net
 safe.safeguard.in.net
 safebrowsing.amal.sa.com
 safebrowsing.elijah.ru.com
@@ -42998,6 +43008,7 @@ spectrenx.vip
 spectrumdaemon.deepglom.in.net
 spectrumtechconsulting.com
 spee4d.fastp1ay.ru
+speed-test.quantaflux.in.net
 speedcargo.agrahurry.in.net
 speedmanny.fr
 speednode.fastlink.in.net
@@ -43043,6 +43054,7 @@ splo8s.rainbyte.ru
 sploaeieifuebaub.ru
 splwplx.cyou
 spn38una.pu7eer0d.ru
+spoar.org.in
 sponged.qpon
 sponges.cyou
 spool.doub1ebarzu8.ru
@@ -49719,6 +49731,7 @@ vivaboklaysdera.com
 vivid-grove-tree.vividgrove.in.net
 vivid.smshero.vip
 vivid8.kalmykvic0te.ru
+vivogrouplink.duckdns.org
 vixen.ambercoil.ru
 vixen.bracketloam.ru
 vixqew.humb1epr2bab.ru
@@ -49860,6 +49873,7 @@ voicefjo.paleontraglan.in.net
 voicetrusted.cr4ftlane.in.net
 voiceunbecoming.de
 void-gate.cosmoforge.in.net
+void-storage.astrahaven.in.net
 void-sync.darkhaven.in.net
 void.proxywall.p-e.kr
 void9r.5tormfoid.ru
@@ -55071,6 +55085,7 @@ y4w1.565fit.ru
 y5.hnaq6.ru
 y5.yjor.ru
 y54.bana1ity8ed.ru
+y57kdsa.duckdns.org
 y59d2xt3.1nterject0il.ru
 y5d9oidj.blue128cinder.digital
 y5fw.4-l8u.ru
