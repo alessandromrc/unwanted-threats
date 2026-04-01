@@ -4537,6 +4537,7 @@ anchor0-mount.natneth.in.net
 anchor0.gyro-desk.ru
 anciensdevaleo.com
 anctheory.frost-pixel.in.net
+anderdingus.aamothership.com
 andesfuel.ecuadoriangas.in.net
 andlache.com
 andqylq.ru
@@ -7189,6 +7190,7 @@ bit-e.online
 bit-e.ru
 bit-hub.cryptixy.in.net
 bit-hub.zentalis.in.net
+bit-stream.quantacircuit.in.net
 bit-stream.quantaflux.in.net
 bit-vault.cryptixy.in.net
 bit-vault.zentalis.in.net
@@ -22820,6 +22822,7 @@ importsan.rockapp.in.net
 importsbahia.com.br.caldasservice.com.br
 importuni.webback.in.net
 imprisso-eg.com
+impulse-api.neurovector.in.net
 impzowr.cyou
 imso.libre
 imsorrydidhejustsayhislastnameisburgur.vietnamddns.com
@@ -24832,6 +24835,7 @@ kasyweiomoggmgoq.xyz
 katana.chernobyl.network
 katana.jp.net
 katieqlhello.ru.com
+katz.adv.br
 katzcapital.retirevillage.com
 kaucwkgsycqwmycq.xyz
 kaueecsoycuwyeym.xyz
@@ -29654,6 +29658,7 @@ meta-check.t3.storage.dev
 meta-co1u.commonit.in.net
 meta-cu1tur.premiumtos.in.net
 meta-latt1c.covenantventure.in.net
+meta-layer.technosphere.in.net
 meta-p4stur.redflat.in.net
 meta-pur3.glowhaven.in.net
 meta-qu4nt.matchexact.in.net
@@ -29840,6 +29845,7 @@ migroltest.accarda.com
 miguelangellopez.es
 miguelaramirez.com
 mihandyhub.com
+mihorror2005.redirectme.net
 mijkar.com
 mijnbruiloft.wecapture.nl
 mijnvriendinenik.nl
@@ -29905,6 +29911,7 @@ minato-inc.net
 minboard.blinng.com
 mincho.site.tb-hosting.com
 mind-conclusion.gl.at.ply.gg
+mind-node.neurovector.in.net
 mind.cloudn0de.ru
 mind.m1stypath.ru
 mindabusiness.duckdns.org
@@ -31889,6 +31896,7 @@ nepedag445-42672.portmap.host
 nero-ns-cdns.sbs
 nerohut.com
 nerqnacjmdy3obvevyol7qhazkwkv57dwqvye5v46k5bcujtfa6sduad.onion
+nerve-center.neurovector.in.net
 nerverdieorcus.selfip.biz
 nervoir.net
 nesiabet.com
@@ -35087,6 +35095,7 @@ pacificmedicalpharma.com
 pacificpie.com
 package2879-core-maht-improved.s3.ap-northeast-2.amazonaws.com
 packecle.breezefield.in.net
+packet-flow.quantacircuit.in.net
 packet-flow.quantaflux.in.net
 packetblast.com
 packetley.com
@@ -38085,6 +38094,7 @@ quarz.crysta1shore.ru
 quasar.ydns.eu
 quasarrat220-24487.portmap.io
 quatrigge.glowhaven.in.net
+qubit-sync.quantacircuit.in.net
 qucwl9kb.crumplejet.ru
 qudo8h54.paragonventure.in.net
 qudor.fencingoregon.com
@@ -42946,6 +42956,7 @@ spectrenx.vip
 spectrumdaemon.deepglom.in.net
 spectrumtechconsulting.com
 spee4d.fastp1ay.ru
+speed-test.quantacircuit.in.net
 speed-test.quantaflux.in.net
 speedcargo.agrahurry.in.net
 speedmanny.fr
@@ -44471,6 +44482,7 @@ symbiose-business.fr
 symmetreas.media
 synap.nerv0u5radic.ru
 synap3.sv0orchond0.ru
+synapse-log.neurovector.in.net
 sync-01-edge.vittoriaviva.in.net
 sync-base.comenskeptic.in.net
 sync-base.multilsacred.in.net
@@ -45559,6 +45571,7 @@ thortogel.net
 thoseguysepoxyandmore.com
 thoughg.cyou
 thought-api.neurobloom.in.net
+thought-hub.neurovector.in.net
 thoughtsync.conscious86jag.coupons
 thquklc.ru
 thr3a-reach.appdeck.in.net
@@ -47674,6 +47687,7 @@ urb4n-gate.inkpit.in.net
 urban-01.silvaterra.in.net
 urban-access.metropolitangrid.in.net
 urban-data-point.urbanridge.ru
+urban-hub.technosphere.in.net
 urban-infrastructure-node.urbanstone.in.net
 urban-ridge-city.urbanridge.ru
 urban-sys.metropulse.in.net
@@ -51558,6 +51572,7 @@ workradihleba.live
 workshop.khlopotun6turn.coupons
 workspaces.dynv6.net
 workstation.chatutor.com
+world-view.technosphere.in.net
 worldclass.uk.com
 worlddaoism.org
 worldfa100.com
