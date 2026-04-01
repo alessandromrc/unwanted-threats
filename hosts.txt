@@ -17276,6 +17276,7 @@ for.drearilystrobe.com
 for1se-43493.portmap.host
 foranother1337.publicvm.com
 force-007-bk.ydns.eu
+force-field.infodynamics.in.net
 force-field.molecularbonding.in.net
 force5.syc0aq8uy1.online
 forceadvance.com
@@ -24551,7 +24552,6 @@ k4.i-78b.ru
 k4.k0m7y.ru
 k4.l6r7e.ru
 k4.mw-2-o-3.ru
-k4.n-80o.ru
 k4.p-13a.ru
 k4.si9a.ru
 k4.t-14o.ru
@@ -26600,6 +26600,7 @@ lgwdtq.paragonprospera.in.net
 lh-familyhub.com
 lh.je9t.ru
 lh3.sentihey.dedyn.io
+lh6tecuu.apexharvestor.digital
 lhakhgw.com
 lhcom.j-hodgson.co.uk
 lhf.g0ldenspire.ru
@@ -37718,7 +37719,6 @@ qk2.ea-43.ru
 qk2.h-23u.ru
 qk2.hqs-9-i.ru
 qk2.i-26h.ru
-qk2.l8w6u.ru
 qk2.m-49e.ru
 qk2.n-4daw.ru
 qk2.rdlkc.ru
@@ -38841,6 +38841,7 @@ randa.feqra.com
 randynorris.retirevillage.com
 rang.uk.com
 range-extend.signalcrest.in.net
+range-extend.signalvector.in.net
 range-finder.isothermalmetric.in.net
 range.corest0rm.ru
 range.dr1ftshade.ru
@@ -44477,7 +44478,6 @@ swiftbranch.fastleaf.in.net
 swiftcore.cloudbridge.city
 swiftechohub.biz
 swiftfluss.ru
-swiftfusion.tech
 swiftmining.win
 swiikoqgcycqeica.xyz
 swiiwaseummcewiw.xyz
@@ -46875,7 +46875,6 @@ u5.ea-43.ru
 u5.h-23u.ru
 u5.hqs-9-i.ru
 u5.i-26h.ru
-u5.l8w6u.ru
 u5.m-49e.ru
 u5.m1stzone.ru
 u5.n-4daw.ru
@@ -47334,6 +47333,7 @@ ui.qu1ck.ru
 ui.rk-8-y-6.ru
 ui.tweethost.com
 ui.x-vo4.ru
+ui2rn7ei.apexharvestor.digital
 uid2024-57338.portmap.io
 uigwsscasowqdiyp.com
 uiitmhi.ru
@@ -55057,7 +55057,6 @@ y.bl8205.online
 y.d55u5.ru
 y.dk-2-o-5.ru
 y.fttu6.ru
-y.h-76a.ru
 y.h8y0.ru
 y.hwgmm.ru
 y.hxhk.xyz
