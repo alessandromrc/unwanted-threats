@@ -6669,6 +6669,7 @@ beacon6.trickilygrey.com
 beam-handler.cantileverbridge.in.net
 beam-portal.isotopecleaner.in.net
 beam-relay.signalforge.in.net
+beam-target.signalvector.in.net
 beam-target.stellarflux.in.net
 beam.wir2.ru
 beamglow.lightstream.coupons
@@ -10484,6 +10485,7 @@ colleststride.duckdns.org
 collingular.com.se
 colonyorder.murasubordin.ru
 color-bit.pixelmatrix.in.net
+color-map.pixelengine.in.net
 color-mix.cameoinfusion.in.net
 coloradospringsfences.com
 colorfulglowllc.com
@@ -13474,6 +13476,7 @@ drapunninsom.floresflorchuvaouro.cfd
 drapunval.floresdelphinium.cfd
 drasqi.c1imby2p.ru
 dratatianeferreiraadv.com.agencialegalads.com
+draw-logic.pixelengine.in.net
 draw1.5-ninet-1-ou.ru
 drawhyp.prowinserv.in.net
 drawnbe.cyou
@@ -17448,6 +17451,7 @@ frac-run.fractalis.in.net
 frac-v08.fractalis.in.net
 fracture.disfi8tit2n.ru
 frakt8.crystalv1be.ru
+frame-buffer.pixelengine.in.net
 frame-donut.info
 frameclover.info
 framestove.info
@@ -22804,6 +22808,7 @@ imacturbosend.com
 imaczip.com
 image-fonts-awesomeserver.click
 image-hoster11.sbs
+image-proc.pixelengine.in.net
 image-stack.pixelmatrix.in.net
 image.duzhk2s1ob.ru
 image.flash.cn.com
@@ -28510,7 +28515,6 @@ mail.universalguvenlik.net
 mail.upscholarship.co.com
 mail.uranium-news.com
 mail.usniacorp.com
-mail.valorschoolsupplies.com
 mail.vanguartagency.com
 mail.vascofinancial.com
 mail.vascoinsurance.com
@@ -38487,7 +38491,6 @@ r.gwut.ru
 r.h-23u.ru
 r.hqs-9-i.ru
 r.i-26h.ru
-r.l8w6u.ru
 r.m-49e.ru
 r.n-4daw.ru
 r.p2j4k.ru
@@ -38753,6 +38756,7 @@ radian.starl1ght.ru
 radiant-log.isotopecleaner.in.net
 radio-freq.signalcrest.in.net
 radio-freq.signalforge.in.net
+radio-freq.signalvector.in.net
 radiofan88fm.ro
 radiohostbrasil.com.br
 radiopoljubac.net
@@ -38881,6 +38885,7 @@ rasslablen.com
 rastahack.no-ip.info
 rastaking.no-ip.info
 rastaking.no-ip.org
+raster-api.pixelengine.in.net
 raster-node.pixelmatrix.in.net
 rastroconversas.com.br
 rat.artmonkees.io
@@ -46076,6 +46081,7 @@ tovool123343123-42020.portmap.host
 tovqer.gu1detr2in.ru
 tower-sync.signalcrest.in.net
 tower-sync.signalforge.in.net
+tower-sync.signalvector.in.net
 town-council.municipalmatrix.in.net
 townnoise.xyz
 townquiver.xyz
@@ -50535,6 +50541,7 @@ wave-crest.signalcrest.in.net
 wave-form.lohsmacknon.in.net
 wave-form.regionaltelemetry.in.net
 wave-form.signalforge.in.net
+wave-form.signalvector.in.net
 wave-length.luminflux.in.net
 wave-monitor.stellarflux.in.net
 wave-n.com
@@ -56153,7 +56160,6 @@ z3.ei-84.ru
 z3.i-78b.ru
 z3.l6r7e.ru
 z3.mw-2-o-3.ru
-z3.n-80o.ru
 z3.p-13a.ru
 z3.stonefog.ru
 z3.stormm1nd.ru
