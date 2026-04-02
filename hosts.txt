@@ -6035,7 +6035,6 @@ b1-store-v2.basalticnode.in.net
 b1.0vs-r.ru
 b1.0y-pm.ru
 b1.6-b408.ru
-b1.a-90g.ru
 b1.dk-2-o-5.ru
 b1.hwgmm.ru
 b1.kos0ltyu4etey.ru
@@ -22062,6 +22061,7 @@ hub4sync.fluxobase.in.net
 hub4sync.marisnode.in.net
 hub4sync.vivaflux.in.net
 hub4work.systemintegritynode.in.net
+hubabubanobot52.com
 hubet88.name
 hubjimfoodsales.shop
 hubqen.c1otheto0th.ru
@@ -56510,6 +56510,7 @@ zhc.mt3o4.ru
 zhidao.cn.com
 zhigao5191.com
 zhiiqqd.net
+zhivachkapro.com
 zhxiynroje.duckdns.org
 zhzecai.ru
 zi.jcof9.ru
