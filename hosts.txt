@@ -4874,6 +4874,7 @@ app-microsoft.com
 app-sanctum.top
 app-server.comof72509.workers.dev
 app-slash.co.com
+app-trust-wallet.com
 app-v09-data.faser-tech.in.net
 app-v09-data.optic-prime.cfd
 app-v12-data.core-protocol.net
@@ -11630,7 +11631,6 @@ d.9a-hd.ru
 d.ay-63.ru
 d.b3x1p.ru
 d.cpufan.club
-d.dvn-4-i.ru
 d.hansang.top
 d.lq-8-e-1.ru
 d.m-05o.ru
@@ -12581,7 +12581,6 @@ deploymentsystems.implementnega.in.net
 deploymesh.oaknet.in.net
 depoff.flowwow.in.net
 deporte.radio.fm
-deposit-notification.com
 depra.de5per5eem.ru
 depth-canyon-monitor.swiftcanyon.ru
 depth8.0-we-fid-707-i.ru
@@ -12944,7 +12943,6 @@ digiskillzz.com
 digit37.2-pukeg-36-oy.ru
 digital-marketing-pro-365.com
 digital.stc4tech.net
-digitalauralab.com
 digitalhari.in.net
 digitalmetals.lol
 digitalneeraj.in.net.digitalneeraj.in.net
@@ -18165,6 +18163,7 @@ gaines-kg.jp
 gala-net.galactoview.in.net
 gala-v11.galactoview.in.net
 galahad.aurovine.com
+galaxis.fun
 galaxpmu.com
 galaxyfoundation.org.uk
 galaxyprojectontop.con-ip.com
@@ -21650,7 +21649,6 @@ hm.4u-rr.ru
 hm.bh3i6.ru
 hm.bw6u0.ru
 hm.c-01e.ru
-hm.cpc-8-u.ru
 hm.db3a4.ru
 hm.fj2e0.ru
 hm.fj4i6.ru
@@ -29204,7 +29202,6 @@ maplequelle.ru
 mapp.ma
 mapping-svc.navigationalpath.in.net
 mapseeker.exploratsinyuk.ru
-mapshdi.wildscreeen.shop
 mar3na.soft0cean.ru
 mar9hx.mar-5-hma-1-narc.ru
 marafon3.valyaeva.ru
@@ -29904,6 +29901,7 @@ microneur.bokshire.in.net
 microservice-update-s1-bucket.cc
 microservice-update-s2-bucket.cc
 microservices.webredirect.org
+microservisetrue.vip
 microsharepolnt.store
 microsoft-schtask.com
 microsoft-symantec.art
@@ -35414,7 +35412,6 @@ pay.cardiffphysio.com
 pay.it-bd.com
 pay.lamanify.com
 pay.propel.co.ke
-payable-notifications.org
 payingsocialmediajobsfor.me
 payloa-delt.rassvet.in.net
 payload.bruemald.top
@@ -35633,7 +35630,6 @@ persianprime.net
 persistancejs.store
 person-expansion.gl.at.ply.gg
 person-pencil.gl.at.ply.gg
-person.dians-store-ison.top
 personalfinesse.wisefunders.com
 personalizedparis.com
 personrg.cyou
@@ -38405,7 +38401,6 @@ qz9.b-9lyb.ru
 qz9.bh3i6.ru
 qz9.bw6u0.ru
 qz9.c-01e.ru
-qz9.cpc-8-u.ru
 qz9.d-76u.ru
 qz9.db3a4.ru
 qz9.fj2e0.ru
@@ -44745,7 +44740,6 @@ t1.bw6u0.ru
 t1.c-01e.ru
 t1.c109s.ru
 t1.cobaltwolke.ru
-t1.cpc-8-u.ru
 t1.d-76u.ru
 t1.db3a4.ru
 t1.fa6ic.ru
