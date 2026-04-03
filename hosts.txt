@@ -2793,7 +2793,6 @@ aa9.9-f566.ru
 aa9.9-k588.ru
 aa9.ee-17.ru
 aa9.f-07y.ru
-aa9.frl-0-i.ru
 aa9.j-9fuw.ru
 aa9.jbffq.ru
 aa9.l-75y.ru
@@ -25324,6 +25323,7 @@ kittycom.doxxing.online
 kittycom.xyz
 kittycraftmc.com
 kittyescraft.com
+kittyinaz.com
 kittyland.gg
 kittypixel.com
 kittyscrafts.com
@@ -36134,6 +36134,10 @@ pleiades-capite.ch
 plentymattersub.duckdns.org
 pleseprearty.com
 plesk.puertoricolsla.com
+plh.bespokedigital.au
+plh.japan365.co
+plh.kaitorinihon.jp
+plh.scarletmc.ru
 plinth.ba1ustje7ky.ru
 plissachlab.in.net
 plixhaven.ru
@@ -48275,7 +48279,6 @@ v2.fp0y9.ru
 v2.fq1y8.ru
 v2.franksndawgs.com
 v2.fred-london.com
-v2.frl-0-i.ru
 v2.fs-8-e-0.ru
 v2.fshcgroup.com
 v2.fun88kyc.com
@@ -54363,6 +54366,10 @@ xalvor.juren0ksco1d.ru
 xamfop.c1utter0ver.ru
 xap.gr1zzlepad.ru
 xaqyzoa.com
+xar.bespokedigital.au
+xar.japan365.co
+xar.kaitorinihon.jp
+xar.scarletmc.ru
 xar.uk.com
 xartelvu.top
 xatig3iy4.ru
