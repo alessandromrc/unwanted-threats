@@ -4874,7 +4874,6 @@ app-microsoft.com
 app-sanctum.top
 app-server.comof72509.workers.dev
 app-slash.co.com
-app-trust-wallet.com
 app-v09-data.faser-tech.in.net
 app-v09-data.optic-prime.cfd
 app-v12-data.core-protocol.net
@@ -10366,7 +10365,6 @@ cn-google-chrom.com
 cn.unionlever.com
 cn3789net.com
 cn8y.wildr0sehub.ru
-cnc.504.su
 cnc.changeme.com
 cnc.erebusc2.online
 cnc.kamill.fr
@@ -12231,6 +12229,7 @@ dcamargobetoneiras.com.br
 dccomicrat81.duckdns.org
 dcd.sumukye2.ru
 dcdgloss.duckdns.org
+dcdivas.com
 dceclarity.com
 dcenevinew.duckdns.org
 dcfl.cn.com
@@ -13106,7 +13105,6 @@ dktourandtaxi.in.net
 dl.1003b.56a.com
 dl.360safe.com
 dl.aginjector.com
-dl.armour-inc-down.net
 dl.bramble-fix.ru
 dl.browsermine.com
 dl.bxof.ru
@@ -18173,7 +18171,6 @@ gaines-kg.jp
 gala-net.galactoview.in.net
 gala-v11.galactoview.in.net
 galahad.aurovine.com
-galaxis.fun
 galaxpmu.com
 galaxyfoundation.org.uk
 galaxyprojectontop.con-ip.com
@@ -21723,6 +21720,7 @@ hobefork.com
 hobework.com
 hobidir.com
 hobmjoi.click
+hobobot.net
 hobsmedia.com
 hobx.run
 hocn9.0palsummit.ru
@@ -29866,7 +29864,6 @@ microneur.bokshire.in.net
 microservice-update-s1-bucket.cc
 microservice-update-s2-bucket.cc
 microservices.webredirect.org
-microservisetrue.vip
 microsharepolnt.store
 microsoft-schtask.com
 microsoft-symantec.art
@@ -35315,6 +35312,7 @@ path.p7s9.com
 path.wildh1ll.ru
 path4gate.altopoint.in.net
 path4gate.protovoda.in.net
+pathaudit.info
 pathfinder.exploratsinyuk.ru
 pathofdreams.de.com
 pathseekersgame.com
@@ -38638,7 +38636,6 @@ rabbit-v1.rabbitfarm.in.net
 rabbitsbird.info
 rachelkoller.aurovine.com
 rachelsvineyardkc.org
-racing-shop-schuller.de
 racism201.sumillionaires.com
 racismbasics.sumillionaires.com
 rack1alpha.ventaserv.in.net
@@ -45526,7 +45523,6 @@ thekeyfactor.org
 thelobstercoin.lol
 theluxespa.co.zw
 them-choose.gl.at.ply.gg
-themaintechnician.us
 themccoyhome.com
 themembranes.aurovine.com
 thementordirectory.com
@@ -46183,6 +46179,7 @@ tradingview.connect-app.us.com
 tradingviewen.com
 traffic-api.urbanflowmetric.in.net
 traffic.tc-clicks.com
+trafficcore.info
 traffichub.urbanpulse.coupons
 trafficrider.it.com
 trafsyt.cyou
@@ -49670,6 +49667,7 @@ visit.newsbelarus.net
 visitassalt.com
 visitbundala.com
 visitorflow.icu
+visitsight.info
 visu-line.momentumventurex.in.net
 visualfier.dombove.in.net
 visualstage.fourscene.in.net
