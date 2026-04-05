@@ -4140,7 +4140,6 @@ alignaudio.mosslark.in.net
 alignion.goldridge.in.net
 alignpro.slashbak.in.net
 alimmkalo-37356.portmap.host
-alineeleuterio.com.br
 alineesteves.kbral.com.br
 aliowiasidaids-62178.portmap.host
 alive-create.co.jp
@@ -6474,6 +6473,7 @@ base-level.alkalineelement.in.net
 base-logic.foundationmetric.in.net
 base-record.datacrest.in.net
 base-theory.axiomforge.in.net
+base-theory.epistemicforge.in.net
 base-v11-infra.medivault.in.net
 base-v5-steel.grandeparole.in.net
 base-v5-steel.soma-grid.in.net
@@ -10489,6 +10489,7 @@ colonyorder.murasubordin.ru
 color-bit.pixelmatrix.in.net
 color-map.pixelengine.in.net
 color-mix.cameoinfusion.in.net
+color-set.gouachesoror.in.net
 coloradospringsfences.com
 colorfulglowllc.com
 colotone.fablegrove.in.net
@@ -13477,6 +13478,7 @@ drapunval.floresdelphinium.cfd
 drasqi.c1imby2p.ru
 dratatianeferreiraadv.com.agencialegalads.com
 draw-logic.pixelengine.in.net
+draw-sync.gouachesoror.in.net
 draw1.5-ninet-1-ou.ru
 drawhyp.prowinserv.in.net
 drawnbe.cyou
@@ -13505,6 +13507,7 @@ dretryout.top
 drevos.ro
 drfdm.za.com
 drg.kidizue6.ru
+drhenrylopez.com
 dridex.incover.com.co
 dridex.lanka-add.com
 driff7.st0rmshade.ru
@@ -15042,6 +15045,7 @@ entergo.su
 entershopst.ru.com
 entertainment-pirates.gl.at.ply.gg
 entire-so.gl.at.ply.gg
+entity-map.ontologicstream.in.net
 entraiz.cyou
 entrepots-colis-2025.info
 entreprise-docs-secure.online
@@ -15384,7 +15388,6 @@ espied.diversist.com
 espoir.plar9ten2zo.ru
 espreesso.lol
 espresso.name
-esr.ro
 esrndndubsbsifurfd.ru
 essaugavada.com
 essay8.5-forez-515-o.ru
@@ -20061,6 +20064,7 @@ greatsmp.com
 greatsorors.digital
 greatthingshapppenthanku.duckdns.org
 greatxwill7009.duckdns.org
+grecokitchens.com
 greecpt.shop
 greek.gb.net
 greekcs.cyou
@@ -21636,7 +21640,6 @@ hm.fj4i6.ru
 hm.fp0y9.ru
 hm.fq1y8.ru
 hm.gr3e4.ru
-hm.h-29i.ru
 hm.k-72o.ru
 hm.kj4o0.ru
 hm.ll7y5.ru
@@ -27096,6 +27099,7 @@ loganwolverin2026.duckdns.org
 loganwolverin2027.duckdns.org
 loganwolverin2028.duckdns.org
 logi-base.trailvantage.in.net
+logic-audit.epistemicforge.in.net
 logic-core.primordialis.in.net
 logic-gate.infocircuit.in.net
 logic-gate.quantaflux.in.net
@@ -29877,6 +29881,7 @@ minboard.blinng.com
 mind-conclusion.gl.at.ply.gg
 mind-node.neurogrid.in.net
 mind-node.neurovector.in.net
+mind-vault.epistemicforge.in.net
 mind.cloudn0de.ru
 mind.m1stypath.ru
 mindabusiness.duckdns.org
@@ -29996,7 +30001,6 @@ miserzb.cyou
 misfinal.draniercismn.in.net
 misgrapeible.wiki
 mish.seanborgmans.com
-miskolc-dugulaselharitas.hu
 miskolopiyzf.com
 mismilahioluwadoam.duckdns.org
 miso88s.net
@@ -36602,6 +36606,7 @@ processvalidation.implementnega.in.net
 prod.enocia.net
 prod.setupcloudos.com
 prodbackserv.com
+prodimetal.com
 product.360academybd.com
 productionmaza.bond
 productionmaza.cfd
@@ -36644,6 +36649,7 @@ pronik-37794.portmap.host
 prontoenterprise.com
 proof-anchorgrid.proofsurvivor.in.net
 proof-check.axiomforge.in.net
+proof-engine.epistemicforge.in.net
 proof.calculu5eve7y.ru
 proof.go0dsc1ence.ru
 proof3.infide1d0wn.ru
@@ -40666,6 +40672,7 @@ schem2-span.yellglass.in.net
 schema-well.checkingsum.in.net
 schemaqa.cyou
 scheme.mon2r5chemer.ru
+schenckel.com.br
 scher4.glimmerkranz.ru
 schiff.pumaschiff.ru
 schild.onyxkamm.ru
@@ -41831,6 +41838,7 @@ sistemablackatz.com
 sistemademierda123.dynuddns.com
 sistemaibra.com
 sistemdetect.com
+sister-hub.gouachesoror.in.net
 sisternoybabuyeriklow.com
 sit-v1.savingssit.in.net
 sit.ngiz5.ru
@@ -43700,6 +43708,7 @@ studiomat.baclinc.work
 studioprocess.cokefun.in.net
 studiosha.rockapp.in.net
 study-flow.edunoppress.in.net
+study-sync.epistemicforge.in.net
 study.bisabarengoby.id
 stuff.eu.com
 stump.defore5tm0unt.ru
@@ -46323,6 +46332,7 @@ trustedservicez.co.za
 trusteverything.de
 trustonefinancial.co.com
 truth-table.logicmatrix.in.net
+truth-verify.epistemicforge.in.net
 truth3.sys7yn0iy5.ru
 truxaqn.cyou
 truzik.a5kin8insur.ru
@@ -52841,7 +52851,6 @@ www.mehmetarhan.com
 www.membros.agencialegalads.com
 www.memedia.africa.com
 www.metmuseum.wordt-ontwikkeld.be
-www.mevetlab.cl
 www.mh7am.bond
 www.miacheap.flights
 www.mibkzmhj.shop
