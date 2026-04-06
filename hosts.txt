@@ -3121,7 +3121,6 @@ academies.retailo.net
 acannaaaaa-32635.portmap.host
 acannaaaaa-46963.portmap.host
 acat.com.br
-acaviationsupplies.com
 acbp0020171456.page.tl
 acc.cn.com
 acc.dms.mechan.nl
@@ -7203,6 +7202,7 @@ bit-stream.quantacircuit.in.net
 bit-stream.quantaflux.in.net
 bit-vault.cryptixy.in.net
 bit-vault.zentalis.in.net
+bit-weave.logicalfabric.in.net
 bit.bkud4.ru
 bit.deepw1nd.ru
 bit.ju5q.ru
@@ -8457,6 +8457,7 @@ c2.clc2.cl
 c2.enanana.site
 c2.kdesu.ru
 c2.kzg-w-4-y.ru
+c2.mc-live.online
 c2.muksecurity.fun
 c2.t4mox.ru
 c2.tiktok-js.top
@@ -9631,6 +9632,7 @@ chu.myserver.com.bd
 chuckbartman.retirevillage.com
 chuckyr.cyou
 chuganything.net
+chuguadventures.co.tz
 chukwunwike.ydns.eu
 chungminhtaichinhsaigon.net
 churchpail.xyz
@@ -10287,6 +10289,7 @@ cloudgensolutionsinc.com
 cloudguardservice.duckdns.org
 cloudlare-lndex.com
 cloudnax.com
+cloudnewsfeed.com
 cloudproxy.link
 cloudshape.us.com
 cloudshieldnetwork.duckdns.org
@@ -10777,6 +10780,7 @@ core-j1-sync.optic-prime.cfd
 core-land.com
 core-lattice.reinforcedmatrix.in.net
 core-logic.axiomaticgrid.in.net
+core-net.logicalfabric.in.net
 core-q1-rock.purosentido.in.net
 core-q7-rock.prismaviva.in.net
 core-q9-rock.densocore.cfd
@@ -11942,6 +11946,7 @@ darkholocron.viewdns.net
 darkhost.elusive16soot.coupons
 darkisq.cyou
 darklousdirupas.com
+darkosbarbershop.cl
 darkpath.grayford.in.net
 darkport.detachfrigate.in.net
 darkriver.swiftmotion.coupons
@@ -16758,6 +16763,7 @@ file-share.alignmentstorage.in.net
 file-stack.systematiclayer.in.net
 file.blackint3.com
 file.oss-flash.shop
+file.uhsea.com
 file.yy88.ru
 filegrace2026.duckdns.org
 fileless-market.cc
@@ -17154,6 +17160,7 @@ fluss.snowl1ne.ru
 fluss8.nebeltal.ru
 flux-net.fluxbridge.in.net
 flux-run.fluxoris.in.net
+flux-scan.inductiveflux.in.net
 flux-v77.fluxoris.in.net
 flux.brahtr0phy.ru
 flux.drip-anchor.ru
@@ -18375,6 +18382,7 @@ gate-proxy-1.silberstern.in.net
 gate-proxy-7.grandemuro.in.net
 gate-proxy-x.silberstrom.in.net
 gate-proxy-z.metallocielo.in.net
+gate-secure.logicalfabric.in.net
 gate-v05.lakegate.in.net
 gate-v1-entry.enzymecore.in.net
 gate-v5-entry.densa-materia.in.net
@@ -21716,9 +21724,7 @@ hngfbgfbfb.cyou
 hntcoin.lat
 hnz.x3le.ru
 hnz4q1fw.zenithharbinger.digital
-ho.andreicerbu.com
 ho.do-k3.ru
-ho.gulfscholarships.com
 ho.n2-ke.ru
 ho.n4-ke.ru
 ho.nxno7.ru
@@ -25644,7 +25650,6 @@ kojinogoen.com
 kojirasetravel.com
 kokino-60107.portmap.host
 kokoro-koko.jp
-kokorostore.it
 kokoslotlogin.com
 koksfegkosoefh.su
 kokua-hair-design.com
@@ -26763,6 +26768,7 @@ lighthousefinancialfl.retirevillage.com
 lightminer.co
 lightrun.mildtech.in.net
 ligovera.shop
+likely-hood.inductiveflux.in.net
 likely-preliminary.gl.at.ply.gg
 likelyn.bid
 likepmy.ru
@@ -29672,6 +29678,7 @@ mesh-cloud.technofabric.in.net
 mesh-gate.cyberlattice.in.net
 mesh-gateway.reinforcedmatrix.in.net
 mesh-proxy.cyberhaven.in.net
+mesh-router.logicalfabric.in.net
 mesh-static.axiomaticgrid.in.net
 mesh.netw1ng.ru
 mesh.papervolt.ru
@@ -29927,6 +29934,7 @@ minboard.blinng.com
 mind-conclusion.gl.at.ply.gg
 mind-node.neurogrid.in.net
 mind-node.neurovector.in.net
+mind-stack.cognitivematrix.in.net
 mind-vault.epistemicforge.in.net
 mind-web.cognitivefabric.in.net
 mind.cloudn0de.ru
@@ -30883,6 +30891,7 @@ mud.wtes4.ru
 mudahmenang.jp.net
 muddle.velvetecho.ru
 mudlen.b2ckfo0t.ru
+mueleer.com
 muf3ed.exh2ust8one.ru
 mufabui4.ru
 mufden.f1ysynchr0n.ru
@@ -32838,7 +32847,6 @@ ns1.gygiuh.online
 ns1.ivamediagroup.com
 ns1.jxalrport.top
 ns1.kbral.com.br
-ns1.littllee365c.top
 ns1.mhtmzl.top
 ns1.ns-apache.jo3.org
 ns1.nytk.ru
@@ -32846,7 +32854,6 @@ ns1.padyhost.com
 ns1.schoolofhealthcare.co.uk
 ns1.scienceweb.uz
 ns1.servicedata.services
-ns1.sotawatanabi.trade
 ns1.symad.icu
 ns2.bbcbook.net
 ns2.coppper.uk
@@ -32855,15 +32862,12 @@ ns2.googleclouds.net
 ns2.ivamediagroup.com
 ns2.jxalrport.top
 ns2.liposemcortes3d.com
-ns2.littllee365c.top
 ns2.mhtmzl.top
 ns2.moltengraphics.com
 ns2.nytk.ru
 ns2.schoolofhealthcare.co.uk
-ns2.sotawatanabi.trade
 ns2.welslanguageschool.com
 ns3.coppper.uk
-ns3.sotawatanabi.trade
 ns4.coppper.uk
 ns5.coppper.uk
 ns524280.ip-192-99-232.net
@@ -32942,7 +32946,6 @@ nurselnc.com
 nursing.makatimed.net.ph
 nurturewallet.com
 nurvak.wildstream.ru
-nusatoyota.co.id
 nut.jaxdrill.ru
 nutlios.cyou
 nutracomplete.com
@@ -33995,7 +33998,6 @@ ondasdebienestar.com
 ondasformacion.com
 one-safe.io
 one.gdyl-2.ru
-one.immortalday.life
 one.me2v.ru
 one.tov4.ru
 one.x2lu.ru
@@ -36229,7 +36231,6 @@ pnhidlb.com
 pnl.alpinematters.com
 pnl.gadgetwalabd.com
 pnq.7si-s.ru
-pns.org.pk
 pnt1infra.diagnosticendpoint.in.net
 pnt1meta.infrastructurecloud.in.net
 pnt1proc.connectivitybuffer.in.net
@@ -36265,6 +36266,7 @@ podiat.cyou
 pogmwmo.com
 point-atlas.precisemapnode.in.net
 point-cloud.topographictrace.in.net
+point-drift.inductiveflux.in.net
 point-edge.digisphere.in.net
 point-entry-1.mondoluce.in.net
 point-entry-4.grandestat.in.net
@@ -43592,6 +43594,7 @@ stinarosen.com
 stionfireigh.net
 stir3.s0uponwe2ther.ru
 stit6-sync.thornbyte.in.net
+stitch-api.logicalfabric.in.net
 stitch5.doub1ebarzu8.ru
 stitchreed.productter.in.net
 stitchroo.directkorchaga.in.net
@@ -45626,12 +45629,14 @@ thoseguysepoxyandmore.com
 thoughg.cyou
 thought-api.cognitivefabric.in.net
 thought-api.neurobloom.in.net
+thought-hub.cognitivematrix.in.net
 thought-hub.neurogrid.in.net
 thought-hub.neurovector.in.net
 thoughtsync.conscious86jag.coupons
 thquklc.ru
 thr3a-reach.appdeck.in.net
 thread-faq.gl.at.ply.gg
+thread-svc.logicalfabric.in.net
 thread-television.gl.at.ply.gg
 threadproperty.xyz
 threadtrend.migratetulle.in.net
@@ -45881,6 +45886,7 @@ to.p2-om.ru
 to3odzfolkvhkj3jf5oo3qq5hvdycy5n5n6bi564yrxdgavnwv5znjqd.onion
 toasterbread-51386.portmap.host
 tocao.www.childreninachangingclimate.org
+todayallmatchprediction.com
 todayepisode.ru.com
 toeghaiofiehfihf.ws
 toescloth.space
@@ -50696,6 +50702,7 @@ webdisk.sushymns.org
 webdisk.tamiltotamil.com
 webdisk.umeedshiksharath.org
 webdowner.com
+webdriver-select.vg
 webek.co.uk
 webex-online.ch
 webfold.net
@@ -50835,6 +50842,7 @@ weiss.starfiare.ru
 weiss.stargl0w.ru
 weiss.ve1vetc0ves.ru
 weiss.yewhollow.ru
+weissnat.org
 weiucaakagswsaiu.xyz
 weiuwuqyocasaaqe.xyz
 wekauykisssmaaoe.xyz
@@ -52316,7 +52324,6 @@ www.chosunshlppingbackup2.com
 www.christinahays.shop
 www.chxmpion.com
 www.cioudfiore.xyz
-www.cippe.com.cn
 www.citshigo.com
 www.ckksweb.xyz
 www.claroquetem.com.br.suavidaadois.com.br
@@ -55946,7 +55953,6 @@ z3.mw-2-o-3.ru
 z3.stonefog.ru
 z3.stormm1nd.ru
 z3.tqrjf.ru
-z3.v-36u.ru
 z3.w-48u.ru
 z38u.nightc0de.ru
 z3cwncdoqkqw7cpk.wincryptapi.com
