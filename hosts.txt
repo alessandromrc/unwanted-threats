@@ -4818,7 +4818,6 @@ api.simsys.org
 api.skycloudcenter.com
 api.softwarecommerce.net
 api.transbankdevelopers.com
-api.updatesreview.com
 api.upscholarship.co.com
 api.voidcitizen.space
 api.vxucqb.dpdns.org
@@ -7642,6 +7641,7 @@ bos.webserver5.com
 boscodellabella.ch
 bosonalfa-ai.com
 bosphorusdisticaret.com
+bossgsaghdh-62973.portmap.host
 bossone.top
 bostarpack.com
 bostoncollege.za.com
@@ -16429,6 +16429,7 @@ fdgq.oakstart.in.net
 fdkasoupvgxigejgdfb.com
 fdlkewebsite.icu
 fdoazgd.net
+fdsafa.best
 fdsgofgjoefjiooe.con-ip.com
 fdvfr.n0uvpu7itan.ru
 fdy.bespokedigital.au
@@ -17542,7 +17543,6 @@ fricaec.cyou
 friction-log.viscositycontrol.in.net
 friday-barbados.gl.at.ply.gg
 friday.vn
-frienel-blog.duckdns.org
 frilldash.ru
 friovjk.cyou
 frizzle.siickhorn.ru
@@ -20564,6 +20564,7 @@ gyksqageokuycuqe.xyz
 gyksueemwseaykqw.xyz
 gykuuqekoicueecm.xyz
 gym.tasawk.net
+gymacademie.ddns.net
 gymcwaismogkqykc.xyz
 gymkecmkyuyoamim.xyz
 gymokcoqccqkgcsw.xyz
@@ -23839,7 +23840,6 @@ javnek.mintbrook.ru
 javsenpai.pages.dev
 javsenpaiii.pages.dev
 javxet.imp0rttwi5t.ru
-jawaratekno.com
 jawared1-63785.portmap.host
 jawks.t3.storage.dev
 jax3um.gu1detr2in.ru
@@ -26014,7 +26014,6 @@ l.bi3ux.ru
 l.celticcommunications.co
 l.dasurie36.ru
 l.ee-17.ru
-l.f-07y.ru
 l.j-9fuw.ru
 l.jbffq.ru
 l.k9u1.ru
@@ -39008,6 +39007,7 @@ remcos.online-floorplanner.com
 remcos.phimxxx.ai
 remcos26.dynuddns.com
 remcos5050.duckdns.org
+remcosmonitor.duckdns.org
 remcosnuevo5.duckdns.org
 remcuonwinsun.com
 rememberer.digital
@@ -40510,7 +40510,6 @@ sauna-bassein.com
 sausagenighte.online
 sav.com.shirads.sa.com
 save-node.savingssit.in.net
-save.jnrsmcu.com
 save7.bazidownloader.site
 savenay2.ru
 savethetrident.org
