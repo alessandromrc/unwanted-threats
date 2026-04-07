@@ -7043,6 +7043,7 @@ bintail.com
 bintariqservices.com
 bio-growth.orbitbloom.in.net
 bio-moringa-samen.de
+bio-node.ontogenesiscore.in.net
 bio-record.maknothplacenta.in.net
 bio-sensor.neurobloom.in.net
 bio-trace.bactergreat.in.net
@@ -9131,6 +9132,7 @@ celikhasircesan.com.tr
 celikrt.duckdns.org
 cell-logic.bactergreat.in.net
 cell-logic.maknothplacenta.in.net
+cell-logic.ontogenesiscore.in.net
 cell-plate.br1ghtmere.in.net
 cellardirection.info
 cellcol.rassvet.in.net
@@ -9277,6 +9279,7 @@ chair.5-juzeb-0-io.ru
 chakracleansetherapy.com
 chakulilipopifikolas.com
 chalkc.asia
+challenge-refernow.com
 chamado.caldasservice.com.br
 chamber.st-1-lt-forge.ru
 chamjs.com
@@ -12193,10 +12196,7 @@ dc4point.applicationbuffer.in.net
 dc4static.analyticspoint.in.net
 dc4work.platformendpoint.in.net
 dc8.aucti0nz7ir.ru
-dc9887.duckdns.org
-dc9977.duckdns.org
 dcamargobetoneiras.com.br
-dccomicrat81.duckdns.org
 dcd.sumukye2.ru
 dcdgloss.duckdns.org
 dceclarity.com
@@ -12205,7 +12205,6 @@ dcfl.cn.com
 dckis3.duckdns.org
 dckis7.duckdns.org
 dcleb.com
-dcnewton5552.duckdns.org
 dcnmjewels.com
 dcontrols.pro
 dcpfxpo.com
@@ -20119,6 +20118,7 @@ growsearch.in
 growt1-field.calloak.in.net
 growth-engine.vertexbloom.in.net
 growth-hub.bactergreat.in.net
+growth-hub.ontogenesiscore.in.net
 growth-turtle.gl.at.ply.gg
 growthcatalystes.com
 growthcatalystone.com
@@ -21389,7 +21389,6 @@ hhxe.org
 hhxxz.stone-blink.in.net
 hhz.uk.com
 hhzpliq.com
-hi.cpc8u.ru
 hi.dihijio22.ru
 hi.e-dx.ru
 hi.jytoceo30.ru
@@ -24463,7 +24462,6 @@ k4.0y-pm.ru
 k4.1ne-z.ru
 k4.7a-xz.ru
 k4.8j4-5-6.ru
-k4.c-3dax.ru
 k4.dk-2-o-5.ru
 k4.ei-84.ru
 k4.hwgmm.ru
@@ -26587,6 +26585,7 @@ lie.tu7q.ru
 liensanji.com
 life-change-shizu.com
 life-cycle.maknothplacenta.in.net
+life-cycle.ontogenesiscore.in.net
 life1.l1festone.ru
 lifecenterfisioterapia.com.br
 lifegoesonblog.nl
@@ -33681,7 +33680,6 @@ ojw.mw2o3.ru
 ojxk.r0ckveil.ru
 ojxqy.sa.com
 ok-vsefotki.online
-ok.cpc8u.ru
 ok.intr0dki5h.ru
 ok.lalz.ru
 ok.plig-5.ru
@@ -34271,6 +34269,7 @@ orgpkdm.cyou
 orhz.optiframe.pro
 orientwaterservices.com
 orig-m4.quartzhorizon.in.net
+origin-svc.ontogenesiscore.in.net
 original.oraclinzel.com
 originaleins.com
 origoemforma.com.br
@@ -41352,6 +41351,7 @@ shieldpath.censure47contr.coupons
 shieldretainer.rockbay.in.net
 shienkenkyu.com
 shieshan.ydns.eu
+shift-ctrl.axiologyflux.in.net
 shift-ctrl.infodynamics.in.net
 shift-ctrl.velocityterminal.in.net
 shift-point.dialecticalgrid.in.net
@@ -48937,6 +48937,7 @@ valorcomunica.agenciadelivearte.com.br
 valpuz.ext0rttramp1e.ru
 valspro.granitevalley.in.net
 valu-crest.spinpath.in.net
+value-point.axiologyflux.in.net
 value9-mesh.beltfloor.in.net
 valueforcollections.duckdns.org
 valuelinkltd.com
