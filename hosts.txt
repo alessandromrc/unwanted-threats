@@ -888,6 +888,7 @@
 3c.xbiq2.ru
 3c7.nightwharf.ru
 3ccw2.orbitalnip.ru
+3cfjxj.exceptionpong.in.net
 3ch.u-v9.ru
 3cnui.v-0-xenridge.ru
 3controller.online
@@ -8501,7 +8502,6 @@ c7.nbpvt.ru
 c7.oe-69.ru
 c7.qh-1-a-5.ru
 c7.w-33e.ru
-c7.z-0xug.ru
 c72ole.ziparch.in.net
 c7b2.1z57.online
 c7hv.30u241207.online
@@ -11866,6 +11866,7 @@ dark1proc.remotediagnostic.in.net
 dark2point.remotediagnostic.in.net
 dark3view.remotediagnostic.in.net
 dark4path.remotediagnostic.in.net
+dark7-dock.exceptionpong.in.net
 darkanticrash-30901.portmap.host
 darkbq.club
 darkclouds.drop8rain.ru
@@ -17232,6 +17233,7 @@ forest.stormbiend.ru
 forest.storml1ght.ru
 forest1.waveb0x.ru
 forest2.waveb0x.ru
+forestcraft.exceptionpong.in.net
 forestelder.dubniakpops.ru
 forestfrond.wildfern.in.net
 forestleaf.bluefern.in.net
@@ -22133,6 +22135,7 @@ hyper-s4mp.limbsingle.in.net
 hyper-sc4n.zipfolder.in.net
 hyper-tr4c.n1ghtridge.in.net
 hyper-tr4cke.radiantharbinger.in.net
+hyper-tru5.armeniansgrate.in.net
 hyper.es
 hyperdrift.besthire.in.net
 hypermesh.ultranet.in.net
@@ -31184,7 +31187,6 @@ n.wofaraa29.ru
 n.wuk0.ru
 n.xabz.ru
 n.xxos.ru
-n.z-0xug.ru
 n.z491l.ru
 n0.8e-hr.ru
 n0.blyp-9.ru
@@ -32433,6 +32435,7 @@ norfluxex2.emberfield.in.net
 norfluxis4.echelonprosper.in.net
 noriko-a.com
 norlineis2.fastpink.in.net
+norlithex2.armeniansgrate.in.net
 norlun.b1uegras5hia.ru
 norm-engine.formalisticcore.in.net
 normark5or.automodglass.in.net
@@ -33792,7 +33795,6 @@ omsattningskrav.eu
 omsilsdcpdsgpxm.com
 omznov.ru
 on-line-degree.dealpackrat.com
-on.vzj1o.ru
 on81.crabdance.com
 onarbeni.com
 onari-aikido.com
@@ -40874,6 +40876,7 @@ ser-crestal.paragonventure.in.net
 ser-draon.easttea.in.net
 ser-draos.cl0verrun.in.net
 ser-fluxa.omnifree.in.net
+ser-fluxex.armeniansgrate.in.net
 ser-tidear.ziparch.in.net
 ser-tideos.n1ghtridge.in.net
 ser.aivorahub.xyz
@@ -40895,6 +40898,7 @@ serif2.s1umtypo1ogy.ru
 seris.gd
 serlineal8.inkpit.in.net
 sermark0um.brimvale.in.net
+sernexa6.exceptionpong.in.net
 serov.logomebel.ru
 serpukhov.logomebel.ru
 serqen.clears0ul.ru
@@ -45603,6 +45607,7 @@ toi.ssffaa4.xyz
 toi.syslicense.net
 toiler.wesix.com.br
 toirgsiorgididii.ws
+tok3-array.exceptionpong.in.net
 tokaritokloiuer.com
 tokcheck.manchustill.in.net
 token.dou5etossin8.ru
@@ -51352,7 +51357,6 @@ wq9.0o-js.ru
 wq9.nbpvt.ru
 wq9.oe-69.ru
 wq9.w-33e.ru
-wq9.z-0xug.ru
 wqfmumga.com
 wqgq.oakridge.in.net
 wqiymtd.net
@@ -56220,6 +56224,7 @@ zurumaks.hopto.org
 zuv1ak.cl0udmist.ru
 zuvul.run
 zuwkanuikekauwawebarugibikonemwehnhumdon.duckdns.org
+zuzho.armeniansgrate.in.net
 zv.rv2o5.ru
 zv.wqix.ru
 zv04.k5gc56.ru
