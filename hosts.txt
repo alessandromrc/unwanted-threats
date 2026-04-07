@@ -527,6 +527,7 @@
 1yqf.c1earwave.ru
 1yvpw8vd.b1ondefi1m.ru
 1yy.fog-tangent.ru
+1yyx5olkch.localto.net
 1z.5no-v.ru
 1z3.ss-9-y-4.ru
 1zqb.fire1n5ulat.ru
@@ -6441,6 +6442,7 @@ base-support.structuralcore.in.net
 base-syntax.formalisticcore.in.net
 base-theory.axiomforge.in.net
 base-theory.epistemicforge.in.net
+base-theory.epistemologycore.in.net
 base-v11-infra.medivault.in.net
 base-v5-steel.grandeparole.in.net
 base-v5-steel.soma-grid.in.net
@@ -6694,6 +6696,7 @@ begin7.2-wafij-3-ue.ru
 begun.7-nenop-38-oy.ru
 bei.tfuuuk.com
 beijinginhd.com
+being-node.ontologicalflux.in.net
 being-node.ontologicstream.in.net
 being.2-wafij-3-ue.ru
 being.xiqek-40-ye-8.ru
@@ -10685,6 +10688,7 @@ core-j1-sync.optic-prime.cfd
 core-land.com
 core-lattice.reinforcedmatrix.in.net
 core-logic.axiomaticgrid.in.net
+core-logic.axiomatrix.in.net
 core-net.logicalfabric.in.net
 core-q1-rock.purosentido.in.net
 core-q7-rock.prismaviva.in.net
@@ -14925,6 +14929,7 @@ entershopst.ru.com
 entertainment-pirates.gl.at.ply.gg
 entire-so.gl.at.ply.gg
 entity-hub.conceptmatrix.in.net
+entity-map.ontologicalflux.in.net
 entity-map.ontologicstream.in.net
 entraiz.cyou
 entrepots-colis-2025.info
@@ -15565,6 +15570,7 @@ executive-difficulty.gl.at.ply.gg
 exfuture.ru.com
 exgnazl.ru
 exhys.copyvrok.in.net
+exist-api.ontologicalflux.in.net
 exist-api.ontologicstream.in.net
 exitroute.dropout.in.net
 exmsnmx.com
@@ -16727,6 +16733,7 @@ fix.rkuc9.ru
 fixbirdrank.com
 fixbirdrep.com
 fixed-point.axiomaticgrid.in.net
+fixed-point.axiomatrix.in.net
 fixedwr.click
 fixprjajaa.site
 fixprojectbest.space
@@ -16929,6 +16936,7 @@ flow-gate.synchromesh.in.net
 flow-guide.centralizedduct.in.net
 flow-logic.synchromesh.in.net
 flow-master.urbanflowmetric.in.net
+flow-object.ontologicalflux.in.net
 flow-object.ontologicstream.in.net
 flow-order.methodicstream.in.net
 flow-pil.covenantbloom.in.net
@@ -22403,6 +22411,7 @@ ideas-anniversary.gl.at.ply.gg
 identity.mulberri.in
 idespeh.cyou
 idi-nahuy.net
+idk-terapevt.serveo.net
 idk123456789012-51385.portmap.host
 idkegobruh-44949.portmap.host
 idkvmbox-62519.portmap.host
@@ -22446,7 +22455,6 @@ if.nzki7.ru
 if.re-t0.ru
 if.tov-4.ru
 if.xrxo2.ru
-if.xzb6i.ru
 ifan-hebron.caldasservice.com.br
 ifeuawf.ru
 iffrooypwm.shop
@@ -23697,6 +23705,7 @@ jbrlcrj.com
 jbstvz.oaknet.in.net
 jc2s.m0tivecrib.ru
 jc7.di5r.ru
+jce85opnb7.localto.net
 jcof-9.ru
 jcptacticalllc.com
 jcr.fe7a.ru
@@ -26930,6 +26939,7 @@ loganwolverin2027.duckdns.org
 loganwolverin2028.duckdns.org
 logi-base.trailvantage.in.net
 logic-audit.epistemicforge.in.net
+logic-audit.epistemologycore.in.net
 logic-core.primordialis.in.net
 logic-gate.infocircuit.in.net
 logic-gate.quantaflux.in.net
@@ -29422,6 +29432,7 @@ mesh-gateway.reinforcedmatrix.in.net
 mesh-proxy.cyberhaven.in.net
 mesh-router.logicalfabric.in.net
 mesh-static.axiomaticgrid.in.net
+mesh-static.axiomatrix.in.net
 mesh.netw1ng.ru
 mesh.papervolt.ru
 mesh.s0apthorn.ru
@@ -29678,6 +29689,7 @@ mind-node.neurogrid.in.net
 mind-node.neurovector.in.net
 mind-stack.cognitivematrix.in.net
 mind-vault.epistemicforge.in.net
+mind-vault.epistemologycore.in.net
 mind-web.cognitivefabric.in.net
 mind.cloudn0de.ru
 mind.m1stypath.ru
@@ -36382,6 +36394,7 @@ prontoenterprise.com
 proof-anchorgrid.proofsurvivor.in.net
 proof-check.axiomforge.in.net
 proof-engine.epistemicforge.in.net
+proof-engine.epistemologycore.in.net
 proof-static.deductivegrid.in.net
 proof-vault.formalisticcore.in.net
 proof.calculu5eve7y.ru
@@ -38557,6 +38570,7 @@ reag-ring.driftoak.in.net
 reage2-crest.darkboll.in.net
 reagengate.stonemuse.in.net
 reahall1-64014.portmap.host
+real-time-io.ontologicalflux.in.net
 real-time-io.ontologicstream.in.net
 realad.bond
 realalpha.duckdns.org
@@ -39592,6 +39606,7 @@ rule-engine.logicmatrix.in.net
 rule-engine.logicstream.in.net
 rule-monitor.methodicstream.in.net
 rule-set.axiomaticgrid.in.net
+rule-set.axiomatrix.in.net
 rulebase.censure47contr.coupons
 rum.da5v.ru
 rumba6.p0rthopper.ru
@@ -42426,6 +42441,7 @@ sounqp.cyou
 soup-node.coachsoup.in.net
 soup09.coachsoup.in.net
 sourc3.onyxquelle.ru
+source-data.ontologicalflux.in.net
 source-data.ontologicstream.in.net
 source-gtk.gl.at.ply.gg
 source-log.needwatka.in.net
@@ -43104,6 +43120,7 @@ step-sync.methodicstream.in.net
 step-wise.inferentialcore.in.net
 stepforward.novalento.in.net
 stephan-mielke.de
+stephn-49704.portmap.host
 steppejourney.nomadsuppurat.ru
 steri-node.q7ravo.in.net
 sterilelan.beltfloor.in.net
@@ -43383,6 +43400,7 @@ studioprocess.cokefun.in.net
 studiosha.rockapp.in.net
 study-flow.edunoppress.in.net
 study-sync.epistemicforge.in.net
+study-sync.epistemologycore.in.net
 study.bisabarengoby.id
 stuff.eu.com
 stump.defore5tm0unt.ru
@@ -44304,7 +44322,6 @@ t1.rk8y6.ru
 t1.ss9y4.ru
 t1.u11q.ru
 t1.uy-55.ru
-t1.x-7daf.ru
 t1.x-ceu8.ru
 t1.x3le.ru
 t1.x7f4g2.ru
@@ -53005,7 +53022,6 @@ www.tlctechnical.net
 www.tmcksa.com
 www.tnfihtl.live
 www.tnlfy5.info
-www.todayallmatchprediction.com
 www.tokeno6a.xyz
 www.tomaru.org
 www.top10bars.com.au
@@ -55104,6 +55120,7 @@ yqz.ma5cotw2ter.ru
 yr.h-73-n.ru
 yr4y5.shadowsun.ru
 yrbaidu.za.com
+yrbbksfa78.localto.net
 yrfsfxa.com
 yrg.ka2s.ru
 yrlyfbs.com
