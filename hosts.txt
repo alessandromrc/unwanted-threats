@@ -2791,7 +2791,6 @@ aa.evermint.ru
 aa.hwke4.ru
 aa.k0v1p.ru
 aa.lq-8-e-1.ru
-aa.m-77u.ru
 aa.q1s6c.ru
 aa.rxhvt.ru
 aa.tfpe6.ru
@@ -10365,6 +10364,7 @@ cn-google-chrom.com
 cn.unionlever.com
 cn3789net.com
 cn8y.wildr0sehub.ru
+cnc.504.su
 cnc.changeme.com
 cnc.erebusc2.online
 cnc.kamill.fr
@@ -11200,6 +11200,7 @@ crobel3.floresagapanto.cfd
 crolinpanrol.luxmailing.store
 cronapiworkersvc.com
 crookedskyfarms.com
+crop-api.ranchitro.in.net
 crop-sync.croprotation.in.net
 crop-trace.combinekabisia.in.net
 crop-v2.croprotation.in.net
@@ -11971,6 +11972,7 @@ data-pipeline.vectorforge.in.net
 data-relay.infovector.in.net
 data-split.analyticaengine.in.net
 data-split.analyticvector.in.net
+data-svc.sciencestupids.in.net
 data-sync-00.grandemuro.in.net
 data-sync-01.silberstrom.in.net
 data-sync-v2.silberstern.in.net
@@ -16169,6 +16171,7 @@ faceit-na.com
 facet2.crystalroad.ru
 fact-2012.jp
 fact-company.com
+fact-vault.sciencestupids.in.net
 factory-io.industtarant.in.net
 factsec.cc
 facturacioncontable.com
@@ -16263,6 +16266,7 @@ farav.press
 farforshop.cfd
 farfourhotel.com
 farm-logic.combinekabisia.in.net
+farm-logic.ranchitro.in.net
 farm-run.rabbitfarm.in.net
 farm.gofumoo29.ru
 farm.me-2-v.ru
@@ -16608,6 +16612,7 @@ fieieienfsnirgrnit.com
 fieieienfsnirgrniy.net
 field-accessing.gl.at.ply.gg
 field-logic-base.clearfield.in.net
+field-node.ranchitro.in.net
 field-report.regionaltelemetry.in.net
 field-scan.combinekabisia.in.net
 field-shoa.foxrunet.in.net
@@ -19016,6 +19021,7 @@ ggl.rapidphonebuyer.co.uk
 ggl.rongtv.xyz
 ggl.ssffaa19.xyz
 ggmenp120-43957.portmap.host
+ggoooglemeettinggninvit.click
 ggpmcodfppkjirg.com
 ggq.uk.com
 ggtcrzu.com
@@ -19674,6 +19680,7 @@ goelon.lol
 gog.kievholod.kiev.ua
 gog.multiatend.com.br
 gog.nigeriaafricatime.com
+goggllemmeettiingnc.com
 gogisich.com
 gogl-meet.com
 gogrokius.xyz
@@ -19795,6 +19802,7 @@ goodmoneyi.net
 goodnessger-50564.portmap.host
 goodpeopleswhitbrigheartwinthisindustryi.duckdns.org
 goods-hilton.gl.at.ply.gg
+googgleemeetinginterviiew.live
 googlanalitlcs.icu
 googlanalitlcs.live
 googlanalitlcs.pro
@@ -22742,7 +22750,6 @@ iiywcmieqcoyausq.xyz
 iiywsmikasguiaek.xyz
 ij.ha7e.ru
 ij4s4.bluef0rm.ru
-ijbfi.pk
 ijct.cl1nkbarge.ru
 ijels.com
 ijepong.com
@@ -26015,7 +26022,6 @@ l.ee-17.ru
 l.jbffq.ru
 l.k9u1.ru
 l.nm-0-e-2.ru
-l.p-99o.ru
 l.r0z8r.ru
 l.r2h7m.ru
 l.w-30-g.ru
@@ -26137,6 +26143,7 @@ la.v-96-g.ru
 la.yq-4n.ru
 laalmirchitakeaway.co.uk
 lab-access.bactergreat.in.net
+lab-check.sciencestupids.in.net
 lab-svc.goingsick.in.net
 lab-v01-node.neurosync.in.net
 lab.rkuc9.ru
@@ -26228,6 +26235,7 @@ lanchemc.com
 land-mark.fetterland.in.net
 land-mark.territoriallink.in.net
 land-site.silvura.in.net
+land-vault.ranchitro.in.net
 landbankseeds.com
 landerror.xyz
 landingpages.mobimark.net
@@ -38613,6 +38621,7 @@ rampart.obor1shwron8.ru
 ramqit.ru5t1eview.ru
 ramyjuicy-109c437.ingress-haven.ewp.live
 ran.sjyj1.ru
+ranch-hub.ranchitro.in.net
 ranchernandez.store
 randa.feqra.com
 randynorris.retirevillage.com
@@ -40573,6 +40582,7 @@ scan-trans.aurorift.in.net
 scan-z0-point.terra-data.in.net
 scan-z2-point.altosistema.in.net
 scan-z9-point.opticlocus.in.net
+scan.504.su
 scan.aryamint.com
 scan.codeeye.in.net
 scan.kamill.fr
@@ -42154,6 +42164,7 @@ smallx1.ddns.net
 sman1secanggang.sch.id
 smarlog.vexmoor.in.net
 smart-fix.valeriana.in.net
+smart-io.sciencestupids.in.net
 smart-node.ratiocore.in.net
 smart-node.rationalmatrix.in.net
 smart-point.cognitrixvector.in.net
@@ -43707,6 +43718,7 @@ studiomat.baclinc.work
 studioprocess.cokefun.in.net
 studiosha.rockapp.in.net
 study-flow.edunoppress.in.net
+study-node.sciencestupids.in.net
 study-sync.epistemicforge.in.net
 study-sync.epistemologycore.in.net
 study.bisabarengoby.id
@@ -45255,6 +45267,7 @@ teslasuit.to
 tesllamacapp.com
 tess3l.ragmosaic.ru
 tessajemile.agencialegalads.com
+test-api.sciencestupids.in.net
 test-engine.drillobjection.in.net
 test-invalid-domain.invalid
 test-nonexistent-domain-12345.example.com
