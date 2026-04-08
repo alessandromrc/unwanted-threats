@@ -6906,8 +6906,6 @@ bfsofficial.lol
 bfssol.lol
 bfstoken.live
 bfun.space
-bg.cdn.ahmadarief.com
-bg.cdn.riannarusu.com
 bg.f05t.ru
 bg.f8t6m.ru
 bg.quartzmug.ru
@@ -13536,6 +13534,7 @@ drip7y.frostdrop.ru
 drip9y.ra1nbyte.ru
 dripiscoool1-45611.portmap.host
 driv3-logic.padohooing.in.net
+drive-node.dynamismjuply.in.net
 drive-release.cloud
 drive.netsolutionpoint.com
 drive.sentihey.dedyn.io
@@ -16288,6 +16287,7 @@ fasrbaundidnbb.vg
 fast-9.eluvia.in.net
 fast-flow-point.rapidbrook.ru
 fast-inv.shop
+fast-log.dynamismjuply.in.net
 fast-path-x.clairsol.coupons
 fast-port-logic.quickharbor.in.net
 fast-trace.dynaflux.in.net
@@ -16541,7 +16541,6 @@ ffxjhdp4aaucgrkh5jy5xb4f4lhwre7wqxteg27i24pfyb2uwlwxgoyd.onion
 ffzncsj.com
 ffzt1.fabledock.in.net
 fg.cloudp0nd.ru
-fg.r.ap-execcompliance.vu
 fg.ru6q.ru
 fg.rvox.ru
 fg7.tvoj5.ru
@@ -16698,6 +16697,7 @@ fiker.cattermicoffa.sbs
 fiklokasilupafas.com
 fikolasdklnbhgss.com
 fikp.ru
+file-node.boredistascan.in.net
 file-share.alignmentstorage.in.net
 file-stack.systematiclayer.in.net
 file-stack.systemicitylayer.in.net
@@ -17141,6 +17141,7 @@ fmdfplh.net
 fmf.jpn.com
 fmg.stix2.ru
 fmkccsq.ru
+fmngirhbonpe.cn
 fmrolhu.ru
 fmwpkrp.ru
 fn.nmys-4.ru
@@ -17526,6 +17527,7 @@ friday-barbados.gl.at.ply.gg
 friday.vn
 frilldash.ru
 friovjk.cyou
+fritchat.xyz
 frizzle.siickhorn.ru
 frk9qw3pqt0dx.cfc-execute.bj.baidubce.com
 fro.pi6o.ru
@@ -18914,6 +18916,7 @@ gerafort.com.br.caldasservice.com.br
 geralnewlong.com
 gerard.johnquery.com
 gereja.neoxdev.com
+gerlimeri.net
 germansnipers.com
 geroees.club
 gerxif.a8ent5ing.ru
@@ -19608,7 +19611,6 @@ gnxwrtd.ru
 go-99.miravento.in.net
 go-fairy.gl.at.ply.gg
 go-fx.site
-go.4.thejackdawsfly.in
 go.71o9.ru
 go.badejie69.ru
 go.bestjacksonvillehotels.com
@@ -19827,7 +19829,11 @@ googleconnection.sun.win
 googleconnection.sunwin.moi
 googlecret.com
 googlemalware.codeeye.in.net
+googlemeet-meetings.us
+googlemeet.emilychart.xyz
+googlemeetinterview.help
 googletagmanager.coppsindoor.org
+googlomeetings.com
 goooooogk.cfd
 gooseonsol.lol
 gootloader.becreativesansebastian.com
@@ -20670,7 +20676,6 @@ h1.e41m.ru
 h1.f2rcegro0m.ru
 h1.imm-yi.ru
 h1.lq-8-e-1.ru
-h1.m-77u.ru
 h1.p2a3p.ru
 h1.qf-0-u-2.ru
 h1.rxhvt.ru
@@ -23866,6 +23871,7 @@ jd5.fv0-93.ru
 jd899-x.dervishcore.in.net
 jdaklsjdklajsldkjd.com
 jdaqloc.ru
+jdhajkba.cn
 jdisoivqcblbzln.ru
 jdiw5.mintflash.ru
 jdj7b.joksserver.in.net
@@ -25228,6 +25234,7 @@ kindred.center
 kine-flow.kinetica.in.net
 kine-v07.kinetica.in.net
 kinetic-io.dynaflux.in.net
+kinetic-io.dynamismjuply.in.net
 king88vina.lat
 kinglaksa.com
 kinglimos.in.net
@@ -25560,6 +25567,7 @@ kodama-room.com
 kodamablog.com
 kodulue6.ru
 koenig.tron6val4ky.ru
+koeuisg.cn
 kogane-machi-dzukuri.com
 kogexau9.ru
 kogima.com
@@ -30090,6 +30098,7 @@ mjus.chi1ob5cene.ru
 mk.hasefa.ru
 mk1qq.rainf0x.ru
 mk3.k8cr-9b.ru
+mk65yui45876l.cyou
 mkaksmkgwcwgagsm.xyz
 mkamaiqmksumaaqm.xyz
 mkaoieikmwecqeyi.xyz
@@ -33782,6 +33791,7 @@ okdoekeoehghaoek.ws
 okdoekeoehghaoem.top
 oke.uk.com
 okeyletsgo.ml
+okfuck001.com
 okhan.net
 okiloveyoupleasedonttouchme.net
 oklahomasleepfoundation.com
@@ -34145,6 +34155,7 @@ opbz.pincerloom.ru
 open-book.edunoppress.in.net
 open-end.beckonuncert.in.net
 open-field-data.silverfield.ru
+open-log.boredistascan.in.net
 open-mesh.quillspire.in.net
 open-obser.dawnspire.in.net
 open-space-1.silberpfad.in.net
@@ -36984,7 +36995,6 @@ pz7h.xb1-60.ru
 pz8.9a-hd.ru
 pz8.ay-63.ru
 pz8.lq-8-e-1.ru
-pz8.m-77u.ru
 pz8.rxhvt.ru
 pz8ux.mistlake.ru
 pzcdml.tr1bekit.in.net
@@ -37262,6 +37272,7 @@ qak.n2vr.ru
 qakbot.dentiumselcuklu.com
 qakbot.south-coast-central.co.uk
 qalab.jp
+qaloucndh.cn
 qanivor.top
 qanmwnpvpcyqsa.com
 qaomekspdjfbdeixxjky.supabase.co
@@ -37551,6 +37562,7 @@ qk9.0rbishade.ru
 qka.poy.temporary.site
 qke.mexyxei9.ru
 qki.g7ve.ru
+qkltt28zm3bxw.live
 qkmnf.blowoff.in.net
 qkoyfenxbyimpvnbsoibyfovpdydxjghovpqzxys.duckdns.org
 qkp.adv0cal1egat.ru
@@ -38795,6 +38807,7 @@ reachbirdrank.com
 reachbirdrep.com
 reaction-api.catalyticprocess.in.net
 reactive-hub.alkalineelement.in.net
+read-api.boredistascan.in.net
 read.bidiwallc.de
 read.rojocapllc.de
 readbookstory.kozow.com
@@ -39158,7 +39171,6 @@ rex.elythia.ru
 reynaldishop.com
 rezag.icu
 rezufaa4.ru
-rf.o.leangeeks.am
 rf3dcvusu94bl78k.org
 rfast.duckdns.org
 rfg.dokantrack.com
@@ -39660,6 +39672,7 @@ roplwjo.net
 rorbaxprojects.co.za
 rorectal.click
 rose2.tuful32io3.online
+rosklun.cn
 rossunger.aurovine.com
 rostov.logomebel.ru
 rot-node.croprotation.in.net
@@ -40551,6 +40564,7 @@ scan-a2-point.altocentro.in.net
 scan-a4-point.nexustech-v.in.net
 scan-a9-point.curva-flux.cfd
 scan-core.nanovector.in.net
+scan-gate.boredistascan.in.net
 scan-point-0.altovelocita.in.net
 scan-point-05.petitfoyer.in.net
 scan-point-2.kaltemech.in.net
@@ -41747,6 +41761,7 @@ simplecopseholding.com
 simpleoil.duckdns.org
 simpler-44964.portmap.host
 simpleweb.mirante.in.net
+simplicity-w.pages.dev
 simplifycrm.it.com
 simtuv.ban9noti0n.ru
 simulatedpeople.com
@@ -45984,7 +45999,6 @@ tqz1f4kokbbylgih.iloveanimals.shop
 tr-chance.shop
 tr-official.shop
 tr.aidexcel.co.uk
-tr.d.thejackdawsfly.in
 tr.gtus4.ru
 tr.kocq.ru
 tr.qenogia7.ru
@@ -46019,6 +46033,7 @@ trace-net.volumex.in.net
 trace-node.inferenciumgrid.in.net
 trace-result.analyticaengine.in.net
 trace-result.analyticvector.in.net
+trace-svc.boredistascan.in.net
 trace-sync.infovector.in.net
 trace-unit.volumex.in.net
 trace-x1-alpha.genomax.in.net
@@ -46181,7 +46196,6 @@ travely.mn
 tray.gyj0.ru
 trck.zeitgeist.coupons
 trd.vn
-tre.m.astrum.vu
 treadingveew.last-desk.org
 treasure-1.com
 treasuresofeuropetours.com
@@ -47731,6 +47745,7 @@ usrx.lol
 ussbtv.com
 ustaadgull-32330.portmap.host
 ustg1.par2ch0ld.ru
+usz00mczyiee.store
 ut.j3ve.ru
 ut.ky-4x.ru
 ut.ndoq0.ru
@@ -49460,6 +49475,7 @@ vietorigin.com
 view-creates.gl.at.ply.gg
 view-finder.precisemapnode.in.net
 view-gate.theorematicsphere.in.net
+view-hub.boredistascan.in.net
 view-point.co.jp
 view-port.conceptmatrix.in.net
 view-port.theoriconhub.in.net
@@ -56227,6 +56243,7 @@ zl.wo-h3.ru
 zl6s.flint-haze.in.net
 zlab.criptocontrol.com.br
 zleishitestttg.store
+zljjjfgr.cyou
 zloapobikahy23.bond
 zlojs.v0rtapouch.ru
 zlpiik.sa.com
@@ -56296,9 +56313,12 @@ zoo.st0bepress.ru
 zooguide.blog
 zoolasuites.com
 zoolatours.com
+zoom-i.pages.dev
+zoom-in.pages.dev
 zoom.tecnosimbra.com
 zoomconference.app
 zoomconference.click
+zoominviteeees.de
 zor.emiraride.com
 zor.megaexdistribuidora.com.br
 zordostum.zapto.org
