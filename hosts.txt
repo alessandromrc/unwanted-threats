@@ -5133,6 +5133,7 @@ arsenmarkaruyn.com
 arsija-51460.portmap.host
 art-portal.cameoinfusion.in.net
 art-studio.gouachesoror.in.net
+art-svc.iconoguroque.in.net
 art.kvus7.ru
 art.mzas7.ru
 artabnewszamanpaper47.ru.com
@@ -6452,6 +6453,7 @@ base-matrix.axiomaticgrid.in.net
 base-matrix.axiomatrix.in.net
 base-point.fastidmatrix.in.net
 base-point.ministobelisk.in.net
+base-point.shapeprimrose.in.net
 base-record.datacrest.in.net
 base-support.structuralcore.in.net
 base-syntax.formalisticcore.in.net
@@ -10929,6 +10931,7 @@ cpdendorsed.com
 cpgojhm.com
 cph.kievteplo.kiev.ua
 cph.tfba.xyz
+cpiprinting.us.com
 cpjfamy45b0m704c.org
 cpmsussgpibatpmswq.com
 cpqps.wildc0ast.ru
@@ -11283,7 +11286,6 @@ crystalrun.ru
 crystdl-rdin.aurovine.com
 cs.110-110.com
 cs.bo8y.ru
-cs.go.kg
 cs.miu24.pro
 cs0.fe7a.ru
 cs2bs.lake5p1rit.ru
@@ -13464,6 +13466,7 @@ drapunval.floresdelphinium.cfd
 drasqi.c1imby2p.ru
 dratatianeferreiraadv.com.agencialegalads.com
 draw-logic.pixelengine.in.net
+draw-node.iconoguroque.in.net
 draw-sync.gouachesoror.in.net
 draw1.5-ninet-1-ou.ru
 drawhyp.prowinserv.in.net
@@ -13889,7 +13892,6 @@ e1.8e-hr.ru
 e1.ea-43.ru
 e1.lobd.ru
 e1.rdlkc.ru
-e1.x-12o.ru
 e15.fi0m.ru
 e1is.aphrh1tc4h.ru
 e1mk.o-b-79.ru
@@ -16912,6 +16914,7 @@ fkeasfodsfkefoapdsofkp-45692.portmap.host
 fkeasfodsfkefoapdsofkp-64203.portmap.host
 fkeasfodsfkefoapdsofkp-64534.portmap.host
 fkfcwrs.com
+fkgohw.za.com
 fkk.fireciiff.ru
 fkk4m.iunarpeak.ru
 fkl7.redm0on.ru
@@ -17320,6 +17323,7 @@ forgeledg.clocknet.in.net
 forkgramme.com
 forkmice.xyz
 form-builder.municipalmatrix.in.net
+form-check.shapeprimrose.in.net
 form-hollo.apexprospera.in.net
 form.bluef0rest.ru
 form.canxium.info
@@ -17497,6 +17501,7 @@ frepanlanral563.luxpost.shop
 freqbitsolutions.com
 frescotrem.com
 fresd.serveblog.net
+freserat.gb.net
 fresh-air.miravento.in.net
 fresh-bio-center.freshhill.ru
 fresh-cliff-high.freshcliff.ru
@@ -18781,6 +18786,7 @@ geeuaooiksgwywso.xyz
 geeyuiuqkiuymsug.xyz
 gef.vekoloe8.ru
 gefof6ua3.ru
+gegehhe-64692.portmap.host
 geggkeuesqseqeym.xyz
 gegisweeumqgywoq.xyz
 gegqkocigmeiigea.xyz
@@ -18873,6 +18879,7 @@ geo-4nci.packetup.in.net
 geo-4sset.beacostolid.in.net
 geo-4uth.farngo.in.net
 geo-5car1et.saltball.in.net
+geo-api.shapeprimrose.in.net
 geo-cornpr.crestfall.in.net
 geo-d3p1.runfast.in.net
 geo-d4ta.sewdarken.in.net
@@ -20364,6 +20371,7 @@ gts.megaexdistribuidora.com.br
 gts.zeronoiseclassroom.com
 gtsavedatmustafa.ddns.net
 gtuzuuf.net
+gtv.uk.com
 gty.beznervov.com
 gty.cloudvaly.com
 gty6.stonem1nt.ru
@@ -21429,6 +21437,7 @@ hgamkado.duckdns.org
 hgd7l.hush-zigzag.ru
 hgdm.mistw0rk.ru
 hgh.co.com
+hghehg-51578.portmap.host
 hghlaw.com
 hglawyers.com
 hgonccc.net
@@ -21463,6 +21472,7 @@ hi.sacyzie58.ru
 hi.wkej2.ru
 hi.xrxo2.ru
 hi5oqqk18vlpj67l.org
+hiamego-36241.portmap.host
 hiamego-47630.portmap.host
 hiamego-48377.portmap.host
 hibitech.com
@@ -22811,6 +22821,7 @@ imacrestorehub.com
 imacsimplesend.com
 imacturbosend.com
 imaczip.com
+image-api.iconoguroque.in.net
 image-fonts-awesomeserver.click
 image-hoster11.sbs
 image-proc.pixelengine.in.net
@@ -23325,8 +23336,6 @@ iqyukcksceaemqca.xyz
 iqyuyiiqmmeemkag.xyz
 iqzomxh.sa.com
 ir.alchemyapi.io
-ir.cdn.ahmadarief.com
-ir.cdn.riannarusu.com
 ir.fabiankorte.net
 ir.holidaysuklastminute.co.uk
 ir.karpirajobs.com
@@ -25964,6 +25973,7 @@ kwxnksf.ru
 kwxwi.lakeray.ru
 kx.c7ucifto1nov.ru
 kx.kpyw-8.ru
+kx5official.com
 kx6.rv6324.online
 kx992.vylocore.in.net
 kxactcm.ru
@@ -28877,6 +28887,7 @@ malware.kasralmaadi.com
 malware.kbbet777.net
 malware.khatrimaza.in.net
 malware.kingbillydrinks.co.uk
+malware.kx5official.com
 malware.kyodofoods.com
 malware.ladyhawkemusic.com
 malware.lalithaconstructions.co.in
@@ -29081,6 +29092,7 @@ malware.xoilaczzzoz.tv
 malware.xoilaczzzpz.tv
 malware.xoilaczzzu.tv
 malware.xoilaczzzxz.tv
+malware.xoilaczzzzc.tv
 malware.xoilaczzzze.tv
 malware.xoilaczzzzk.tv
 malware.xtremebikebcn.com
@@ -29629,6 +29641,7 @@ mesgeqyaeuqumuqu.xyz
 mesh-cloud.technofabric.in.net
 mesh-gate.cyberlattice.in.net
 mesh-gateway.reinforcedmatrix.in.net
+mesh-node.shapeprimrose.in.net
 mesh-point.epistematrix.in.net
 mesh-proxy.cyberhaven.in.net
 mesh-router.logicalfabric.in.net
@@ -31490,7 +31503,6 @@ n9k3.3-5y.online
 n9o.kdit5.ru
 n9v.gl8r.ru
 n9vgt.n1ghtowl.ru
-na.hqs9i.ru
 na.prli1.ru
 na.sne4p.ru
 na.tr-8n.ru
@@ -35900,6 +35912,7 @@ pixdro.ru5t1eview.ru
 pixe-forge.thorncoil.in.net
 pixe1tu1ip.ru
 pixel-orbit.ru
+pixel-trace.iconoguroque.in.net
 pixel-view.digiframe.in.net
 pixel.a1mond0prit.ru
 pixel.amber-flint.ru
@@ -37567,7 +37580,6 @@ qk.tem5.ru
 qk2.8e-hr.ru
 qk2.ea-43.ru
 qk2.rdlkc.ru
-qk2.x-12o.ru
 qk5nd25xdnygqrey7al2tb3xop5brk7kxua7xr2zrgftzked43bku4yd.onion
 qk5ndx.quick5and.ru
 qk7.solarfracht.online
@@ -39183,6 +39195,7 @@ rewasay.buynewarexch.com
 rex.cargomanbd.com
 rex.codetohaven.com
 rex.elythia.ru
+rexblade.sa.com
 reynaldishop.com
 rezag.icu
 rezufaa4.ru
@@ -41620,7 +41633,6 @@ shy.wtes4.ru
 shyvision.avoidingglaz.ru
 shzkagxdv.localto.net
 si-co.jp
-si.hqs9i.ru
 si.kidizue6.ru
 si.ljat.ru
 si.sa.com
@@ -41645,6 +41657,7 @@ sigil.chan8eembr2ce.ru
 sigma.calculu5eve7y.ru
 sigmaboy1234567-46132.portmap.host
 sigmatopki-60241.portmap.host
+sign-gate.iconoguroque.in.net
 sign-in-property.com
 sign-j3.signalforest.in.net
 sign-live.tires8f.in.net
@@ -42608,6 +42621,7 @@ solid-master.com
 solid-state.infrastructurehub.in.net
 solid-state.refractorymatrix.in.net
 solid-store.structuralcore.in.net
+solid-svc.shapeprimrose.in.net
 solidactivate.com
 solidarityinsaya.com
 solidcarg.getreplay.in.net
@@ -44816,7 +44830,6 @@ t9vdmkdro.localto.net
 t9w4.i1msth.com
 t9x4.7kf1u.ru
 t9x4.der14i.ru
-ta.hqs9i.ru
 ta.hu-7e.ru
 ta.qe3yn.ru
 ta.ra-9x.ru
@@ -46721,7 +46734,6 @@ u5.m1stzone.ru
 u5.qf-0-u-2.ru
 u5.rdlkc.ru
 u5.ve1p.ru
-u5.x-12o.ru
 u5bd1.i1msth.com
 u5kxesyk.seerin8w2tch.ru
 u5p1d7qg.ru
@@ -49501,6 +49513,7 @@ view-creates.gl.at.ply.gg
 view-finder.precisemapnode.in.net
 view-gate.theorematicsphere.in.net
 view-hub.boredistascan.in.net
+view-hub.iconoguroque.in.net
 view-point.co.jp
 view-port.conceptmatrix.in.net
 view-port.theoriconhub.in.net
