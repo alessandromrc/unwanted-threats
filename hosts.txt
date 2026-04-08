@@ -13483,6 +13483,7 @@ drb.amin0mer3ges.ru
 dre.erom-e.com
 dre.zeronoiseclassroom.com
 dream-12.mirante.in.net
+dream-api.assyrfantasy.in.net
 dream-hub.blindersyawn.in.net
 dream.stormpiece.ru
 dream3.5-ninet-1-ou.ru
@@ -16197,6 +16198,7 @@ fahadx700-35249.portmap.host
 fahadx700-50129.portmap.host
 fahadx700-53150.portmap.host
 fahd-dalma.ddns.net
+fair-node.assyrfantasy.in.net
 fairway.uk.com
 fairy.2-pukeg-36-oy.ru
 faitdem.wayton.in.net
@@ -19373,6 +19375,7 @@ glob-k2.siliconcanyon.in.net
 glob1infra.durogrid.in.net
 glob1infra.optigrid.in.net
 global-api.bomain.ru
+global-io.noospherecore.in.net
 global-net-1.mondosolido.in.net
 global-net-2.mondoluce.in.net
 global-net-8.petitjardin.in.net
@@ -28069,6 +28072,7 @@ mag1q9t.rye93shishaty.coupons
 magdielnicholls.cl
 magento.cn.com
 maghaf.mom
+magic-hub.assyrfantasy.in.net
 magic.f1auntre6.ru
 magicalalpha.gb.net
 magicbook.overdue13wizard.coupons
@@ -29205,6 +29209,7 @@ marinmedya.com
 mariocoin.lat
 maritbosman.nl
 mark-der.gl.at.ply.gg
+mark-gate.excellsadarma.in.net
 mark-gwinner.de
 mark-svc.ministobelisk.in.net
 mark.dae.moe
@@ -29925,6 +29930,7 @@ mind-data.noeticstream.in.net
 mind-node.neurogrid.in.net
 mind-node.neurovector.in.net
 mind-stack.cognitivematrix.in.net
+mind-sync.noospherecore.in.net
 mind-vault.epistemicforge.in.net
 mind-vault.epistemologycore.in.net
 mind-weave.cognifabric.in.net
@@ -31263,6 +31269,7 @@ mystuffiez.com
 mysuggmuesawsuum.xyz
 myswewuwckssuuey.xyz
 mysyv.icu
+myth-logic.assyrfantasy.in.net
 mythic.ccdcscoring.net
 mythic.dad
 mythic.tail737292.ts.net
@@ -38388,7 +38395,6 @@ r2.nbpvt.ru
 r2.oe-69.ru
 r2.qh-1-a-5.ru
 r2.uht-3-o.ru
-r2.w-33e.ru
 r27xerh8.bohem1apred0m.ru
 r2cw.1nyearbo0k.ru
 r2cx.desj1.ru
@@ -39684,6 +39690,7 @@ room1dark.protovoda.in.net
 rooms-traveller.gl.at.ply.gg
 root-access.foundationmetric.in.net
 root-cluster.orbitbloom.in.net
+root-hub.excellsadarma.in.net
 root-source.conceptmatrix.in.net
 root-source.maknothplacenta.in.net
 root-source.ontogenesiscore.in.net
@@ -43669,6 +43676,7 @@ storms.tuful32io3.ru
 stormtrace.windford.in.net
 stormtrack.westwind.coupons
 stormy.storm-ripple.ru
+story-gate.assyrfantasy.in.net
 story-llc.com
 story-of-us.jp
 storybird.ddsis.com.mx
@@ -44464,7 +44472,6 @@ sxfrdfk.net
 sxhangtie.com
 sxiy.deepglom.in.net
 sxkset-39222.portmap.host
-sxp.nm0e2.ru
 sxqy-9.ru
 sxw.lo2p.ru
 sxwa.nxjwl.com
@@ -44965,6 +44972,7 @@ taldor.0rav2uterus.ru
 taldraen.trueflow.in.net
 taldrais3.chernomofnothes.in.net
 taldraor1.gronstat.in.net
+tale-svc.assyrfantasy.in.net
 talentcheck.pro
 talenthiring360.com
 talentrecruitments.com
@@ -45583,6 +45591,7 @@ thoughg.cyou
 thought-api.cognisphere.in.net
 thought-api.cognitivefabric.in.net
 thought-api.neurobloom.in.net
+thought-api.noospherecore.in.net
 thought-hub.cognitivematrix.in.net
 thought-hub.neurogrid.in.net
 thought-hub.neurovector.in.net
@@ -50485,7 +50494,6 @@ we.g-vox.ru
 we.isecure.top
 we.kokq.ru
 we.myda4.ru
-we.nm0e2.ru
 we.q-len.ru
 we.raha1.ru
 we.teknospd.com
@@ -51625,7 +51633,6 @@ wq7.y3-68c.ru
 wq9.0o-js.ru
 wq9.nbpvt.ru
 wq9.oe-69.ru
-wq9.w-33e.ru
 wqfmumga.com
 wqgq.oakridge.in.net
 wqiymtd.net
@@ -56069,7 +56076,6 @@ zcuchnu.com
 zd.0o-js.ru
 zd.nbpvt.ru
 zd.oe-69.ru
-zd.w-33e.ru
 zd.w20s.ru
 zd0m.d7um0wl.ru
 zd3cs.apexbloomera.in.net
