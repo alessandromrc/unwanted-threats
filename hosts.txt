@@ -1954,7 +1954,6 @@
 7ixjonx7.crumplejet.ru
 7j.v0xelspark.ru
 7jb.de5criptun1ver.ru
-7ji.dr3a0.ru
 7jkcp27353enwfwdemqgsevyjbtz5cxv66n5ctfgd37h2mdxbhhiluyd.onion
 7jp.fi0m.ru
 7juhe.gr0upw0rk.ru
@@ -7781,6 +7780,7 @@ braid.tangleflux.ru
 brain-api.cognifabric.in.net
 brain-api.cognitivematrix.in.net
 brain-base.logicmatrix.in.net
+brain-gate.cogniversehub.in.net
 brain-it-consultancy.com
 brain-log.cognitrixvector.in.net
 brain-scan.neurobloom.in.net
@@ -17063,6 +17063,7 @@ flosinjs.com
 flour.1-mafus-044-e.ru
 flow-core.fluxbridge.in.net
 flow-data.epistemiconflux.in.net
+flow-data.gnoseonflux.in.net
 flow-drop.datacascade.in.net
 flow-gate.synchromesh.in.net
 flow-guide.centralizedduct.in.net
@@ -19388,6 +19389,7 @@ glob-k2.siliconcanyon.in.net
 glob1infra.durogrid.in.net
 glob1infra.optigrid.in.net
 global-api.bomain.ru
+global-gate.noetisphere.in.net
 global-io.noospherecore.in.net
 global-net-1.mondosolido.in.net
 global-net-2.mondoluce.in.net
@@ -19902,7 +19904,6 @@ gosidefastandpure.com
 gosolcoin.digital
 gosoluna.lol
 gosped.s1aughttre5s.ru
-gossipband.ie
 gosweets.world
 got.djvirus.kiev.ua
 got.marcialongman.com.br
@@ -24578,7 +24579,6 @@ k4.t-14o.ru
 k4.torque-bud.ru
 k4.tqrjf.ru
 k4.ua-20.ru
-k4.w-48u.ru
 k4.y3-68c.ru
 k459j.bluef0rm.ru
 k4l.puffwarden.ru
@@ -27184,6 +27184,7 @@ logic-vault.inferencestream.in.net
 logic-vault.inferenciumgrid.in.net
 logic-vault.inferentiaforge.in.net
 logic-vault.inferentialcore.in.net
+logic-vault.noetisphere.in.net
 logic7.go0dsc1ence.ru
 logicalnewrestore.com
 logicdev.purecode.in.net
@@ -29223,15 +29224,12 @@ maribel.meytam.com.pe
 marigoldtuktukandcartours.com
 mariklogisaretina.com
 marilaogas.bditconsultancy.com
-marilyconsultant.com
 marimarivelley.duckdns.org
 marinabrizzibraus.it
 marinavarro.com
 marineeducational.com
 marinenode.fig2ship.coupons
-marinmedya.com
 mariocoin.lat
-maritbosman.nl
 mark-der.gl.at.ply.gg
 mark-gate.excellsadarma.in.net
 mark-gwinner.de
@@ -29243,8 +29241,6 @@ marker.mile163stone.coupons
 market.aasabie.com
 marketillume.excitfollower.in.net
 marketing.gundf.de
-marketingaudit.buena.io
-marketingplexus.com
 marketings.mysynology.net
 marketmeter.barygameter.ru
 marketplace.br.com
@@ -29259,12 +29255,10 @@ marlin204.promoportal4.coupons
 marmasd.qpon
 marmorariaserrana.com.br
 maroc-hotel.com
-maroness.de
 maroni823.sytes.net
 marq1n.oceanpath.ru
 marqen.mar8arstr2t.ru
 marrakechpalms.com
-marrealestatecordoba.com
 marrueye.cyou
 mars-sort.lookback.in.net
 marsalek.cy
@@ -29274,7 +29268,6 @@ marshlagoon.stayflat.in.net
 mart.it.com
 marten.martenhain.ru
 martina-riederer.de
-martinekekooistra.com
 martinpintado.com
 martonmogyorosy.com
 marusho-factory.jp
@@ -29293,7 +29286,6 @@ masjidislamiccentrejateng.id
 mask3dup-57114.portmap.host
 masonratopngga-51671.portmap.host
 mass-logic.basaltloading.in.net
-massagensbalneariocamboriu.com.br
 massans7.com
 massimuta.ru
 massivepatte.latticeprospera.in.net
@@ -29304,15 +29296,12 @@ mast.hawkmast.ru
 master-index.conceptmatrix.in.net
 master.0x504.com
 master.yaxngmould.com
-masterclass.brunamaronesi.com
 mastercliente.ddns.net
 masterforshizllett.giize.com
 mastjmy.ru
 mastoken.skyroad.in.net
 mat.b9ku.ru
 mat.cpak0.ru
-mataagr.com
-matacademy.co.ke
 mataharikeadilannusantara.com
 matalan.uk.com
 match-gate.goodtwain.in.net
@@ -29325,7 +29314,6 @@ materials-mali.gl.at.ply.gg
 materiel-evenementiel.net
 math-hub.hammermathemat.in.net
 math-proc.axiomforge.in.net
-matheonuclear.adwiseonlinemarketing.com
 matheusbaldan.agencialegalads.com
 matheusribeiro.agencialegalads.com
 matheusvieiraribeiro.agencialegalads.com
@@ -29346,7 +29334,6 @@ matronacons.com
 matsau.noip.me
 matsuura3.com
 mattersthatmatters.duckdns.org
-matthieus.com
 mattykp.click
 matur.press
 matvey-41302.portmap.host
@@ -29354,7 +29341,6 @@ mauisoft.net
 maukateciklodasresm.com
 mav-hf-kita-kk.de
 mavhic.com.yemint.com
-mavibusiness.it
 mavjlatqkpuban.com
 mavlun.luz7it5tretch.ru
 mavqen.ho0freb1rth.ru
@@ -29956,9 +29942,11 @@ minato-inc.net
 minboard.blinng.com
 mind-conclusion.gl.at.ply.gg
 mind-data.noeticstream.in.net
+mind-hub.cogniversehub.in.net
 mind-node.neurogrid.in.net
 mind-node.neurovector.in.net
 mind-stack.cognitivematrix.in.net
+mind-sync.noetisphere.in.net
 mind-sync.noospherecore.in.net
 mind-vault.epistemicforge.in.net
 mind-vault.epistemologycore.in.net
@@ -30458,7 +30446,6 @@ moneygeniushub.com
 moneypond.in
 monginiscake.in.net
 mongodb.uk.com
-monhappy.edu.vn
 monit8-spark.slashbak.in.net
 monitoringservice.snoozetrap.in.net
 monocastro0612.1cooldns.com
@@ -30878,7 +30865,6 @@ msonfire.website
 msroffice.jp
 msservice.network
 msshdxv.yardnext.in.net
-mssl-bd.com
 msthiyun.com
 mstllc.net
 mstwcsnvylmullkqh.com
@@ -31136,7 +31122,6 @@ my.8786.ru
 my.com.au.debbiesimril.com
 my.domain
 my.f-05-t.ru
-my.gayongkebangsaan.com
 my.lizqa.ru
 my.lulugiy2.ru
 my.ngiz5.ru
@@ -31162,7 +31147,6 @@ mycamwookoeossuw.xyz
 myceekimoooeyqcy.xyz
 mycgusyowcackgyu.xyz
 mycoewaksumyuqae.xyz
-mycpafortruckers.com
 mycqoaeeoqewewuo.xyz
 mycrust.lol
 mycusgcwmaoysekg.xyz
@@ -31179,12 +31163,10 @@ myeiasyeycgakqes.xyz
 myekegaasuyyqqwm.xyz
 myeli53ogsryjg2kob4xqxtwkr5oc5zj7jr5fcfizpytwe566k5thxyd.onion
 myenerkind.com
-myenglishonlinetest.com
 myeqsdw.ru
 myesuogwmqucyqmy.xyz
 myesyumkisquscqo.xyz
 myeugmmaqgseeewi.xyz
-myevim.com
 myexodus.app
 myfairshare.org
 myfandollars.com
@@ -31286,7 +31268,6 @@ mysaoqaqakaymicc.xyz
 myscwmsskwkamyyc.xyz
 myseeioqicigywwc.xyz
 mysgcakgeuoyqcue.xyz
-mysinternacional.com
 mysmouqemisiaess.xyz
 mysouqimoiaaswko.xyz
 myspace.ambertide.in.net
@@ -31296,7 +31277,6 @@ mystemstars.com
 mystery.co.com
 mysticpoint.overdue13wizard.coupons
 mysticraftsmp.fun
-mystuffiez.com
 mysuggmuesawsuum.xyz
 myswewuwckssuuey.xyz
 mysyv.icu
@@ -31560,7 +31540,6 @@ na.vwjy-7.ru
 naanmudhalvan.ancitedutech.com
 nab0k0v-llnk.nabokov30slam.coupons
 nabfk.amber-drift.in.net
-nachhilfe-duesseldorf.de
 nacht.cedarsteg.ru
 nacht.m00nweaver.ru
 nacht.midn1ghtdrop.ru
@@ -31588,7 +31567,6 @@ nagomiya-kokowa.com
 nagyg.run
 nah.cricket-physio.com
 nah.myserver.com.bd
-nahidjewelry.com
 nahsus123-62025.portmap.host
 nahtafw.com
 nai.kurol.c.sparixx.silverpath.qzz.io
@@ -31644,11 +31622,9 @@ nandinayanyc.com
 nanixbt.lol
 nano.viewdns.net
 nano2025.ydns.eu
-nanoair.brandit.ws
 nanocore.amerikafoto.nl
 nanocoreee.ddns.net
 nanomiloklosikolaymas.com
-nanzeducation.com
 nao-burogu.com
 naosagioulouka.gr
 nap.digitalmatters360.com
@@ -31682,7 +31658,6 @@ natas-haarstudio.de
 natctqo.fun
 nathanhowe.nathanhowemusic.com
 nathaniellouk.com
-nathanjokers.com
 nathetsof.com
 national-constitution.org.ua
 nationalmarinaday.org
@@ -31699,7 +31674,6 @@ nature-logic-base.wildfern.ru
 nature-silent-sync.silentmeadow.in.net
 naturecontrast.com
 naturedrop.ch
-naturesfix.com.au
 naturesights.gb.net
 naturesremedies.uk.com
 nauedaiednaibduf.su
@@ -31729,7 +31703,6 @@ nb931vrn.zenithharbinger.digital
 nbaz.it.com
 nbcockj.com
 nbdadnmolaedbfau.su
-nbdeco.fr
 nbgvwttzh35irjtnxgeaydqob6ixorgabbufb4ociefv4zklyppu5lad.onion
 nbjc.sewdarken.in.net
 nbmbnmbembfaeurag.top
@@ -31784,7 +31757,6 @@ ne4w2nbw.moduplaza.digital
 ne9.ede1g0rge.ru
 ne9w9xl0.five5kitt1es.ru
 neacoop.it
-nearchos-akte.gr
 neat.kuryc7yy1.ru
 neaventures.com
 nebe7l.nebeltal.ru
@@ -31806,7 +31778,6 @@ nebula-vv1ng.nebula4tango.coupons
 nebula.blen7kor2za.ru
 nebula501.discount5den.coupons
 nebuto.net
-neckaralb.digital
 nectar.dle759zone.coupons
 ned-granting-opportunities.com
 need-disturbed.gl.at.ply.gg
@@ -31928,6 +31899,7 @@ neuaueufuanbbgbg.su
 neuqhrk.com
 neur0n-forge.thistlecore.in.net
 neurafor.pozellant.in.net
+neural-api.cogniversehub.in.net
 neural-io.cognifabric.in.net
 neural-io.cognitivematrix.in.net
 neural-io.cognitrixvector.in.net
@@ -35305,6 +35277,7 @@ patelkhadibhandar.com
 path-bridge.linearbackbone.in.net
 path-finder.infovector.in.net
 path-finder.orbitforge.in.net
+path-gate.systematrixflow.in.net
 path-logic-unit.silverpath.in.net
 path-logic.fariseietogo.in.net
 path-logic.methodicstream.in.net
@@ -36969,6 +36942,7 @@ purchcoin.lol
 pure-io.noeticstream.in.net
 pure-node.abstractlogic.in.net
 pure-node.bactergreat.in.net
+pure-svc.noetisphere.in.net
 pureeratee.duckdns.org
 pureforupdatebunies.dynuddns.net
 pureland3.estrellis.in.net
@@ -41093,6 +41067,7 @@ sense-data.cognifabric.in.net
 sense-data.cognisphere.in.net
 sense-data.cognitivefabric.in.net
 sense-gate.cognitivematrix.in.net
+sense-log.cogniversehub.in.net
 sense-node.noeticstream.in.net
 sensor-bk.ydns.eu
 sensor.ydns.eu
@@ -43005,6 +42980,7 @@ sphecoi.qpon
 sphere-api.axiomaticsphere.in.net
 sphere-api.dialectosphere.in.net
 sphere-api.theorematicsphere.in.net
+sphere-node.noetisphere.in.net
 sphere.he8em0nfated.ru
 spicsxz-52017.portmap.host
 spicy-api.caliphsaucy.in.net
@@ -45619,6 +45595,7 @@ thietbilanh.cokhiviendong.com
 thifleet.dockhype.in.net
 thinhpk.no-ip.biz
 think-node.cognitrixvector.in.net
+think-node.cogniversehub.in.net
 think-node.rationalisvector.in.net
 think-tank.ratiocore.in.net
 think-tank.rationalmatrix.in.net
@@ -45642,6 +45619,7 @@ thoughg.cyou
 thought-api.cognisphere.in.net
 thought-api.cognitivefabric.in.net
 thought-api.neurobloom.in.net
+thought-api.noetisphere.in.net
 thought-api.noospherecore.in.net
 thought-hub.cognitivematrix.in.net
 thought-hub.neurogrid.in.net
@@ -49335,6 +49313,7 @@ vector-base.navigationalpath.in.net
 vector-hub.gnosticvector.in.net
 vector-node.infovector.in.net
 vector-svc.cognitrixvector.in.net
+vector-svc.cogniversehub.in.net
 vector-svc.rationalisvector.in.net
 vector.calculu5eve7y.ru
 vector.col1ectfre5h.ru
@@ -54855,7 +54834,6 @@ y.mijk.ru
 y.p9v7g.ru
 y.pejy1.ru
 y.q1s6c.ru
-y.t-14o.ru
 y.ua-20.ru
 y.vxof.ru
 y.zowyzyi62.ru
