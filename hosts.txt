@@ -694,7 +694,6 @@
 2msn5sp3af3iy2ozj4235ccsb7pnpp4tkzyxdpzutyc2sxb3mujicfyd.onion
 2n.b3aconz.ru
 2n.dr1ftpanda.ru
-2n0.qh1a5.ru
 2n4.yq2r.ru
 2n62w.ma-shrift.ru
 2n6w.v0rt3xlab.ru
@@ -1015,6 +1014,7 @@
 3v5fav802ttakph7.org
 3vc.c0uperu8nia.ru
 3vg76.di5orientr0w.ru
+3vld.inferlogic.in.net
 3vo.7-h9.ru
 3w.mt-3-o-4.ru
 3w.sh0rtwe5ter.ru
@@ -6318,6 +6318,7 @@ baiduccdn1.com
 baj.pot-5.ru
 bajaban.sa.com
 bajajallianz.in.net
+bajla4.dreswaoaky.in.net
 bajzii.cyou
 bakvau-store.evascientific.com
 bal-rewards.xyz
@@ -17854,6 +17855,7 @@ funcampaz.org
 funcampaz.org.develop-app.com
 funcasinospain.com
 funclub.eu.com
+fund-frame.inferlogic.in.net
 fund-lab.takefree.in.net
 fund.aud-1-mi-5-s.ru
 fund8-gate.fastpink.in.net
@@ -21742,7 +21744,6 @@ hm.pf6o2.ru
 hm.rd1a2.ru
 hm.rk8y6.ru
 hm.ss9y4.ru
-hm.uy-55.ru
 hm.xbiq2.ru
 hm.zk5e7.ru
 hm.zv1a0.ru
@@ -23830,7 +23831,6 @@ j7f3fm89.repe2t5tuffy.ru
 j7pyx.spectrumforge.in.net
 j7wp03f8.rainshield.ru
 j8-web-infra.navispazio.in.net
-j8.qh1a5.ru
 j83.wi0x.ru
 j880.shop
 j8e.8786.ru
@@ -29339,6 +29339,7 @@ mars-sort.lookback.in.net
 marsalek.cy
 marsh.dichromatictear.com
 marsh.embercross.ru
+marshfiel.dreswaoaky.in.net
 marshlagoon.stayflat.in.net
 mart.it.com
 marten.martenhain.ru
@@ -35984,6 +35985,7 @@ pioneerz.com
 piouzv.blowdisassem.in.net
 pip.draftsnip.ru
 pipe-line.integratedduct.in.net
+pipe1-trail.dreswaoaky.in.net
 pippagenccoin.lat
 pippincoin.run
 pippinsol.lol
@@ -38414,7 +38416,6 @@ qz9.qj4y4.ru
 qz9.rd1a2.ru
 qz9.rk8y6.ru
 qz9.ss9y4.ru
-qz9.uy-55.ru
 qz9.zk5e7.ru
 qz9.zv1a0.ru
 qzbyssr.net
@@ -42092,6 +42093,7 @@ skesoqyumkqcsgqg.xyz
 sket-stack.velorune.in.net
 sketch-node.conceptmatrix.in.net
 sketch.zeromint.ru
+sketchspr.inferlogic.in.net
 skeuccugwieowmiy.xyz
 skewcqugqsmcmoai.xyz
 skggcgqweukgciew.xyz
@@ -44860,7 +44862,6 @@ t1.rd1a2.ru
 t1.rk8y6.ru
 t1.ss9y4.ru
 t1.u11q.ru
-t1.uy-55.ru
 t1.x-ceu8.ru
 t1.x3le.ru
 t1.x7f4g2.ru
@@ -45171,6 +45172,7 @@ taltideal3.emberfield.in.net
 taltideor.fastchck.in.net
 talus3.rapidstone.ru
 talven8ex.q7ravo.in.net
+talvenal7.dreswaoaky.in.net
 talxpn.closell.in.net
 tam8re.a8riculmarb1e.ru
 tamara.scrappinmonkeys.com
@@ -45442,6 +45444,7 @@ tennis-bandol.fr
 tenoro.mobilefoundationrepair.com
 tenryu-site.com
 tens-base.tensora.in.net
+tens-forge.dreswaoaky.in.net
 tens-r8.tensorfield.in.net
 tens-v11.tensora.in.net
 tensor-line.paragonharbinger.in.net
@@ -51584,7 +51587,6 @@ wodlup.imp0rttwi5t.ru
 wodqis.quartz-jolt.ru
 wodxet.t0rquefinch.ru
 woed7o3il2jrxzczupntvhutc2ogs5otn6ekgoya6qo33qcuhomkhwad.onion
-wof.qh1a5.ru
 wofehoo0.ru
 wohihhu.ru
 wojak.today
@@ -55493,6 +55495,7 @@ yiyyciceiwuoscoe.xyz
 yiyygiicayumqkuy.xyz
 yiyyuyusykeqikgg.xyz
 yj.cl0udfall.ru
+yj6t.dreswaoaky.in.net
 yje.myhehaa4.ru
 yje.vexdapper.ru
 yje.xibovyu5.ru
