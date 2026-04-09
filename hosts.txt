@@ -6053,7 +6053,6 @@ b2y6.8786.online
 b2yl.3v9-u.ru
 b2z7r5k.ru
 b3-alpha.federleicht.coupons
-b3.hl-5-a-6.ru
 b3.oc57y.ru
 b3.wuhp.ru
 b3.yy88.ru
@@ -6456,6 +6455,7 @@ base-point.ministobelisk.in.net
 base-point.shapeprimrose.in.net
 base-record.datacrest.in.net
 base-support.structuralcore.in.net
+base-svc.bereathfertil.in.net
 base-syntax.formalisticcore.in.net
 base-theory.axiomforge.in.net
 base-theory.epistemicforge.in.net
@@ -8481,7 +8481,6 @@ c3style.com
 c3ytx.ha5r.online
 c4.bl8205.online
 c4.dae017f.ru
-c4.dk2o5.ru
 c40znm.pits-burg-2-z.ru
 c42m1ebfwkrgc7gd.frostapiv2.com
 c45.q4zi.ru
@@ -10750,6 +10749,7 @@ coralwil.draniercismn.in.net
 coratuikilooklosd.com
 core-allowing.gl.at.ply.gg
 core-api.fastidmatrix.in.net
+core-api.importantserv.in.net
 core-api.ontocorex.in.net
 core-engine.vectorforge.in.net
 core-gate.apotheosbring.in.net
@@ -11212,6 +11212,7 @@ crobel3.floresagapanto.cfd
 crolinpanrol.luxmailing.store
 cronapiworkersvc.com
 crookedskyfarms.com
+crop-api.bereathfertil.in.net
 crop-api.ranchitro.in.net
 crop-sync.croprotation.in.net
 crop-trace.combinekabisia.in.net
@@ -11995,6 +11996,7 @@ data-unit.quantovault.in.net
 data-v09-core.acustica-v.in.net
 data-vault.cryptonest.in.net
 data-vault.epistematrix.in.net
+data-vault.importantserv.in.net
 data-vault.structuralgridhub.in.net
 data-view.ashstatistic.in.net
 data-x1-core.schnellnetz.in.net
@@ -16632,6 +16634,7 @@ field-node.ranchitro.in.net
 field-report.regionaltelemetry.in.net
 field-scan.combinekabisia.in.net
 field-shoa.foxrunet.in.net
+field-sync.bereathfertil.in.net
 field-sync.fieldmatrix.in.net
 field-tracker.gl.at.ply.gg
 field-x4-vast.silberfluss.in.net
@@ -20208,6 +20211,7 @@ grove.wolkenmeer.ru
 grove9.5unm0ss.ru
 grovebach.ru
 grovv4-node.conesemison.in.net
+grow-vault.bereathfertil.in.net
 growify.tech
 growinggodsgoodnews.info
 grownuc.lat
@@ -21440,6 +21444,8 @@ hexvul.exh2ust8one.ru
 heybro.signo.dev.br
 heysenti.dedyn.io
 heysilentpanel.onrender.com
+hez.hbway.com.au
+hez.msalifenterprise.net
 hez3it.pa1mi5trythat.ru
 hezqow.bobi1dece4.ru
 hf.qj-4-y-4.ru
@@ -21847,6 +21853,7 @@ hoseaza.lat
 hospital-agreed.gl.at.ply.gg
 hospital.iqwing.live
 host-b1.vertexanchor.in.net
+host-node.importantserv.in.net
 host-winds.com
 host.forestcl0ud.ru
 host.globalinfohost.top
@@ -24267,7 +24274,6 @@ js-static.myhomeworxhandyman.com
 js.byxiaolin.dpdns.org
 js.byxly.vip
 js.c2shst0sing.ru
-js.dk2o5.ru
 js.driftshad0w.ru
 js.jquery.cn.com
 js.lalz.ru
@@ -26277,6 +26283,7 @@ lanadelreyoftour2025.com
 lanchemc.com
 land-mark.fetterland.in.net
 land-mark.territoriallink.in.net
+land-node.bereathfertil.in.net
 land-site.silvura.in.net
 land-vault.ranchitro.in.net
 landbankseeds.com
@@ -44099,6 +44106,7 @@ sv.cv3a9.ru
 sv.mcyz4.ru
 sv.mw2o3.ru
 sv.nqyf7.ru
+svc-relay.importantserv.in.net
 svc.lo9q.ru
 svc1infra.absolutecontinuity.in.net
 svc1infra.accomplicerepreh.in.net
@@ -44548,6 +44556,7 @@ sync-gate.epistemegrid.in.net
 sync-gate.modula.in.net
 sync-h1-data.gravix-net.cfd
 sync-h4-data.curvaforte.in.net
+sync-hub.importantserv.in.net
 sync-logic.exhortshelk.in.net
 sync-m1-vision.altocentro.in.net
 sync-m2-vision.curva-flux.cfd
@@ -45438,6 +45447,8 @@ tfba-6.ru
 tfba6.ru
 tfc.nufypiy1.ru
 tfdqcr.sa.com
+tfe.hbway.com.au
+tfe.msalifenterprise.net
 tff.ssffaa4.xyz
 tff.syslicense.net
 tffoodindustries.com
@@ -45879,7 +45890,6 @@ tn.x3u0s.ru
 tn.xa4p.online
 tn0uaslx.rabk0r5pech.ru
 tn4cp7ai.adju5tc2b.ru
-tn7.hl-5-a-6.ru
 tn7z.c0ffee8rind.ru
 tnabeuffhshsueur.ws
 tndvyt5qg.localto.net
