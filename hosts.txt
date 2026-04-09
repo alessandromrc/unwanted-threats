@@ -3257,6 +3257,7 @@ ad6.gu1enme5ti.ru
 ad65x.omnifree.in.net
 ad9vh.gi0wmarsh.ru
 adaildavid.com.br
+adamdasdadad-47266.portmap.host
 adamrat.lol
 adani.ddnsgeek.com
 adaptationinternatoinal.com
@@ -4118,6 +4119,7 @@ ali16.no-ip.biz
 ali19951995.ddns.net
 aliado1.duckdns.org
 alianzeg.shop
+alibabaforwader10.ddns.net
 alien007.my-firewall.org
 aliencz.ddns.net
 aliengp.cyou
@@ -5549,6 +5551,7 @@ audiosolar.testload.in.net
 audioux.qpon
 audioza.cyou
 audipoint.cz
+audit-hub.epistemevault.in.net
 audit-node.metalogicstream.in.net
 audit-trail.foundationmetric.in.net
 audmy.indi5t0st.ru
@@ -6438,6 +6441,7 @@ base-f11-infra.durolocus.in.net
 base-f3-infra.termoviva.cfd
 base-f4-infra.foco-global.in.net
 base-f4-infra.optimumvia.in.net
+base-gate.gnoseonflux.in.net
 base-gate.gnosticvector.in.net
 base-infra-5.mondoluce.in.net
 base-infra-77.mondolavoro.in.net
@@ -6463,6 +6467,7 @@ base-v5-steel.grandeparole.in.net
 base-v5-steel.soma-grid.in.net
 base-v55-steel.grandeserveur.in.net
 base-vault.epistemegrid.in.net
+base-vault.epistemevault.in.net
 base-vault.monarchold.in.net
 base-x5-infra.mondofuturo.in.net
 base-x7-infra.mondosicuro.in.net
@@ -9144,6 +9149,7 @@ cell-logic.epistematrix.in.net
 cell-logic.maknothplacenta.in.net
 cell-logic.ontogenesiscore.in.net
 cell-plate.br1ghtmere.in.net
+cell-vault.ontocorex.in.net
 cellardirection.info
 cellcol.rassvet.in.net
 cellculture.sdflkmicrobiol.in.net
@@ -10748,6 +10754,7 @@ coralwil.draniercismn.in.net
 coratuikilooklosd.com
 core-allowing.gl.at.ply.gg
 core-api.fastidmatrix.in.net
+core-api.ontocorex.in.net
 core-engine.vectorforge.in.net
 core-gate.apotheosbring.in.net
 core-j1-sync.faser-tech.in.net
@@ -12486,6 +12493,7 @@ del.kindnessbrand.com
 del.nexs.com.bd
 delay.5-ninet-1-ou.ru
 deli.publicvm.com
+deliciassobencomenda.com.br
 delirium.aurovine.com
 delive-crest.catflat.in.net
 delivelagoo.gorun.in.net
@@ -13520,6 +13528,7 @@ drift-gate.epistemiconflux.in.net
 drift-log.axiologyflux.in.net
 drift-sensor.stellarflux.in.net
 drift-svc.ontofluxion.in.net
+drift-vault.gnoseonflux.in.net
 drift.1-byhih-05-ey.ru
 drift.brambleholt.ru
 drift.cioudpeak.ru
@@ -14291,7 +14300,6 @@ ecve.d0nit7then.ru
 ed-rn.gl.at.ply.gg
 ed.bestjacksonvillehotels.com
 ed.dgod.ru
-ed.dr3a0.ru
 ed.lkci1.ru
 ed.trowy.ru
 ed.tweethost.com
@@ -15044,6 +15052,7 @@ entity-hub.conceptmatrix.in.net
 entity-hub.ontofluxion.in.net
 entity-map.ontologicalflux.in.net
 entity-map.ontologicstream.in.net
+entity-node.ontocorex.in.net
 entity-node.ontoversegrid.in.net
 entraiz.cyou
 entrepots-colis-2025.info
@@ -17131,6 +17140,7 @@ flux-net.fluxbridge.in.net
 flux-node.inferentialisflux.in.net
 flux-run.fluxoris.in.net
 flux-scan.inductiveflux.in.net
+flux-svc.gnoseonflux.in.net
 flux-v77.fluxoris.in.net
 flux.brahtr0phy.ru
 flux.drip-anchor.ru
@@ -22989,6 +22999,7 @@ infiniteclawdrooms.lol
 infiniti-stealer.com
 infinity.glor5ven2ta.ru
 infinitywealthfundsmanagement.com
+info-api.epistemevault.in.net
 info-mesh.epistemegrid.in.net
 info-orbit.digisphere.in.net
 info-point.infovector.in.net
@@ -24575,7 +24586,6 @@ k4.ei-84.ru
 k4.hwgmm.ru
 k4.mw-2-o-3.ru
 k4.si9a.ru
-k4.t-14o.ru
 k4.torque-bud.ru
 k4.tqrjf.ru
 k4.ua-20.ru
@@ -25547,7 +25557,6 @@ kmqqagewysucmikc.xyz
 kmqsmiwcasymaeic.xyz
 kmqusmkokciiywcu.xyz
 kmqwqqwuoggecsei.xyz
-kms.com.bd
 kmsaqimoqowyiekc.xyz
 kmsogsqoskagmqye.xyz
 kmsucyusqwssiwye.xyz
@@ -25591,6 +25600,7 @@ kno.amber-flint.ru
 knob.sn-1-rlpatch.ru
 knopkabablo.lol
 knot.st1rlingpad.ru
+know-api.gnoseonflux.in.net
 know-logic.gnoseologiccore.in.net
 know-node.gnosticvector.in.net
 know-studied.gl.at.ply.gg
@@ -27592,6 +27602,7 @@ lxc.syslicense.net
 lxkz1wt2.ce1lsfeste7.ru
 lxp1.f1ippme7re.ru
 lxphm9.vouayger.in.net
+lxt.uk.com
 lxwo.org
 lxzzyb.sa.com
 ly.bg4o2.ru
@@ -35277,6 +35288,7 @@ patelkhadibhandar.com
 path-bridge.linearbackbone.in.net
 path-finder.infovector.in.net
 path-finder.orbitforge.in.net
+path-gate.epistemevault.in.net
 path-gate.systematrixflow.in.net
 path-logic-unit.silverpath.in.net
 path-logic.fariseietogo.in.net
@@ -36171,7 +36183,6 @@ pm.gjat.ru
 pm.stix2.ru
 pm7.0y-pm.ru
 pm7.hwgmm.ru
-pm7.t-14o.ru
 pm7.ua-20.ru
 pma.jarry.onl
 pmb-dev.uid.ac.id
@@ -39702,6 +39713,8 @@ root-hub.excellsadarma.in.net
 root-source.conceptmatrix.in.net
 root-source.maknothplacenta.in.net
 root-source.ontogenesiscore.in.net
+root-svc.epistemevault.in.net
+root-svc.ontocorex.in.net
 root-vault.gnoseologiccore.in.net
 root-x2.metricfusion.in.net
 root.bhware.store
@@ -40942,6 +40955,7 @@ secure-key.cryptovault.in.net
 secure-link.nexushaven.in.net
 secure-logic-gateway.thenorthernvertex.com
 secure-login-area.cielsombre.coupons
+secure-node.epistemevault.in.net
 secure-signal.info
 secure-spool.glassterrible.in.net
 secure-vault.cyberhaven.in.net
@@ -41532,6 +41546,7 @@ shift-ctrl.axiologyflux.in.net
 shift-ctrl.infodynamics.in.net
 shift-ctrl.velocityterminal.in.net
 shift-node.apotheosbring.in.net
+shift-node.gnoseonflux.in.net
 shift-node.ontofluxion.in.net
 shift-point.dialecticalgrid.in.net
 shift-point.dialecticflux.in.net
@@ -47274,7 +47289,6 @@ uilfpl.bz.it
 uilmabdaxqlaxuj.com
 uiptoq.sa.com
 uirs.br1arwild.ru
-uis.dr3a0.ru
 uishg.apexharbinger.in.net
 uit.co.com
 uiwbtjfp.com
@@ -52659,7 +52673,6 @@ www.hit-club.co.com
 www.hj053.com
 www.hj223.top
 www.hjnweb8u.shop
-www.hlhj2253.site
 www.hollygurling.com
 www.home-remodeling-74269.bond
 www.home.megaresellers.org
