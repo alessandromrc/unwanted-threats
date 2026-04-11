@@ -4821,6 +4821,7 @@ api2edge.primanode.in.net
 api2sync.flexonode.in.net
 api3-auth.quick-support-portal.in.net
 api3-grid.green-energy-flow.in.net
+api3-safe.smart-home-verify.in.net
 api8-well.slowcube.in.net
 apigo.co
 apis.sentihey.dedyn.io
@@ -15424,6 +15425,7 @@ espada.ddns.net
 espoir.plar9ten2zo.ru
 espreesso.lol
 espresso.name
+esr.ro
 esrndndubsbsifurfd.ru
 essay8.5-forez-515-o.ru
 essayajewelry.com
@@ -18534,6 +18536,7 @@ gate6-main.cesura-wate7y.in.net
 gate6-point.semiunder-lear.in.net
 gate6-way.don2tdouching.in.net
 gate6-way.p1aster-voice.in.net
+gate6-way.smart-home-verify.in.net
 gate8.alderstone.ru
 gateext.tuneone.in.net
 gatemaden.space
@@ -21854,6 +21857,7 @@ home-90.valeriana.in.net
 home-guard-jo.com
 home.wofaraa29.ru
 home.x-3-ri.ru
+home1-verify.smart-home-verify.in.net
 homecenter.co.com
 homecub.cfd
 homeexplore.novacrm.ca
@@ -22167,6 +22171,7 @@ hub5-gate.pestte1ex.in.net
 hub5-relay.8rivastyinfamy.in.net
 hub6-gate.l2vashs-calpel.in.net
 hub6-main.quick-support-portal.in.net
+hub6-relay.green-energy-flow.in.net
 hub6-secure.exhib1torknot.in.net
 hubabubanobot52.com
 hubet88.name
@@ -27747,7 +27752,6 @@ m.4qua0.ru
 m.58wincom.shop
 m.5v05.ru
 m.78nsy6.ru
-m.7o.gg
 m.8-fr.ru
 m.betingslot-2024.com
 m.clientportaldocs.com
@@ -32574,6 +32578,7 @@ node1proc.databaseintegrity.in.net
 node1proc.remotemanagement.in.net
 node1store.securityframework.in.net
 node1sync.networkobserver.in.net
+node2-check.smart-home-verify.in.net
 node2-desk.quick-support-portal.in.net
 node2-info.pestte1ex.in.net
 node2-power.green-energy-flow.in.net
@@ -35452,7 +35457,6 @@ pcfs.org.pl
 pchxpdrr4xknnzz0.org
 pcinuask.org
 pcjls.grim1atin0s.ru
-pcupd.com
 pcz.jk-3-y-7.ru
 pd.fu5spurch2s.ru
 pd.qcet-8.ru
@@ -36815,7 +36819,6 @@ proud.duckdns.org
 proud17.duckdns.org
 proudsoldier.duckdns.org
 provedores.supraterra.ddsis.com.mx
-proveedoradeproyectosysoluciones.com
 proveoriente.com
 proveritas.eu.com
 proves2tn.2tono.com
@@ -44460,7 +44463,9 @@ svc5-mark.exhib1torknot.in.net
 svc5-match.creep-score.in.net
 svc5-relay.l2vashs-calpel.in.net
 svc5-relay.quick-support-portal.in.net
+svc5-relay.smart-home-verify.in.net
 svc5-secure.cesura-wate7y.in.net
+svc5-solar.green-energy-flow.in.net
 svchost1.linkpc.net
 svenmoelleken.com
 svet-core.moroshkasvet.in.net
@@ -49403,6 +49408,7 @@ vault4-data.creep-score.in.net
 vault4-data.green-energy-flow.in.net
 vault4-file.exhib1torknot.in.net
 vault4-file.quick-support-portal.in.net
+vault4-info.smart-home-verify.in.net
 vault4-root.consiliumundu-lat.in.net
 vault4-sync.semiunder-lear.in.net
 vault88x.secure-efficient2.su
@@ -50114,7 +50120,6 @@ vpn.dmg-tech.com
 vpnathan-partners.com.my
 vpnkit.tech
 vps-2624.onecom-cloud.one
-vps-4ce15e9a.vps.ovh.net
 vps-zap812595-1.zap-srv.com
 vps3000.kozow.com
 vps30002026.kozow.com
@@ -52786,7 +52791,6 @@ www.hotelbienetre.com
 www.hpdgih.top
 www.hpsvifx.bond
 www.hsck.pub
-www.hseda.com
 www.hubsmartproperties.com
 www.hx671.top
 www.hxcwyj.com
