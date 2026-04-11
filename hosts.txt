@@ -4819,6 +4819,8 @@ api2-unit.consiliumundu-lat.in.net
 api25.didns.ru
 api2edge.primanode.in.net
 api2sync.flexonode.in.net
+api3-auth.quick-support-portal.in.net
+api3-grid.green-energy-flow.in.net
 api8-well.slowcube.in.net
 apigo.co
 apis.sentihey.dedyn.io
@@ -14305,6 +14307,7 @@ eco-system.orbitbloom.in.net
 eco-technic-ls.com
 eco-technic.com
 eco.sa.com
+eco1-trace.green-energy-flow.in.net
 ecofes.ru
 ecohaus.webd.pl
 ecologistics.co.com
@@ -22163,6 +22166,7 @@ hub5-base.don2tdouching.in.net
 hub5-gate.pestte1ex.in.net
 hub5-relay.8rivastyinfamy.in.net
 hub6-gate.l2vashs-calpel.in.net
+hub6-main.quick-support-portal.in.net
 hub6-secure.exhib1torknot.in.net
 hubabubanobot52.com
 hubet88.name
@@ -26617,7 +26621,6 @@ legrugohungary.hu
 legtaxandpartners.com
 leivistabaltic.eu.com
 lejrmakei.com
-lejrmakei.net
 lekeleke-007-bk.ydns.eu
 lel.ayakashistresser.ru
 lem7ur.c1imby2p.ru
@@ -32571,7 +32574,9 @@ node1proc.databaseintegrity.in.net
 node1proc.remotemanagement.in.net
 node1store.securityframework.in.net
 node1sync.networkobserver.in.net
+node2-desk.quick-support-portal.in.net
 node2-info.pestte1ex.in.net
+node2-power.green-energy-flow.in.net
 node2-py-store.com
 node2-soft.don2tdouching.in.net
 node2core.databaseintegrity.in.net
@@ -44454,6 +44459,7 @@ svc5-hub.semiunder-lear.in.net
 svc5-mark.exhib1torknot.in.net
 svc5-match.creep-score.in.net
 svc5-relay.l2vashs-calpel.in.net
+svc5-relay.quick-support-portal.in.net
 svc5-secure.cesura-wate7y.in.net
 svchost1.linkpc.net
 svenmoelleken.com
@@ -49394,7 +49400,9 @@ vault08.savingssit.in.net
 vault3-info.don2tdouching.in.net
 vault3-io.pestte1ex.in.net
 vault4-data.creep-score.in.net
+vault4-data.green-energy-flow.in.net
 vault4-file.exhib1torknot.in.net
+vault4-file.quick-support-portal.in.net
 vault4-root.consiliumundu-lat.in.net
 vault4-sync.semiunder-lear.in.net
 vault88x.secure-efficient2.su
