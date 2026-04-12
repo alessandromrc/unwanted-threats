@@ -2449,7 +2449,6 @@
 9ls.bramblestrom.ru
 9luf.hexapulse.ru
 9m.g6xt-5n.ru
-9m.ls-2-a-9.ru
 9mha5mm1.diagnosfirst.digital
 9mv.lo9q.ru
 9mz.driftquartz.ru
@@ -4801,6 +4800,7 @@ api.weightlosstonight.org
 api.wiresguard.com
 api.xqjiin.sa.com
 api2-cloud.8rivastyinfamy.in.net
+api2-delta.zorvelixan.in.net
 api2-knot.exhib1torknot.in.net
 api2-patch.voxi3tral.in.net
 api2-score.creep-score.in.net
@@ -4901,6 +4901,7 @@ app2data.fluxobase.in.net
 app2data.vivaflux.in.net
 app2remote.telemetryservice.in.net
 app2steel.distributedmatrix.in.net
+app3-frame.plu8moran.in.net
 app3core.distributedmatrix.in.net
 app3dev.telemetryservice.in.net
 app3ghost.managementgateway.in.net
@@ -11795,7 +11796,6 @@ d5.1-b03-1q.ru
 d5.2s84d.ru
 d5.5h4553.online
 d5.6cm81.ru
-d5.8a-mg.ru
 d5.a-4n66k4.ru
 d5.frostbranch.ru
 d5.st-1-lt-forge.ru
@@ -12149,6 +12149,7 @@ data.xoilaczzzze.tv
 data.yearofcolour.com
 data.yhydl.com
 data1.fa-1-cbrea-5-t.ru
+data2-fast.plu8moran.in.net
 data3-node.cesura-wate7y.in.net
 data3sync.boreasync.in.net
 data3sync.lumenlabs.in.net
@@ -12971,7 +12972,6 @@ diabetescareandwellness.com
 diabezill.com.br
 diabezill.com.br.estiloefeito.com
 diagcsl.click
-dialkwik.in
 diamondexportind.com
 diamondmusicent.com.ng
 diamondmusicent.com.ng.mosesogenyi.com.ng
@@ -18585,6 +18585,7 @@ gate6-hub.creep-score.in.net
 gate6-main.cesura-wate7y.in.net
 gate6-main.urban-growth-data.in.net
 gate6-point.semiunder-lear.in.net
+gate6-post.zorvelixan.in.net
 gate6-way.don2tdouching.in.net
 gate6-way.p1aster-voice.in.net
 gate6-way.smart-home-verify.in.net
@@ -22228,6 +22229,7 @@ hub4sync.vivaflux.in.net
 hub4work.systemintegritynode.in.net
 hub5-base.don2tdouching.in.net
 hub5-gate.pestte1ex.in.net
+hub5-local.plu8moran.in.net
 hub5-relay.8rivastyinfamy.in.net
 hub6-gate.global-health-check.in.net
 hub6-gate.l2vashs-calpel.in.net
@@ -22980,7 +22982,6 @@ illumewholes.capslock.in.net
 illurn-plate.eskimotsutsik.in.net
 illuyxka.asia
 ilonermailc.com
-ilonermailc.net
 iloveboats9.vip
 ilovenetssomuch.ddns.net
 ilovephysics.48101.online
@@ -24637,7 +24638,6 @@ k.rk8y6.ru
 k.s836.ru
 k.ss9y4.ru
 k.zk5e7.ru
-k.zv1a0.ru
 k0-16.ru
 k0.1z22k.ru
 k0.f-xiu4.ru
@@ -26996,6 +26996,7 @@ link.mundonerdassistencia.com
 link.picket-warp.ru
 link.windm1nd.ru
 link08.organiclink.in.net
+link1-host.draxolin.in.net
 link3.netw1ng.ru
 link4access.durogrid.in.net
 link4access.optigrid.in.net
@@ -28003,7 +28004,6 @@ m5we2.w-8z35.com
 m5x.uht-3-o.ru
 m5x8r.432b47.ru
 m5yvac5o.gr2vityta1k.ru
-m6.8a-mg.ru
 m6.8b-1d.ru
 m6.ha5r.ru
 m67fvuhb.darkpine.digital
@@ -32673,6 +32673,7 @@ node2data.networkobserver.in.net
 node2flow.veloxunit.in.net
 node2remote.securityframework.in.net
 node2steel.remotemanagement.in.net
+node3-alpha.zorvelixan.in.net
 node3-base.semiunder-lear.in.net
 node3-call.p1aster-voice.in.net
 node3-link.consiliumundu-lat.in.net
@@ -35049,7 +35050,6 @@ p1urn-vvay.plum8express.coupons
 p1wy.71o9.online
 p1xel7-cast.nab2lamstibles.in.net
 p2.b1eedu4yuk.ru
-p2.ls-2-a-9.ru
 p2.nibsnap.ru
 p2.vortexgipfel.ru
 p20o.gre2tre7ue.ru
@@ -36486,6 +36486,7 @@ port.ky-4-x.ru
 port.plumeanchor.ru
 port.v0ltmorrow.ru
 port2.spongeclaw.ru
+port6-send.plu8moran.in.net
 portabalbufe.com
 portag.locker
 portaildocs.cloud
@@ -37158,7 +37159,6 @@ pw3290s.cokenote.in.net
 pwmpjjg.net
 pwmt.embertrail.ru
 px.gr1tmodule.ru
-px.pf-6-o-2.ru
 pxcnax.crestfall.in.net
 pxe51lm9.frostm1nd.ru
 pxkpoxt8.cabinetslyuka.digital
@@ -42083,6 +42083,7 @@ site-w7.signalforest.in.net
 site.flashx.cc
 site.fontesolutions.com.br
 site.pr-gr.jp
+site1-proxy.plu8moran.in.net
 site2.kentinmartel.fr
 site5-core.xelvorinax.in.net
 siteamnsserv.beer
@@ -42758,6 +42759,7 @@ soft.sun5hine.ru
 soft.windm1nd.ru
 soft.zanax6aa1.ru
 soft2.rockwind.ru
+soft4-base.plu8moran.in.net
 soft4you.xyz
 soft9p.c1oudcat.ru
 softbreeze.gentlewind.coupons
@@ -44804,6 +44806,7 @@ sync-z9-data.vortex-lab.in.net
 sync.dareck.it.com
 sync.juzgadorama.it.com
 sync3view.cryptasol.in.net
+sync4-meta.zorvelixan.in.net
 sync4vision.luxalabs.in.net
 sync4vision.veloxsite.in.net
 sync6-signal.velqo7rin.in.net
@@ -44932,7 +44935,6 @@ t1.1vd-z.ru
 t1.1wd2k.ru
 t1.3pea2.ru
 t1.4kl-9.ru
-t1.8a-mg.ru
 t1.aclz-9.ru
 t1.ahz-ya.ru
 t1.bh3i6.ru
@@ -50946,6 +50948,7 @@ web1meta.vivaflux.in.net
 web3-walletnotify.cc
 web3.terminalobserver.in.net
 web4-proxy.praxo6lin.in.net
+web5-relay.zorvelixan.in.net
 webanalytics-cdn.cfd
 webanalytics-cdn.cyou
 webanalytics-cdn.icu
@@ -51714,7 +51717,6 @@ wmk88.com
 wmk99.com
 wmqbd7l8.opticprime.digital
 wmu.xr-7-a-0.ru
-wmw.ls-2-a-9.ru
 wmw2.dr1ftpanda.ru
 wmware.no-ip.biz
 wmwr.keystonebloom.in.net
