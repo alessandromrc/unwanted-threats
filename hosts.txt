@@ -3101,7 +3101,6 @@ academies.retailo.net
 acannaaaaa-32635.portmap.host
 acannaaaaa-46963.portmap.host
 acat.com.br
-acaviationsupplies.com
 acbp0020171456.page.tl
 acc.cn.com
 acc.dms.mechan.nl
@@ -4822,10 +4821,12 @@ api2-info.vex3litor.in.net
 api2-jump.norqelix.in.net
 api2-knot.exhib1torknot.in.net
 api2-load.travexin.in.net
+api2-meta.prax6tolin.in.net
 api2-meta.vo2xeral.in.net
 api2-node.zor5liven.in.net
 api2-patch.voxi3tral.in.net
 api2-patch.zeq7moral.in.net
+api2-path.xel2mavor.in.net
 api2-port.kry8navel.in.net
 api2-port.travemox.in.net
 api2-push.pra6lixon.in.net
@@ -7669,6 +7670,7 @@ bongoshare.bishtelecom.com
 bongoshilposociety.com
 bongrodanang.com
 bongsebing.com
+bonnechance.today
 bonus33.info
 book-api.literallukom.in.net
 book-hub.hisslytori.in.net
@@ -7695,6 +7697,7 @@ booksbabies.info
 booksbypatriciaschultz.com
 booksmagazinetx.com
 bookstablesoon.com
+bookus.in.net
 booloo.hopto.org
 boom-logic.explosionjunip.in.net
 boom.plume-anchor.ru
@@ -8272,6 +8275,7 @@ bundleroug.thunderplain.in.net
 bundleser.di5honorman.in.net
 bundstar.cuffsorbsky.in.net
 bunesaria.com
+bunnea.duckdns.org
 bunnybot.ru
 bunnybots.ru
 bunnycraft.online
@@ -8790,6 +8794,7 @@ calm-svc.nicequiet.in.net
 calm.me-2-v.ru
 calm.vudeh0ae3.ru
 calm4y.lazywind.ru
+calmatelier.today
 calmbreeze.quietwind.in.net
 calmion.barondecont.in.net
 calmnight.gentlewind.coupons
@@ -9176,6 +9181,7 @@ ce1im.ru
 ce1l-mark.spectrumharvest.in.net
 ceagasaamwmaaqoe.xyz
 ceaisyiyciiuwiqg.xyz
+ceajip.za.com
 ceameocmoimiqccw.xyz
 ceaps-158-173-23-8.a.free.pinggy.link
 ceaucweycgmcywee.xyz
@@ -9193,6 +9199,7 @@ cedar.defore5tm0unt.ru
 cedar.fenod.online
 cedar.h0dikim2n.ru
 cedar27.discount5den.coupons
+cedar2glanz.ru
 cedar9.quartzweald.ru
 cedarberg.ru
 cedarclient.slowcube.in.net
@@ -12358,6 +12365,7 @@ db.truckporter.com
 db1mbt6f1x50an2u.org
 db3-storage.drumekal.in.net
 db33.n1ghtflow.ru
+db4-cache.prax6tolin.in.net
 db4-cache.travemox.in.net
 db4-store.drumavex.in.net
 db4static.flexonode.in.net
@@ -13579,7 +13587,6 @@ download.pdf00.com
 download.remont-center.ru.com
 download.rieege.mx
 download.skibidibopbop.lol
-download.suxiazai.com
 download.upscholarship.co.com
 download.vercel.qpon
 downloadjako.con-ip.com
@@ -14694,6 +14701,7 @@ eguaheoghouughahsw.top
 egubeauefaeufu.su
 egupt.ru.com
 egyeditalpbetet.batz.hu
+egym7md-64674.portmap.host
 egyptnf.click
 egyptnow.us.com
 eh.jsuv0.ru
@@ -18130,6 +18138,7 @@ fx3r.mor5tud1es.ru
 fxafcfe.invulshuga.in.net
 fxassistant.4nmn.com
 fxccubi6.c2rv5uating.ru
+fxcm.in.net
 fxh.bo3l.ru
 fxkapveygtffbkv.com
 fxo.demisemarzban.top
@@ -18385,6 +18394,7 @@ gagichls.top
 gaiargt.com
 gaieufhaefuefhg.su
 gaines-kg.jp
+gakabie.ru
 gala-net.galactoview.in.net
 gala-v11.galactoview.in.net
 galahad.aurovine.com
@@ -18720,6 +18730,7 @@ gate6-box.cloud-storage-unit.in.net
 gate6-cmd.smart-system-check.in.net
 gate6-hub.consiliumundu-lat.in.net
 gate6-hub.creep-score.in.net
+gate6-hub.prax6tolin.in.net
 gate6-hub.secure-proxy-way.in.net
 gate6-hub.xelvarinox.in.net
 gate6-io.web-traffic-trace.in.net
@@ -19465,6 +19476,7 @@ git.bvmai.xyz
 git.zionministry.org
 git33.matchexact.in.net
 git4-repo.vo2xeral.in.net
+git4-repo.xel2mavor.in.net
 git5-pull.voxi3tral.in.net
 github.ciberseguridad-eia.xyz
 github.u9myanmar.store
@@ -19541,6 +19553,7 @@ glacanriz.velmoratrud.cfd
 glaci5.iceglow.ru
 glacial.cedarwinkel5.ru
 glacial1.glacialufer.ru
+glaciarhaven.ru
 glacier.art67quarrel.coupons
 glacier.breeze1falcon.coupons
 glacier.kozhevnik6lan.coupons
@@ -20194,7 +20207,6 @@ gootloader.qubah-decoration.com
 gootloader.whtsgroplink.com
 gopanoptica.com
 gopilab.in.net
-goplanet.digital
 goqdqag.net
 gor.alpinematters.com
 gor.botick.top
@@ -21275,6 +21287,7 @@ hack-men.sytes.net
 hack.lanka-add.com
 hack.orange-cabinets.com
 hacker.zeuxis-art.com
+hacker76413312-39033.portmap.host
 hackerhazem1.no-ip.info
 hackersda-46118.portmap.host
 hackerspy.sytes.net
@@ -21629,6 +21642,7 @@ heath.beechmoor.ru
 heather-goblet.with.playit.plus
 heather9.silverklamm.ru
 heathercalhoun.retirevillage.com
+heatherquarz.ru
 heathrowdevelopment.com
 heattrail.agrahurry.in.net
 heaven.nqyf-7.ru
@@ -23120,6 +23134,7 @@ iiywcmieqcoyausq.xyz
 iiywsmikasguiaek.xyz
 ij.ha7e.ru
 ij4s4.bluef0rm.ru
+ijbfi.pk
 ijct.cl1nkbarge.ru
 ijels.com
 ijepong.com
@@ -23161,7 +23176,6 @@ illumewholes.capslock.in.net
 illurn-plate.eskimotsutsik.in.net
 illuyxka.asia
 ilonermailc.com
-ilonermailc.net
 iloveboats9.vip
 ilovenetssomuch.ddns.net
 ilovephysics.48101.online
@@ -23422,6 +23436,7 @@ inspectlet.observer
 inspiration.ru.com
 inspirec.com
 inspni3q15.nimpr.uk
+instafashion.in.net
 installinfo.dynu.net
 instance-p3rfvx-relay.screenconnect.com
 instant-msg.velocityterminal.in.net
@@ -24489,6 +24504,7 @@ jobdekho.in.net
 jobinterview360.com
 jobmwyc.com
 jobs.au-startups.com
+jobs.betastuff.de
 jobsosvid.gb.net
 jobtomilega.in
 jocafas.cyou
@@ -24591,6 +24607,7 @@ jqk.ravenklause.ru
 jql0.dark5hip.ru
 jqp.wi7e.ru
 jqqice.com
+jquery.js-library-host.com
 jquery.min-js.site
 jquerymanager.com
 jqylrmzn8r.localto.net
@@ -25930,13 +25947,13 @@ kojinogoen.com
 kojirasetravel.com
 kokino-60107.portmap.host
 kokoro-koko.jp
-kokorostore.it
 kokoslotlogin.com
 koksfegkosoefh.su
 kokua-hair-design.com
 kokucho.tokyo
 koky.hopto.org
 kokymrgy.hopto.org
+kokymrgy2000.hopto.org
 kolbexenterprise.com
 koleporter.com
 kolmina.com
@@ -27688,6 +27705,7 @@ lov.demisemarzban.top
 lov.ejmali.store
 love.zytv.ru
 loveasstoken.fun
+lovebackshastri.in.net
 lovehun.shop
 lovent.cos5acklove1.ru
 lover.0-we-fid-707-i.ru
@@ -28240,7 +28258,6 @@ m8ke.agency
 m8o.cloudw1re.ru
 m8q.aspenatlas.ru
 m8q.saffronkern.ru
-m8qa.pohv3.ru
 m9.5y4a.ru
 m9.cgty8.ru
 m9.g601c.ru
@@ -29685,6 +29702,7 @@ matheusbaldan.agencialegalads.com
 matheusribeiro.agencialegalads.com
 matheusvieiraribeiro.agencialegalads.com
 mathlogic.arithmethair.in.net
+mathworks.today
 matidiax1-58523.portmap.host
 matr-v2.fieldmatrix.in.net
 matr07.fieldmatrix.in.net
@@ -32893,7 +32911,9 @@ node3-core.krynexor.in.net
 node3-core.tul7moran.in.net
 node3-core.xelvarinox.in.net
 node3-fast.drumavex.in.net
+node3-fast.prax6tolin.in.net
 node3-flag.bri2xalon.in.net
+node3-flag.xel2mavor.in.net
 node3-join.krinaxon.in.net
 node3-link.consiliumundu-lat.in.net
 node3-link.norxavin.in.net
@@ -33598,6 +33618,7 @@ oak05.oakshaven.in.net
 oak05.oaktrail.in.net
 oak2.br1ghtwood.ru
 oak5hd.0akshade.ru
+oakenfjrod.ru
 oakensiegel.ru
 oakfather.dubniakpops.ru
 oakpath.oaktrail.in.net
@@ -34213,6 +34234,7 @@ ojt.dc-8.ru
 ojvpkaohbddmbfac.com
 ojxk.r0ckveil.ru
 ojxqy.sa.com
+ok-vsefotki.online
 ok.intr0dki5h.ru
 ok.lalz.ru
 ok.plig-5.ru
@@ -34665,6 +34687,7 @@ ops-gate.dynastis.in.net
 ops-gate.lumitron.in.net
 ops-unit.dynastis.in.net
 ops-unit.lumitron.in.net
+ops1-view.xel2mavor.in.net
 ops4-base.travexin.in.net
 ops4-cache.voxi3tral.in.net
 opsec-cf.com
@@ -36846,7 +36869,6 @@ pr1sk-rnate.prisk7tarvo.coupons
 pr1v-zone.glowhaven.in.net
 pr2.codetohaven.com
 pr2.skfilmsint.com
-pr5.ddns.net
 pr6q.8-f-e8.ru
 practicalplayercontact.duckdns.org
 practitioners-ons-boom-utc.trycloudflare.com
@@ -36857,6 +36879,7 @@ praetor2.a7mpr0tori.ru
 pragmaticplay.it.com
 praiefb.cyou
 prair1e.wildb1ss.ru
+prairequell.ru
 prairialp.n1mbleoak.in.net
 prairie.regenwald.ru
 prajsm.com
@@ -38809,7 +38832,6 @@ r5h1ma.mar5hma1narc.ru
 r5k0t.flint09marko.coupons
 r5m2x.fortune23tv.coupons
 r5q.ju8r.online
-r5xz.pohv3.ru
 r5yd.b6je.online
 r5z0t.gfk-8120.ru
 r6.027-7i.ru
@@ -40481,7 +40503,6 @@ rzsenmm.com
 rzv.firecrest.ru
 rzyqvsjt.neumechawl.ru
 s-aroma.tokyo
-s-repairs.gl.at.ply.gg
 s.0ouuky0.ru
 s.0vs-r.ru
 s.0y2i.ru
@@ -41068,7 +41089,6 @@ schem2-span.yellglass.in.net
 schema-well.checkingsum.in.net
 schemaqa.cyou
 scheme.mon2r5chemer.ru
-schenckel.com.br
 scher4.glimmerkranz.ru
 schiff.pumaschiff.ru
 schild.onyxkamm.ru
@@ -41242,6 +41262,7 @@ sdkconnect121.st
 sdkconnecter.com
 sdkpasture.firstbeasts.in.net
 sdkwinter.moondev.in.net
+sdlpsajdioasjd-60039.portmap.host
 sdn-cloudflare-js-botstrup.cfd
 sdn-cloudflare-js-botstrup.click
 sdn-cloudflare-js-css.click
@@ -42238,6 +42259,7 @@ simple3.simp-7-euna-3-t.ru
 simple6.gethe-4-e.ru
 simplecopseholding.com
 simpleoil.duckdns.org
+simplepleasure.today
 simpler-44964.portmap.host
 simpleweb.mirante.in.net
 simplicity-w.pages.dev
@@ -44808,6 +44830,7 @@ svc4work.modulardatastream.in.net
 svc5-auth.bry3loxan.in.net
 svc5-auth.tech-support-desk.in.net
 svc5-base.consiliumundu-lat.in.net
+svc5-base.xel2mavor.in.net
 svc5-cdn.cloud-storage-unit.in.net
 svc5-dns.remote-access-node.in.net
 svc5-edge.norxavin.in.net
@@ -44821,6 +44844,7 @@ svc5-info.vo2xeral.in.net
 svc5-link.secure-proxy-way.in.net
 svc5-mark.exhib1torknot.in.net
 svc5-match.creep-score.in.net
+svc5-mesh.prax6tolin.in.net
 svc5-mesh.xelvarinox.in.net
 svc5-net.active-service-hub.in.net
 svc5-pid.smart-system-check.in.net
@@ -46802,6 +46826,7 @@ trailkits.com
 trailquest.exploratsinyuk.ru
 trainen.cyou
 training-uat.rapidascent.com
+trainingmatters.uk.com
 traitement-anti-fourmis.fr
 trakk.deepv0yage.ru
 tram5s.abstractm1s5.ru
@@ -46959,6 +46984,7 @@ trk.uk.com
 trodatec.ch
 trojanonsolbot.com
 tronskan.co.com
+troyonsatine.ru
 troyouc.cyou
 trozbgi.com
 trp.itermed.ar
@@ -47839,7 +47865,6 @@ uk-weight.gl.at.ply.gg
 uk-yakutsk.ru
 uk.1397u6.ru
 uk.g-04-s.ru
-uk2.localto.net
 uk3.mylitapp.com
 uk3551.pickx.online
 uka-p.com
@@ -53474,7 +53499,6 @@ www.marov.tech
 www.martinsfranca.agencialegalads.com
 www.marylandguild.com
 www.massageetrelaxation.com
-www.massiv.net
 www.matheusbaldan.adv.br.agencialegalads.com
 www.mckinley.gsinds.com
 www.medicoolpart.com
@@ -55288,7 +55312,6 @@ xxx.hotelsinnewjerseyatlanticcity.com
 xxx.supportify360.io
 xxx.vrolijkecreaties.nl
 xxxgames.co.uk
-xxxmm20250820.com
 xxxxyuanko.com
 xxxyuanko.com
 xxzu.plum-wav-ru.ru
