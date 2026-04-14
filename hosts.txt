@@ -4852,7 +4852,9 @@ api3-hash.digital-verify-pro.in.net
 api3-hop.web-traffic-trace.in.net
 api3-job.global-server-sync.in.net
 api3-log.smart-system-check.in.net
+api3-ready.active-service-hub.in.net
 api3-safe.smart-home-verify.in.net
+api3-site.secure-proxy-way.in.net
 api3-tls.remote-access-node.in.net
 api3-trace.travel-point-trace.in.net
 api3-trade.local-market-hub.in.net
@@ -14092,7 +14094,6 @@ e15.fi0m.ru
 e1is.aphrh1tc4h.ru
 e1mk.o-b-79.ru
 e1my.moxt5.ru
-e1mz.7-5xc.ru
 e1qoupg1tx5v7ath.org
 e1tvd.4qo8.online
 e1xb.e-dx.online
@@ -18712,6 +18713,7 @@ gate6-box.cloud-storage-unit.in.net
 gate6-cmd.smart-system-check.in.net
 gate6-hub.consiliumundu-lat.in.net
 gate6-hub.creep-score.in.net
+gate6-hub.secure-proxy-way.in.net
 gate6-hub.xelvarinox.in.net
 gate6-io.web-traffic-trace.in.net
 gate6-ip.remote-access-node.in.net
@@ -21070,7 +21072,6 @@ h27.mi7x.ru
 h27g.p2rtics2nd.ru
 h28.4qo8.ru
 h2c.8ds98.ru
-h2dp.7-5xc.ru
 h2ds.moxt5.ru
 h2k.4-4gy.ru
 h2k.4y328.online
@@ -22133,6 +22134,7 @@ host.globalinfohost.top
 host.pl-8-a.ru
 host.retirevillage.com
 host.wemnbbsweoipmngbyutrdcunbgrtjeroendns.pro
+host1-base.active-service-hub.in.net
 host123.zz.am
 host1store.datacentricnode.in.net
 host2-entry.xelvorinax.in.net
@@ -26444,7 +26446,6 @@ l8iwt.8oodt1me.ru
 l8k.zm6392.online
 l8lp.kn-1-fecast.ru
 l8q.gi0x.ru
-l8qg.7-5xc.ru
 l8qh.moxt5.ru
 l8rd.30u241207.online
 l9-auth-user.velocicorsa.in.net
@@ -32828,6 +32829,7 @@ node1store.securityframework.in.net
 node1sync.networkobserver.in.net
 node2-area.urban-growth-data.in.net
 node2-check.smart-home-verify.in.net
+node2-core.active-service-hub.in.net
 node2-desk.quick-support-portal.in.net
 node2-draw.solid-build-trace.in.net
 node2-info.global-health-check.in.net
@@ -32838,6 +32840,7 @@ node2-list.local-market-hub.in.net
 node2-map.travel-point-trace.in.net
 node2-map.web-traffic-trace.in.net
 node2-obj.cloud-storage-unit.in.net
+node2-port.secure-proxy-way.in.net
 node2-power.green-energy-flow.in.net
 node2-py-store.com
 node2-soft.don2tdouching.in.net
@@ -36837,11 +36840,9 @@ prd.tweethost.com
 prd.united-gs.net
 pre-manga.gl.at.ply.gg
 pre.automanpk.com
-pre.cozygardenkids.com
 pre.dirayat.com
 pre.hifive.net.au
 pre.sequareeus.online
-pre.sofyartist.com
 prebunking.cekfakta.com
 precision-io.nanovector.in.net
 preentootmist.org
@@ -38796,7 +38797,6 @@ r7h0g4s.ru
 r7j-44928.portmap.host
 r7k2.sk-f0s.ru
 r7mc8.primurib1er.ru
-r7nc.0-9pr.ru
 r7nd.nyqb0.ru
 r7ohz2wt.fabu1ou5down.ru
 r7pj2.3u-6.online
@@ -39298,6 +39298,7 @@ relay-point.districtbuffer.in.net
 relay-server.nexushaven.in.net
 relay-svc.exhortshelk.in.net
 relay.aut0ns2ving.ru
+relay.energysdomes.com
 relay.readmenownow838.info
 relay.sevfrtdxs.com
 relay.t0up.top
@@ -43842,8 +43843,6 @@ stay-api.againstvisitor.in.net
 stayonbokablesol.com
 stazinal.terrae.rest
 stazio54.com
-stbl.bluewave-shipping.com
-stbl.shutupkissme.com
 stdown.dinju.com
 ste4dy0-graph.skyl0om.in.net
 steady-flow-brook.steadybrook.in.net
@@ -44757,9 +44756,11 @@ svc5-git.global-server-sync.in.net
 svc5-hub.semiunder-lear.in.net
 svc5-info.bri2xalon.in.net
 svc5-info.vo2xeral.in.net
+svc5-link.secure-proxy-way.in.net
 svc5-mark.exhib1torknot.in.net
 svc5-match.creep-score.in.net
 svc5-mesh.xelvarinox.in.net
+svc5-net.active-service-hub.in.net
 svc5-pid.smart-system-check.in.net
 svc5-pin.web-traffic-trace.in.net
 svc5-ready.drumavex.in.net
@@ -49714,6 +49715,7 @@ vault4-data.creep-score.in.net
 vault4-data.green-energy-flow.in.net
 vault4-db.data-metric-flow.in.net
 vault4-db.digital-verify-pro.in.net
+vault4-doc.active-service-hub.in.net
 vault4-ex.smart-system-check.in.net
 vault4-file.exhib1torknot.in.net
 vault4-file.office-task-sync.in.net
@@ -49724,6 +49726,7 @@ vault4-id.tech-support-desk.in.net
 vault4-info.smart-home-verify.in.net
 vault4-io.cloud-storage-unit.in.net
 vault4-key.quv7maren.in.net
+vault4-on.secure-proxy-way.in.net
 vault4-root.consiliumundu-lat.in.net
 vault4-root.local-market-hub.in.net
 vault4-root.solid-build-trace.in.net
@@ -51751,6 +51754,7 @@ wintersync.coldpine.in.net
 wintertrack.snowwind.coupons
 wintertrail.esaulsnow.in.net
 winterupdatestack.makeoverwinter.in.net
+winup.su
 winupdate.cfd
 winupdateconf.cfd
 winwin24.mywire.org
