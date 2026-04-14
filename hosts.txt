@@ -467,7 +467,6 @@
 1ris.pi6o.online
 1ronpath.ru
 1rr.s0apcluster.ru
-1rs.wqix5.ru
 1s.ktox5.ru
 1s.not0r5atush.ru
 1s.stoner0ck.ru
@@ -2049,7 +2048,6 @@
 7u.kqag-6.ru
 7u.viberspan.ru
 7u995adj.bracket-murmur.ru
-7ue.wqix5.ru
 7uka.checkbro.in.net
 7uo.g0sslamp.ru
 7uy.re5onwi1ling.ru
@@ -4809,6 +4807,7 @@ api.shimoneaprel.top
 api.simsys.org
 api.skycloudcenter.com
 api.softwarecommerce.net
+api.temo.click
 api.upscholarship.co.com
 api.voidcitizen.space
 api.vxucqb.dpdns.org
@@ -4828,6 +4827,7 @@ api2-knot.exhib1torknot.in.net
 api2-load.travexin.in.net
 api2-meta.vo2xeral.in.net
 api2-patch.voxi3tral.in.net
+api2-patch.zeq7moral.in.net
 api2-port.travemox.in.net
 api2-push.pra6lixon.in.net
 api2-route.xelvarinox.in.net
@@ -4845,9 +4845,12 @@ api3-auth.quick-support-portal.in.net
 api3-bit.data-metric-flow.in.net
 api3-call.tech-support-desk.in.net
 api3-chart.urban-growth-data.in.net
+api3-dir.cloud-storage-unit.in.net
 api3-gate.prime-media-gate.in.net
 api3-grid.green-energy-flow.in.net
+api3-log.smart-system-check.in.net
 api3-safe.smart-home-verify.in.net
+api3-tls.remote-access-node.in.net
 api3-trace.travel-point-trace.in.net
 api3-trade.local-market-hub.in.net
 api3-work.office-task-sync.in.net
@@ -8830,7 +8833,6 @@ cans.systems
 cansdalestakoonly1.duckdns.org
 cansdalestakoonly163962.duckdns.org
 cansti.in.net
-cansupeker.com
 canto2.am0rc2thed.ru
 cantrqj.asia
 canv-shi.oakstart.in.net
@@ -9067,7 +9069,6 @@ cch-travel.com
 ccheck.qlkwr.com
 cckd6h3fsb6976au8o.jp.net
 ccleaner.gl
-ccleaner.org.ua
 ccmcjx.sa.com
 ccpgp25zc37xccprbjr46iurz5c5awhqxltm6xn7nef7dxpsyegwncid.onion
 ccpwnews.com
@@ -10153,7 +10154,11 @@ claude-code-info.pages.dev
 claude-code-main.pages.dev
 claude-desktop-app.bitbucket.io
 claude-docs.com
+claude-install.com
+claude.gr.com
 claudeapp.gitlab.io
+claudecode-download.co.com
+claudecode.gr.com
 claudepage.pages.dev
 claufua.pages.dev
 claus2doom.co.za
@@ -10567,6 +10572,7 @@ codered.nadhled.info
 codered.themoonresidence.com
 codespring.purecode.in.net
 codesprint.annyprogramm.in.net
+codexcli.co.com
 cofepoi2.ru
 coffre-fort.noitresor.coupons
 cofidyu58.ru
@@ -10787,7 +10793,6 @@ content-v2-verisoiu.icu
 content.mvpstrat.com
 content.sentihey.dedyn.io
 content.teamslivesupport.com
-contentmentfairnesspesky.com
 contents-douglas.gl.at.ply.gg
 contents-hungarian.gl.at.ply.gg
 contest.3squaredco.com
@@ -10963,7 +10968,6 @@ cosmic-link.astrahaven.in.net
 cossak.cos5acklove1.ru
 costactspreadinf.duckdns.org
 costtaadvogados.agencialegalads.com
-cotecsecuritygroup.com
 cotizador-sar.ddsis.com.mx
 cotlesgengeral.com
 cou369ppsh.localto.net
@@ -11899,7 +11903,6 @@ d78e28f30f401bafb4df56ad39d90d12.226b22e7cfe7de9c61af9f86b5895e00.traefik.defaul
 d7m0.q3lo.online
 d7mta.1a2e6.ru
 d7q.a-8-xp.ru
-d7qy.0-1gc.ru
 d7qz.qihs8.ru
 d7w2.zephyrsteg.online
 d7x.ember-grove.ru
@@ -15123,7 +15126,6 @@ empresa.caldasservice.com.br
 empty4.5-forez-515-o.ru
 emzlrir.ru
 en-01.com
-en-suite-faq.com
 en.fenod.ru
 en.ramorentacar.com
 en.taichuan.com
@@ -15561,6 +15563,7 @@ espada.ddns.net
 espoir.plar9ten2zo.ru
 espreesso.lol
 espresso.name
+esr.ro
 esrndndubsbsifurfd.ru
 essay8.5-forez-515-o.ru
 essayajewelry.com
@@ -15611,7 +15614,6 @@ ethtrader.de
 ethupdate.top
 eticaret.yonlendir.cfd
 etinsendmail.com
-etinsendmail.net
 etoile-net.ch
 etokrol.lol
 etpur.com
@@ -15708,6 +15710,7 @@ euqysukicmuuacom.xyz
 eur.ydns.eu
 euremupdate.duckdns.org
 euroconnectsolution.com
+eurofarm.ge
 euromoc.co.mz
 eusacggmgkckomgu.xyz
 eusb.lol
@@ -16916,6 +16919,7 @@ file.blackint3.com
 file.oss-flash.shop
 file.uhsea.com
 file.yy88.ru
+file1-raw.cloud-storage-unit.in.net
 file1-swap.travemox.in.net
 file2-obj.bryo2maxil.in.net
 file4-svc.8rivastyinfamy.in.net
@@ -16926,6 +16930,7 @@ files.parsonspaving.ca
 fileshadowtransfer87.com
 filestore.space
 filetransferdock51.com
+fileupload.vip
 filezilla.cc
 filigrane-dossier.com
 filipsesperanto.com
@@ -17343,6 +17348,7 @@ flux2.bytefl0w.ru
 flux3.t1nkerbay.ru
 flux9.l1ghtflare.ru
 fluxnet.life
+fluxy-core.top
 flx.la9q.ru
 fly8-8.vip
 fly88-1.com
@@ -18256,7 +18262,6 @@ g60.1ronpath.ru
 g69p.ru
 g6f8xa5j.fr0stline.ru
 g6k2.5u5vbu6.ru
-g6tb.0-1gc.ru
 g6tc.qihs8.ru
 g6u.m2la.ru
 g6ur4.zenbloom.ru
@@ -18689,9 +18694,11 @@ gate4sync.globalprotocol.in.net
 gate5.wolkenmeer.ru
 gate6-app.data-metric-flow.in.net
 gate6-area.norxavin.in.net
+gate6-box.cloud-storage-unit.in.net
 gate6-hub.consiliumundu-lat.in.net
 gate6-hub.creep-score.in.net
 gate6-hub.xelvarinox.in.net
+gate6-ip.remote-access-node.in.net
 gate6-link.sox9liven.in.net
 gate6-link.zeq7moral.in.net
 gate6-main.cesura-wate7y.in.net
@@ -19089,6 +19096,8 @@ gem.dor8y.online
 gem.wir2.ru
 gembetoffermy2.com
 gemgaceauqugkosq.xyz
+gemini-cli.co.com
+geminicli.co.com
 gemis.mt-org.com
 gemmiuycgwomemmo.xyz
 gemskesqkeskawcw.xyz
@@ -19195,7 +19204,6 @@ gerafort.com.br.caldasservice.com.br
 geralnewlong.com
 gerard.johnquery.com
 gereja.neoxdev.com
-gerlimeri.net
 germansnipers.com
 geroees.club
 gerxif.a8ent5ing.ru
@@ -19468,7 +19476,6 @@ gk.silversummit.ru
 gk0.bl1zpond.ru
 gk5hev.go1dkamy5hev.ru
 gk9.i4-27k.ru
-gkh.wqix5.ru
 gkhdxpf.net
 gkholyjchymn.com
 gkkma-glcaks-summ.pages.dev
@@ -19681,6 +19688,7 @@ globalsnn8-new.cc
 globalsnn9-new.cc
 globalsourcesinc.duckdns.org
 globalsynchandler.intricessaucy.in.net
+globaltechbilling.com
 globalwork.best
 globalwork.f2ctoryp1anet.ru
 globeerp.com
@@ -19952,6 +19960,7 @@ goauhoednoaueouabbeu.info
 goauhoednoaueouabbex.biz
 gobeercoin2.lol
 gobfs.lol
+gobiotechpestcontrol.com
 gobirdrank.com
 gobirdrep.com
 gobxur.buoyc0mp1aint.ru
@@ -19974,6 +19983,7 @@ gogisich.com
 gogl-meet.com
 gogrokius.xyz
 gohapel398-62132.portmap.host
+gohelpertechnologies.in
 gohorghosrsohgsri.biz
 gohorghosrsohgsri.com
 gohorghosrsohgsri.info
@@ -24165,7 +24175,6 @@ javnek.mintbrook.ru
 javsenpai.pages.dev
 javsenpaiii.pages.dev
 javxet.imp0rttwi5t.ru
-jawaratekno.com
 jawared1-63785.portmap.host
 jawks.t3.storage.dev
 jax3um.gu1detr2in.ru
@@ -25461,6 +25470,7 @@ kh9zgked.idyllmuscat.in.net
 khalibra.com
 khamyp.asia
 khantym.cyou
+khaotixlab.top
 khbilua706wrezbf.org
 khedmatcollection.com
 khg2e.kos0ltyu4etey.ru
@@ -27122,6 +27132,7 @@ link4dslot.net
 link4entry.quarzbase.in.net
 link4entry.vectorstorage.in.net
 link58.win
+link9.prime-track.xyz
 linkcheck.comparis4sosun.coupons
 linkclie.pozellant.in.net
 linkedge.cloudtrace.coupons
@@ -30014,6 +30025,7 @@ mesh.netw1ng.ru
 mesh.papervolt.ru
 mesh.s0apthorn.ru
 mesh.s0larbudge.ru
+mesh.temo.click
 mesh.treqz.online
 meshcentral.girydsfsggvb.com
 mesmmkwsogysqcgo.xyz
@@ -30691,7 +30703,6 @@ mobshah.com
 mochi69.com
 mockerl.qpon
 mockup540.leanq.com.np
-mockupcorporation.com
 mod-logic.automodcompass.in.net
 mod-logic.modula.in.net
 mod-track.automodcompass.in.net
@@ -31825,7 +31836,6 @@ n8r.k0xx-i4.ru
 n8swqwfk.colitishatred.digital
 n8u.v0xelspark.ru
 n8x.jcof9.ru
-n8ys.0-1gc.ru
 n8yt.qihs8.ru
 n8z.lweaq9b.ru
 n9.0prichpe7ch.ru
@@ -32806,12 +32816,15 @@ node2-info.pestte1ex.in.net
 node2-info.tech-support-desk.in.net
 node2-list.local-market-hub.in.net
 node2-map.travel-point-trace.in.net
+node2-obj.cloud-storage-unit.in.net
 node2-power.green-energy-flow.in.net
 node2-py-store.com
 node2-soft.don2tdouching.in.net
+node2-ssh.remote-access-node.in.net
 node2-sync.prime-media-gate.in.net
 node2-tab.data-metric-flow.in.net
 node2-task.office-task-sync.in.net
+node2-top.smart-system-check.in.net
 node2core.databaseintegrity.in.net
 node2data.networkobserver.in.net
 node2flow.veloxunit.in.net
@@ -33021,6 +33034,7 @@ notmauserfizko.com
 notpetya.ironalarm.io
 notpetya.muhasebebilgi.net
 notpetya.nellinssen.nl
+notstorageapis.com
 notuniversal.com
 noueafhuoaefhefu.su
 nouralhalaby.com
@@ -33278,6 +33292,7 @@ nutraforyou.com.suavidaadois.com.br
 nutraforyou.shop.suavidaadois.com.br
 nutri.claudineroberto.com.br
 nutricell.tunegocioreal.com
+nutrisc.com.br
 nutritionadvicehub.com
 nutrivet.com.vn
 nuu.qacacoe3.ru
@@ -34516,6 +34531,7 @@ opal57x.savvy3spree.coupons
 opaoakkawkbao-52690.portmap.host
 opbz.pincerloom.ru
 open-book.edunoppress.in.net
+open-claw.gr.com
 open-end.beckonuncert.in.net
 open-field-data.silverfield.ru
 open-log.boredistascan.in.net
@@ -34547,6 +34563,7 @@ openai.digitalsails.nl
 openclaw-ai.click
 openclaw-cli.co.com
 openclaw-cli.gr.com
+openclawcli.co.com
 openfield.swiftmotion.coupons
 openfield.westwind.coupons
 openjsc.com
@@ -35450,7 +35467,6 @@ panoramarevue.sitecreation.ma
 panplanning.com
 pantera.no-ip.biz
 pantografocnc.mx
-panychurasc0.com
 paok24.com
 paopao.fit
 pap.tov4.ru
@@ -35699,6 +35715,7 @@ pdcdcwjwrqsq.com
 pdd-6m8a.tronk6vesta.coupons
 pdeterstars.com
 pdfacrobatupdate.com
+pdfplugout.com
 pdfs.ba5eq.ru
 pdftomarkdown.app
 pdo.tweethost.com
@@ -36098,6 +36115,7 @@ pickle.sn0cklejar.ru
 pickterra.com.mx
 pickterra.mx.pickterra.com
 picperfectbooths.com
+picture.ourfaithunfiltered.com
 pictureporter.cfd
 pid.fly160.com
 pid3-check.qul7vexar.in.net
@@ -36850,6 +36868,7 @@ primapastacafe.com
 primaveraveiculos.com.imagineweb.dev.br
 prime-logic.boyishglorified.in.net
 prime-time.lookyouthful.in.net
+prime-track.xyz
 prime.herosms.vip
 prime.luc-7-y-5-nub.ru
 prime5.a6il1oyal.ru
@@ -36970,6 +36989,7 @@ project-msg510901kja.pages.dev
 project-stor129585.pages.dev
 project-stor51092.pages.dev
 project-usb392891.pages.dev
+project360.hr
 projectindia999.loseyourip.com
 projectkyle.com
 projectsourdough.workwithastara.com
@@ -37274,7 +37294,6 @@ put.cargomanbd.com
 put.elythia.online
 put03.sanctunputer.in.net
 put08.putreplay.in.net
-putty.org.ru
 puump.live
 puvt.run
 puwalyy6.ru
@@ -39044,7 +39063,6 @@ rb.3u1y.ru
 rb.d42n.ru
 rb.yffl9.ru
 rb2.5t0p.ru
-rb55.0-1gc.ru
 rb56.qihs8.ru
 rbb.hbway.com.au
 rbb.msalifenterprise.net
@@ -39787,6 +39805,7 @@ rmb.y0ur.ru
 rmcnewlistening.duckdns.org
 rmkyde.za.com
 rmly.onelight.in.net
+rmm.temo.click
 rmm.zomfile.in
 rmpadvocacia.agencialegalads.com
 rmpokmg.ru
@@ -41964,6 +41983,7 @@ shqjqrw.ru
 shre-v1.dachshreinsur.in.net
 shreejayjalaramgroup.com
 shreekrishnaindustries.in.net
+shreesaiseva.org
 shreeshyammotors.in
 shrew-svc.choreograpshrew.in.net
 shrewzh.cyou
@@ -42461,6 +42481,7 @@ sl-baker.com
 sl.8b-1d.ru
 sl3etx.snowroot.ru
 slabiflc.ergodown.com
+slack.gr.com
 slag.effu5m0unt.ru
 slanef.r1dsheet5et.ru
 slantboardguy.testingweblink.com
@@ -42605,7 +42626,6 @@ smokeythepurringcat.com
 smokingantrecords.com
 smoothride.velvetroad.coupons
 smoothrun.rapidflow.coupons
-smplswpp.at
 smrt7x.smartb0x.ru
 smtp.amafhemployment.ae
 smtp.arcmidlands.org
@@ -44703,6 +44723,8 @@ svc4work.modulardatastream.in.net
 svc5-auth.bry3loxan.in.net
 svc5-auth.tech-support-desk.in.net
 svc5-base.consiliumundu-lat.in.net
+svc5-cdn.cloud-storage-unit.in.net
+svc5-dns.remote-access-node.in.net
 svc5-edge.norxavin.in.net
 svc5-edge.sox9liven.in.net
 svc5-flow.norqelix.in.net
@@ -44713,6 +44735,7 @@ svc5-info.vo2xeral.in.net
 svc5-mark.exhib1torknot.in.net
 svc5-match.creep-score.in.net
 svc5-mesh.xelvarinox.in.net
+svc5-pid.smart-system-check.in.net
 svc5-ready.drumavex.in.net
 svc5-relay.global-health-check.in.net
 svc5-relay.l2vashs-calpel.in.net
@@ -45215,7 +45238,6 @@ t5h.da5y.ru
 t5hl.31e854642.online
 t5m.60nma5.ru
 t5v3.t1va.online
-t5vp.0-1gc.ru
 t5vq.qihs8.ru
 t5y0.9z2503.ru
 t5zw3.piittablet.in.net
@@ -45783,6 +45805,7 @@ test.strandoliveoils.com
 test1-api.global-health-check.in.net
 test1-api.pestte1ex.in.net
 test1-run.quv7maren.in.net
+test1-run.smart-system-check.in.net
 test1.amanur.com
 test1.myohworld.com
 test3.kusherp.com
@@ -45824,7 +45847,6 @@ textileaffairs.com
 texturebadge.xyz
 texuld.c2rb0lduty.ru
 texxrji.com
-tez-suite.render-app.com
 tezaeazdgzegdget.ws
 tezqiw.chup7unwhe7e.ru
 tf72zgyh.preisdrop.qpon
@@ -47127,7 +47149,6 @@ tylerbosch.retirevillage.com
 tyn.uk.com
 typecvd.chickenkiller.com
 types-pleasant.gl.at.ply.gg
-typhondesktop.io
 tyq.intr0dki5h.ru
 tyqwpnfqht82qlo.bounceme.net
 tyqwpnfqht82qlo.ddnsking.com
@@ -49661,17 +49682,20 @@ vault3-io.pestte1ex.in.net
 vault4-data.creep-score.in.net
 vault4-data.green-energy-flow.in.net
 vault4-db.data-metric-flow.in.net
+vault4-ex.smart-system-check.in.net
 vault4-file.exhib1torknot.in.net
 vault4-file.office-task-sync.in.net
 vault4-file.prime-media-gate.in.net
 vault4-file.quick-support-portal.in.net
 vault4-id.tech-support-desk.in.net
 vault4-info.smart-home-verify.in.net
+vault4-io.cloud-storage-unit.in.net
 vault4-key.quv7maren.in.net
 vault4-root.consiliumundu-lat.in.net
 vault4-root.local-market-hub.in.net
 vault4-root.solid-build-trace.in.net
 vault4-safe.global-health-check.in.net
+vault4-sh.remote-access-node.in.net
 vault4-sync.semiunder-lear.in.net
 vault4-sync.travel-point-trace.in.net
 vault4-sync.urban-growth-data.in.net
@@ -49944,7 +49968,6 @@ vf.je9t.ru
 vf16.stoppit.in.net
 vf6cttllpzkiklvpmvj5ihtnqb4e4v3ki6oizt3vhifd3q7pg6oz36qd.onion
 vfjpe.liberalpilka.in.net
-vfn.wqix5.ru
 vfp.hy6o.ru
 vfzkj.f1owreci7at.ru
 vg.lightst0rm.ru
@@ -52047,6 +52070,7 @@ work.c0mpen5ducky.ru
 work.cloudn0de.ru
 work.nightm1nt.ru
 work1-area.veq4tralis.in.net
+work1-vpn.remote-access-node.in.net
 work4flow.orbitunit.in.net
 work4flow.systemresource.in.net
 workbridge.paperbridge.coupons
@@ -54102,7 +54126,6 @@ www.yw9ut6om.shop
 www.z36bb33a.shop
 www.z611.top
 www.zahid-official.xyz
-www.zamilgroups.com
 www.zap7v0jr.shop
 www.zeitgeistguard.xyz
 www.zelani.xyz
@@ -55207,7 +55230,6 @@ y1.t4mo.ru
 y11m.zylotech.in.net
 y1bd.pohv3.ru
 y1dk.fi7em.online
-y1md.0-1gc.ru
 y1me.qihs8.ru
 y1r5.u-v-9.online
 y1t4.3-f72v.ru
