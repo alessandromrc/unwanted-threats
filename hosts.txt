@@ -5774,6 +5774,7 @@ auth3user.durogrid.in.net
 auth3user.fondoviva.in.net
 auth3user.optigrid.in.net
 auth4-key.krinaxon.in.net
+auth7-core.kry6navex.in.net
 auth88.snapbargain.coupons
 authcraft.mosslark.in.net
 authedmine.com
@@ -8049,6 +8050,7 @@ bridge.rainb1te.ru
 bridge.st2rudmu7t.ru
 bridge.stormm1nt.ru
 bridge.sunf0rest.ru
+bridge0-crest.prax5litor.in.net
 bridgecampa.x7lora.in.net
 bridgeroad.maverickpreviews.com
 bridgsock.rassvet.in.net
@@ -13919,6 +13921,7 @@ du7fucn1.rockyhigra.ru
 dual-api.goodtwain.in.net
 dual-stream.symmetricalflow.in.net
 dubaiexpertplumber.com
+dubaitechnicalservice.ae
 dubrix.insti8sc2tter.ru
 dubrovnikboatstours.boatstoursdubrovnik.com
 dubyl.press
@@ -15268,6 +15271,7 @@ engenhariadetecidos.com.br
 engine-api.systemoraengine.in.net
 engine-hub.dialectrixengine.in.net
 engine-io.axiomorphengine.in.net
+engine-switch.kry6navex.in.net
 engineering-metadata.at.ply.gg
 engrave-vel0ur.engravevelvet.in.net
 engrs.warzonedns.com
@@ -17915,6 +17919,7 @@ frost9.snowdr1ft.ru
 frostapiv2.com
 frostb1rd.ru
 frostboutique.com
+frostcrypt.org
 frostindigo.ru
 frostmac.c1vicsun.in.net
 frostmint.ru
@@ -33736,6 +33741,7 @@ obrigada.uniaeditora.com.br
 obs1dx.black5wan.ru
 obsdeboomgaard.nl
 obse1-cache.norva2xel.in.net
+observ-phase.prax5litor.in.net
 observatoriocriticocuba.org
 observe-mesh.morphinve8et.in.net
 observernet.gnosistack.in.net
@@ -41729,6 +41735,7 @@ served.wicorn29.net
 servemail.exprotedsteel.pro
 serven0ix.erectreset.in.net
 serven7al.cloudgloss.in.net
+server-vall.prax5litor.in.net
 server.alpinebooks.xyz
 server.datagence.xyz
 server.dczu.dpdns.org
@@ -43701,6 +43708,7 @@ spray.dunkr1n5her.ru
 spray.m1stwave.ru
 sprayboothspecialists.com
 sprble.tockentrue.in.net
+sprbridg.prax5litor.in.net
 spreeacker.de
 spring-notif.paragonforge.in.net
 spring8-branch.easttea.in.net
@@ -45509,6 +45517,7 @@ t1.x3le.ru
 t1.x7f4g2.ru
 t19.q9-j341.ru
 t1d3-reach.backyard.in.net
+t1de-vault.kry6navex.in.net
 t1g.3v9-u.ru
 t1i.ac0rnrepr0d.ru
 t1kd.4-l8u.ru
@@ -46230,6 +46239,7 @@ tffoodindustries.com
 tfgixgmqhdowexm.com
 tfntjje.net
 tfo21v2zbb3b2m2u.org
+tfovt.prax5litor.in.net
 tfpohsjc.com
 tfslife.com
 tfubaebeanfienfi.ws
@@ -47217,6 +47227,7 @@ trilithum7.bell-extraterrit.in.net
 trill.v0xletrill.ru
 trillioniare.lol
 trillycoin.network
+trimark4or.prax5litor.in.net
 trimed.com.au
 trimeshet.intellectnail.in.net
 trimoci.qpon
@@ -50238,6 +50249,7 @@ vekram.hier2r5ivuc.ru
 vel-corear.velorune.in.net
 vel-data.veloxis.in.net
 vel-lineix.frost-echo.in.net
+vel-markon.kry6navex.in.net
 vel-spireix.gl1mmeroak.in.net
 vel-tideal.n1ghtridge.in.net
 vel-tideen.armeniansgrate.in.net
@@ -57266,6 +57278,7 @@ zoro012355.duckdns.org
 zorpelix.top
 zorpev.rockf1eld.ru
 zortyfivev.crabdance.com
+zorvex.life
 zowin88.it.com
 zowinj.uk.com
 zoy.m-1-dnightr-0-ad.ru
