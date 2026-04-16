@@ -5815,6 +5815,7 @@ auto-build.mechaforge.in.net
 auto-compass.automodcompass.in.net
 auto-v33.automodcompass.in.net
 autoblogai.io
+autoconfig.atlcpatax.com
 autoconfig.giracoin.io
 autoconfig.management.skuire.com
 autoconfig.moro-mie.com
@@ -5824,6 +5825,7 @@ autoconfig.shalomstudios.in
 autoconfig.uranium-news.com
 autodater.ddns.net
 autodentrepairphilly.com
+autodiscover.atlcpatax.com
 autodiscover.blancosettlement.com
 autodiscover.chinabandy.org
 autodiscover.data.epasos.com
@@ -6930,7 +6932,6 @@ berna-und-max.lenz-berauscht.de
 berry-mix.okiselwhiten.in.net
 berry5.cioudberryx.ru
 bertran.ru.com
-bertticleaning.com
 beryl6.silberquarz4.ru
 berylhammer.ru
 besocial.online
@@ -8241,7 +8242,6 @@ brudenpaz551.qpodio.qpon
 brugor.norvexa.rest
 bruke.0akstream.ru
 bruke.s1lvergate.ru
-brukva.shop
 brume1.hubr1s5ajor.ru
 brumol.floresflorchuvaouro.cfd
 brun4n.onyxquelle.ru
@@ -9843,6 +9843,7 @@ chu.myserver.com.bd
 chuckbartman.retirevillage.com
 chuckyr.cyou
 chuganything.net
+chuguadventures.co.tz
 chukwunwike.ydns.eu
 chungminhtaichinhsaigon.net
 churchpail.xyz
@@ -12723,6 +12724,7 @@ deep-space.cosmoforge.in.net
 deep-space.lunavilla.in.net
 deep-water-sensor.stormbay.ru
 deep-well4.bex1lorim.in.net
+deep-well4.overgr0wnsaval.in.net
 deep.ant1er5noos.ru
 deep.cl0udforge.ru
 deep.em1npe0ny.ru
@@ -13297,6 +13299,7 @@ dir3-index.bryo2maxil.in.net
 direct-access-line.silverpath.in.net
 direct-access-point.vertjardin.coupons
 direct-gateway-77.vifespoir.coupons
+direct-send2.crazy-talk.in.net
 direct-send2.tix9larem.in.net
 direct-web-client.perk9parcel.coupons
 direct.adm-center.ru
@@ -13613,6 +13616,7 @@ doodicoin.lol
 doodimemecoin.lol
 dooeys.com
 doomcoin.lat
+doome.crazy-talk.in.net
 doomsday.mokveid.com
 doorforum.com
 doormatic.tn
@@ -15739,7 +15743,6 @@ espada.ddns.net
 espoir.plar9ten2zo.ru
 espreesso.lol
 espresso.name
-esr.ro
 esrndndubsbsifurfd.ru
 essay8.5-forez-515-o.ru
 essayajewelry.com
@@ -16072,6 +16075,7 @@ exposedeep.predestincent.in.net
 exposedemand.stayflat.in.net
 exposedsnow.buzz
 exposmot.con9uerbunker.in.net
+express-mail1.crazy-talk.in.net
 express-mail1.tix9larem.in.net
 express-through.gl.at.ply.gg
 expressplumb.co.za
@@ -16857,7 +16861,6 @@ femar.icu
 femboy.fuckphillipthegerman.ru
 femboykisserkissmyboyandeatingsomecheeseburgerbiggestdihball.vietnamddns.com
 femboyservicesapi.xyz
-femilamom.net
 fenbushijujuefuwu.com
 fence-logic.fetterland.in.net
 fenix35630.duckdns.org
@@ -20205,6 +20208,7 @@ goauhoednoaueouabbeu.info
 goauhoednoaueouabbex.biz
 gobeercoin2.lol
 gobfs.lol
+gobiotechpestcontrol.com
 gobirdrank.com
 gobirdrep.com
 gobxur.buoyc0mp1aint.ru
@@ -21875,6 +21879,7 @@ heavy-duty.infrastructurehub.in.net
 heavy-duty.mechaforge.in.net
 heavy-link.industtarant.in.net
 heavy-metal.novaforge.in.net
+heavy-pack5.crazy-talk.in.net
 heavy-pack5.tix9larem.in.net
 heavy-weight.basaltloading.in.net
 heavy.5-ninet-1-ou.ru
@@ -23432,7 +23437,6 @@ illumewholes.capslock.in.net
 illurn-plate.eskimotsutsik.in.net
 illuyxka.asia
 ilonermailc.com
-ilonermailc.net
 iloveboats9.vip
 ilovenetssomuch.ddns.net
 ilovephysics.48101.online
@@ -23680,7 +23684,6 @@ innovationpowerhouse.africa
 innovative4x.com
 innovativesr.com
 innultra.plotsafe.in.net
-inomanliner.net
 inomp.ci6ef.ru
 input-conduct.gl.at.ply.gg
 inr.pot-5.ru
@@ -28794,6 +28797,7 @@ mail.assertivacriativa.com.br
 mail.astrologiahindu.com.br
 mail.asunflowersmindset.com
 mail.atibinhos.com.br
+mail.atlcpatax.com
 mail.atxsa.com
 mail.authentiekeparfumerienl.online
 mail.authentiekeparfumerienl.store
@@ -34578,7 +34582,6 @@ om7.cv3a9.ru
 omailoang.com
 omarinjakuzzii.com
 omarlabastida.com
-omax.com.pk
 omaxtrans.com
 omega.1nju5tred.ru
 omega.ambercoil.ru
@@ -39302,6 +39305,7 @@ railing.ba1ustje7ky.ru
 raillinesyr.com
 railvalidator.deepoak.in.net
 rain-drop5.bex1lorim.in.net
+rain-drop5.overgr0wnsaval.in.net
 rain-wave.oakcore.in.net
 rain.1ntrude7truha.ru
 rain.4i1e2.ru
@@ -40157,6 +40161,7 @@ risk.nqyf-7.ru
 risunok-zimy.in.net
 risv99a3.gr2vityta1k.ru
 rite-check.eucharistshrink.in.net
+ritee.in
 ritual2.chan8eembr2ce.ru
 ritualex.com
 riv3-node.catflat.in.net
@@ -41446,7 +41451,6 @@ schem2-span.yellglass.in.net
 schema-well.checkingsum.in.net
 schemaqa.cyou
 scheme.mon2r5chemer.ru
-schenckel.com.br
 scher4.glimmerkranz.ru
 schiff.pumaschiff.ru
 schild.onyxkamm.ru
@@ -42206,7 +42210,6 @@ shade.shadowm1nt.ru
 shade8.shad0wdrop.ru
 shadenetwork.live
 shadenetwork.run
-shaderm.com
 shadow-grove.ru
 shadow.adv0cal1egat.ru
 shadow.c2dmiumgho5t.ru
@@ -42458,6 +42461,7 @@ shoremerge.larkspin.in.net
 shorepoint.lakeford.in.net
 short-plan5.empirical-tuna.in.net
 short-plan5.wex4tiral.in.net
+short-word4.crazy-talk.in.net
 short-word4.tix9larem.in.net
 short.n0uvpu7itan.ru
 shorted.cyou
@@ -43525,6 +43529,7 @@ solforgeor4.thorncairn.in.net
 solfyt.mar8arstr2t.ru
 soli-cast.radiantventurex.in.net
 solid-base6.bex1lorim.in.net
+solid-base6.overgr0wnsaval.in.net
 solid-master.com
 solid-state.infrastructurehub.in.net
 solid-state.refractorymatrix.in.net
@@ -43618,6 +43623,7 @@ sonderaktionen.de.com
 song-shepherd.gl.at.ply.gg
 soniccobalt.ru
 soniciabs.xyz
+soniderosunidos.com
 sonne.frostgipfel.ru
 sonorogeneticumkai.com
 sonusantiqva.org
@@ -44482,6 +44488,7 @@ stgeorgelight.org
 sth.rocixaa9.ru
 sti11.tuful32io3.online
 sticka.qpon
+sticky-note3.crazy-talk.in.net
 sticky-note3.tix9larem.in.net
 stifelwealth.co.com
 stigp.sa.com
@@ -52771,6 +52778,7 @@ wordpress-theme-collection.com
 wordt-ontwikkeldbe.site.tb-hosting.com
 worfik.sy2bkywa1tz.ru
 worgip.j1tterfoam.ru
+work-done6.crazy-talk.in.net
 work-done6.tix9larem.in.net
 work-flow-99.ondeviva.in.net
 work-flow-v0.mondolibre.in.net
@@ -55883,6 +55891,7 @@ xy53k61z.udmu7tsw2rp.ru
 xybblqk.net
 xydizainten.org
 xyfkt0.sp2ceba7tie.ru
+xyfsd.com
 xyh.lypelya2.ru
 xyhyleo1.ru
 xyiqdyb.ru
