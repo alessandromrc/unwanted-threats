@@ -10792,6 +10792,7 @@ cold-api.pairingreptile.in.net
 cold-bridge.isothermalmetric.in.net
 cold-peak.ambertide.in.net
 cold-store.polarisbloom.in.net
+cold-water6.lom5terax.in.net
 cold.x-3-ri.ru
 cold6.p1nk.ru
 coldbeam.coolstar.in.net
@@ -12980,6 +12981,7 @@ derxip.caskwander.ru
 derzkifrost-990.sbs
 derzkiypushok-217.sbs
 descarga-smtr.com
+desert-sand5.rav2piren.in.net
 desert-storm-monitor.rapiddune.ru
 desertroad.sandwave.coupons
 desertwander.nomadsuppurat.ru
@@ -17795,6 +17797,7 @@ forest-entity.cc
 forest-logic-center.vividgrove.in.net
 forest-run.oaktrail.in.net
 forest-sparr.copyvrok.in.net
+forest-walk1.rav2piren.in.net
 forest.4i1e2.ru
 forest.b0untf1ush.ru
 forest.bvuf-2.ru
@@ -26970,6 +26973,7 @@ lak3sh.s1lentlake.ru
 lake-hub.lakegate.in.net
 lake-site.lakehaven.in.net
 lake-vault.lakegate.in.net
+lake-view4.rav2piren.in.net
 lake.darkb1rd.ru
 lake.re-t-0.ru
 lake.rjofi.online
@@ -31518,6 +31522,7 @@ motphimro.com
 mouc.starl1tewave.ru
 mouftakhiramin-53951.portmap.host
 mountain-glow-base.glowridge.ru
+mountain-top2.rav2piren.in.net
 mountainsurprise.cfd
 mountpeak.rockpine.in.net
 mountvalidator.getlight.in.net
@@ -34108,6 +34113,7 @@ ocdfg.mossgrotte.ru
 ocean-blue2.bex1lorim.in.net
 ocean-blue2.overgr0wnsaval.in.net
 ocean-harbor-gate.coolharbor.ru
+ocean-wave6.rav2piren.in.net
 ocean.champm2loma1.ru
 ocean.f-1-sslehub.ru
 ocean.f1ippme7re.ru
@@ -40293,6 +40299,7 @@ riv3r-sheet.sleepbut.in.net
 riv3t.r1verdrop.ru
 rivalmods.biz
 rive-wag.particu1silomer.in.net
+river-bank3.rav2piren.in.net
 river-data.riverbend.in.net
 river-fle.bramblepath.in.net
 river-flow3.bex1lorim.in.net
@@ -52355,6 +52362,7 @@ whisper.mumb1e8uess.ru
 whistlesong.xyz
 white-art.neutralwild.workers.dev
 white-board4.syl5peran.in.net
+white-paper1.syl8doren.in.net
 white-snow6.wim9toren.in.net
 white-tag.com
 white.nqyf-7.ru
