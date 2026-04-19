@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-18T23:07:33.922Z",
+  "generated_at": "2026-04-19T00:06:27.264Z",
   "total": {
-    "ips": 120788,
-    "hosts": 58082,
-    "networks": 120836
+    "ips": 120768,
+    "hosts": 58087,
+    "networks": 120816
   },
   "per_feed": [
     {
@@ -11,7 +11,7 @@
       "url": "https://mcfp.felk.cvut.cz/publicDatasets/CTU-AIPP-BlackList/Todays-Blacklists/AIP_historical_blacklist_prioritized_by_newest_attackers.csv",
       "type": "csv_ip",
       "counts": {
-        "ips": 10821,
+        "ips": 10810,
         "hosts": 0,
         "networks": 0
       },
@@ -45,7 +45,7 @@
       "type": "hosts",
       "counts": {
         "ips": 0,
-        "hosts": 490,
+        "hosts": 484,
         "networks": 0
       },
       "error": null
@@ -67,7 +67,7 @@
       "type": "hosts",
       "counts": {
         "ips": 0,
-        "hosts": 57337,
+        "hosts": 57346,
         "networks": 0
       },
       "error": null
