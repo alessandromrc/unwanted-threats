@@ -6833,7 +6833,6 @@ beam-portal.isotopecleaner.in.net
 beam-relay.signalforge.in.net
 beam-target.signalvector.in.net
 beam-target.stellarflux.in.net
-beam.wir2.ru
 beam1-point.praxo6lin.in.net
 beamglow.lightstream.coupons
 beams.lol
@@ -11803,7 +11802,6 @@ curiousport.bobinaslums.in.net
 curiousseagullstudio.co.uk
 curiouswholesale.idealup.in.net
 curium.su
-curl.wir2.ru
 curol.run
 curr-forge.withregw.in.net
 curr3n-drive.estonianscree.in.net
@@ -12259,6 +12257,7 @@ dahmos.dev1.prodevr.com
 daily-bonus2.empirical-tuna.in.net
 daily-bonus2.wex4tiral.in.net
 daily-health1.3lomaren.in.net
+daily-news1.de5xpiren.in.net
 daily-news1.dex6laper.in.net
 daily-plan1.dex9taren.in.net
 daily-planner.sa.com
@@ -14374,7 +14373,6 @@ dzqz.waver-mint.ru
 dzthj.dup-1-ic-4-ermaph.ru
 dzxhqfe.com
 dzzwfgn.ru
-e-cross.gl.at.ply.gg
 e-konutbasvuru.sbs
 e-konutbasvuruekran.sbs
 e-mu-morioka.com
@@ -16848,6 +16846,7 @@ fast-drive2.pov4daren.in.net
 fast-drive5.povt8aren.in.net
 fast-flow-point.rapidbrook.ru
 fast-food1.bov1serin.in.net
+fast-food1.bovla8ren.in.net
 fast-inv.shop
 fast-log.dynamismjuply.in.net
 fast-match1.ra7vmixel.in.net
@@ -19157,7 +19156,6 @@ gate8.alderstone.ru
 gateext.tuneone.in.net
 gatemaden.space
 gatepass-corp.com
-gates.subgiare.vn
 gatesofolympus1000game.com
 gatewa1-wave.piculi5tep.in.net
 gateway-node-x.debug-edge-cases.coupons
@@ -20491,6 +20489,7 @@ gold-medal3.ra7vmixel.in.net
 gold-run.goldpath.in.net
 gold-silver-investment.com
 gold-silver-investment.web325.com
+gold-star4.wi9msorin.in.net
 gold-star4.wim9toren.in.net
 gold-v5.lunavilla.in.net
 gold-v77.goldpath.in.net
@@ -22690,6 +22689,7 @@ hot-grill4.bov7larex.in.net
 hot-line.mirante.in.net
 hot-sauce.caliphsaucy.in.net
 hot-soup5.bovdalen7.in.net
+hot-topic5.de5xpiren.in.net
 hot-topic5.dex6laper.in.net
 hot.mobimark.net
 hot.x2lu.ru
@@ -24722,7 +24722,6 @@ jakeislame.com
 jakkakaskakasj.com
 jaknuf.rockf1eld.ru
 jakouan.com
-jaks.ddns.net
 jaltep.dropga7net5.ru
 jalz.stonef1eld.ru
 jam.cr1mpoint.ru
@@ -27814,6 +27813,7 @@ live-chat-matsuyama.com
 live-coupo.harborcliff.in.net
 live-feed6.to3varem.in.net
 live-ro.gl.at.ply.gg
+live-stream6.de5xpiren.in.net
 live-stream6.dex6laper.in.net
 live-svc.ranchitro.in.net
 live.m365.1drive.zip
@@ -28079,7 +28079,6 @@ locus.l2mbl1vonian.ru
 lod8z.t1nkercove.ru
 loeghaiofiehfihf.to
 lofsitewebsdrft.com
-loft.wir2.ru
 loft4.c2rpyub2n.ru
 loftsf.thunderplain.in.net
 log-monitor.structuralgridhub.in.net
@@ -39947,7 +39946,6 @@ reddedi.courses
 reddycolour.com
 redfern.ru
 redherringlou.com
-redirect.dedicated-coords.lol
 redlacipj.org
 redlandsclearautobra.com
 redlk.com
@@ -42975,6 +42973,7 @@ silt.gravelwhisk.ru
 silt7.0ceandust.ru
 silt9x.dustpeak.ru
 silve-scale.si1vermuse.in.net
+silver-coin5.wi9msorin.in.net
 silver-coin5.wim9toren.in.net
 silver-field-base.silverfield.ru
 silver-path-way.silverpath.in.net
@@ -44282,6 +44281,7 @@ spooldiscover.silvermeadow.in.net
 spoolfox.invulshuga.in.net
 spoonducks.cfd
 spore.ent0molobo1t.ru
+sport-match3.de5xpiren.in.net
 sport-match3.dex6laper.in.net
 sport-news5.ra7vmixel.in.net
 sport-vault.athleticscrew.in.net
@@ -49670,7 +49670,6 @@ v1.phimmoiz.dev
 v1.q3v8p.ru
 v1.q780.ru
 v1.sk-f0s.ru
-v1.subgiare.vn
 v1.vlxx.net
 v1.yhelwah.net
 v1107.fythoria.in.net
@@ -49958,7 +49957,6 @@ v2.steven-franco.com
 v2.stleonards.london
 v2.stope40.org
 v2.studioretail.group
-v2.subgiare.vn
 v2.suramericapress.com
 v2.sushi-kiwami.com
 v2.tactile3d.com
@@ -52210,6 +52208,7 @@ wear-api.selzovestments.in.net
 wear.kuvuboa29.ru
 weareriu.cyou
 wearjora.com
+weather-post4.de5xpiren.in.net
 weather-post4.dex6laper.in.net
 weather-station-data.quietwind.ru
 weather-warning-system.stormbay.ru
@@ -52637,6 +52636,7 @@ white-board4.syl5peran.in.net
 white-board4.sylom7er.in.net
 white-cloud5.tav4sorel.in.net
 white-paper1.syl8doren.in.net
+white-snow6.wi9msorin.in.net
 white-snow6.wim9toren.in.net
 white-tag.com
 white.nqyf-7.ru
@@ -53278,6 +53278,7 @@ workstation.chatutor.com
 world-api.ontoversegrid.in.net
 world-map3.ra3xelin.in.net
 world-new-iope.cc
+world-press2.de5xpiren.in.net
 world-press2.dex6laper.in.net
 world-tour6.nuv2moren.in.net
 world-view.technosphere.in.net
@@ -57617,7 +57618,6 @@ zdvey.y0ur.ru
 ze.fe-k2.ru
 ze.prli-1.ru
 ze.v3ix.online
-ze1exlpvm.localto.net
 ze2975m.thorncairn.in.net
 ze7s1kzs.t0rchbasil.ru
 zeaigfiagefagfzgi.at
