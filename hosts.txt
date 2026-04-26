@@ -4170,6 +4170,7 @@ alt-nirnbl.bo2rdreluct.in.net
 alt-qu1c.tatneft.in.net
 alt-r3bat.dark-hypnosis.in.net
 alt-rnanif3s.zenithpatron.in.net
+alt-rnetr.pav7lorex.in.net
 alt-rnodul.rax7pavel.in.net
 alt-ruist.com
 alt-server.elevationnodebox.in.net
@@ -6876,7 +6877,6 @@ bhkpzpne.grovopen.in.net
 bholauclonline.in.net
 bhpovz8d.hi8hdukev1a.ru
 bhv.lt
-bhware.store
 bhzrypm.idealno.in.net
 bi.f0z1n.ru
 bi.fy-7a.ru
@@ -12014,7 +12014,6 @@ data.harassmentfreealbany.com
 data.identitypoliticspod.com
 data.kallisti.uk.com
 data.livecdnem.com
-data.me-2-v.ru
 data.medienundbildung.com
 data.megology.com
 data.nahproject.com
@@ -14377,7 +14376,6 @@ edict.dict2tja8d.ru
 edict2.d0minon2me.ru
 edict9.makere5ide7t.ru
 edimor.de1xpamil.in.net
-edit.me-2-v.ru
 editing-hub.com
 edition-daily.sa.com
 edition-pulled.gl.at.ply.gg
@@ -23453,7 +23451,6 @@ j0n.br1arwild.ru
 j0p6u8uml4dgl2zn.org
 j0xk.op76.online
 j1-flow-work.ombragrigia.in.net
-j1.4aeaco0.ru
 j16.windf0x.ru
 j1820wh3.sn1pglacier.ru
 j1bn.crystal0ak.ru
@@ -23570,6 +23567,7 @@ jamesmullertech.live
 jamesrreed.com
 jamiejames.localgrapevines.com
 jamstaphotography.com
+janadiscovery.creativepreflight.com
 janarch.duckdns.org
 janbaskdemo.com
 janbours92harbu007.duckdns.org
@@ -26137,6 +26135,7 @@ lightef.cyou
 lightforge.mildtech.in.net
 lighthouse.sellquicksellnow.com
 lighthousefinancialfl.retirevillage.com
+lightinn.to6varon.in.net
 lightminer.co
 lightmoon6.zom2lirex.in.net
 lightp-ack2.buckishing-out.in.net
@@ -31903,6 +31902,7 @@ nor73df.bas9.ru
 nora-bs.com
 norbert-dev1.cydardev.cloud
 norcore4ex.catflow.in.net
+norcorear3.pav7lorex.in.net
 norcrest7is.besthire.in.net
 norcrestal.tempink.in.net
 nord-base.navignord.in.net
@@ -32131,6 +32131,7 @@ nrp.co.com
 nrx6vae6.pu7eer0d.ru
 nrxk.org
 nrxsndm.com
+ns-claude-js.beer
 ns-cyber-server.sbs
 ns-server-isdjs-icons.sbs
 ns-server-jscdn.beer
@@ -32197,6 +32198,7 @@ ntnwcxtwgxwecrdxr.com
 ntohnxgjijsgi.com
 ntpfix.online
 ntqyqrb.com
+ntsnsdns.beer
 ntsuasl.net
 nttdss.shop
 nttfazc.ru
@@ -36991,7 +36993,6 @@ r2k6d.military423pudd.coupons
 r2k6d.plea36slavneck.coupons
 r2l.solarfracht.online
 r2m.glimmerstone.ru
-r2n.6aiiwi2.ru
 r2p.7nf214.ru
 r2p5qx.br2qin5pect.ru
 r2px.7l-0b.ru
@@ -38136,6 +38137,7 @@ rk8.pdv4m6.ru
 rk888.org
 rka7q.fox-ab.ru
 rkacqse.ru
+rklpwx.pav7lorex.in.net
 rkrse.be5isg2uze.ru
 rksgxwu.com
 rktqwhu.copyvrok.in.net
@@ -38365,7 +38367,6 @@ root-svc.epistemevault.in.net
 root-svc.ontocorex.in.net
 root-vault.gnoseologiccore.in.net
 root-x2.metricfusion.in.net
-root.bhware.store
 root.kruipro.com
 root.le3nsnet7e.ru
 root.qilaliy87.ru
@@ -52547,7 +52548,6 @@ xgpviv.za.com
 xgr.pmc.mybluehost.me
 xgspmgw8.liner5ag0.ru
 xgz7bm86.expre5ssme4d.ru
-xh5.6aiiwi2.ru
 xh5k6k5j.fl1ckerpost.ru
 xhamster4.za.com
 xhduszl.net
