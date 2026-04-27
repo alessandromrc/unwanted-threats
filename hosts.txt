@@ -11886,6 +11886,7 @@ dark-core.darkhaven.in.net
 dark-kok01.duckdns.org
 dark-land-3.after-coordinat.in.net
 dark-land-7b.dex1lavel.in.net
+dark-land-8b.dexis-serv.in.net
 dark-land-8b.mivis-net.in.net
 dark-matter.cosmoforge.in.net
 dark-mode.blindersyawn.in.net
@@ -11952,6 +11953,7 @@ darksky.eastmoon.coupons
 darkspark.zen4qorin.in.net
 darkspice.bakhkondach.in.net
 darksql.duckdns.org
+darkstarcore.dexisnetflow.garden
 darksun5et.ru
 darktermi.5zorelin.in.net
 darktide.live
@@ -21773,6 +21775,7 @@ holz-baum-4.godn2strich.in.net
 holz-baum-4.vortex-node.in.net
 holz-baum-5k.miv8soren.in.net
 holz-baum-7k.dexon-tech.in.net
+holz-baum-7k.mivon-tech.in.net
 holz-baum-8.ales1ine.in.net
 holz-berg-2.qiv5moren.in.net
 holz-berg-3.qivor-web.in.net
@@ -23305,6 +23308,7 @@ ironbucht.ru
 ironclove.bakhkondach.in.net
 ironcore.ironstar.coupons
 irongate.stronghold.coupons
+ironhausflow2.dexisnetflow.garden
 ironknight.bulgarvityaz.in.net
 ironpine.rockpine.in.net
 ironproe.live
@@ -24345,7 +24349,6 @@ k0w2j.skyaxe.ru
 k0wz.u-v-9.online
 k0y.ju8r.online
 k0zhev-rnix.kozhevnik6lan.coupons
-k1.0vl3u.ru
 k1.cr2ftedne5s.ru
 k1.silentf0rest.ru
 k1.t1ger.ru
@@ -31039,6 +31042,8 @@ nd9eh.kn-1-fecast.ru
 ndakntj.currvers.in.net
 ndbf79ap3.localto.net
 ndcwsww.com
+nde.imoveisavendaemaraxa.com.br
+nde.vi-ler.dk
 ndg.rvoox.com
 ndg.ssffaa1.xyz
 ndgdzzl.ru
@@ -34000,7 +34005,6 @@ p9e.hpap-6.ru
 p9fz.quartzace.ru
 p9hda.pepper-reprint.in.net
 p9kr.yw9a.online
-p9q.8j8-o.ru
 p9vpxaz1.besthire.in.net
 p9xz8kwz.b2dmintonper5.ru
 p9y1.0bj3i.ru
@@ -34540,6 +34544,7 @@ petit-7.infirmary5care.in.net
 petit-berg-1.geor8eharvest.in.net
 petit-berg-5p.caissonnarc0m.in.net
 petit-fire-1.dex1lavel.in.net
+petit-fire-5.dexis-serv.in.net
 petit-fire-5.mivis-net.in.net
 petit-fire-6.presidium-spike.in.net
 petit-land-1.slanikt7ay.in.net
@@ -34556,6 +34561,7 @@ petit-zeit-4.qivor-web.in.net
 petit-zeit-8.qiv5moren.in.net
 petitesalope.com
 petitmoment.today
+petitwaldnet.dexisnetflow.garden
 petrozavodsk.logomebel.ru
 petrucellirubanadha.com
 petumau5.ru
@@ -38579,6 +38585,7 @@ rouge-9v.vok7laren.in.net
 rouge-mond-7.limbe7revolut.in.net
 rouge-star-1.after-coordinat.in.net
 rouge.haiwaibula0.top
+rougesoft9app.dexisnetflow.garden
 rough9-point.makemicrophone.in.net
 roughancho.tempiso.in.net
 roughcomp.zom8lirex.in.net
@@ -46925,7 +46932,6 @@ v1kpa.0fv1.online
 v1kpa.w-8z35.com
 v1mv41yoj46qhq9y.org
 v1q0.1yjp.online
-v1rx.8j8-o.ru
 v1tv.mor-5-tud-1-es.ru
 v2.101wilsonbar.com
 v2.1phuttietkiemtrieuniemvui.com
@@ -54573,7 +54579,6 @@ zq.nibulu.ru
 zq1.89atr.ru
 zq3.1z57.online
 zq7.3c38h.ru
-zq8.0vl3u.ru
 zq8.366a4362.ru
 zq9.p-72h.ru
 zqb9.m1stycliff.ru
