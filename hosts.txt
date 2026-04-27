@@ -6957,7 +6957,6 @@ bil.syslicense.net
 bil1sun8en.ru
 biletik.ru.com
 bilfojsclod.beer
-bililbilil.xyz
 bill-lu.gl.at.ply.gg
 bill-proof.cc
 billcarter.retirevillage.com
@@ -7321,6 +7320,7 @@ bleu-2k.bexla8rin.in.net
 bleu-2x.godn2strich.in.net
 bleu-4.cicada-tkacki.in.net
 bleu-4.dex1lavel.in.net
+bleu-4k.mivon-data.in.net
 bleu-5.dua1ismmatron.in.net
 bleu-5.greecesco7es.in.net
 bleu-7.dometo1ochy.in.net
@@ -7450,7 +7450,6 @@ blue-star-2m.ales1ine.in.net
 blue-table1.corex4varm.in.net
 blue-wave4.wi1msaren.in.net
 blue.f0rtunmentho1.ru
-blue.ky-4-x.ru
 blue.m1ntflare.ru
 blue.n1ghtbreeze.ru
 blue.sunsh1ne.ru
@@ -7886,6 +7885,7 @@ brandpale.ironvale.in.net
 brandquo.vexu3larn.in.net
 brands.khaitara.com
 brandung.wolkenkueste.ru
+brandyparfums.com
 branivon.com
 branquinhoribeiro.agencialegalads.com
 brasserieontarioaube.com
@@ -10808,7 +10808,6 @@ convoyprofit.flare-path.in.net
 convuey.cyou
 cooempresasltda104.duckdns.org
 cook-node.pampushkatimp.in.net
-cook.ky-4-x.ru
 cook.tatyziu58.ru
 cookie2.4ws.cz
 cookies.sqlite
@@ -16030,7 +16029,6 @@ f9.h-0-bblenet.ru
 f9.m2kebo1d.ru
 f94vb8l0.ecumen1sm0ff.ru
 f96.f1recliff.ru
-f9q.3v-3y.ru
 f9r.v0rt3xlab.ru
 f9r2.ve1p.online
 f9u.stormm1st.ru
@@ -16201,6 +16199,7 @@ fast-2x.infirmary5care.in.net
 fast-3.multi-machine.in.net
 fast-3v.jazz-password.in.net
 fast-5.limbe7revolut.in.net
+fast-7.mivon-data.in.net
 fast-7k.inject-mitroph.in.net
 fast-9.eluvia.in.net
 fast-9.godn2strich.in.net
@@ -30579,7 +30578,6 @@ myvo.vip
 mywhitelab.ddns.net
 mywiki.lol
 mz.n-44-s.ru
-mz1.7kf1u.ru
 mz1.der14i.ru
 mz13se.alfabon.in.net
 mz4.q9-j341.ru
@@ -31880,6 +31878,7 @@ noir-5.histor5corching.in.net
 noir-5.vortex-node.in.net
 noir-5x.qiv5moren.in.net
 noir-6.miv8soren.in.net
+noir-6.qivor-web.in.net
 noir-6.slanikt7ay.in.net
 noir-7.caissonnarc0m.in.net
 noir-7.ma8nemezzan.in.net
@@ -32265,7 +32264,6 @@ nurqet.rainpixel.ru
 nurselnc.com
 nurturewallet.com
 nurvak.wildstream.ru
-nusatoyota.co.id
 nut.jaxdrill.ru
 nutlios.cyou
 nutraforyou.com
@@ -33195,6 +33193,7 @@ opaoakkawkbao-52690.portmap.host
 opbz.pincerloom.ru
 open-1.blackbirdr0ot.in.net
 open-1.fixt-turbine.in.net
+open-1x.qivor-web.in.net
 open-2.dex1lavel.in.net
 open-3.caissonnarc0m.in.net
 open-3.qiv5moren.in.net
@@ -34458,6 +34457,7 @@ petit-star-6z.sylo3mer.in.net
 petit-wald-7k.fixt-turbine.in.net
 petit-wind-5.melting-torrent.in.net
 petit-y1.credibil-debauch.in.net
+petit-zeit-4.qivor-web.in.net
 petit-zeit-8.qiv5moren.in.net
 petitesalope.com
 petitmoment.today
@@ -34720,7 +34720,6 @@ pine-fix.lakepit.in.net
 pine-v3.pinecliff.in.net
 pine.cioudharbor.ru
 pine.nightf0rm.ru
-pine.tr-8-n.ru
 pine.vex-timber.ru
 pine2-branch.arapnik-nosog.in.net
 pine2-cast.ironbay.in.net
@@ -36165,7 +36164,6 @@ q2q.joltberry.ru
 q2v.ju8r.ru
 q2w5e.085-x-89-c.ru
 q3.4md69.ru
-q3.7kf1u.ru
 q3.der14i.ru
 q3.sheh0.ru
 q3.yjor.ru
@@ -46177,6 +46175,7 @@ ultbu1.wraithbot.net
 ultbu2.wraithbot.net
 ultglyp.vortaqen.in.net
 ultimate.rjuq-3.ru
+ultimatecircleislandtour.com
 ultra-10ader.biglight.in.net
 ultra-5ort.qi7mavel.in.net
 ultra-5tric.sightup.in.net
@@ -48177,6 +48176,7 @@ vert-4.sylo3mer.in.net
 vert-4b.blackbirdr0ot.in.net
 vert-4m.diet-lanolin.in.net
 vert-5.miv6soren.in.net
+vert-8.qivor-web.in.net
 vert-9.idol-worship.in.net
 vert-9.presidium-spike.in.net
 vert-9.qiv5moren.in.net
