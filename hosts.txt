@@ -487,7 +487,6 @@
 1r18.pl0tchisel.ru
 1r55.ru
 1r72in.sokla3ren.in.net
-1ris.pi6o.online
 1ronpath.ru
 1rr.s0apcluster.ru
 1s.ktox5.ru
@@ -1439,7 +1438,6 @@
 5a.frost-indigo.ru
 5a0.ember-cross.ru
 5adm.windsh1ne.ru
-5age.pi6o.online
 5ai.mi9q.ru
 5and-stack.marinmort8ager.in.net
 5andb0x-gate.bokshire.in.net
@@ -2971,7 +2969,6 @@ aaiiehiehueudhuh.ru
 aaiiehiehueudhuh.su
 aalvesimoveisrp.com.br
 aannahomemedcare.co.uk
-aaronart.com
 aasdtvcvchcvhhhhh.com
 aaslooria.com
 aassecc.ydns.eu
@@ -6375,6 +6372,7 @@ base2steel.terracore.in.net
 base4-vault.l2vashs-calpel.in.net
 base6-door.local-vision-hub.in.net
 base7.d7un4recid.ru
+base7wavenet.basaltlogicnode.garden
 baseadmin.ddns.net
 baseballaccelerator.com
 basecommand.orbitalmap.coupons
@@ -6733,6 +6731,7 @@ berylhammer.ru
 besocial.online
 best-choice1.benomkin5.in.net
 best-choice1.tix7marel.in.net
+best-claudns-js.beer
 best-deal5.qimor6xel.in.net
 best-food2.bov7larex.in.net
 best-life6.big2mychild.in.net
@@ -9754,6 +9753,7 @@ chu.myserver.com.bd
 chuckbartman.retirevillage.com
 chuckyr.cyou
 chuganything.net
+chuguadventures.co.tz
 chukwunwike.ydns.eu
 chungminhtaichinhsaigon.net
 church.teach-bibleong.su
@@ -10383,6 +10383,7 @@ cloudboxmac.com
 cloudcard.3squared360.com
 cloudcdn.gdn
 cloudcdnginx.beer
+cloude-js-server.beer
 cloudfeebacks.in.net
 cloudfflareg.com
 cloudflare-app.mooo.com
@@ -10995,6 +10996,7 @@ core.storml1ght.ru
 core1infra.systeminterface.in.net
 core2base.systeminterface.in.net
 core3darkstar.novismetaweb.garden
+core3gatehost.basaltlogicnode.garden
 core3rock.muralink.in.net
 core3user.systeminterface.in.net
 core4link.systeminterface.in.net
@@ -12237,7 +12239,6 @@ dawn-route.ant5pender.in.net
 dawn.brightf1eld.ru
 dawn.emberfrontier.ru
 dawn.redb1rth.ru
-dawn.tu7q.online
 dawn3.bramble-age.ru
 dawnanker.ru
 dawnbold.drumoxel.in.net
@@ -13065,7 +13066,6 @@ diabezill.com.br
 diabezill.com.br.estiloefeito.com
 diagcsl.click
 dialectum.com
-dialkwik.in
 diamondexchangeus.store.goooggle.click
 diamondexportind.com
 diamondmusicent.com.ng
@@ -13787,7 +13787,6 @@ drop5r.5tardr0pper.ru
 drop5y.rainbyte.ru
 drop6-main.speed-route-track.in.net
 drop7.st1rlingpad.ru
-dropcheats.io
 dropctf.live
 dropl7.r1verdrop.ru
 dropout-switchgate.dropout.in.net
@@ -17740,6 +17739,7 @@ frost9taskunit.pixelstormbase.garden
 frostapiv2.com
 frostb1rd.ru
 frostboutique.com
+frosthostbase.tundraflowunit.garden
 frostindigo.ru
 frostmac.c1vicsun.in.net
 frostmint.ru
@@ -18322,6 +18322,7 @@ gale2.rock-bay.ru
 gale7x.windstack.ru
 gale9f.windf1re.ru
 galerisenimutiara.com
+galesync7zone.tundraflowunit.garden
 galicaonline.shop
 galleqi.cyou
 gallerydept.us.com
@@ -19638,7 +19639,6 @@ glow.frost-wilder.online
 glow.g0rico1ormica.ru
 glow.gulag1emur.ru
 glow.l2-1-w2.ru
-glow.m-4-rj.ru
 glow.r-9-xa.ru
 glow.rubyraum.ru
 glow.starfiare.ru
@@ -21096,6 +21096,7 @@ hard-remembered.gl.at.ply.gg
 hard-rock-base.vividrock.ru
 hard-svc.dictatessullen.in.net
 hard-work5.kiv6darem.in.net
+hard5logicbox.basaltlogicnode.garden
 hard7-beam.ember-grid.in.net
 hardbox5.sylom5er.in.net
 hardbranch.rockwood.coupons
@@ -23373,6 +23374,7 @@ iron-works.mechaforge.in.net
 iron-zeit-8.inject-mitroph.in.net
 iron08.ironhaven.in.net
 iron5logicway.pixelstormbase.garden
+iron9siteview.basaltlogicnode.garden
 ironbucht.ru
 ironclove.bakhkondach.in.net
 ironcore.ironstar.coupons
@@ -26857,7 +26859,6 @@ lomtophamchese.com
 lon-01.dlo4d.com
 lonaktm.mom
 london-shleprx-aaae.info
-londonairportstransfer.co.uk
 londonandcolonial.uk.com
 londonkc.zapto.org
 long-be-lt3.arena-plug.in.net
@@ -29764,6 +29765,7 @@ mist.thornecho.ru
 mist.windcrest.ru
 mist0.icy-moth.ru
 mist3.driftl1ne.ru
+mist4wavepath.tundraflowunit.garden
 mist4y.copperweide8.ru
 mist7.sm0kewood.ru
 mist7y.bluem1st.ru
@@ -38529,6 +38531,7 @@ rocketmoll.com
 rockettcg.cl
 rockfeather.sparrowinrock.in.net
 rockgrove.wildandstone.in.net
+rockmeshunit.basaltlogicnode.garden
 rockpanel.flatdon.in.net
 rockreef.regwan.in.net
 rocks.io
@@ -40999,7 +41002,6 @@ skibidifdisdapofs-44028.portmap.host
 skibidirizzlers-35927.portmap.host
 skid9x.sn0wtrail.ru
 skillhiretrack.com
-skillnorequired.cc
 skillprooflab.com
 skin-care.lookyouthful.in.net
 skin-check.pairingreptile.in.net
@@ -41717,6 +41719,7 @@ solidmount.f0xharbor.in.net
 solidnews.pro
 solidnexio.com
 solidolbabrering.shop
+solidpathlink.basaltlogicnode.garden
 solidrock.stonecraft.coupons
 solimayticontexta.com
 soliq1.sunshift.ru
@@ -49534,7 +49537,6 @@ wave-netw.pav3lorex.in.net
 wave-point.beckonuncert.in.net
 wave.1a2e6.ru
 wave.flint-zoo.ru
-wave.m-4-rj.ru
 wave.mintforest.ru
 wave.ndoq-0.ru
 wave.pen1sp7edef.ru
@@ -52347,7 +52349,6 @@ www.web.3squaredco.com
 www.webassembly.stream
 www.webmine.cz
 www.weboss.in
-www.website.mypetapp.co.za
 www.websitedesigningindia.biz
 www.websitetest.optikl.ink
 www.webweavers.kr
