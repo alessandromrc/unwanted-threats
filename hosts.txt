@@ -5339,6 +5339,7 @@ atom-split.quantaflux.in.net
 atom-trace.nanovector.in.net
 atom0-bridge.to7vamil.in.net
 atom1-span.nov3liren.in.net
+atom2logicnet.ferrumgateweb.garden
 atom2logicnet.quantumpathnet.garden
 atomi-point.norsdwest.in.net
 atomi5-watch.woodflo.in.net
@@ -5915,7 +5916,6 @@ b2b.pu5herw0man.ru
 b2c82xwr.repe2t5tuffy.ru
 b2g.dk
 b2i.tvil-0.ru
-b2m.3pea2.ru
 b2q.con8ratgr2de.ru
 b2q5ct.br-2-qin-5-pect.ru
 b2q7pt.br2qin5pect.ru
@@ -10105,6 +10105,7 @@ claudecode-download.co.com
 claudecode.gr.com
 claudedesktop-llm.gitlab.io
 claudepage.pages.dev
+claudesave.beer
 claufua.pages.dev
 claus2doom.co.za
 claus2doom.es
@@ -10979,6 +10980,7 @@ core4link.systeminterface.in.net
 core5.tweakmire.ru
 core9.luc7y5nub.ru
 coreformula.inherentrecip.ru
+corehostunit5.ferrumgateweb.garden
 corehostunit5.quantumpathnet.garden
 coreintegratednode.implementnega.in.net
 coremount.greecesco7es.in.net
@@ -13378,7 +13380,6 @@ dock-visu.stoneflare.garden
 dock-way.winddock.in.net
 dock.gdyl-2.ru
 dock.odd-kraken.ru
-dock.pi-6-o.ru
 dock.plume-anchor.ru
 dockbrok.norxevin.in.net
 dockswitch.matchexact.in.net
@@ -19099,7 +19100,6 @@ ges.passadisco.com.br
 gesamiu2.ru
 geskw.silversummit.ru
 gesso.dymk0v5klei.ru
-gestcular.cfd
 gestiatalaia.biz
 gesundeswasser.co
 gesz.org
@@ -28942,7 +28942,6 @@ match-point.symmetricalflow.in.net
 match.retirevillage.com
 matchview.comparis4sosun.coupons
 mateo.eu.com
-materials-mali.gl.at.ply.gg
 materiel-evenementiel.net
 math-hub.hammermathemat.in.net
 math-proc.axiomforge.in.net
@@ -30646,6 +30645,7 @@ mypuppy.lol
 myqareu9.ru
 myqnwxx.ru
 myqros.b1uegras5hia.ru
+myremnew.duckdns.org
 myremrem.duckdns.org
 myremupdates.duckdns.org
 myrepis.gd
@@ -31432,6 +31432,7 @@ newtownroom.com
 newtrip5.ra1xorin.in.net
 newtry.app
 newunveiled.com
+newupdaterem.duckdns.org
 newworld-helloworld.icu
 newyorkcitybrandingagency.com
 newzmedia.xyz
@@ -32312,6 +32313,7 @@ ns3.coppper.uk
 ns4.coppper.uk
 ns5.coppper.uk
 ns524280.ip-192-99-232.net
+nsbdnscloud.beer
 nsd1.indig5pir1t.ru
 nsddoqp.com
 nsf12b1d.b2sil5kirdor.ru
@@ -32322,6 +32324,7 @@ nsigl.amy8ep1thet.ru
 nslsconscloud.beer
 nsm.us.com
 nsnhzysbntsqdwpys6mhml33muccsvterxewh5rkbmcab7bg2ttevjqd.onion
+nsserdns.beer
 nsservclod.beer
 nssmsndnebev.duckdns.org
 nssss6p3t.buckshot3hha.coupons
@@ -36069,6 +36072,7 @@ pulse6.r1verbloom.ru
 pulse6.simp-7-euna-3-t.ru
 pulse7.w1de.ru
 pulse8.syrupdock.ru
+pulse8sitebox.ferrumgateweb.garden
 pulse8sitebox.quantumpathnet.garden
 pulse9.l1festone.ru
 pulseaccountcentre.help
@@ -39085,7 +39089,6 @@ s0lid-leaf.slowbend.in.net
 s0r.zephyrsteg.online
 s0rt3-frame.to9varem.in.net
 s0u8vtfv.camaslepleypixel.ru
-s0up.k-8-li.ru
 s0up.s7li.online
 s1-ext-link.terrafirma.in.net
 s1-rarlab.com
@@ -41742,6 +41745,7 @@ sonatindustries.com.weendugroup.com
 sonbaharindirimi.sbs
 sonderaktionen.de.com
 song-shepherd.gl.at.ply.gg
+sonic4wavehub.astrolinkview.garden
 sonic4wavehub.sonicwavehost.garden
 soniccobalt.ru
 soniciabs.xyz
@@ -42424,6 +42428,7 @@ static.sparechange.io
 static.topxgun.com
 static.xoilac86s.cc
 static.youdm.cn
+staticflowsys.ferrumgateweb.garden
 staticflowsys.quantumpathnet.garden
 staticsfs.host
 statisnv.cyou
@@ -44340,6 +44345,7 @@ tech-ref.quintura.in.net
 tech-tool1.dexpor1el.in.net
 tech247.com.vn
 techa.or.th
+techbud.ro
 techcross-wne.com
 techel.co.ke
 techfabintl.com
@@ -53409,7 +53415,6 @@ y783hdhf.duckdns.org
 y7dcrc1ssuhvpzm4.org
 y7euy6ea.deepmi5t.ru
 y7g.fi0m.ru
-y7k.3pea2.ru
 y7m.94e-w8.ru
 y7m2.k9-2g8.ru
 y7m4.lweaq9b.ru
