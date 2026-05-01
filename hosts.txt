@@ -6382,6 +6382,7 @@ basedfoundation.sbs
 basedo.courses
 baseflow.box1fig7.coupons
 basehostunit.cosmologic.bet
+basehostunit.kali9drift.surf
 basehostunit.staticmeshview.bet
 basehostunit.technic2lweak.bet
 basennwrpin.com
@@ -16134,7 +16135,6 @@ f7nm8f7u.mi5tpath.ru
 f7ozu1t9.flogginquisit.digital
 f7q2.q7jt-0k.ru
 f7r3e.ember-harbor.ru
-f7zn0.mi9q.online
 f8-flow-v11.basalticnode.in.net
 f81hf1gu.fr0stmirr0r.ru
 f82x5kgw.five5kitt1es.ru
@@ -16897,6 +16897,7 @@ fire.4y3e4.ru
 fire.8y7o4.ru
 fire.bvuf-2.ru
 fire.cl0udriver.ru
+fire1siteview.voda4flux.surf
 fire2.mintforest.ru
 fire2.wildsh1ne.ru
 fire2taskhub.chaevodh0t.bet
@@ -17223,6 +17224,7 @@ flow1-open.clear-stream-web.in.net
 flow1-point.zorvelixan.in.net
 flow2-api.cesura-wate7y.in.net
 flow2.st-0-y-70-renka.ru
+flow4logicway.voda4flux.surf
 flow4work.densapoint.in.net
 flow4work.sinapsov.in.net
 flow8.1-nyearbo-0-k.ru
@@ -18229,7 +18231,6 @@ g1t4.starmarkt.online
 g1thub.com
 g1yph5-switch.qi2mavel.in.net
 g2.j0tchamber.ru
-g2.q7jt-0k.ru
 g2.sn-0-wmint.ru
 g21qs.oakmelt.in.net
 g2p4n8.1a2e6.ru
@@ -19721,6 +19722,7 @@ glow3taskhub.sola8ven.bet
 glow7siteview.grov6mira.bet
 glow7siteview.pulsarspin.bet
 glow8siteview.colorfu1prep.bet
+glow8taskhub.voda4flux.surf
 glowbase.neondata.in.net
 glowe.aurora1hain.ru
 glowe.c1earpeak.ru
@@ -21421,6 +21423,7 @@ heat-shield.helioshaven.in.net
 heat-sync-node.rapiddune.ru
 heat4logicway.grov6mira.bet
 heat5logicnet.chaevodh0t.bet
+heat5pathgate.voda4flux.surf
 heat5siteview.silicapathsys.garden
 heat8logicway.sola8ven.bet
 heath.beechmoor.ru
@@ -23384,6 +23387,7 @@ iondawn.checksum.in.net
 ionhostunit.chaevodh0t.bet
 ionhostunit.fluxunitzone.bet
 ionhostunit.nebulaflux.bet
+ionhostunit.voda4flux.surf
 ionicj.cyou
 iop2.ru.com
 iop5.ru.com
@@ -26421,6 +26425,7 @@ lightef.cyou
 lightforge.mildtech.in.net
 lighthousefinancialfl.retirevillage.com
 lightinn.to6varon.in.net
+lightmeshsite.mero2beam.surf
 lightmeshway.pulsarspin.bet
 lightminer.co
 lightmoon6.zom2lirex.in.net
@@ -26995,6 +27000,7 @@ long-way5.kiv5leren.in.net
 long.l0ngprope1l.ru
 long.wildsh1ne.ru
 long2pathgate.inertianetway.bet
+long2siteview.kali9drift.surf
 long3siteview.stardrift.bet
 long4logicway.years-quackery.bet
 longbelt3.de8xapil.in.net
@@ -29361,6 +29367,7 @@ melktandjiespreschool.co.za
 melodysexgame.com
 melt8pathgate.chaevodh0t.bet
 melt9logicway.fluxunitzone.bet
+meltmeshsite.voda4flux.surf
 member77daftar.it.com
 members.affiliateincomecoach.com
 members.agencialegalads.com
@@ -30379,6 +30386,7 @@ move-node.dancingvcr.in.net
 move.bong889.com
 move1logicnet.stardrift.bet
 move2logicnet.kineticgatehub.bet
+move9logicnet.kali9drift.surf
 moviehub.in.net
 moviemusereviews.com
 movilidadtest.fivetech.co
@@ -31000,7 +31008,6 @@ n5uw1.sc0rp5koroh.ru
 n61i1.spongeclaw.ru
 n662mc07.sylo7den.in.net
 n66klrdz.sametcanaltindal.online
-n6k.q7jt-0k.ru
 n6q.i1msth.com
 n6r.ibzr-2.ru
 n6s11tx9k5z7obni.org
@@ -37793,6 +37800,7 @@ raxeniy5.ru
 ray.pobinei39.ru
 ray0ut.sunfold.ru
 ray2logicnet.quasargrid.bet
+ray2logicway.mero2beam.surf
 ray5lt.br1ghtvaie.ru
 ray9st.brightlake.ru
 rayhostunit.sola8ven.bet
@@ -38234,6 +38242,7 @@ ressilen.matchexact.in.net
 rest-api.blindersyawn.in.net
 rest-gate.dialectdozing.in.net
 rest-log.goingsick.in.net
+rest3taskhub.kali9drift.surf
 restapiserv.click
 restauradoraoliveira.com.br.estacionariaetracionaria.com.br
 restaurant-contacts.gl.at.ply.gg
@@ -41328,6 +41337,7 @@ slow.lilek4au2.ru
 slow4logicnet.inertianetway.bet
 slowcivi.firs-tachycardia.in.net
 slowdemand.fabulos.in.net
+slowmeshnode.kali9drift.surf
 slowprim.verd1ya.garden
 slowwa-lk2.ra1xorin.in.net
 slp.hbway.com.au
@@ -42724,6 +42734,7 @@ stavby.sk
 staw.io
 stawel.terrae.rest
 stay-api.againstvisitor.in.net
+stay7pathgate.kali9drift.surf
 staymeshsite.staticmeshview.bet
 stayonbokablesol.com
 stazinal.terrae.rest
@@ -49579,7 +49590,6 @@ w91a.draftsnip.ru
 w92.phoenixbogen.ru
 w9c3a.x625v7.ru
 w9el.hover-mint.ru
-w9hd3.mi9q.online
 w9l2fjai.momentumbloomera.digital
 w9m2kx.alaspasteur.in.net
 w9s.sj-5-o-5.ru
@@ -50965,7 +50975,6 @@ wpx3375n.oakwhisper.in.net
 wq.cl1ffwood.ru
 wq.v-0-xenridge.ru
 wq0.o4-lq-8.ru
-wq1.q7jt-0k.ru
 wq3b0k7.fox-ab.ru
 wq4x0gt8l.localto.net
 wqfmumga.com
@@ -51982,6 +51991,7 @@ www.mehmetarhan.com
 www.membros.agencialegalads.com
 www.memedia.africa.com
 www.metmuseum.wordt-ontwikkeld.be
+www.mevetlab.cl
 www.mexicaliblog.com.mx
 www.mh7am.bond
 www.miacheap.flights
@@ -52923,7 +52933,6 @@ x40.mistyflare.ru
 x400l.ltangarorw.org
 x49k7m.buckshot3hha.coupons
 x4d.8-f-e8.ru
-x4d2.w7tx-3t.ru
 x4dpn.sun5park.ru
 x4m.quasarorchid.ru
 x4qzt.ochechstop.in.net
