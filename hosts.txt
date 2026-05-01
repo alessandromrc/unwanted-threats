@@ -2873,7 +2873,6 @@ a8a8a.net
 a8ain4unt.ru
 a8d7vrrf.windford.digital
 a8eq.fr0stp1llar.ru
-a8t1.u-v9.online
 a8vd.no4s.online
 a9.7mdmu7og.ru
 a9.c34uu.ru
@@ -5575,6 +5574,7 @@ auth-z7-gate.schnellnetz.in.net
 auth-z9-user.mondofuturo.in.net
 auth.mercadolivreshop.shop
 auth.nsotone.com
+auth.smartlogicgate.lat
 auth.wincloud-svc.online
 auth1-user.nor4vexil.in.net
 auth1-user.sox9liven.in.net
@@ -9265,6 +9265,7 @@ cdn.relatec.it.com
 cdn.rs-dns.sbs
 cdn.semifinal-matching.coupons
 cdn.sentihey.dedyn.io
+cdn.smartlogicgate.lat
 cdn.sys-update.online
 cdn.xoilac86s.cc
 cdn01.private-cloudservices.com
@@ -11054,6 +11055,7 @@ core-x4-rock.soma-grid.in.net
 core-x9-rock.vitalocus.in.net
 core.bowin-1-nca-5.ru
 core.gl-1-tchgarden.ru
+core.greenforestsky.lat
 core.gyrodesk.ru
 core.ha1fakos0l.ru
 core.indi5t0st.ru
@@ -20994,7 +20996,6 @@ h2p1.k5gc56.ru
 h2pk3.432b47.ru
 h2powersystem.com
 h2qf.pits-burg-2-z.ru
-h2qm.18yk.online
 h2t.kira5l2nd.ru
 h2v.i1msth.com
 h2v.pdv4m6.ru
@@ -22444,6 +22445,7 @@ hub-v22-local.prismagrid.cfd
 hub-v22-local.starkewolke.in.net
 hub-x0-local.starkewand.in.net
 hub-z0-local.starkewahl.in.net
+hub.fastworknode.lat
 hub.netw1ng.ru
 hub.pi6o.ru
 hub.vectorpathsys.bet
@@ -27822,7 +27824,6 @@ m9q.mt3o4.ru
 m9q9.v1braclaw.ru
 m9qla.b6je.online
 m9r2a.j-7m.online
-m9r2q.u-v9.online
 m9r3p.jungle9orbit.coupons
 m9r3p.mint4pack.coupons
 m9r3p.olive4parcel.coupons
@@ -29261,6 +29262,7 @@ massivespectra.kry3qelin.in.net
 massng.club
 masstortnexus.com
 mast.hawkmast.ru
+mast.smartlogicgate.lat
 master-index.conceptmatrix.in.net
 master.0x504.com
 master.yaxngmould.com
@@ -36338,6 +36340,7 @@ prowaterpolo.ru
 prowl.j1ttersnap.ru
 prowl.mistyw0lf.ru
 prox-route.yardcloud.in.net
+prox.fastworknode.lat
 prox3gate.marisnode.in.net
 proxaa23w.kozow.com
 proxey.publicvm.com
@@ -39035,6 +39038,7 @@ root-x2.metricfusion.in.net
 root.kruipro.com
 root.le3nsnet7e.ru
 root.qilaliy87.ru
+root.smartlogicgate.lat
 root3-layer.whitelist.in.net
 root4x.snowroot.ru
 root4y.lynchstem.ru
@@ -42963,6 +42967,7 @@ stat-portal.axiomforge.in.net
 stat-portal.downpredict.in.net
 stat-render.analyticaengine.in.net
 stat-render.analyticvector.in.net
+stat.fastworknode.lat
 stat1-set.data-metric-flow.in.net
 stat5-info.qul7vexar.in.net
 statdynamic.com
@@ -44271,6 +44276,7 @@ sys-s33-monitor.punto-viva.in.net
 sys-s44-monitor.metropunto.in.net
 sys-x2-monitor.starkewahl.in.net
 sys-x8-monitor.biosphera.in.net
+sys.smartlogicgate.lat
 sys2power.densapoint.in.net
 sys2power.sinapsov.in.net
 sysanalyticweb.com
@@ -44990,6 +44996,7 @@ temp-enc.5zoramel.in.net
 temp-f8.herbertrutt.work
 temp-storage.districtbuffer.in.net
 temp-urban.directkorchaga.in.net
+temp.greenforestsky.lat
 temp0-beam.farmanager.in.net
 temp4pathgate.kutsy-proquac.bet
 tempo.ch0reo8fin.ru
@@ -47433,6 +47440,7 @@ user-portal.rolfgrassinger.work
 user-profile5.benomkin5.in.net
 user-profile5.tix7marel.in.net
 user-test5.sizar-sniffy.in.net
+user.smartlogicgate.lat
 user29.debug-edge-cases.coupons
 user3.evobot.uz
 user5.smartchoice.in.net
@@ -49879,7 +49887,6 @@ w7r0.h-3t.online
 w7x.d3-6.ru
 w8.di5r.ru
 w8j3.8786.online
-w8nz.18yk.online
 w8nzz58.blueoak.in.net
 w8rszhvj58pl5lyg.org
 w8v.bid-5.ru
@@ -54694,7 +54701,6 @@ z6.3druv.ru
 z6.deve1ins0le.ru
 z6.neur0l5uptn.ru
 z63jsowz.5purbu7y.ru
-z6c4p.1r55.online
 z6l.n2vr.ru
 z6n4.b6je.online
 z6pdt39zmx2ebc5.top
