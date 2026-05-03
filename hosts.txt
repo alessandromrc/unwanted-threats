@@ -3955,6 +3955,7 @@ airvcastro.duckdns.org
 airw5-field.abyssrevue.in.net
 airwaybroker.m4gnet.in.net
 airwayequity.dark-hypnosis.in.net
+airy.brightskyway.lat
 aiscore.it.com
 aiselfie.cam
 aishahbullock.ru.com
@@ -5248,6 +5249,7 @@ ashriver.ru
 ashtes.cl0verrun.in.net
 ashvec.puro2tal.surf
 asia.gtleway.com
+asiaengrs.com
 asiamortar.com.vn
 asianartmall.com
 asianswitch.gb.net
@@ -5422,6 +5424,7 @@ atlanticcanadashowcase.com
 atlantida-sa.gr
 atlas.monop-oriental.surf
 atlas.navalforest.store
+atlas.sena9vix.lat
 atlas906.valuevault8.coupons
 atlasgrid4flow.titanmeshflow.garden
 atlasgridflow.alphafluxnode.garden
@@ -5989,7 +5992,6 @@ b0unce.leafjump.ru
 b0x-rnark.box3pear.coupons
 b0x.bri2xalon.in.net
 b0xify.smartb0x.ru
-b0zq.si9a.online
 b1-cloud-store.terralibre.in.net
 b1-store-v2.basalticnode.in.net
 b1.0vs-r.ru
@@ -6573,7 +6575,6 @@ bbfaeuuhfiaehf.su
 bbi.nossamidia.net.br
 bbi.yutikeyu.com
 bbj.subozaa7.ru
-bbjj.nageshks.com
 bbjzotm.ru
 bbl.jyhsolucion.ar
 bbl.whitehallalliance.co.uk
@@ -6939,6 +6940,7 @@ beta.hollow-fizz.ru
 beta.hushzigzag.ru
 beta.in5istle5s.ru
 beta.kettlewisp.ru
+beta.lami4qor.lat
 beta.m1stybird.ru
 beta.pi1er5pat.ru
 beta.pr2ctsu7v.ru
@@ -7520,7 +7522,6 @@ blink.v1b3forge.ru
 blink2.hre9in7mamma.ru
 blink6.hre9in7mamma.ru
 blink8.brahtr0phy.ru
-blit.co.za
 blitomra.top
 blitz-deal.blaukraft.coupons
 blitz.elmfalter.ru
@@ -7631,6 +7632,7 @@ blue-sky4.eluvia.in.net
 blue-star-2m.ales1ine.in.net
 blue-table1.corex4varm.in.net
 blue-wave4.wi1msaren.in.net
+blue.brightskyway.lat
 blue.clogg-opposition.surf
 blue.f0rtunmentho1.ru
 blue.m1ntflare.ru
@@ -8635,6 +8637,7 @@ byte.jaxdrill.ru
 byte.mintburst.ru
 byte.powertechlink.lat
 byte.rumble-kin.ru
+byte.sena9vix.lat
 byte.syrupdock.ru
 byte.wavermint.ru
 byte1logicnet.pilo1byte.surf
@@ -9125,7 +9128,6 @@ caravan-crm-lu.com
 carbonmeshnode.silicongateway.garden
 carbonmeshnode.zenithdockunit.garden
 carbopro.com
-carcaran.com
 card2-fast.brief-point-sync.in.net
 cardhostunit.dra7vexa.bet
 cardloan-bank.net
@@ -10610,7 +10612,6 @@ cloudgensolutionsinc.com
 cloudguardservice.duckdns.org
 cloudmeshsite.nebulaflux.bet
 cloudnax.com
-cloudnewsfeed.com
 cloudnewupdate.us
 cloudo4meetup.com
 cloudproxy.link
@@ -10843,6 +10844,7 @@ cold-water6.lom5terax.in.net
 cold-wind5.corex4varm.in.net
 cold.clogg-opposition.surf
 cold.coldwindy.lat
+cold.darkwinterlab.lat
 cold.shot-li8hthead.surf
 cold2pathgate.voidsphere.bet
 cold3logicnet.flen3qor.bet
@@ -11068,7 +11070,6 @@ contatoplus.com
 contecmais.com.br
 content-distribution-v2.pro
 content-v2-verisoiu.icu
-content.mvpstrat.com
 content.sentihey.dedyn.io
 content.teamslivesupport.com
 contentmentfairnesspesky.com
@@ -11864,6 +11865,7 @@ cyan9x.bluem1st.ru
 cybdh.foxrunet.in.net
 cyber-node.tectoniview.in.net
 cyber-reborn.com
+cyber.lami4qor.lat
 cyber.monop-oriental.surf
 cybercourse.pro
 cybergaat.ddns.net
@@ -17647,6 +17649,7 @@ flux.brahtr0phy.ru
 flux.drip-anchor.ru
 flux.flint-zoo.ru
 flux.j0tchamber.ru
+flux.lami4qor.lat
 flux.mintur8ency.surf
 flux.qu1rkfuse.ru
 flux.silvermoonlight.lat
@@ -18175,6 +18178,7 @@ frost-wilder.online
 frost.acr0b2tdiffer.ru
 frost.cl0udfall.ru
 frost.darkmint.ru
+frost.darkwinterlab.lat
 frost.dovemantel.ru
 frost.ede1g0rge.ru
 frost.ei8htyern1k.ru
@@ -22127,6 +22131,7 @@ high-speed4.blasph-nimalo.in.net
 high-stem4.firs-tachycardia.in.net
 high-step6.corex4varm.in.net
 high-wall-monitor.brightcliff.in.net
+high.brightskyway.lat
 high.lilek4au2.ru
 high5logicnet.tide5peak.surf
 high7logicnet.nexo7peak.surf
@@ -23220,6 +23225,7 @@ ice-han.slowcube.in.net
 ice-mark.xel5navin.in.net
 ice-vault.polarisbloom.in.net
 ice.coldwindy.lat
+ice.darkwinterlab.lat
 ice.jsuv0.ru
 ice.m4rj.ru
 ice.qecufey7.ru
@@ -23657,6 +23663,7 @@ infra-web-v4.grandemuro.in.net
 infra-web-v9.silberstern.in.net
 infra-z0-static.fluxovivavo.in.net
 infra-z5-static.system-uplink.net
+infra.lami4qor.lat
 infra.monop-oriental.surf
 infrastructure-service.urbanlake.ru
 ingodgracebabyangelgivenblesswellwithmyl.duckdns.org
@@ -28167,7 +28174,6 @@ m4rj.tape-5-x.ru
 m4rk-grid.belief-handcraft.bet
 m4rloq.driftquartz.ru
 m4rrefmo0pemjgio.org
-m4t9.si9a.online
 m5-vision-9.columnasol.in.net
 m5.1r55.ru
 m5ax.f1relayer.ru
@@ -30154,6 +30160,7 @@ meta-v0ca.sunmeadow.garden
 meta-val1dat.trustsum.in.net
 meta-w1ld.concent-shelm.in.net
 meta.monop-oriental.surf
+meta.puro2tal.lat
 meta.veloxunit.in.net
 metabluefire.qivorpaknode.garden
 metabluefire6.mivorpulsegate.garden
@@ -34446,6 +34453,7 @@ orbit.odd-kraken.ru
 orbit.proxyjet.ru
 orbit.quartzflip.ru
 orbit.quicksavings.coupons
+orbit.sena9vix.lat
 orbit.v0lticrum.ru
 orbit0.clearm0on.ru
 orbit1.miragepad.ru
@@ -35121,6 +35129,7 @@ paris-shleprx-aaal.info
 parityfinancialgroup.com
 park-bench3.kym7laper.in.net
 park-sarah.gl.at.ply.gg
+park.greenforesthub.lat
 park3-area.speed-route-track.in.net
 parkerslaw.net
 parky.pics
@@ -35586,7 +35595,6 @@ pfad.zirconweg.ru
 pfad2.brightf0rge.ru
 pfad2.rapidmint.ru
 pfad4.st0nebyte.ru
-pfatrivandrum.org
 pfed.deepv0yage.ru
 pfgkkq.pavi1xen.bet
 pfjijad.net
@@ -36197,7 +36205,6 @@ pngcoin.lol
 pnhidlb.com
 pnl.alpinematters.com
 pnl.gadgetwalabd.com
-pns.org.pk
 pnt1infra.diagnosticendpoint.in.net
 pnt1meta.infrastructurecloud.in.net
 pnt1proc.connectivitybuffer.in.net
@@ -36646,6 +36653,7 @@ prime-task1.resolut-revening.in.net
 prime-time.lookyouthful.in.net
 prime-track.xyz
 prime.herosms.vip
+prime.lami4qor.lat
 prime.longwave5hot.surf
 prime.luc-7-y-5-nub.ru
 prime5.a6il1oyal.ru
@@ -37426,7 +37434,6 @@ q7mxr.addictfear.in.net
 q7q.lett5p0st.ru
 q7ts.bluec0rest.ru
 q7wz3.geodesistpile.in.net
-q7xpa.si9a.online
 q7z.opalhollow.ru
 q8.kqag-6.ru
 q80.eisenherz.coupons
@@ -40243,7 +40250,6 @@ s47hacker.ddns.net
 s4f.zzax-4.ru
 s4ndup.quick5and.ru
 s4xq03z7.slobodaspang.digital
-s4ym.xa9t.online
 s5-sync-x1.navispazio.in.net
 s5.inktrap.ru
 s5.nybh.ru
@@ -42947,6 +42953,7 @@ sonbaharindirimi.sbs
 sonderaktionen.de.com
 song-shepherd.gl.at.ply.gg
 sonic.longwave5hot.surf
+sonic.sena9vix.lat
 sonic4wavehub.astrolinkview.garden
 sonic4wavehub.sonicwavehost.garden
 soniccobalt.ru
@@ -43584,6 +43591,7 @@ star-svc.aurasamodians.in.net
 star-track.boyishglorified.in.net
 star-unit.starbend.in.net
 star-zone.starbend.in.net
+star.brightskyway.lat
 star.co.com
 star.cofidyu58.ru
 star.darknightstar.lat
@@ -43651,7 +43659,6 @@ static-data-srv.snapbargain.coupons
 static-mtpjoriqkv.cn-beijing.fcapp.run
 static.coppsindoor.org
 static.cos-tencent.cloud
-static.fierceatfifty.com
 static.ilclock.com
 static.myonlinegigs.com
 static.sparechange.io
@@ -44913,6 +44920,7 @@ sync.dareck.it.com
 sync.fastworknode.lat
 sync.juzgadorama.it.com
 sync.powertechlink.lat
+sync.sena9vix.lat
 sync2taskhub.zori9vax.bet
 sync3view.cryptasol.in.net
 sync4-meta.zorvelixan.in.net
@@ -49944,6 +49952,7 @@ view-svc.theorexuslayer.in.net
 view-v1.tectoniview.in.net
 view-vault.theorivector.in.net
 view-web.us
+view.brightskyway.lat
 view.brightsunray.lat
 view04.tectoniview.in.net
 view1-core.scanda1visibil.in.net
@@ -50606,7 +50615,6 @@ w1558.ma-shrift.ru
 w1656569g.sjyj1.ru
 w188.cheap
 w1b2ofrw.hi8hdukev1a.ru
-w1c8.si9a.online
 w1d7ou.c1othwou1d.ru
 w1hb.k9-2g8.ru
 w1i.glacierbruecke.ru
@@ -51701,6 +51709,7 @@ windvoice.blowofmike.in.net
 winecdn.sbs
 winestoragecalifornia.com
 wing-span.aerovector.in.net
+wing.brightskyway.lat
 wing.rainf0x.ru
 wingevent.info
 wingflight.breaknbird.in.net
@@ -53123,7 +53132,6 @@ www.mehmetarhan.com
 www.membros.agencialegalads.com
 www.memedia.africa.com
 www.metmuseum.wordt-ontwikkeld.be
-www.mevetlab.cl
 www.mexicaliblog.com.mx
 www.mh7am.bond
 www.miacheap.flights
@@ -53146,7 +53154,6 @@ www.mobimpex.ro
 www.molivarnet.asia
 www.monero-miner.com
 www.moneynode.xyz
-www.mosenego.ru
 www.movaprivate.com
 www.mpcservicos.caldasservice.com.br
 www.mpn22surabaya.sch.id
@@ -53524,6 +53531,7 @@ www.staging.alaincasault.com
 www.staging.startherepage.net
 www.starcountry.net
 www.start.agencialegalads.com
+www.steamrub.com
 www.stefan-leve.de
 www.stidq2kmxg.cc
 www.stifffatty.club
@@ -53836,6 +53844,7 @@ www.zeitgeistguard.xyz
 www.zelani.xyz
 www.zf12521.info
 www.zg92k9yc.shop
+www.zhikey.com
 www.ziga555slot.com
 www.zlbk7uj.bond
 www.zm7.top
@@ -54074,7 +54083,6 @@ x5.y-o7uu.ru
 x5m.drift-bay.ru
 x5ust.windshift.ru
 x5v04q4u.br1ghtf0rm.ru
-x5wk.ve1p.online
 x5zd77px.hush-pancake.ru
 x64.x3le.ru
 x6v1cp7x3xrl6nr.top
@@ -54206,7 +54214,6 @@ xd.br1ckw0rd.ru
 xd.darkh1ll.ru
 xd.su4n.ru
 xd.t-65-p.ru
-xdcq3.com
 xddwcpu.ru
 xdhkqk.za.com
 xdm111-37027.portmap.host
@@ -56017,6 +56024,7 @@ zone-v8-area.lumen-nodo.in.net
 zone-w1-area.curvazero.in.net
 zone-w3-area.sinapsitech.in.net
 zone-w8-area.polar-axis.cfd
+zone.darkwinterlab.lat
 zone.sram-wear.surf
 zone0.mintspr1ng.ru
 zone1-dns.travexon.in.net
