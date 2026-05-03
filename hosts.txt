@@ -4600,6 +4600,7 @@ apellanizydesosa.com
 aperture-48940.portmap.host
 apex.agocert.lat
 apex.cl0udcrest.ru
+apex.digitaltide.surf
 apex.herosms.ai
 apex.infrawavepro.lat
 apex.rulo2vex.lat
@@ -5434,6 +5435,7 @@ atlanticcanadashowcase.com
 atlantida-sa.gr
 atlas.monop-oriental.surf
 atlas.navalforest.store
+atlas.pavo8rex.surf
 atlas.sena9vix.lat
 atlas.urbanlogicgrid.lat
 atlas906.valuevault8.coupons
@@ -6949,6 +6951,7 @@ beta.casino-fascin.surf
 beta.cl0udramble.ru
 beta.cr2ftedne5s.ru
 beta.crankmuddle.ru
+beta.cyberdrift.surf
 beta.cyberpulsehub.lat
 beta.darkc0re.ru
 beta.darkl1ne.ru
@@ -6960,6 +6963,7 @@ beta.in5istle5s.ru
 beta.ipsetlap.lat
 beta.kettlewisp.ru
 beta.lami4qor.lat
+beta.lena3qit.surf
 beta.m1stybird.ru
 beta.pi1er5pat.ru
 beta.pr2ctsu7v.ru
@@ -14854,6 +14858,7 @@ edge-v3.orbitcapture.in.net
 edge-v6.rolfgrassinger.work
 edge.agocert.lat
 edge.anythin8weaned.surf
+edge.digitaltide.surf
 edge.infrawavepro.lat
 edge.oceanstormview.lat
 edge.onthewifi.com
@@ -18752,7 +18757,6 @@ g76y7hnw.rabk0r5pech.ru
 g7c5.kzg-w-4y.ru
 g7cnfrcns.localto.net
 g7hva5likuonhljhh3sp2nvg7pezpu45vpxjccgihevwpb4fi2napqad.onion
-g7m.pdv4m6.ru
 g7r8ev.ger8y5evruga.ru
 g7t3.brambleage.ru
 g7ya.y2u-72.ru
@@ -19091,6 +19095,7 @@ gate.cryptofonia.com
 gate.danimalscups.com
 gate.datetimetoticks-converter.com
 gate.diary-learning.sa.com
+gate.digitaltide.surf
 gate.dissent8lazed.surf
 gate.dnailsgulfbreeze.com
 gate.eihbgb.sa.com
@@ -20931,6 +20936,7 @@ grid.digncbe.top
 grid.ipsetlap.lat
 grid.joltberry.ru
 grid.l2titsm1ne.ru
+grid.pavo8rex.surf
 grid.plasmabout.ru
 grid.powertechlink.lat
 grid.urbanlogicgrid.lat
@@ -23745,6 +23751,7 @@ infra-web-v9.silberstern.in.net
 infra-z0-static.fluxovivavo.in.net
 infra-z5-static.system-uplink.net
 infra.lami4qor.lat
+infra.lena3qit.surf
 infra.monop-oriental.surf
 infra.rapidfirepixel.lat
 infrastructure-service.urbanlake.ru
@@ -30796,6 +30803,7 @@ mo2ekup2uvwn97r.top
 mo2or.rec1aimswal1.ru
 mob.m4rj.ru
 mobbyyt.club
+mobi.cyberdrift.surf
 mobi.cyberpulsehub.lat
 mobi.fiverfle8ma.surf
 mobi.ipsetlap.lat
@@ -31750,7 +31758,6 @@ n4.13-yz.ru
 n4.7mdmu7og.ru
 n4.bpva-0.ru
 n4.n0y8j.ru
-n4.pdv4m6.ru
 n4.sa8yn.ru
 n4.w135v.ru
 n4.windl1ne.ru
@@ -32844,6 +32851,7 @@ node-x91-auth.pontesicuro.in.net
 node-x911-auth.ventonodal.cfd
 node.bray-circuit.ru
 node.celeb-cytology.surf
+node.cyberdrift.surf
 node.digncbe.top
 node.fastworknode.lat
 node.ipsetlap.lat
@@ -36791,6 +36799,7 @@ prime-time.lookyouthful.in.net
 prime-track.xyz
 prime.herosms.vip
 prime.lami4qor.lat
+prime.lena3qit.surf
 prime.longwave5hot.surf
 prime.luc-7-y-5-nub.ru
 prime.rapidfirepixel.lat
@@ -43125,6 +43134,7 @@ sonatindustries.com.weendugroup.com
 sonbaharindirimi.sbs
 sonderaktionen.de.com
 sonic.longwave5hot.surf
+sonic.pavo8rex.surf
 sonic.sena9vix.lat
 sonic.urbanlogicgrid.lat
 sonic4wavehub.astrolinkview.garden
@@ -45102,6 +45112,7 @@ sync.dareck.it.com
 sync.fastworknode.lat
 sync.ipsetlap.lat
 sync.juzgadorama.it.com
+sync.pavo8rex.surf
 sync.powertechlink.lat
 sync.sena9vix.lat
 sync.urbanlogicgrid.lat
@@ -54951,7 +54962,6 @@ y0bn4.kzg-w-4y.ru
 y0cc.briskvale.in.net
 y0l23ven.moondev.digital
 y0mkq.pitsburg-2z.ru
-y0q9.pdv4m6.ru
 y0s.hap7.ru
 y1-point-v7.viametrica.in.net
 y1.leafshift.ru
@@ -55594,7 +55604,6 @@ z1asu4ve.dursamurai.digital
 z1f.rjuq3.ru
 z1lmg5dds3x0lx6n.org
 z1mtk9.t1metalk.ru
-z1n.do-04d2.ru
 z1q8m.vbep-3.ru
 z1w.st0y70renka.ru
 z2.3e7u.ru
@@ -56036,6 +56045,7 @@ zhanhu.ydns.eu
 zhc.mt3o4.ru
 zhg3.craftf1uctuate.in.net
 zhidao.cn.com
+zhigao5191.com
 zhiiqqd.net
 zhivachkapro.com
 zhzecai.ru
