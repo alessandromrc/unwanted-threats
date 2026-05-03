@@ -5444,6 +5444,7 @@ atom-mount.oakwhisper.in.net
 atom-split.quantaflux.in.net
 atom-trace.nanovector.in.net
 atom.magicgoldlogic.lat
+atom.quantumbase.lat
 atom0-bridge.to7vamil.in.net
 atom1-span.nov3liren.in.net
 atom2logicnet.ferrumgateweb.garden
@@ -6474,6 +6475,7 @@ base.anythin8weaned.surf
 base.fa1cbrea5t.ru
 base.rulo2vex.lat
 base.solidstonecore.lat
+base.wintercoldlab.lat
 base1-site.bri2xalon.in.net
 base2point.durogrid.in.net
 base2point.optigrid.in.net
@@ -7805,6 +7807,7 @@ bolt.brightskycore.lat
 bolt.darkstonebase.lat
 bolt.fena7dor.lat
 bolt.installer-catip.surf
+bolt.quantumbase.lat
 bolt.silvermoonlight.lat
 bolt.storml1nk.ru
 bolt5pathgate.flow4axis.surf
@@ -8860,7 +8863,6 @@ c6jkm74r.ar7aydia1ect.ru
 c6yvmpf6utu5il2.top
 c7.k59ee.ru
 c72ole.ziparch.in.net
-c7x0.j-7m.online
 c7x5i.r0ad.ru
 c7z.o4-lq-8.ru
 c7z.starblend.ru
@@ -14743,6 +14745,7 @@ echo.m0rning.ru
 echo.murmurplex.ru
 echo.ragmosaic.ru
 echo.suf1nau8h.ru
+echo.techdriftway.lat
 echo.urbanflowbase.lat
 echo.vorticeye.ru
 echo2pathnode.astrolinkview.garden
@@ -14828,6 +14831,7 @@ edge.infrawavepro.lat
 edge.oceanstormview.lat
 edge.onthewifi.com
 edge.rulo2vex.lat
+edge.wintercoldlab.lat
 edge1-layer.xelvorinax.in.net
 edge3dist.veloxunit.in.net
 edge4pathgate.tide5peak.surf
@@ -17754,7 +17758,6 @@ focusflame.bexla9rin.in.net
 focusgroovy.com
 foerderverein-kwosz.de
 foewpeee2tol.com
-fofatot.ddns.net
 fofbookgroup.com
 foflfalflafl.com
 fog.cargomanbd.com
@@ -19128,6 +19131,7 @@ gate.wavec0met.ru
 gate.webtechcorp.co.uk
 gate.webuyoldhomes.co
 gate.win78bet1.net
+gate.wintercoldlab.lat
 gate1-forge.ve7loria.garden
 gate2.a8ain4unt.ru
 gate2.pages.dev
@@ -21947,7 +21951,6 @@ hehfaofiehgggao.to
 hehfaofiehgggla.co
 hehfaofiehgggpn.su
 hehfaofiehgggzt.io
-hehua.cookielive.top
 heicn.wi9sorin.in.net
 hel1o.0-rohyp-5-yu.ru
 hel9ix.spiintforge.ru
@@ -25533,6 +25536,7 @@ key.chord1opari.surf
 key.la9q.ru
 key.magicgoldlogic.lat
 key.puregoldkey.lat
+key.quantumbase.lat
 key.z3lu.ru
 key1-store.voxi3tral.in.net
 key6taskhub.cryptosyncflow.bet
@@ -30225,7 +30229,6 @@ metrics-hub.sturmwelle.in.net
 metrics-node.altamontagna.in.net
 metrics-sync-1.petitnuage.in.net
 metrics-sync.kristallwelt.in.net
-metrics.gocloudmaps.com
 metricspan.icu
 metricspixel.live
 metrictrace.info
@@ -30753,6 +30756,7 @@ mod.skfilmsint.com
 mod3-trace.invulshuga.in.net
 mod3r5-point.jacksend.in.net
 modaaura.store
+mode.techdriftway.lat
 mode.urbanflowbase.lat
 mode14-node.coddlcaught.in.net
 model-api.theorexuslayer.in.net
@@ -33377,6 +33381,7 @@ nx3engenharia.com.br
 nx402bji.digimatrix.digital
 nx44.silverwoodhub.lat
 nx88.silvermoonlight.lat
+nx99.quantumbase.lat
 nxarphaf35qp2uuosaq54m3a2s5kt4svpcv56mvz6r7xy6na7uo5ypyd.onion
 nxc.moss-owl.ru
 nxe.ci2udforge.ru
@@ -37191,6 +37196,7 @@ pure-water6.zore9varin.in.net
 pure.chord1opari.surf
 pure.magicgoldlogic.lat
 pure.puregoldkey.lat
+pure.quantumbase.lat
 pure.tari8lax.lat
 pure3logicway.kutsy-proquac.bet
 pure4siteview.mero2beam.surf
@@ -38236,7 +38242,6 @@ r1ch-node.z7hire.in.net
 r1ch3-watch.indulgence5crimp.surf
 r1dge2-stream.grove5s.garden
 r1n.quartz-nibble.ru
-r1p6.67tf.online
 r1v3-route.echi6under.in.net
 r1v6tqom.ku6chni8ht.ru
 r1ver-mark.fotestat.in.net
@@ -42080,9 +42085,11 @@ site.darkwinterlab.lat
 site.flashx.cc
 site.fontesolutions.com.br
 site.greenforestsky.lat
+site.infrawavepro.lat
 site.pr-gr.jp
 site.rulo2vex.lat
 site.skewed-pronoun.surf
+site.wintercoldlab.lat
 site1-proxy.plu8moran.in.net
 site2.kentinmartel.fr
 site2siteview.astrosync.bet
@@ -42209,6 +42216,7 @@ sky.frostbranch.ru
 sky.gend2rlu1l.ru
 sky.jytoceo30.ru
 sky.m1ntflare.ru
+sky.magicflowpoint.lat
 sky.mintl1ne.ru
 sky.nylykuu40.ru
 sky.quartz-mug.ru
@@ -43650,6 +43658,7 @@ star.cofidyu58.ru
 star.darknightstar.lat
 star.everym2nham.surf
 star.gunim5yi8.ru
+star.magicflowpoint.lat
 star.ndoq-0.ru
 star.tari8lax.lat
 star.vbep-3.ru
@@ -48086,6 +48095,7 @@ upd-naum.bnaumann87.work
 upd.greenforestsky.lat
 upd.rulo2vex.lat
 upd.skewed-pronoun.surf
+upd.wintercoldlab.lat
 updatcloud.us
 update-ccleaner.run.place
 update-check.com
@@ -48879,7 +48889,6 @@ v2.zevitasmarcus.com
 v2.zilingotrade.com
 v21nv.hushzigzag.ru
 v2a.k8cr-9b.ru
-v2k7m.67tf.online
 v2l.be3q.ru
 v2n.5y4a.ru
 v2n.g601c.ru
@@ -50004,6 +50013,7 @@ view-vault.theorivector.in.net
 view-web.us
 view.brightskyway.lat
 view.brightsunray.lat
+view.magicflowpoint.lat
 view.tari8lax.lat
 view04.tectoniview.in.net
 view1-core.scanda1visibil.in.net
@@ -52535,7 +52545,6 @@ www.backtobasicdeals.com
 www.backupallfresh2030.com
 www.bacsontech.com
 www.baiyangyan.cn
-www.bakersfieldrealtyinvestment.com
 www.bankweek.ru
 www.bannedbookstore.com
 www.basateen.gsinds.com
@@ -54953,7 +54962,6 @@ y7z3h.c2dmiumgho5t.ru
 y8.fk-9-e-2.ru
 y8c.zephyrsteg.online
 y8h.bo8y.ru
-y8kz.u4-r-o.ru
 y8mb.mintspr1ng.ru
 y8t4s2w.ru
 y9.888-c.ru
@@ -55847,6 +55855,7 @@ zennexos5.cl0verpeak.in.net
 zeno.bela6qit.lat
 zeno.goldenleafway.lat
 zeno.mintur8ency.surf
+zeno.quantumbase.lat
 zeno.silvermoonlight.lat
 zenodirect.com
 zenpoint.zenbyte.in.net
