@@ -2837,7 +2837,6 @@ a3.ravenpfad.ru
 a3.sm-0-kewood.ru
 a31a.wind-barrow.ru
 a3artistsagency.com
-a3h.do-04d2.ru
 a3kvb22nuhfgaluy6uzufrjn3azzsu7tylszdbyne3kiextdmxz4nnyd.onion
 a4-scan-point.puroflusso.in.net
 a4.d-k-6j.ru
@@ -5455,6 +5454,7 @@ atom-mount.oakwhisper.in.net
 atom-split.quantaflux.in.net
 atom-trace.nanovector.in.net
 atom.magicgoldlogic.lat
+atom.purelogic.surf
 atom.quantumbase.lat
 atom.vmesscab.lat
 atom0-bridge.to7vamil.in.net
@@ -7823,6 +7823,7 @@ bolt.brightskycore.lat
 bolt.darkstonebase.lat
 bolt.fena7dor.lat
 bolt.installer-catip.surf
+bolt.purelogic.surf
 bolt.quantumbase.lat
 bolt.silvermoonlight.lat
 bolt.storml1nk.ru
@@ -9420,7 +9421,6 @@ cdn.mintvoucher.coupons
 cdn.network-sync.online
 cdn.ojxqy.sa.com
 cdn.project-eagle-2025.xyz
-cdn.relatec.it.com
 cdn.rs-dns.sbs
 cdn.semifinal-matching.coupons
 cdn.sentihey.dedyn.io
@@ -11254,6 +11254,7 @@ core.agocert.lat
 core.anythin8weaned.surf
 core.bowin-1-nca-5.ru
 core.darkstonebase.lat
+core.digitaltide.surf
 core.gl-1-tchgarden.ru
 core.greenforestsky.lat
 core.gyrodesk.ru
@@ -12977,6 +12978,7 @@ delta.lightst0rm.ru
 delta.lo0kferti1.ru
 delta.longwave5hot.surf
 delta.nexo5mir.lat
+delta.novi7xel.surf
 delta.pr0wlmint.ru
 delta.quartznibble.ru
 delta.quench-orbit.ru
@@ -17651,6 +17653,7 @@ flow.cryptonodex.lat
 flow.drift-meadow.ru
 flow.g-1-zmotrail.ru
 flow.knurl-pocket.ru
+flow.purelogic.surf
 flow.quickstepflow.lat
 flow.shot-li8hthead.surf
 flow.wildfirelake.lat
@@ -21400,7 +21403,6 @@ h2powersystem.com
 h2qf.pits-burg-2-z.ru
 h2t.kira5l2nd.ru
 h2v.i1msth.com
-h2v.pdv4m6.ru
 h2x.1051lt6.ru
 h2x.sn-1-pixel.ru
 h3-hub-local.ombragrigia.in.net
@@ -22599,6 +22601,7 @@ host-winds.com
 host.agocert.lat
 host.anythin8weaned.surf
 host.darkstonebase.lat
+host.digitaltide.surf
 host.everym2nham.surf
 host.forestcl0ud.ru
 host.globalinfohost.top
@@ -25598,6 +25601,7 @@ key.chord1opari.surf
 key.la9q.ru
 key.magicgoldlogic.lat
 key.puregoldkey.lat
+key.purelogic.surf
 key.quantumbase.lat
 key.vmesscab.lat
 key.z3lu.ru
@@ -27595,6 +27599,7 @@ logic-vault.inferentialcore.in.net
 logic-vault.noetisphere.in.net
 logic.archiv-checkered.surf
 logic.ladboost.lat
+logic.mira2tal.surf
 logic.oceanstormview.lat
 logic.puro2tal.lat
 logic7.go0dsc1ence.ru
@@ -30807,6 +30812,7 @@ mobi.cyberdrift.surf
 mobi.cyberpulsehub.lat
 mobi.fiverfle8ma.surf
 mobi.ipsetlap.lat
+mobi.mira2tal.surf
 mobi.puro2tal.lat
 mobi.starlightnova.lat
 mobi.x881.net
@@ -34585,6 +34591,7 @@ orbit.c1rclefang.ru
 orbit.casino-fascin.surf
 orbit.flash97all.coupons
 orbit.odd-kraken.ru
+orbit.pavo8rex.surf
 orbit.proxyjet.ru
 orbit.quartzflip.ru
 orbit.quicksavings.coupons
@@ -36408,6 +36415,7 @@ point-v91-power.starkewahl.in.net
 point-x2-scan.altotensione.in.net
 point.archiv-checkered.surf
 point.ladboost.lat
+point.mira2tal.surf
 point.oceanstormview.lat
 point.puro2tal.lat
 point1proc.virtualresource.in.net
@@ -37036,6 +37044,7 @@ proudsoldier.duckdns.org
 prova.politecnicabr.com.br
 provaz.balancoexpress.sbs
 provedores.supraterra.ddsis.com.mx
+proveedoradeproyectosysoluciones.com
 proveoriente.com
 proveritas.eu.com
 proves2tn.2tono.com
@@ -37227,6 +37236,7 @@ pulse.kneadloop.ru
 pulse.lu-7-hichma-7-t.ru
 pulse.mintforge.ru
 pulse.nerv0u5radic.ru
+pulse.novi7xel.surf
 pulse.papervolt.ru
 pulse.radiomop.lat
 pulse.scramblehub.ru
@@ -37300,6 +37310,7 @@ pure.chord1opari.surf
 pure.magicflowpoint.lat
 pure.magicgoldlogic.lat
 pure.puregoldkey.lat
+pure.purelogic.surf
 pure.quantumbase.lat
 pure.tari8lax.lat
 pure.vmesscab.lat
@@ -38000,6 +38011,7 @@ quan-v5.quantoris.in.net
 quanpuls.aurorift.in.net
 quant.ashjunit.lat
 quant.fiverfle8ma.surf
+quant.mira2tal.surf
 quant.oceanstormview.lat
 quant.puro2tal.lat
 quant9wavegate.ferrumgateweb.garden
@@ -38808,13 +38820,11 @@ rdtssml.com
 rdv2slcujtsiga6c.org
 rdweb.csmanay.com
 re-use-svc.recycleroach.in.net
-re.bestjacksonvillehotels.com
 re.nyfk.ru
 re.qacacoe3.ru
 re.s2-ly.ru
 re.sne4p.ru
 re.sxqy9.ru
-re.tweethost.com
 re.wi-7e.ru
 re.wzhy-1.ru
 re.xxos.ru
@@ -39548,7 +39558,6 @@ rjl2hgy.q7ravo.in.net
 rjpx.productter.in.net
 rjs4d.com
 rk3.l1ghtflare.ru
-rk8.pdv4m6.ru
 rk888.org
 rka7q.fox-ab.ru
 rkacqse.ru
@@ -42200,6 +42209,7 @@ site-view3.sarahkapsreit.work
 site-w7.signalforest.in.net
 site.agocert.lat
 site.darkwinterlab.lat
+site.digitaltide.surf
 site.flashx.cc
 site.fontesolutions.com.br
 site.greenforestsky.lat
@@ -45373,7 +45383,6 @@ t8cz.y2u-72.ru
 t8q1.ravelpink.ru
 t8qzr.sheetglass.in.net
 t9.nibulu.ru
-t92.do-04d2.ru
 t9d.rivermote.ru
 t9f.qcet-8.ru
 t9f.zo8k.ru
@@ -46034,6 +46043,7 @@ testspsychotechniques974.re
 tetanuscoin.lat
 tetanuscoin.lol
 tetra.mintur8ency.surf
+tetra.mira2tal.surf
 tetra.oceanstormview.lat
 tetra.puro2tal.lat
 tetra.radiomop.lat
@@ -48591,7 +48601,6 @@ v0g.be3q.ru
 v0k6.stoneh0use.ru
 v0m.xr6u9.ru
 v0s.ki8n.ru
-v0x.do-04d2.ru
 v0ya1-cast.pares-system.in.net
 v1-sync-h07.fluxovivavo.in.net
 v1.1-b03-1q.ru
@@ -55944,6 +55953,7 @@ zennexos5.cl0verpeak.in.net
 zeno.bela6qit.lat
 zeno.goldenleafway.lat
 zeno.mintur8ency.surf
+zeno.purelogic.surf
 zeno.quantumbase.lat
 zeno.silvermoonlight.lat
 zeno.vmesscab.lat
