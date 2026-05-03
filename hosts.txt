@@ -8667,6 +8667,7 @@ byte.ge7kom0ley.ru
 byte.jaxdrill.ru
 byte.mintburst.ru
 byte.powertechlink.lat
+byte.quantumwave.surf
 byte.rumble-kin.ru
 byte.sena9vix.lat
 byte.syrupdock.ru
@@ -11901,6 +11902,7 @@ cybdh.foxrunet.in.net
 cyber-node.tectoniview.in.net
 cyber-reborn.com
 cyber.lami4qor.lat
+cyber.lena3qit.surf
 cyber.monop-oriental.surf
 cyber.rapidfirepixel.lat
 cybercourse.pro
@@ -17709,8 +17711,10 @@ flux.drip-anchor.ru
 flux.flint-zoo.ru
 flux.j0tchamber.ru
 flux.lami4qor.lat
+flux.lena3qit.surf
 flux.mintur8ency.surf
 flux.qu1rkfuse.ru
+flux.quantumwave.surf
 flux.rapidfirepixel.lat
 flux.silvermoonlight.lat
 flux.smshero.co
@@ -20921,6 +20925,7 @@ grid-secure.cyberlattice.in.net
 grid.archiv-checkered.surf
 grid.bash-glider.ru
 grid.c2rpyub2n.ru
+grid.cyberdrift.surf
 grid.cyberpulsehub.lat
 grid.digncbe.top
 grid.ipsetlap.lat
@@ -25199,7 +25204,6 @@ k6iy3ef0t6luqxb.top
 k6ug314m.a5hsuper1or.ru
 k7-sync-v2.fossaflow.in.net
 k7.cl0udstone.ru
-k7.do-04d2.ru
 k7.v4-z.ru
 k77.vokriz.in.net
 k7r11.exoruby.in.net
@@ -25671,6 +25675,7 @@ kibristicaridefteri.com
 kibu.jaxmorrow.ru
 kichijyoji-syodo.com
 kichlanalivee.com
+kick.andipfs.lat
 kick.boldfirestep.lat
 kick.brightskycore.lat
 kick.fena7dor.lat
@@ -25707,6 +25712,7 @@ kilo.casino-fascin.surf
 kilo.ladboost.lat
 kilo.starlightnova.lat
 kilo.vori7nex.lat
+kilo.zori6mav.surf
 kilupya0.ru
 kimberlygeswein.com
 kimchi-the-doge.lol
@@ -27180,6 +27186,7 @@ link.desire-veratrum.surf
 link.ikantoman.com
 link.mundonerdassistencia.com
 link.picket-warp.ru
+link.quantumwave.surf
 link.sram-wear.surf
 link.windm1nd.ru
 link.xori3mav.lat
@@ -28260,7 +28267,6 @@ m46v.junkie-talker.in.net
 m4ffr2lr.quartz-sketch.ru
 m4kancom.sc1mqxc4751.universe.wf
 m4nif-stack.coldcaught.in.net
-m4q.do-04d2.ru
 m4qwe.j0-e-t.ru
 m4r5-scope.largechildren.in.net
 m4rj.tape-5-x.ru
@@ -32841,6 +32847,7 @@ node.celeb-cytology.surf
 node.digncbe.top
 node.fastworknode.lat
 node.ipsetlap.lat
+node.lena3qit.surf
 node.rapidfirepixel.lat
 node.rippled-node.dev
 node.skysh1ft.ru
@@ -33174,6 +33181,7 @@ nova.brimhopper.ru
 nova.c0nfirmlo0k.ru
 nova.cheb0t5agit.ru
 nova.cleardawn.ru
+nova.cyberdrift.surf
 nova.cyberpulsehub.lat
 nova.darkf1eld.ru
 nova.darkh1ll.ru
@@ -34233,8 +34241,11 @@ ommmononafagoake.net
 ommmononafagoake.ru
 ommmononafagoake.su
 omni.mintur8ency.surf
+omni.quantumwave.surf
+omni.ratbasic.lat
 omni.starlightnova.lat
 omni.vori7nex.lat
+omni.zori6mav.surf
 omnicoresolutions.net
 omnileadzdev.s3.amazonaws.com
 omnisearch.sbs
@@ -36025,10 +36036,12 @@ pixel.li1mi8rat.ru
 pixel.n1ghtbreeze.ru
 pixel.p7ecunder8.ru
 pixel.paper-knurl.ru
+pixel.ratbasic.lat
 pixel.stonel1nk.ru
 pixel.twirl-pane.ru
 pixel.v1braclaw.ru
 pixel.windm1st.ru
+pixel.zori6mav.surf
 pixel9-layer.syke8liron.in.net
 pixelcraft.abcdesign.in.net
 pixeldizz.icu
@@ -40146,6 +40159,7 @@ ruralonlineland.com
 rurswitch.gl1mmeroak.in.net
 ruruurururururu.ru
 ruse4.mon2r5chemer.ru
+rush.andipfs.lat
 rush.redstonenova.lat
 rush4pathgate.kineticgatehub.bet
 rush9x.fastp1ay.ru
@@ -45083,6 +45097,7 @@ sync-z2-data.metalloarea.in.net
 sync-z3-data.cellanode.in.net
 sync-z9-data.vortex-lab.in.net
 sync.celeb-cytology.surf
+sync.cyberdrift.surf
 sync.dareck.it.com
 sync.fastworknode.lat
 sync.ipsetlap.lat
@@ -49468,7 +49483,6 @@ v7-srv-gate.focozero.in.net
 v7.t4mo.ru
 v7b.rxir-9.ru
 v7c.1r55.ru
-v7p2.9m94k8.ru
 v7rg.v0lticrum.ru
 v8.ckar-4.ru
 v8.orb-shackle.ru
@@ -50064,6 +50078,7 @@ vib3ro.crystalv1be.ru
 vibe.agilelid.lat
 vibe.bestffriend.digital
 vibe.hushdr0pper.ru
+vibe.quantumwave.surf
 vibe.silvermoonlight.lat
 vibe8siteview.mira4then.bet
 vibeproject776-44233.portmap.host
@@ -50524,6 +50539,7 @@ vortex.fiverfle8ma.surf
 vortex.hexwander.ru
 vortex.starlightnova.lat
 vortex.vori7nex.lat
+vortex.zori6mav.surf
 vortex641.savvy3spree.coupons
 vortex7.spiintforge.ru
 vortexdataserver1.mom
@@ -55984,8 +56000,10 @@ zeta.agilelid.lat
 zeta.cryptonodex.lat
 zeta.fiverfle8ma.surf
 zeta.powertechlink.lat
+zeta.quantumwave.surf
 zeta.starlightnova.lat
 zeta.vori7nex.lat
+zeta.zori6mav.surf
 zetaextr-jn91g6.westrock.surf
 zetafive-ks1vzs7.westrock.surf
 zetaleftd2wvj5mf.koltdark.surf
