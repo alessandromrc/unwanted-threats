@@ -4605,6 +4605,7 @@ apex.digitaltide.surf
 apex.goldengate.surf
 apex.herosms.ai
 apex.infrawavepro.lat
+apex.metadrive.surf
 apex.rulo2vex.lat
 apex.urbanflowbase.lat
 apex.wintercoldlab.lat
@@ -5459,6 +5460,8 @@ atom-mount.oakwhisper.in.net
 atom-split.quantaflux.in.net
 atom-trace.nanovector.in.net
 atom.magicgoldlogic.lat
+atom.magicstep.surf
+atom.nanologic.surf
 atom.purelogic.surf
 atom.quantumbase.lat
 atom.vmesscab.lat
@@ -6959,6 +6962,7 @@ beta.cl0udramble.ru
 beta.cr2ftedne5s.ru
 beta.crankmuddle.ru
 beta.cyberdrift.surf
+beta.cyberlayer.surf
 beta.cyberpulsehub.lat
 beta.darkc0re.ru
 beta.darkl1ne.ru
@@ -7834,6 +7838,8 @@ bolt.darkstonebase.lat
 bolt.fena7dor.lat
 bolt.gela1vor.surf
 bolt.installer-catip.surf
+bolt.magicstep.surf
+bolt.nanologic.surf
 bolt.purelogic.surf
 bolt.quantumbase.lat
 bolt.silvermoonlight.lat
@@ -9988,7 +9994,6 @@ chu.myserver.com.bd
 chuckbartman.retirevillage.com
 chuckyr.cyou
 chuganything.net
-chuguadventures.co.tz
 chukwunwike.ydns.eu
 chungminhtaichinhsaigon.net
 churchillsthonglor.com
@@ -11271,6 +11276,7 @@ core.darkstonebase.lat
 core.digitaltide.surf
 core.gela1vor.surf
 core.gl-1-tchgarden.ru
+core.goldengate.surf
 core.greenforestsky.lat
 core.gyrodesk.ru
 core.ha1fakos0l.ru
@@ -11278,6 +11284,7 @@ core.indi5t0st.ru
 core.infrawavepro.lat
 core.interk2ts2v.ru
 core.l2nd0fenet.ru
+core.metadrive.surf
 core.mounta1npath.ru
 core.n0v0se1prew.ru
 core.rain5tone.ru
@@ -12331,6 +12338,7 @@ darylblackmon.retirevillage.com
 dasdalksdkmasdas.com
 dash-medelivery.dev1.prodevr.com
 dash.boldfirestep.lat
+dash.boldpulse.surf
 dash.brightskycore.lat
 dash.brix9qen.surf
 dash.fena7dor.lat
@@ -14791,6 +14799,7 @@ echo.luc7y5nub.ru
 echo.m0rning.ru
 echo.murmurplex.ru
 echo.neonstream.surf
+echo.pixelstep.surf
 echo.querytan.lat
 echo.ragmosaic.ru
 echo.suf1nau8h.ru
@@ -14880,6 +14889,7 @@ edge.anythin8weaned.surf
 edge.digitaltide.surf
 edge.goldengate.surf
 edge.infrawavepro.lat
+edge.metadrive.surf
 edge.oceanstormview.lat
 edge.onthewifi.com
 edge.rulo2vex.lat
@@ -16597,7 +16607,6 @@ fabriclattic.verd2onis.bet
 fabricpayload.wex1miran.in.net
 fabv2b.mosslark.in.net
 facades.br.com
-facanha.com.br
 face-lift.lookyouthful.in.net
 face2taskhub.thora9xel.bet
 faceit-na.com
@@ -17674,6 +17683,8 @@ flow.cryptonodex.lat
 flow.drift-meadow.ru
 flow.g-1-zmotrail.ru
 flow.knurl-pocket.ru
+flow.magicstep.surf
+flow.nanologic.surf
 flow.purelogic.surf
 flow.quickstepflow.lat
 flow.shot-li8hthead.surf
@@ -19138,6 +19149,7 @@ gate.frostc0de.ru
 gate.gaicave.com
 gate.ge7kom0ley.ru
 gate.glazierexeter.co.uk
+gate.goldengate.surf
 gate.gustare-bodega.com
 gate.gyandoor.com
 gate.haysex3x.blog
@@ -19153,6 +19165,7 @@ gate.lilyhairstylist.com
 gate.linksex.blog
 gate.lodgesincheshire.co.uk
 gate.magazine4u.co.uk
+gate.metadrive.surf
 gate.moonlight247nailsandlashes.com
 gate.motfim.com
 gate.msbwfi.za.com
@@ -19553,6 +19566,7 @@ ge.sheh0.ru
 ge1.xa5r.ru
 geamervial.slashbak.in.net
 geapezk.cyou
+gear.boldpulse.surf
 gear.brightskycore.lat
 gear.brix9qen.surf
 gear.fena7dor.lat
@@ -20812,6 +20826,7 @@ grande-luna.top
 grandfatherquiver.xyz
 grandideapay.com
 grandmonde.f2ctoryp1anet.ru
+grandtheftauto6.cc
 grandthl.grandthl.com
 grandwhol.lumen-rift.in.net
 grani-tope.ru
@@ -22639,7 +22654,9 @@ host.everym2nham.surf
 host.forestcl0ud.ru
 host.gela1vor.surf
 host.globalinfohost.top
+host.goldengate.surf
 host.infrawavepro.lat
+host.metadrive.surf
 host.retirevillage.com
 host.urbanflowbase.lat
 host.wemnbbsweoipmngbyutrdcunbgrtjeroendns.pro
@@ -25637,6 +25654,7 @@ key-bath.gl.at.ply.gg
 key.chord1opari.surf
 key.la9q.ru
 key.magicgoldlogic.lat
+key.nanologic.surf
 key.puregoldkey.lat
 key.purelogic.surf
 key.quantumbase.lat
@@ -26844,6 +26862,7 @@ leake798-38723.portmap.host
 leake798-58959.portmap.host
 lean.jibiw8aa5.ru
 leandrocapatti.adv.br.agencialegalads.com
+leanmaestro.com
 leap7pathgate.quantumbitlink.bet
 leapindustries.co.in
 learn-gate.edunoppress.in.net
@@ -27167,6 +27186,7 @@ linanil.com
 linbeafbiaebfiie.to
 linconlskype.ddnsguru.com
 lindakerbakken.no
+lindenappliances.co.za
 lindnerelektroanlagen.de
 lindtmobile.co.za
 line-m.ru
@@ -30851,6 +30871,7 @@ mo2or.rec1aimswal1.ru
 mob.m4rj.ru
 mobbyyt.club
 mobi.cyberdrift.surf
+mobi.cyberlayer.surf
 mobi.cyberpulsehub.lat
 mobi.fiverfle8ma.surf
 mobi.ipsetlap.lat
@@ -30883,6 +30904,7 @@ mod.skfilmsint.com
 mod3-trace.invulshuga.in.net
 mod3r5-point.jacksend.in.net
 modaaura.store
+mode.boldpulse.surf
 mode.neonstream.surf
 mode.querytan.lat
 mode.techdriftway.lat
@@ -32446,6 +32468,7 @@ newprocess.casacam.net
 newprocess28.duckdns.org
 newproject-newworld.info
 newremc.duckdns.org
+newremupdate.duckdns.org
 newresumebuilders.us
 news-feed2.de8xporel.in.net
 news-reduces.gl.at.ply.gg
@@ -32901,6 +32924,7 @@ node-x911-auth.ventonodal.cfd
 node.bray-circuit.ru
 node.celeb-cytology.surf
 node.cyberdrift.surf
+node.cyberlayer.surf
 node.digncbe.top
 node.fastworknode.lat
 node.ipsetlap.lat
@@ -33465,6 +33489,7 @@ nurqet.rainpixel.ru
 nurselnc.com
 nurturewallet.com
 nurvak.wildstream.ru
+nusatoyota.co.id
 nut.jaxdrill.ru
 nutlios.cyou
 nutraforyou.com
@@ -34180,6 +34205,7 @@ oklahomasleepfoundation.com
 oklefe.com
 oknaprof.net
 oknkywzi.in2che1ncrem.ru
+oknoplastik.sk
 okoaiaznjbwuzudhuf.su
 okolosedal.com
 okqgg.tor4nexil.in.net
@@ -37356,6 +37382,8 @@ pure.chord1opari.surf
 pure.fira6dox.surf
 pure.magicflowpoint.lat
 pure.magicgoldlogic.lat
+pure.magicstep.surf
+pure.nanologic.surf
 pure.puregoldkey.lat
 pure.purelogic.surf
 pure.quantumbase.lat
@@ -40726,7 +40754,6 @@ sanfrancescos.com
 sanguen.courses
 sanhujinka-huhu.com
 sanicue.cyou
-sanjaydharmraj.in
 sankou-esaka.jp
 sannod.liberalpilka.in.net
 sanriocraft.online
@@ -42264,6 +42291,7 @@ site.flashx.cc
 site.fontesolutions.com.br
 site.greenforestsky.lat
 site.infrawavepro.lat
+site.metadrive.surf
 site.pr-gr.jp
 site.rulo2vex.lat
 site.skewed-pronoun.surf
@@ -42355,6 +42383,7 @@ skin-proxy.dervishpeel.in.net
 skinbaaron.com
 skinbaron.co.com
 skincare123tokyo.info
+skip.boldpulse.surf
 skip.neonstream.surf
 skip.querytan.lat
 skip.urbanflowbase.lat
@@ -51382,7 +51411,6 @@ weaplink.com
 wear-api.selzovestments.in.net
 wear.kuvuboa29.ru
 weareriu.cyou
-wearjora.com
 weather-post4.de5xpiren.in.net
 weather-post4.dex6laper.in.net
 weather-station-data.quietwind.ru
@@ -53403,7 +53431,6 @@ www.mehmetarhan.com
 www.membros.agencialegalads.com
 www.memedia.africa.com
 www.metmuseum.wordt-ontwikkeld.be
-www.mevetlab.cl
 www.mexicaliblog.com.mx
 www.mh7am.bond
 www.miacheap.flights
@@ -56027,7 +56054,9 @@ zennexis3.z7hire.in.net
 zennexos5.cl0verpeak.in.net
 zeno.bela6qit.lat
 zeno.goldenleafway.lat
+zeno.magicstep.surf
 zeno.mintur8ency.surf
+zeno.nanologic.surf
 zeno.purelogic.surf
 zeno.quantumbase.lat
 zeno.silvermoonlight.lat
