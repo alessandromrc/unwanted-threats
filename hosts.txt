@@ -4818,6 +4818,7 @@ apidoc.bureauc-diachiha.lat
 apidoc.rollers-faced.lat
 apigo.co
 apiops.barchon-virtue.lat
+apiops.coop-san.lat
 apis.sentihey.dedyn.io
 apiservinaut.amsd.cl
 apisyncdata.onrender.com
@@ -4938,6 +4939,7 @@ applicationbackup.implementnega.in.net
 applicationhost17.com
 applinear.com
 applog.canon-cumulative.lat
+applog.mira4then.lat
 apply.loanroad.co.uk
 applynow.approvkrup.in.net
 appolobase.com
@@ -7418,6 +7420,7 @@ bitkit.cottonwat-bad.lat
 bitkit.scooper5dabria.lat
 bitlight.zenbyte.in.net
 bitly.fitful1yrid.lat
+bitly.vexo7larn.lat
 bitnet.za.com
 bitrix24support.adm-center.ru
 bitsmeshnode.sara5byte.surf
@@ -9514,6 +9517,7 @@ cdnjs.cloudflane.com
 cdnjsdelivr.beer
 cdnlivechatinc.com
 cdnpro.fitful1yrid.lat
+cdnpro.vexo7larn.lat
 cdnst.duckdns.org
 cdnwoopress.com
 cdo.it.com
@@ -11629,6 +11633,7 @@ createubebeni.com
 creativefarmsgeorgia.com
 creativehangar.com
 creativejunction.com
+creativevoltage.com
 creatnova.com
 creators--cloud.com
 creatorthread.xyz
@@ -11705,6 +11710,7 @@ crimsonmods.com
 crimsonpublish.stormglade.in.net
 crimsonwald.ru
 cringeasfaslto-34920.portmap.host
+criptomaker.com.br
 crirn4-point.barondecont.in.net
 crironwel.norvexa.rest
 crisonnil.lomvera.boats
@@ -11915,6 +11921,7 @@ cunon.icu
 cup.mzas7.ru
 cup.tag-b-s3.ru
 cupandhandle.hxit8.ru
+cupangbiru007.xyz
 cupom.prgss.dev
 cur1o1-phase.skyl1tfern.in.net
 cure.uk.com
@@ -12395,6 +12402,7 @@ darktermi.5zorelin.in.net
 darktimber.deepwood.in.net
 darkview.nightvision.coupons
 darkwater.deepwave.in.net
+darkwolfapp.com
 darkwood4.to6vamil.in.net
 darmenclass.kz
 darmiq.a8riculmarb1e.ru
@@ -13429,6 +13437,7 @@ dev4work.vertexpatron.in.net
 dev6-sync.bry6moxel.in.net
 devbit.diafilm5mour.lat
 devbox.canon-cumulative.lat
+devbox.mira4then.lat
 devchallengehq.com
 develop-app.com
 developer.promowebsites.com.au
@@ -13643,6 +13652,7 @@ disc-v9.grimasdiscuss.in.net
 disciplinenahidwin.st
 disclaimermag.com
 disco222222-31929.portmap.host
+discord-verification.pro
 discordus.ddns.net
 discountcode.co.com
 discountfoodxyr.com
@@ -13846,6 +13856,7 @@ dns.quickstepflow.lat
 dns3-check.praxo6lin.in.net
 dnsalahsoso.online
 dnsapi.canon-cumulative.lat
+dnsapi.mira4then.lat
 dnsnewtds.shop
 dnsoksasa42424.dynuddns.com
 dnss.pro
@@ -14072,6 +14083,7 @@ download.nkpoor.sa.com
 download.ojxqy.sa.com
 download.pdf00.cn
 download.pdf00.com
+download.perlesimmo.com
 download.remont-center.ru.com
 download.rieege.mx
 download.skibidibopbop.lol
@@ -15127,6 +15139,7 @@ egao25.com
 egauheudbbchaiii.top
 egcftpguclkoi.com
 egepefr.ru
+egepenankara.com
 egestx.ru.com
 egg-vault.pairingreptile.in.net
 egg.kpyb0.ru
@@ -15354,7 +15367,11 @@ elementalbeverage.co
 elettoceramica.com
 elev8ted-men.com
 elevate-schweiz.ch
+elevateaijourney.com
+elevateaiworld.com
 elevated2026.duckdns.org
+elevatenextai.com
+elevatewiseai.com
 eleven11industries.com
 elevoji.za.com
 elevor.mobilefoundationrepair.com
@@ -20064,6 +20081,7 @@ github-repository.gl
 github.ciberseguridad-eia.xyz
 github.u9myanmar.store
 gitlab.barchon-virtue.lat
+gitlab.coop-san.lat
 gitpitch.com
 gits.testingweblink.com
 giuahfoaoeubfouaena.ru
@@ -21531,7 +21549,6 @@ h11uu.com
 h18u.manual-1-sa-1-yz.ru
 h1d.m1dnightr0ad.ru
 h1gh-xpl0r.highexplos.in.net
-h1k.2bj82sg.ru
 h1mg9hf3.repu1sivebrazen.digital
 h1n.nibulu.ru
 h1p.horizonspur.ru
@@ -25326,7 +25343,6 @@ k0.q7y4s.ru
 k0.u49n.ru
 k0.v57eo.ru
 k0ejxai.makemicrophone.in.net
-k0fj3.k9-2g8.ru
 k0h.softshadow.ru
 k0l.c1earrec0ng.ru
 k0lan.ddns.net
@@ -25352,7 +25368,6 @@ k1m7c.sun-7-k.ru
 k1v5q.br1ghtstorm.ru
 k2-dist-x7.pietraforte.in.net
 k2.a-8-xp.ru
-k2.q8-v-4of.ru
 k28gzwh.raxmi8vel.in.net
 k29f.vexa7lorn.bet
 k2i1p.chri5t1anget.ru
@@ -26101,6 +26116,7 @@ klez.latelierduchocolat.com.mx
 klhwsqo.ru
 klif.hollow7ridge.ru
 kligar.com
+klik-adzkia.com
 klik7tv.co.id
 klikshop.buzz
 klinker-stone.sa.com
@@ -27779,6 +27795,7 @@ log1-audit.krinaxon.in.net
 log33.syslog-remote-buffer.coupons
 log5-stream.praxo6lin.in.net
 logbin.barchon-virtue.lat
+logbin.coop-san.lat
 logger.clob.health
 loggiaaeshmezareph.net
 logi-base.trailvantage.in.net
@@ -30234,6 +30251,7 @@ mediatron.eu.com
 medicalresearch.za.com
 medicine.gsinds.com
 medihai.eu
+medikalmasoz.com
 medinbusiness.store
 medinflow.com
 meditationsociety.com
@@ -31421,6 +31439,7 @@ mpjim.parchm-susyuka.in.net
 mpjrpw.mucus-rafter.in.net
 mpjxwgx.ru
 mpla-clo.cc
+mpolinkalternatif.com
 mps-q.accarda.com
 mpthp.summitgrove.in.net
 mpykaug5o.localto.net
@@ -32425,6 +32444,7 @@ net6-access.xelvorinax.in.net
 netapi.diafilm5mour.lat
 netdoctor.uk.com
 netfox.fitful1yrid.lat
+netfox.kira7vex.lat
 netfox.vexo7larn.lat
 netfreedom.us
 netman.decepdisor8anize.lat
@@ -34365,7 +34385,6 @@ okoaiaznjbwuzudhuf.su
 okolosedal.com
 okqgg.tor4nexil.in.net
 okta.meta-email.online
-okta.relatec.it.com
 oktobetroliohaser.com
 oktsnpd.ru
 okunevk.com
@@ -37813,7 +37832,6 @@ q6ivtu.vortaqen.in.net
 q6k.t4mo.ru
 q6lhy.glitchpact.ru
 q7-base-99.muralis-tech.in.net
-q7.2bj82sg.ru
 q7.566318z8.ru
 q7.6i4u.ru
 q7.9zk8r.ru
@@ -43947,6 +43965,7 @@ srvc-mcrst.com
 srvclouds.com
 srvcmandatory.com
 srvhub.fitful1yrid.lat
+srvhub.kira7vex.lat
 srvhub.vexo7larn.lat
 srvlog.diafilm5mour.lat
 srvvertland.sylosyncbase.garden
@@ -45499,6 +45518,7 @@ syskey.coop-san.lat
 sysmaintenancerequest.onrender.com
 sysmaq.com.br
 sysops.fitful1yrid.lat
+sysops.kira7vex.lat
 sysops.vexo7larn.lat
 syst-node.centurionix.in.net
 syst-sync.centurionix.in.net
@@ -46503,6 +46523,7 @@ thegreendispensarymenu.com
 theharadamethod.com
 theheavenofjoy.in.net
 theholidayroads.com
+thehorrorvault.net
 thehowlingtrees.aurovine.com
 theinvestcofund.com
 theinvestworthy.com
@@ -47054,6 +47075,7 @@ toprakk.localto.net
 topshop.in.net
 topstarwor.loseyourip.com
 topsvc.canon-cumulative.lat
+topsvc.mira4then.lat
 topsvc.quirky-shedding.lat
 toptalentassess.com
 topukluhaber.com
@@ -48799,6 +48821,7 @@ usortechtoken.live
 usortoken.digital
 usortoken.live
 usortoken.lol
+usprediksi.com
 usqa5b33yyc2u6kqf5au64cgj64acl2umtll76qutlmu7fckw6kh6wqd.onion
 usrgrp.decepdisor8anize.lat
 usrgrp.other5epsis.lat
@@ -49848,7 +49871,6 @@ v8q2r.esaulsnow.in.net
 v8q5m4s5.hi8hdukev1a.ru
 v8r7.effu5rep7eh.ru
 v9.brightsage.ru
-v93.2bj82sg.ru
 v98.cliffwave.ru
 v9k.s64lr5ok.com
 v9k2p.proofsurvivor.in.net
@@ -50639,7 +50661,6 @@ viykdw01.synchronting.in.net
 viza7nex.digital
 vizecommunications.com
 vizyons.dev
-vizyonuniversitesi.com.tr
 vizyonuniversitesi.web.tr
 vj.w20s.ru
 vj1g2myghuxilr93.org
@@ -50947,6 +50968,7 @@ vps-zap812595-1.zap-srv.com
 vps3000.kozow.com
 vps30002026.kozow.com
 vpsrun.canon-cumulative.lat
+vpsrun.mira4then.lat
 vpsrun.quirky-shedding.lat
 vq.0y2i.ru
 vq.5e6a.ru
@@ -51738,6 +51760,7 @@ webclient-secure.com
 webcloudplt2.oss-cn-shanghai.aliyuncs.com
 webcottages.co.uk
 webcpu.fitful1yrid.lat
+webcpu.kira7vex.lat
 webcpu.vexo7larn.lat
 webcrystal.sbs
 webcstore.pw
@@ -52330,6 +52353,7 @@ wintseiser.com
 winttra.matri2rchyor.in.net
 winup.su
 winupd.canon-cumulative.lat
+winupd.mira4then.lat
 winupdate.cfd
 winupdateconf.cfd
 winwin24.mywire.org
@@ -56072,7 +56096,6 @@ z9m.vamuwe.ru
 z9m.vi8im.ru
 z9m.x352x.ru
 z9m4.t1nkerpove.ru
-z9q.q8-v-4of.ru
 z9s.starl1tewave.ru
 z9t2d.drift2cargo.coupons
 z9tqn.085-x-89-c.ru
