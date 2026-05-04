@@ -3963,6 +3963,8 @@ airy.brightflowsite.lat
 airy.brightreef.surf
 airy.brightskyway.lat
 airy.ipfsway.lat
+airy.logicreef.surf
+airy.rapidreef.surf
 aiscore.it.com
 aiselfie.cam
 aishahbullock.ru.com
@@ -4369,7 +4371,6 @@ ampsyst.brisklume.in.net
 ampz4.clearb1te.ru
 amrlb0h2.backorbit.digital
 amsholdings.ddns.net
-amsisupport.com
 amsterdam-shleprx-aaah.info
 amsterdamgate.click
 amt-jaguar.info
@@ -6607,7 +6608,6 @@ bbj.subozaa7.ru
 bbjzotm.ru
 bbl.jyhsolucion.ar
 bbl.whitehallalliance.co.uk
-bblissmassage.com
 bblive.in.net
 bbmfswfgmljwj.com
 bbnlexs.com
@@ -6744,7 +6744,6 @@ becreativesansebastian.com
 becyz.icu
 bed.sjyj1.ru
 bedcdnset.beer
-bedenefuneralhome.com
 bedojqw.ru
 bedpage.cc
 bedrockpumpfun.fun
@@ -7215,7 +7214,6 @@ bioprokhanhhoa.com.vn
 bioresearch.bumbleshrimp.com
 biorganic.fit
 bioricoat.com
-biossysinternal.com
 bipmuh.a8ent5ing.ru
 bipo.lol
 birch.aurorafels.ru
@@ -7673,9 +7671,11 @@ blue.clogg-opposition.surf
 blue.f0rtunmentho1.ru
 blue.fira6dox.surf
 blue.ipfsway.lat
+blue.logicreef.surf
 blue.m1ntflare.ru
 blue.magicflowpoint.lat
 blue.n1ghtbreeze.ru
+blue.rapidreef.surf
 blue.sunsh1ne.ru
 blue.tari8lax.lat
 blue03.bluehaven.in.net
@@ -8014,7 +8014,6 @@ boxstream.pack1kiwi.coupons
 boy-net.boynitsameow.in.net
 boy-site.boynitsameow.in.net
 boy.fa0n.ru
-boydjackson.org
 boymeetsgirlmovie.com
 boymoder.ddns.net
 boytank.xyz
@@ -11231,6 +11230,7 @@ coral.0ceandust.ru
 coral5-index.suicideva1ny.in.net
 coralasargetia.ro
 coralmotif.graincrest.in.net
+coralpac.com
 coralsolid.cinderbay.in.net
 coralwil.draniercismn.in.net
 coratuikilooklosd.com
@@ -12344,6 +12344,7 @@ dash.brix9qen.surf
 dash.fena7dor.lat
 dash.installer-catip.surf
 dash.neonstream.surf
+dash.pixelstep.surf
 dash.querytan.lat
 dash.techdriftway.lat
 dash2taskhub.expresser-pray.bet
@@ -14326,6 +14327,7 @@ dune4.mount0ak.ru
 dune7x.quick5and.ru
 dunntstars.duckdns.org
 duo.us.com
+duobeam.com
 duocphamhd.com
 dup.erom-e.com
 dup.zeronoiseclassroom.com
@@ -15272,6 +15274,7 @@ elgcf.com
 elicaeditions.com
 elies.eu.com
 elijah.ru.com
+elisans.novayonetim.com
 elisaschefferadvogada.agencialegalads.com
 elisauy.ru.com
 elite.5-ninet-1-ou.ru
@@ -15973,7 +15976,6 @@ eupillpoint.com
 eur.ydns.eu
 euremupdate.duckdns.org
 euroconnectsolution.com
-eurofarm.ge
 euromoc.co.mz
 euronautica.com.br
 europaspremna.com
@@ -16571,6 +16573,7 @@ f8bet.casino
 f8bet.gr.com
 f8beta-2.com
 f8bkf.grim1atin0s.ru
+f8designstudio.com
 f8s.amberr0cket.ru
 f8t.emberfrontier.ru
 f9.h-0-bblenet.ru
@@ -16808,6 +16811,7 @@ fast.andipfs.lat
 fast.boldfirestep.lat
 fast.brightsunray.lat
 fast.clogg-opposition.surf
+fast.darktrace.surf
 fast.fira6dox.surf
 fast.magicflowpoint.lat
 fast.rapidstorm.surf
@@ -17253,6 +17257,7 @@ file-stack.systemologyhub.in.net
 file-svc.crumpledzev.in.net
 file.blackint3.com
 file.oss-flash.shop
+file.uhsea.com
 file.yy88.ru
 file1-raw.cloud-storage-unit.in.net
 file1-swap.travemox.in.net
@@ -17344,6 +17349,8 @@ fire.anythin8weaned.surf
 fire.boldfirestep.lat
 fire.bvuf-2.ru
 fire.cl0udriver.ru
+fire.darktrace.surf
+fire.powerdrift.surf
 fire.rapidstorm.surf
 fire.redstonenova.lat
 fire.shot-li8hthead.surf
@@ -19573,6 +19580,7 @@ gear.fena7dor.lat
 gear.installer-catip.surf
 gear.j1tmech2nic.ru
 gear.neonstream.surf
+gear.pixelstep.surf
 gear.querytan.lat
 gear.techdriftway.lat
 gear0x.cl0ckw0rk.ru
@@ -22266,6 +22274,8 @@ high.brightreef.surf
 high.brightskyway.lat
 high.ipfsway.lat
 high.lilek4au2.ru
+high.logicreef.surf
+high.rapidreef.surf
 high5logicnet.tide5peak.surf
 high7logicnet.nexo7peak.surf
 high888.org
@@ -23928,7 +23938,6 @@ integri.top
 inteligenciaelectoral.org.mx
 intellect-technologies.src.sjl.mybluehost.me
 intelserviceupdate.com
-intelupates.com
 intensive.sam-sebe-columb.com
 inter.co0perport5.ru
 interactiom.top
@@ -25037,6 +25046,7 @@ jumivue6.ru
 jump-gate.midgetplunge.in.net
 jump.andipfs.lat
 jump.boldfirestep.lat
+jump.darktrace.surf
 jump.rapidstorm.surf
 jump.redstonenova.lat
 jump2.r1ver.ru
@@ -25745,6 +25755,7 @@ kick.andipfs.lat
 kick.boldfirestep.lat
 kick.brightskycore.lat
 kick.brix9qen.surf
+kick.darktrace.surf
 kick.fena7dor.lat
 kick.installer-catip.surf
 kick.rapidstorm.surf
@@ -25831,6 +25842,7 @@ kiribati.dev.kdmc.pl
 kirk-service.live
 kirov.logomebel.ru
 kis.deshsaradin.com
+kis.marketing
 kis.munsitex.com.lk
 kishlay.in.net
 kislonij.pro
@@ -28075,10 +28087,6 @@ lunexmods.io
 lunopen.hisslytori.in.net
 luongsontv.io
 luongsontv2.tv
-lupend.duckdns.org
-lupend.ga
-lupendbackup.duckdns.org
-lupendbackup.ga
 lupolab.com.au
 lupstyle.com
 lupuj.icu
@@ -29952,6 +29960,7 @@ maximum-services.net
 maxinsurancecoverage.com
 maxintora.com
 maxoxio6.ru
+maxtuberussia.lol
 maxtwight.info
 maxwin338login.com
 maxxingcoin.digital
@@ -30906,6 +30915,7 @@ mod3r5-point.jacksend.in.net
 modaaura.store
 mode.boldpulse.surf
 mode.neonstream.surf
+mode.pixelstep.surf
 mode.querytan.lat
 mode.techdriftway.lat
 mode.urbanflowbase.lat
@@ -32168,6 +32178,7 @@ neglecm.cyou
 negociomejor.com
 neha.kusherp.com
 nehfauheudhuela.co
+neilshairdressers.co.uk
 neincl19vt.top
 neiwteamcdn.beer
 nejoommuwaileh.com
@@ -35490,6 +35501,7 @@ pax.ssffaa4.xyz
 pax.syslicense.net
 paxhel.bramble-zip.ru
 pay-svc.bankingrugnia.in.net
+pay.aqiu6.com
 pay.cardiffphysio.com
 pay.hostingshared99.com
 pay.it-bd.com
@@ -35903,6 +35915,7 @@ phishing.xoilac365ze.tv
 phishing.xoilac86ez.tv
 phishing.xoilac86kc.tv
 phishing.xoilacbeng.tv
+phishing.xoilacks.tv
 phishing.xoilacxyt.tv
 phishing.xoilaczhx.tv
 phishing.xoilaczte.tv
@@ -36425,6 +36438,7 @@ pngcoin.lol
 pnhidlb.com
 pnl.alpinematters.com
 pnl.gadgetwalabd.com
+pns.org.pk
 pnt1infra.diagnosticendpoint.in.net
 pnt1meta.infrastructurecloud.in.net
 pnt1proc.connectivitybuffer.in.net
@@ -37016,7 +37030,6 @@ profuture.sa.com
 profyfk.click
 prog-v6.bigamyprogramm.in.net
 progongor822.mail-genius.store
-programming-variation.gl.at.ply.gg
 progresissac.com
 progressivegrowthcounselling.com
 progressivetechworld.in.net
@@ -39985,11 +39998,6 @@ rovdit.mintbrook.ru
 rover-earlier-baseline-karen.trycloudflare.com
 rovo.sa
 rownip.dyndnss.net
-rownip.lupends.com
-rownip.mailredirect.ooo
-rownip.schneidstore.com
-rownipbackup.ga
-rownipbackup.tk
 roxsolidbookkeeping.com
 roy.clashofmaps.vip
 roy.mummyhildasrice.com
@@ -40175,6 +40183,7 @@ run-svc.athleticscrew.in.net
 run.andipfs.lat
 run.bavyzeo47.ru
 run.boldfirestep.lat
+run.darktrace.surf
 run.desire-veratrum.surf
 run.gesybue11.ru
 run.pykokiu43.ru
@@ -40253,6 +40262,7 @@ rurswitch.gl1mmeroak.in.net
 ruruurururururu.ru
 ruse4.mon2r5chemer.ru
 rush.andipfs.lat
+rush.darktrace.surf
 rush.rapidstorm.surf
 rush.redstonenova.lat
 rush4pathgate.kineticgatehub.bet
@@ -41689,7 +41699,6 @@ shade.shadowm1nt.ru
 shade8.shad0wdrop.ru
 shadenetwork.live
 shadenetwork.run
-shaderm.com
 shadow-grove.ru
 shadow.adv0cal1egat.ru
 shadow.c2dmiumgho5t.ru
@@ -42385,6 +42394,7 @@ skinbaron.co.com
 skincare123tokyo.info
 skip.boldpulse.surf
 skip.neonstream.surf
+skip.pixelstep.surf
 skip.querytan.lat
 skip.urbanflowbase.lat
 skipgorman.com
@@ -42429,6 +42439,7 @@ sky.frostbranch.ru
 sky.gend2rlu1l.ru
 sky.ipfsway.lat
 sky.jytoceo30.ru
+sky.logicreef.surf
 sky.m1ntflare.ru
 sky.magicflowpoint.lat
 sky.mintl1ne.ru
@@ -42437,6 +42448,7 @@ sky.quartz-mug.ru
 sky.r1verstone.ru
 sky.rainst0ne.ru
 sky.rangepip.ru
+sky.rapidreef.surf
 sky.sn0rtling.ru
 sky.softm1nt.ru
 sky.tari8lax.lat
@@ -42763,6 +42775,7 @@ snap.fena7dor.lat
 snap.installer-catip.surf
 snap.j1ttersnap.ru
 snap.neonstream.surf
+snap.pixelstep.surf
 snap.querytan.lat
 snap2-phase.clocknet.in.net
 snapix.p7z.ru
@@ -43883,8 +43896,10 @@ star.everym2nham.surf
 star.fira6dox.surf
 star.gunim5yi8.ru
 star.ipfsway.lat
+star.logicreef.surf
 star.magicflowpoint.lat
 star.ndoq-0.ru
+star.rapidreef.surf
 star.tari8lax.lat
 star.vbep-3.ru
 star06.starhaven.in.net
@@ -47778,7 +47793,6 @@ u7wq0c9.1a2e6.ru
 u8.sn-0-wmint.ru
 u81r.w1ld.ru
 u842.goldberg.coupons
-u864246.nvpn.so
 u88.store
 u888-co.com
 u888-com.net
@@ -50270,6 +50284,7 @@ view.brightskyway.lat
 view.brightsunray.lat
 view.fira6dox.surf
 view.ipfsway.lat
+view.logicreef.surf
 view.magicflowpoint.lat
 view.tari8lax.lat
 view04.tectoniview.in.net
@@ -51853,7 +51868,6 @@ widebarrier.diameterimpassab.ru
 widely-revenue.gl.at.ply.gg
 widenews.in
 widexenmexico.com.mx
-widgetservicecenter.com
 wie.cl0udforge.ru
 wieieieros.su
 wiener.lat
@@ -52035,7 +52049,6 @@ windows-telemetry.cc
 windows-updates-check.com
 windows10-11.duckdns.org
 windowscreenrepairnearme.com
-windowsdns.com
 windowslavesclient.duckdns.org
 windowslonghorn-39122.portmap.host
 windowsnet.no-ip.org
@@ -52816,6 +52829,7 @@ www.beearchitects.co.in
 www.beihu-jlbank.com
 www.belaijobackup1.com
 www.belaijobackup2.com
+www.benshamcentre.co.uk
 www.berwiannicoslife7.com
 www.besocial.online
 www.bet88ce.com
@@ -54071,6 +54085,7 @@ www.xoilac86x.cc
 www.xoilac86y.cc
 www.xoilac86z.cc
 www.xoilacane.live
+www.xoilacca.tv
 www.xoilaciu.tv
 www.xoilaczzasz.tv
 www.xoilaczzfz.tv
