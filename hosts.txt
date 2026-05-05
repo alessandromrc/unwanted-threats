@@ -7467,6 +7467,7 @@ bitkit.grov6lira.lat
 bitkit.masterhypernodehub.lat
 bitkit.masterpowerweb.lat
 bitkit.scooper5dabria.lat
+bitkit.vexo3nar.surf
 bitlight.zenbyte.in.net
 bitly.digitalcloudsys.lat
 bitly.fitful1yrid.lat
@@ -14754,6 +14755,7 @@ dzokbx.habe7dpermanent.in.net
 dzone.in.net
 dzonebcp.duckdns.org
 dzqz.waver-mint.ru
+dzst.sorix7en.surf
 dzthj.dup-1-ic-4-ermaph.ru
 dzxhqfe.com
 dzzwfgn.ru
@@ -15015,6 +15017,7 @@ echo-pr.co.uk
 echo-relay.lohsmacknon.in.net
 echo-slow.7zorelin.in.net
 echo-span.qyx7darem.in.net
+echo-sync.sorix7en.surf
 echo.cloudw1re.ru
 echo.embercross.ru
 echo.flintzoo.ru
@@ -19078,7 +19081,6 @@ g7cnfrcns.localto.net
 g7hva5likuonhljhh3sp2nvg7pezpu45vpxjccgihevwpb4fi2napqad.onion
 g7r8ev.ger8y5evruga.ru
 g7t3.brambleage.ru
-g8.n-61-5.ru
 g88kkpkk.crystalforge.digital
 g8f.opal-hollow.ru
 g8p.glacierbruecke.ru
@@ -19998,6 +20000,7 @@ geo-spatial.navigationalpath.in.net
 geo-st0ck.chandelh2lifa.in.net
 geo-thr3.productter.in.net
 geo-tr4c.cl0udmere.in.net
+geo-tru3.sorix7en.surf
 geo-ve1v.novi7xel.lat
 geo-vi5ua.kryntalor.in.net
 geo-via1.ra5xovel.in.net
@@ -25611,7 +25614,6 @@ k4myh5.go1dkamy5hev.ru
 k4n7a3n.favour128influen.coupons
 k4nz.vbep-3.ru
 k4q8m.plum8express.coupons
-k4r2.n-61-5.ru
 k4tpzok.uk.com
 k5-dist-z07.versicodex.in.net
 k5.sj-5-o-5.ru
@@ -26994,6 +26996,7 @@ lanhop.grov6lira.lat
 lanhop.masterhypernodehub.lat
 lanhop.masterpowerweb.lat
 lanhop.scooper5dabria.lat
+lanhop.vexo3nar.surf
 lanshenglogistics.com
 lantern.plea36slavneck.coupons
 lantern.rocket7flora.coupons
@@ -30607,6 +30610,7 @@ mer-lithen.radiatebeef.in.net
 mer-lithor.qor9mital.in.net
 mer-meshis.dex7lavel.in.net
 mer-meshum.task7force.work
+mer-nexa.sorix7en.surf
 mer-nexal.rivermint.in.net
 mer-spireis.amber-drift.in.net
 merahmerona.sbs
@@ -31247,6 +31251,8 @@ mnabeg.ext1nctlog8ia.ru
 mndchnr.clin8company.in.net
 mndivorcemediator.com
 mndtrprcs.com
+mne.hidayahnetwork.com
+mne.smtpdenz.my.id
 mng.333202.xyz
 mng.748202.xyz
 mng.akina.ovh
@@ -31932,8 +31938,6 @@ muxizct.ru
 muxler.gir1y5om.ru
 muxlin.wavec0re.ru
 mv.comp0ser5kid.ru
-mv.ethicaltechinstitute.org.uk
-mv.fabiankorte.net
 mv.m33h.ru
 mv.wir-2.ru
 mv88.game
@@ -34882,7 +34886,6 @@ ooxlat.sa.com
 ooyu.site
 oozkdi.eclecticessence.site
 op-token-hotel-guest.help
-op.2218pb.ru
 op.ke9t.ru
 op.lizqa.ru
 op.rvni2.ru
@@ -35037,6 +35040,7 @@ opsmgr.quirky-shedding.lat
 opsmiskop.com
 opsndyk.com
 opsonm.cyou
+opt-web.4dorexal.surf
 opt1-chain.radiantventurex.in.net
 opt1-phase.dredg8asman.in.net
 opt13-mesh.qen7tavil.in.net
@@ -35251,6 +35255,7 @@ oth5c1.c1othwou1d.ru
 oth5wd.c-1-othwou-1-d.ru
 othila.eu
 otkmgkl.ru
+otntjfbp.sorix7en.surf
 otonosan.com
 otoqsdfgvbvv.com
 ototaikfffkf.com
@@ -37642,6 +37647,7 @@ proxys.grov6lira.lat
 proxys.masterhypernodehub.lat
 proxys.masterpowerweb.lat
 proxys.scooper5dabria.lat
+proxys.vexo3nar.surf
 proxyspe.cl0udmere.in.net
 prprrvoh.hush-pancake.ru
 prqgwut.ru
@@ -44317,6 +44323,7 @@ srvhub.globaldatanetworksys.lat
 srvhub.kira7vex.lat
 srvhub.netflowsys.5lorexin.surf
 srvhub.vexo7larn.lat
+srvhubs.9toravex.surf
 srvlog.5lorexin.surf
 srvlog.devrunbox.5lorexin.surf
 srvlog.diafilm5mour.lat
@@ -44331,6 +44338,7 @@ sscaterer.com
 sseeo.org
 ssg-cdn.beer
 ssgroupgurgaon.com
+ssh-pro.4dorexal.surf
 ssh.nobbos-team-lol.xyz
 ssh6-port.voxi3tral.in.net
 sshbin.extremesecureline.lat
@@ -45072,6 +45080,7 @@ subcli.grov6lira.lat
 subcli.masterhypernodehub.lat
 subcli.masterpowerweb.lat
 subcli.scooper5dabria.lat
+subcli.vexo3nar.surf
 subdomain.minhaempresa.tv
 submit-offered.gl.at.ply.gg
 suboluo0.ru
@@ -46482,6 +46491,7 @@ tc.lake-spry.ru
 tc.u-v9.ru
 tcf5.plor9vexi.in.net
 tci.8786.ru
+tcp-con.4dorexal.surf
 tcp-free.tunnel4.com
 tcp1-join.dru9laxen.in.net
 tcp1-send.bry3loxan.in.net
@@ -49221,6 +49231,7 @@ usortoken.live
 usortoken.lol
 usprediksi.com
 usqa5b33yyc2u6kqf5au64cgj64acl2umtll76qutlmu7fckw6kh6wqd.onion
+usr-grp.4dorexal.surf
 usrgrp.decepdisor8anize.lat
 usrgrp.flen3qor.lat
 usrgrp.other5epsis.lat
@@ -49370,7 +49381,6 @@ v1.bleuforet.coupons
 v1.estismail.com
 v1.jaxdrill.ru
 v1.phimmoiz.dev
-v1.q3v8p.ru
 v1.q780.ru
 v1.sk-f0s.ru
 v1.vlxx.net
@@ -51066,7 +51076,6 @@ vizyonuniversitesi.com.tr
 vizyonuniversitesi.web.tr
 vj.w20s.ru
 vj1g2myghuxilr93.org
-vj3.n-61-5.ru
 vj9999.duckdns.org
 vjdisnli.rightsisyphus.digital
 vjdxcj1y.particulscoop.in.net
@@ -51145,6 +51154,7 @@ vlxx88.biz
 vlxx88.is
 vlxx88.me
 vlxx88.to
+vm-list.4dorexal.surf
 vm.hyk5.ru
 vm.ykgw-2.ru
 vmailnewwqmwe.vercel.app
@@ -51187,6 +51197,7 @@ vn168aa.net
 vn168c.net
 vn88a.co.com
 vnc.kcii2.com
+vnchy.sorix7en.surf
 vncomi.com
 vnghnf72.quartzsketch.ru
 vni.l0ngprope1l.ru
@@ -51340,6 +51351,7 @@ vortexdataserver5.mom
 vortide5ix.backeddown.in.net
 vortideum.rax2liven.in.net
 vorvale7um.choreograpshrew.in.net
+vorvaleon3.sorix7en.surf
 vorven0a.redcrest.in.net
 vorven3um.lessonp7oceed.in.net
 vorven5um.snap-echo.in.net
@@ -52169,6 +52181,7 @@ webcamwizard.cloud
 webcdn.5lorexin.surf
 webcdn.bitopsmgr.5lorexin.surf
 webcdn.diafilm5mour.lat
+webcdnx.9toravex.surf
 webclient-secure.com
 webcloudplt2.oss-cn-shanghai.aliyuncs.com
 webcottages.co.uk
@@ -54886,7 +54899,6 @@ wz.t1va.ru
 wz.w135v.ru
 wz.xabz.ru
 wz0.7nf214.ru
-wz0.n-61-5.ru
 wza.f1ukomki5s.ru
 wza2i4g3.fr0stw1ng.ru
 wzbkoex.com
@@ -56173,6 +56185,7 @@ yourtube.lol
 yourwrongwayz.com
 youthviolenceproject.com
 youthvxolenceproject.com.springvillehomestead.com
+youtransfer.net
 youtubethumbnaildownloadhd.com
 yov1os2mn.localto.net
 yovngmandaynotu-43886.portmap.host
