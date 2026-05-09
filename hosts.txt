@@ -4925,6 +4925,7 @@ appbox.netloghubs.pics
 appboxdata.5toralix.pics
 appboxdata.7toravex.pics
 appboxdata.globalnetviewer.pics
+appboxdatacent.netinfrahubsys.pics
 appboxs.6toralix.lat
 appboxs.7toralex.lat
 appboxs.9toravex.surf
@@ -7471,6 +7472,8 @@ bitfox.websyncbox.pics
 bitfoxcore.mav2lorix.pics
 bitfoxcore.mav7voren.pics
 bitfoxcore.radio-technic.lat
+bitfoxcore.technodesupply.pics
+bitfoxcoreunit.webdataprocunit.pics
 bitfoxs.barbos-slimy.lat
 bitfoxs.boxemoj.surf
 bitfoxs.breasted-skoda.lat
@@ -10966,6 +10969,7 @@ cmdset.rollers-faced.lat
 cmdsetproc.1zarelin.pics
 cmdsetproc.2zorevin.pics
 cmdsetproc.antisep-unlimite.lat
+cmdsetproc.cloudstackproc.pics
 cmdsets.1zorelin.lat
 cmdsets.2zorelin.surf
 cmdsets.2zorevin.lat
@@ -11006,7 +11010,6 @@ cnhv.co
 cnjcb.bovlare7x.in.net
 cno.uk.com
 cnp.p8ri.ru
-cnr.microsoft-telemetry.at
 cnt.statistic.date
 cntzfua.ru
 cnybvst9.1zorelin.lat
@@ -11736,6 +11739,7 @@ cpu.intelcar.pics
 cpu.webcfgbase.pics
 cpu.websyncbox.pics
 cpupro.quirky-shedding.lat
+cpuprocessormgr.webdataprocunit.pics
 cpupros.barbos-slimy.lat
 cpupros.boxemoj.surf
 cpupros.breasted-skoda.lat
@@ -13692,6 +13696,7 @@ devbits.dimchown.lat
 devbits.dreamer5hrew.lat
 devbits.mowin8single.lat
 devbits.nethubtop.lat
+devbits.netinfrahubsys.pics
 devbits.prepol5oldafon.lat
 devbits.tonmixin.surf
 devbitscfg.5toralix.pics
@@ -14155,6 +14160,7 @@ dnswebsrvs.mav2lorix.pics
 dnswebsrvs.mav7voren.pics
 dnswebsrvs.radio-technic.lat
 dnswebsrvs.technodesupply.pics
+dnswebsrvs.webdataprocunit.pics
 dntds.shop
 dnv.tonmixin.surf
 dnvigv97.comedianmental.digital
@@ -20222,6 +20228,7 @@ getcfg.zori9vax.lat
 getcfghubs.nomination5yak.lat
 getcfghubs.qen3larex.pics
 getcfghubs.qen9vorel.pics
+getcfghubs.webcfgmanager.pics
 getcfgs.boxvpslog.lat
 getcfgs.cargowhy.surf
 getcfgs.dbuswet.surf
@@ -23230,6 +23237,7 @@ hotelthilanka.com
 hotelupdatesys.com
 hotelzlatnazita.com
 hotfilipopersastriolkas.com
+hotfix.cloudstacklogic.pics
 hotfix.extremesecureline.lat
 hotfix.pas5eruharsky.lat
 hotfix.potion5vealy.lat
@@ -23241,6 +23249,7 @@ hotfix.zori9vax.lat
 hotfixpack.nomination5yak.lat
 hotfixpack.qen3larex.pics
 hotfixpack.qen9vorel.pics
+hotfixpack.webcfgmanager.pics
 hotfixs.boxvpslog.lat
 hotfixs.cargowhy.surf
 hotfixs.dbuswet.surf
@@ -24610,6 +24619,8 @@ ipnode.zori9vax.lat
 ipnodeclis.nomination5yak.lat
 ipnodeclis.qen3larex.pics
 ipnodeclis.qen9vorel.pics
+ipnodeclis.webcfgmanager.pics
+ipnodeclisys.cloudstacklogic.pics
 ipnodes.boxvpslog.lat
 ipnodes.cargowhy.surf
 ipnodes.dbuswet.surf
@@ -35338,6 +35349,7 @@ opsec-cf.com
 opsecdefcloud.com
 opserver-styles-svg.click
 opsmgr.quirky-shedding.lat
+opsmgr.webdataprocunit.pics
 opsmgr.websyncbox.pics
 opsmgrs.barbos-slimy.lat
 opsmgrs.boxemoj.surf
@@ -35354,6 +35366,7 @@ opsmgrs.webbitsync.lat
 opsmgrsvcs.mav2lorix.pics
 opsmgrsvcs.mav7voren.pics
 opsmgrsvcs.radio-technic.lat
+opsmgrsvcs.technodesupply.pics
 opsmiskop.com
 opsndyk.com
 opsonm.cyou
@@ -36247,7 +36260,6 @@ pasturepow.fabulos.in.net
 pastureurban.kro4liven.in.net
 pastusout.wi3sorin.in.net
 pasztofogado.hu
-pat.microsoft-telemetry.at
 pat.wkej2.ru
 patagoniajapan.jp.net
 patch.5hri1luv.ru
@@ -39315,6 +39327,7 @@ qyvu.cl1ffwood.ru
 qywkcyk.net
 qyyyhaf.net
 qyzoz.press
+qz.697539.com
 qz.bpva0.ru
 qz.c34uu.ru
 qz.g601c.ru
@@ -44869,6 +44882,7 @@ sshbin.zori9vax.lat
 sshbinpath.nomination5yak.lat
 sshbinpath.qen3larex.pics
 sshbinpath.qen9vorel.pics
+sshbinpath.webcfgmanager.pics
 sshbins.boxvpslog.lat
 sshbins.cargowhy.surf
 sshbins.dbuswet.surf
@@ -44919,6 +44933,7 @@ sslkey.zori9vax.lat
 sslkeybase.nomination5yak.lat
 sslkeybase.qen3larex.pics
 sslkeybase.qen9vorel.pics
+sslkeybase.webcfgmanager.pics
 sslkeys.boxvpslog.lat
 sslkeys.cargowhy.surf
 sslkeys.dbuswet.surf
@@ -47971,6 +47986,7 @@ tmpdirs.stick-shaped.lat
 tmpdirsets.nomination5yak.lat
 tmpdirsets.qen3larex.pics
 tmpdirsets.qen9vorel.pics
+tmpdirsets.webcfgmanager.pics
 tms.evobot.uz
 tmsawards.testingweblink.com
 tmsmall.org
@@ -48152,6 +48168,7 @@ topsvc.mira4then.lat
 topsvc.quirky-shedding.lat
 topsvc.smartcloudstorageset.lat
 topsvc.technoglobalnet.lat
+topsvc.webdataprocunit.pics
 topsvcs.barbos-slimy.lat
 topsvcs.boxemoj.surf
 topsvcs.breasted-skoda.lat
@@ -48167,6 +48184,7 @@ topsvcs.webbitsync.lat
 topsvcutil.mav2lorix.pics
 topsvcutil.mav7voren.pics
 topsvcutil.radio-technic.lat
+topsvcutil.technodesupply.pics
 toptalentassess.com
 topukluhaber.com
 tor.beznervov.com
@@ -52144,6 +52162,7 @@ vpsrun.mira4then.lat
 vpsrun.quirky-shedding.lat
 vpsrun.smartcloudstorageset.lat
 vpsrun.technoglobalnet.lat
+vpsrun.webdataprocunit.pics
 vpsrun.websyncbox.pics
 vpsrunproc.mav2lorix.pics
 vpsrunproc.mav7voren.pics
@@ -54947,7 +54966,6 @@ www.newgracecorpbackup1.com
 www.newgracecorpbackup2.com
 www.newgracecorpbackup3.com
 www.newiberiacarwrecklawyer.com
-www.newkey.co.kr
 www.newsnews.top
 www.newyorkdolls.it
 www.nextage-design.com
