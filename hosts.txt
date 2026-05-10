@@ -3927,7 +3927,6 @@ ak.r1a4.ru
 ak.t4mox.ru
 ak.tygilyo.ru
 ak1.xingxiangs4.cc
-ak1.xingxings.cc
 ak1.xingxings2.cc
 ak1.xingxings3.org
 ak2.xingxings3.org
@@ -4617,6 +4616,7 @@ api.htscefh.com
 api.inwemo.com
 api.juzgadorama.it.com
 api.kalygenesis.xyz
+api.kernelshift.pics
 api.koz2.in.net
 api.learnstore.vip
 api.linkdataproc.pics
@@ -11697,7 +11697,9 @@ cpu.intelcar.pics
 cpu.webcfgbase.pics
 cpu.websyncbox.pics
 cpupro.quirky-shedding.lat
+cpuprocessormgr.bytevector.pics
 cpuprocessormgr.cloudflowops.co
+cpuprocessormgr.datashift.ink
 cpuprocessormgr.webdataprocunit.pics
 cpupros.barbos-slimy.lat
 cpupros.boxemoj.surf
@@ -13661,6 +13663,7 @@ devbits.ascenderviinka.lat
 devbits.digitalcloudnet.surf
 devbits.dimchown.lat
 devbits.dreamer5hrew.lat
+devbits.kernelshift.pics
 devbits.mowin8single.lat
 devbits.nethubtop.lat
 devbits.netinfrahubsys.pics
@@ -14121,6 +14124,7 @@ dnswebs.mayservo.lat
 dnswebs.securelinkpoint.surf
 dnswebs.sixunzip.surf
 dnswebs.webbitsync.lat
+dnswebsrvs.bytevector.pics
 dnswebsrvs.cloudflowops.co
 dnswebsrvs.coderworkflow.pics
 dnswebsrvs.datashift.ink
@@ -17808,7 +17812,6 @@ firn5a.snowroot.ru
 first-chances.shop
 first-ex.com.bo
 first-film.com
-first-security-verden.de
 firstbairdbank.us.com
 firstblood.uk.com
 firstcall.eu.com
@@ -17855,6 +17858,7 @@ fix-node.enameledtack.in.net
 fix-point.stabulis.in.net
 fix.akina.ovh
 fix.cloudviewtop.pics
+fix.cryptowave.ink
 fix.datasrvhub.pics
 fix.k8li.ru
 fix.keyzsoft.net
@@ -20181,6 +20185,7 @@ getcfg.securestreamnode.lat
 getcfg.sora8lin.lat
 getcfg.zori9vax.lat
 getcfghub.cloudstacklogic.pics
+getcfghub.cryptowave.ink
 getcfghub.webdatapoint.co
 getcfghubs.nomination5yak.lat
 getcfghubs.qen3larex.pics
@@ -23195,6 +23200,7 @@ hotelupdatesys.com
 hotelzlatnazita.com
 hotfilipopersastriolkas.com
 hotfix.cloudstacklogic.pics
+hotfix.cryptowave.ink
 hotfix.extremesecureline.lat
 hotfix.pas5eruharsky.lat
 hotfix.potion5vealy.lat
@@ -24579,6 +24585,7 @@ ipnodeclis.qen9vorel.pics
 ipnodeclis.techopsruntime.pics
 ipnodeclis.webcfgmanager.pics
 ipnodeclisys.cloudstacklogic.pics
+ipnodeclisys.cryptowave.ink
 ipnodeclisys.webdatapoint.co
 ipnodes.boxvpslog.lat
 ipnodes.cargowhy.surf
@@ -28350,6 +28357,7 @@ logins.json
 logintoaccount.site
 logisteroid.com
 logisttheor.beacostolid.in.net
+logmanagementsys.kernelshift.pics
 logmanagementsys.netinfrahubsys.pics
 logmanagementsys.netlogicstack.co
 logmanagementsys.stackpulse.ink
@@ -30795,6 +30803,7 @@ meetingisliveatgooglemeett.top
 meetingwthgooglemeet.top
 meetme.norvina.cfd
 meetol.sbs
+meetvideogoogle.com
 mefixscreen.com
 meflar.circu1arc0pna.ru
 mefoundationcoin.lol
@@ -35257,7 +35266,9 @@ ops4-cache.voxi3tral.in.net
 opsec-cf.com
 opsecdefcloud.com
 opserver-styles-svg.click
+opsmgr.bytevector.pics
 opsmgr.cloudflowops.co
+opsmgr.datashift.ink
 opsmgr.quirky-shedding.lat
 opsmgr.webdataprocunit.pics
 opsmgr.websyncbox.pics
@@ -41080,6 +41091,7 @@ run-svc.athleticscrew.in.net
 run.andipfs.lat
 run.bavyzeo47.ru
 run.boldfirestep.lat
+run.bytevector.pics
 run.coderlaptechnical.pics
 run.darktrace.surf
 run.desire-veratrum.surf
@@ -42063,7 +42075,6 @@ secao.org
 secdfbpyopjhyhuw.com
 secgov.lol
 secret-api.cryptovault.in.net
-secret-api.feriwaale.com
 secretcav.remote-flow.work
 secretcryptos.com
 secretdoor.hiddenpath.coupons
@@ -44827,6 +44838,7 @@ sslkeybase.qen9vorel.pics
 sslkeybase.techopsruntime.pics
 sslkeybase.webcfgmanager.pics
 sslkeybasepoint.cloudstacklogic.pics
+sslkeybasepoint.cryptowave.ink
 sslkeys.boxvpslog.lat
 sslkeys.cargowhy.surf
 sslkeys.dbuswet.surf
@@ -48077,8 +48089,10 @@ toprak.localto.net
 toprakk.localto.net
 topshop.in.net
 topstarwor.loseyourip.com
+topsvc.bytevector.pics
 topsvc.canon-cumulative.lat
 topsvc.cloudflowops.co
+topsvc.datashift.ink
 topsvc.lumo3ren.lat
 topsvc.mira4then.lat
 topsvc.quirky-shedding.lat
@@ -52083,8 +52097,10 @@ vps3000.kozow.com
 vps30002026.kozow.com
 vpsentry.netlogicstack.co
 vpsk.qen8vorel.lat
+vpsrun.bytevector.pics
 vpsrun.canon-cumulative.lat
 vpsrun.cloudflowops.co
+vpsrun.datashift.ink
 vpsrun.lumo3ren.lat
 vpsrun.mira4then.lat
 vpsrun.quirky-shedding.lat
@@ -52913,6 +52929,7 @@ webcdnstat.cereal5pesivet.lat
 webcdnstat.devlogicmaster.pics
 webcdnstat.exclusivefrigidity.pics
 webcdnstat.globalnetviewer.pics
+webcdnstat.kernelshift.pics
 webcdnstat.netinfrahubsys.pics
 webcdnstat.netlogicstack.co
 webcdnstat.stackpulse.ink
