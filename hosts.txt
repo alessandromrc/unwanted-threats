@@ -2091,6 +2091,7 @@
 777x.uk.net
 777x.us.com
 777x.us.org
+777x.you
 77eaf1e67f.nxcli.net
 77gfk.mirthbay.in.net
 77vlmbv.xeltronix.in.net
@@ -3587,6 +3588,7 @@ af88.cn.com
 af88.co.com
 af88.eu.com
 af88.jpn.com
+af88.run
 af88.uk.net
 af88.us.com
 af883.com
@@ -6303,6 +6305,7 @@ backup.yearofcolour.com
 backup2026.ddnsgeek.com
 backup5555.duckdns.org
 backupahahahah.followz.st
+backupso.com
 backy-ard5.bovla4ren.in.net
 backy-ard5.cr2pskiing.in.net
 backy-ard5.guardiansti1l.in.net
@@ -10836,6 +10839,7 @@ cloudfront-021.s3.us-west-2.amazonaws.com
 cloudgate29.com
 cloudgensolutionsinc.com
 cloudguardservice.duckdns.org
+cloudinhelper.com
 cloudmeshsite.nebulaflux.bet
 cloudnax.com
 cloudnewupdate.us
@@ -18722,6 +18726,7 @@ friday.vn
 friendjewel.cfd
 friendlydomain.ru
 friendsoffortmacon.org
+friendsofsclarc.org
 friendsonfuture.com
 frilldash.ru
 friovjk.cyou
@@ -27450,6 +27455,7 @@ ldasldalsd.com
 ldl.fozomya6.ru
 ldm.jp
 ldmfrht9nltyre4.top
+ldnscreatejs.beer
 ldobkjb.net
 ldqfpjt.ru
 ldt.hifive.net.au
@@ -31316,6 +31322,7 @@ milisie12-56888.portmap.host
 militgy.cyou
 milkai2002-61901.portmap.host
 milkname.xyz
+milksos.cfd
 milkywaysol.lol
 mill.vextimber.ru
 millersteel.digital
@@ -55437,6 +55444,7 @@ www.web.3squaredco.com
 www.webassembly.stream
 www.webmine.cz
 www.weboss.in
+www.websitedesigningindia.biz
 www.websitetest.optikl.ink
 www.webweavers.kr
 www.wecht2025.com
