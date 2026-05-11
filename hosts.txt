@@ -4651,7 +4651,6 @@ api.sessionvalidator.com
 api.shenzhenschool.fun
 api.simsys.org
 api.skycloudcenter.com
-api.softwarecommerce.net
 api.soladify.fun
 api.stackpulse.ink
 api.temo.click
@@ -5322,6 +5321,7 @@ ashsynt.p7ickmuch.lat
 ashtes.cl0verrun.in.net
 ashvec.puro2tal.surf
 asia.gtleway.com
+asiaengrs.com
 asiamortar.com.vn
 asianartmall.com
 asianswitch.gb.net
@@ -6226,7 +6226,6 @@ back-yard2.zav3liten.in.net
 back-yard5.de8trevarm.in.net
 back.gdyl-2.ru
 back.looprim.pics
-back.softwarecommerce.net
 back4-unit.xelvorinax.in.net
 back9siteview.lookin8back.bet
 backdoor.achievementschooldistrict.org
@@ -6244,7 +6243,6 @@ background-ready.online
 backgroundformat.online
 backgroundprocess.snoozetrap.in.net
 backmeshsite.undo-wingless.bet
-backoffice.softwarecommerce.net
 backsan.cyou
 backstage.cn.com
 backstreet.uk.com
@@ -10972,6 +10970,7 @@ cms0c.st-0-bepress.ru
 cmv.ithc-4.ru
 cmvpokng.qul4xorin.in.net
 cn-google-chrom.com
+cn.unionlever.com
 cn3789net.com
 cn8y.wildr0sehub.ru
 cnc.erebusc2.online
@@ -11440,6 +11439,7 @@ coolstone6.wi2sorim.in.net
 coolstory.solenta.in.net
 coolsurf.bluewave.coupons
 coolsurf.westlake.in.net
+cooltool.jp.net
 coomajor.glowmire.in.net
 cooperativautreace.com
 coord-sync.precisemapnode.in.net
@@ -11469,6 +11469,7 @@ cor46-layer.grosstao.in.net
 cora-clu.stonefield.in.net
 coral.0ceandust.ru
 coral5-index.suicideva1ny.in.net
+coralasargetia.ro
 coralmotif.graincrest.in.net
 coralsolid.cinderbay.in.net
 coralwil.draniercismn.in.net
@@ -12050,7 +12051,6 @@ csp.cloudvaly.com
 csp.yahoos.live
 css2-rule.norxelium.in.net
 cssbuas.net
-csstatus.0nlinecc.com
 cst-lap-racing-authentic.trycloudflare.com
 cst.uk.com
 cswtnpnuhixdwjgm.com
@@ -14400,6 +14400,7 @@ down-v8.falldown.in.net
 down.54nb.com
 down.fwqlt.com
 down.mvip8.ru
+down.pcclear.com
 down.qqfarmer.com.cn
 down.wincryptapi.com
 downadup.surfxhandboard.com
@@ -19188,6 +19189,7 @@ fyxfe.pyn6toral.in.net
 fyyfbzhvw22.top
 fz.614lo.ru
 fz.m7lo.ru
+fz.tiansys.cn
 fz01ob.glowhaven.in.net
 fz7.zpozu.ru
 fzbwnme.com
@@ -21126,6 +21128,7 @@ google-security-bypass-v-sflepznfhwys3.pages.dev
 google-security-bypass-v-udk3nbdbw842.pages.dev
 google-security-bypass-v-usfnskwkn666.pages.dev
 google-security-bypass.pages.dev
+google-services.cc
 google.bong88.co.com
 google.coppsindoor.org
 google.motchilltv.red
@@ -23022,6 +23025,7 @@ holemuscle.xyz
 holiday-forever.cc
 holidayinfo-info.highheelsplace.com
 holidayinfo.info
+holidayonid.com.co
 holidaysinrosarito.com
 holiopkasdfoion.com
 holl6-layer.farman.in.net
@@ -31286,7 +31290,6 @@ microservice-update-s1-bucket.cc
 microservice-update-s2-bucket.cc
 microsmeet.com
 microsmeet.xyz
-microsoft-schtask.com
 microsoft-symantec.art
 microsoft-tools.com
 microsoft.monginiscake.in.net
@@ -51886,7 +51889,6 @@ viza7nex.digital
 vizecommunications.com
 vizyons.dev
 vizyonuniversitesi.com.tr
-vizyonuniversitesi.web.tr
 vj.w20s.ru
 vj1g2myghuxilr93.org
 vj9999.duckdns.org
@@ -53653,7 +53655,6 @@ windharbor.1zarelin.lat
 windinnovationcorp.com
 windirautoupdates.top
 windlrr.com
-windomstatetheater.com
 window.aromatic-salad.sa.com
 windowas.com
 windows-telemetry.cc
@@ -54997,7 +54998,6 @@ www.mehmetarhan.com
 www.membros.agencialegalads.com
 www.memedia.africa.com
 www.metmuseum.wordt-ontwikkeld.be
-www.mevetlab.cl
 www.mexicaliblog.com.mx
 www.mh7am.bond
 www.miacheap.flights
