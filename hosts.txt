@@ -12699,6 +12699,7 @@ data-proxy1.po8vtirel.in.net
 data-relay.infovector.in.net
 data-split.analyticaengine.in.net
 data-split.analyticvector.in.net
+data-stack-node.co
 data-svc.inferentialisflux.in.net
 data-svc.sciencestupids.in.net
 data-sync-00.grandemuro.in.net
@@ -20703,6 +20704,7 @@ glob.globalnodeviewset.pics
 glob1infra.durogrid.in.net
 glob1infra.optigrid.in.net
 global-api.bomain.ru
+global-cloud-infra-logic.co
 global-data-mgr-proc-unit.wiki
 global-defe.swimsuit-unable.lat
 global-gate.noetisphere.in.net
