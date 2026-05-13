@@ -3324,6 +3324,7 @@ act.la9q.ru
 actdigital.in.net
 acti-cmf.zexon-plus.in.net
 action-log.fighttrapper.in.net
+active-instance-registry-support-index.wiki
 active-job6.empirical-tuna.in.net
 active-job6.wex4tiral.in.net
 active.solid-build-trace.in.net
@@ -6294,6 +6295,7 @@ backstage.cn.com
 backstreet.uk.com
 backup-hub.alignmentstorage.in.net
 backup-node.nexushaven.in.net
+backup-terminal-gateway-handle-list.wiki
 backup.90phutiu.cc
 backup.a3artistsagency.com
 backup.academy.oligoflora.com.br
@@ -14131,6 +14133,7 @@ distortedcoins.lol
 distortedtoken.fun
 distortedtoken.world
 distribmondrelay.com
+distributed-source-element-package-site.wiki
 distributionmondrelay.com
 distributionsuivi-colis.com
 dit.kievholod.kiev.ua
@@ -32520,7 +32523,6 @@ mujlhpe.grosstao.in.net
 mujqm85.glen4mora.garden
 muk3av.cr1pptit2n.ru
 mukidashiactive.com
-mukphol.com
 muledo.com
 mullanyauricvista.com
 mullbqud.flint-haze.in.net
@@ -54074,7 +54076,6 @@ windomstatetheater.com
 window.aromatic-salad.sa.com
 windowas.com
 windows-telemetry.cc
-windows-updates-check.com
 windows10-11.duckdns.org
 windowscreenrepairnearme.com
 windowslavesclient.duckdns.org
