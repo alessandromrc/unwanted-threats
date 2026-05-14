@@ -2576,6 +2576,7 @@
 8x4.aclz-9.ru
 8xbet.com.de
 8xd.r4tu.ru
+8xorq0f0.after-diacritic.digital
 8xouz.driftquartz.ru
 8xx-game.team
 8xx-online.com
@@ -5464,6 +5465,7 @@ aswar.us
 asy.ydns.eu
 asybk.ydns.eu
 asyc.pukkre.com
+asynchronous-message-routing-framework.wiki
 asyncpipelinehub.wiki
 at.b8a2.ru
 at.gyfc.ru
@@ -9823,7 +9825,6 @@ certificadodigital.tech
 certificadodigital.tech.contabilizoom.com.br
 cerumo.shop
 ces.yeyr.lol
-ceshioa.us.kg
 cesik53oy8.online
 cesik53oy8.ru
 cessolutions.com.mx
@@ -47755,6 +47756,7 @@ telemarineusa.com
 telemetry-defender.lol
 telemetry-observability-core.wiki
 telemetry-pipe.sh
+telemetry-stream-hub.wiki
 telemetry-updatehub.cc
 telemetry.api-monitor.com
 telemetry.getupi.in.net
@@ -55423,7 +55425,6 @@ www.maquina.agencialegalads.com
 www.mariseaverguyglobal.com
 www.mariseaverguyglobalbackup1.com
 www.mariseaverguyglobalbackup2.com
-www.marmosfinancial.com
 www.martinsfranca.agencialegalads.com
 www.marylandguild.com
 www.massageetrelaxation.com
@@ -56217,6 +56218,7 @@ x1.embergarten.ru
 x1.lunarlicht.ru
 x1.m1dnightr0ad.ru
 x1.s61y5.ru
+x16zauz3.after-diacritic.digital
 x1edaroughgan8hajous20.duckdns.org
 x1edaroughgan8hajous30.duckdns.org
 x1edaroughgan8hajous40.duckdns.org
