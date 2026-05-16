@@ -29448,6 +29448,7 @@ m8n36lcp.unseen-zorenka.digital
 m8o.cloudw1re.ru
 m8q.aspenatlas.ru
 m8q.saffronkern.ru
+m8to2gkj.hundred-years-old.digital
 m9.5y4a.ru
 m9.cgty8.ru
 m9.g601c.ru
@@ -31588,6 +31589,7 @@ micro-chip.circuitflux.in.net
 micro-fan-obs-plan.garden
 micro-pulse.quantaflux.in.net
 micro-scale.nanovector.in.net
+micro-service-cluster.garden
 micro-svc.bactergreat.in.net
 micro-svc.friskynanos.in.net
 micro-v5.hryvmicrobiol.in.net
@@ -36400,6 +36402,7 @@ packet-flow.quantacircuit.in.net
 packet-flow.quantaflux.in.net
 packet-lattice.digital
 packet-relay-engine.courses
+packet-relay-engine.garden
 packet-routing-lab.courses
 packetdistributionmesh.wiki
 packetlattice.courses
@@ -43102,6 +43105,7 @@ sfu2.ontofabric.in.net
 sg1.localto.net
 sg123.net
 sg1upflnvfvi11sp.org
+sg5n155s.hundred-years-old.digital
 sgbvj.cloudb1rd.ru
 sgd.d3-6.ru
 sgdi-6.ru
