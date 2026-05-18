@@ -1361,6 +1361,7 @@
 4q.gi0x.ru
 4q.rubyraum.ru
 4q.wreckly.ru
+4q3wy64m.runtime-sphere.digital
 4q5tsu5o3msmv4am4dfhupwhzlyg7wv3lpswbvbhcrknr4ega7xetxad.onion
 4q85h80zn1zukidp.org
 4qaxpshj.flare-path.in.net
@@ -5659,6 +5660,7 @@ auif.sa.com
 aukbakery.com
 aulac-vegan.com
 aulf.po1ba8esett.ru
+aumri.ae
 aur3.l1ghtstorm.ru
 aura-api.aurasamodians.in.net
 auraplay.vip
@@ -8147,6 +8149,7 @@ botanicalprocessingengine.garden
 botanicalresourceengine.garden
 botanicalresourceplatform.garden
 botanicalworkflow.garden
+botanicalworkflowcenter.garden
 botaniqlife.com
 botaniqlife.leearaujo.com.br
 botanyh.cyou
@@ -9072,6 +9075,7 @@ c2n.hlgy7.ru
 c2n.m046d.ru
 c2n.n6e8h.ru
 c2r.crystalcavern.ru
+c2rdcpuv.runtime-sphere.digital
 c3.g-lim.ru
 c3353u83.peddler-wasting.digital
 c34pp.particu1silomer.in.net
@@ -11513,6 +11517,7 @@ containerfabric.wiki
 containerizedecosystem.garden
 containerizedgardenmesh.garden
 containerizedplantmesh.garden
+containerizedplantnetwork.garden
 containerizedworkflowengine.courses
 containerorchestrationhub.wiki
 contains-are.gl.at.ply.gg
@@ -11949,6 +11954,8 @@ cr4ft-pulse.importantserv.in.net
 cr4ft-vector.thornbyte.in.net
 cr4ft9-core.skyl1tfern.in.net
 cr4t-flow.ashenkite.in.net
+cra.4k-stream.site
+cra.chadasvendas.com
 cra.hidayahnetwork.com
 cra.smtpdenz.my.id
 crackedsoftware.doxbin.cy
@@ -12071,6 +12078,7 @@ criloya.whitebus.in.net
 crim-branch.despot-unfolded.surf
 crimefreesoftware.com
 crimestreet.xyz
+crimesupport.cfd
 crims0n-path.to7vamil.in.net
 crims7-field.hostingvar.in.net
 crimso1-vector.intersp5uspect.in.net
@@ -14189,6 +14197,7 @@ distributed-source-element-package-site.wiki
 distributed-storage-layer.courses
 distributedcache.courses
 distributedgardenresource.garden
+distributedgrowthnetwork.garden
 distributedobjectstoragenet.wiki
 distributionmondrelay.com
 distributionsuivi-colis.com
@@ -18281,6 +18290,7 @@ flora-observe-ability-engine.garden
 flora-obsrvs-ability-todo.garden
 flora-processing-framework.garden
 flora-security-base.garden
+floraanalyticsengine.garden
 floradatextil.kbral.com.br
 floralsupply.com
 floraobservabilitysystem.garden
@@ -24859,6 +24869,7 @@ irrigation-control-network.garden
 irrigation-management-core.garden
 irrigation-management-system.garden
 irrigation-resource-system.garden
+irrigationautomationhub.garden
 irrigationmanagementhub.garden
 iru.z-x0.ru
 irusl.atlastimber.shop
@@ -30994,6 +31005,7 @@ meadow.driftmeadow.ru
 meadow.wduh-8.ru
 meadow0.ic0n1cbrook.ru
 meadowautomationplatform.garden
+meadowmonitoringplatform.garden
 meadowprocessingcenter.garden
 meadowworkflowplatform.garden
 mean-unharmed.gl.at.ply.gg
@@ -32369,7 +32381,6 @@ mrdc1963.duckdns.org
 mrdq.kawayanmedia.com
 mrekuro.hopto.org
 mrflowsticoertomy.com
-mrfreshlogs.ddns.net
 mri.bi3ux.ru
 mrinmay.net
 mrj.r4tu.ru
@@ -36581,6 +36592,8 @@ pdcdcwjwrqsq.com
 pdd-6m8a.tronk6vesta.coupons
 pdeterstars.com
 pdf-work.online
+pdf.4k-stream.site
+pdf.chadasvendas.com
 pdfplugout.com
 pdfs.ba5eq.ru
 pdftomarkdown.app
@@ -36859,8 +36872,10 @@ pg44l5bl.quartzpunch.ru
 pgadmin.ddsis.com.mx
 pgczmwd.com
 pgiyflj.com
+pgo.chadasvendas.com
 pgo.dusapp.com.br
 pgo.fatherchrismas.com
+pgo.hearchrisnow.com
 pgouqzx.ru
 pgt.shadowm1st.ru
 pgubdbmp.austeritymorg.digital
@@ -38358,7 +38373,9 @@ ptemanage.online
 pten.cl0udmere.in.net
 pthq.boa7dswim.in.net
 pti-br.caldasservice.com.br
+pti.4k-stream.site
 pti.caldasservice.com.br
+pti.chadasvendas.com
 ptk.0-pal-summit.ru
 ptk2.xyz
 ptn.kievteplo.in.ua
@@ -40102,7 +40119,6 @@ rdfycare.top
 rdggegr.ru
 rdipartners.com.au
 rdm.91yunma.cn
-rdoo22.work.gd
 rdp.quickstepflow.lat
 rdqnbcayzh.localto.net
 rdrkohnj.sametcanaltindal.online
@@ -41470,6 +41486,7 @@ runtime-atlas.digital
 runtime-control-plane.courses
 runtime-core-fabric-get.garden
 runtime-forge.digital
+runtime-sphere.digital
 runtimeexecutionlayer.wiki
 runtimefabric.courses
 runtimeport.ky2mloren.in.net
@@ -48654,8 +48671,10 @@ tr88.it.com
 tr88.sa.com
 tr88v788.it.com
 tr8tupu.xano4mel.lat
+tra.4k-stream.site
 tra.akina.ovh
 tra.asrkala.top
+tra.chadasvendas.com
 tra1-drive.echelonprosper.in.net
 trab-7t.qivon-store.in.net
 trabahando.theworkpc.com
@@ -56370,7 +56389,6 @@ xihilia5.ru
 xijoxou.ru
 xikus.ru.com
 xillenkillers.ru
-xilofonsriugagadlon.com
 ximyt.run
 xingxigncoin.lat
 xinnomix.com
@@ -56975,6 +56993,8 @@ yamamoto-ashiba.com
 yamatosteel.jp
 yamh.astpink.in.net
 yamsmell.xyz
+yan.4k-stream.site
+yan.chadasvendas.com
 yandi9988.com
 yandibaiji0203.com
 yandibaiji0219.com
