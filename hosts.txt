@@ -3268,7 +3268,6 @@ anayaghma.sa.com
 anaycarrentalcabbookings.in.net
 anayyud.net
 anbui7.ddns.net
-anc-media.s3.amazonaws.com
 anccompi.pra7vexal.in.net
 anch0-bridge.withregw.in.net
 anch0r-switch.bluebay.in.net
@@ -3441,7 +3440,6 @@ api-app.uppercrafteroom.com
 api-cluster.structuralgridhub.in.net
 api-cms.bomain.ru
 api-conectasocio.signo.dev.br
-api-dev.learnstore.vip
 api-dev.playdagalera.com.br
 api-download.us
 api-endpoint.vectorforge.in.net
@@ -3529,7 +3527,6 @@ api.juzgadorama.it.com
 api.kalygenesis.xyz
 api.kernelshift.pics
 api.koz2.in.net
-api.learnstore.vip
 api.linkdataproc.pics
 api.livesquare.uk.com
 api.loretesimorix.com
@@ -5000,7 +4997,6 @@ ballfrank.top
 ballfrank.xyz
 ballisi.cyou
 ballisr.cyou
-ballour.s3.amazonaws.com
 baltonmed.ru
 balvlqts.cyou
 bambooorgan.org
@@ -6049,6 +6045,7 @@ blastforge.highexplos.in.net
 blastzone.highexplos.in.net
 blatnoitovar.xyz
 blazingtigerpower.com
+blazingtunnelworks.com
 blb.m1stypath.ru
 bleededer-41468.portmap.host
 blen-reef.silvershade.in.net
@@ -7673,7 +7670,6 @@ cdn-assets.cfworkerzet.workers.dev
 cdn-b12.nifty4locker.coupons
 cdn-b9.bleuforet.coupons
 cdn-cf-cms.bomain.ru
-cdn-chromos.s3.amazonaws.com
 cdn-clodflare-fotns.cfd
 cdn-clodflare-fotns.click
 cdn-compress-image.sbs
@@ -7964,12 +7960,10 @@ cheapoca.biz
 cheapoutletjerseys.us.com
 chebsajexport.com
 chec-deliv.domprot.in.net
-check-dev.learnstore.vip
 check-gate.easttea.in.net
 check-list.jp
 check-point.formalisticcore.in.net
 check.first-node.rocks
-check.learnstore.vip
 check.nid-log.com
 check.office365-update.com
 checkaws.net
@@ -11351,7 +11345,6 @@ device-update.imtok.io
 devilxclusive.lol
 devmatrix.wiki
 devnetsyncpro.click
-devscout.s3.amazonaws.com
 devsig.prefixwag.in.net
 devtu35.top
 devvsecop.com
@@ -11627,7 +11620,6 @@ dixel-pixxxl232.digital
 dizzy.quirkpaste.ru
 dj6q.ignorelist.com
 djabzmh.net
-django-server.s3.amazonaws.com
 djasdajnsdnjgjg.com
 djbean.aurovine.com
 djbouche.net
@@ -14165,7 +14157,6 @@ fabriclattic.verd2onis.bet
 fabricpayload.wex1miran.in.net
 fabv2b.mosslark.in.net
 facades.br.com
-facanha.com.br
 face-lift.lookyouthful.in.net
 face2taskhub.thora9xel.bet
 faceit-na.com
@@ -16045,7 +16036,6 @@ ga88.cool
 ga888.mobile
 ga888vn.codes
 ga888vn.ru.com
-gaadhi.s3.amazonaws.com
 gab45f.american-brazil.surf
 gabaysoutlet.com
 gabinet-cormed.com.pl
@@ -17640,8 +17630,10 @@ gpiwz.ady26.hu
 gpjrjxo.net
 gpkvcvl.covenantpatronage.in.net
 gplca9pf.script-bridge.digital
+gppcdnns.beer
 gpseven.it.com
 gpt.yahoos.live
+gptjr.visszateritok.net
 gq0e2dm9.kernel-beacon.digital
 gq6gzvw6.awakepathog.digital
 gqa.uk.com
@@ -18030,7 +18022,6 @@ gtfgwok.com
 gti.azl.one
 gti.mir-massage.kiev.ua
 gti.uk.com
-gtisstorage.s3.amazonaws.com
 gtl.ci
 gtn.az
 gto-parts.ro
@@ -18757,6 +18748,7 @@ hfcn.backyard.in.net
 hfe.windst0ne.ru
 hfegocufjkndwc.com
 hfhi.m0tivecrib.ru
+hfikf.webrevelem.hu
 hfjivor0.go0duntenable.in.net
 hfnwyrj.net
 hfoarpm.com
@@ -19922,6 +19914,7 @@ igqe.belief-handcraft.bet
 igra123.com
 igrid.org
 igsh.lunave5.garden
+igyom.technologiaiviz.hu
 ihatemylife.racist.black
 ihaveahotwife.icu
 ihavebedbugs.com
@@ -21158,6 +21151,7 @@ jnisa.com
 jnjgogpcehsdkbnl.com
 jnk9otsf.fr0stmirr0r.ru
 jnlysj.com
+jnwkm.visszateritok.hu
 jnwlcco8tc66ktfn.org
 jnxetp.sa.com
 jnza.charlotte5tereoph.in.net
@@ -21943,7 +21937,6 @@ khxta65a.signal-bridge.digital
 khyggfe.com
 ki2wz263.grivense7v2nt.ru
 ki540.caseoptional.in.net
-kia-almotores.s3.amazonaws.com
 kibkncd.com
 kibris.life
 kibu.jaxmorrow.ru
@@ -22972,7 +22965,6 @@ lettercompi.aspdos.in.net
 letteropen.grov9mira.lat
 lettyr.auth0r1etter.ru
 leusceke.com
-levar-viewer.s3.amazonaws.com
 level-check.datacascade.in.net
 level-check.elevationnodebox.in.net
 levelupadventure.hu
@@ -23151,6 +23143,7 @@ limb-core.limbsingle.in.net
 limb-sync.limbsingle.in.net
 limbo100x.ru
 lime7x.l1mewave.ru
+limidos.com
 limit-gate.kokotkasquand.in.net
 limit-less.exaltedinfinate.in.net
 limitlless.com
@@ -23314,7 +23307,6 @@ littlep.top
 littleshutterhomes.com
 liull6.com
 liv.it.com
-live-360.s3.amazonaws.com
 live-coupo.harborcliff.in.net
 live-feed6.to3vamil.in.net
 live-feed6.to3varem.in.net
@@ -27200,9 +27192,7 @@ mushub.cfd
 mushxhb.best
 music-band2.tovdo9ral.in.net
 music-band3.tippyv0lup.in.net
-music-dev.learnstore.vip
 music-radio4.tov4mixel.in.net
-music.learnstore.vip
 music2.eq.ee
 musicoterapiafa.org
 musl.site
@@ -28901,7 +28891,6 @@ ns1.bbcbook.net
 ns1.bonus3basket.coupons
 ns1.cacheflow.top
 ns1.deepsekapi.cn
-ns1.googleclouds.net
 ns1.ivamediagroup.com
 ns1.jane2010.filegear-sg.me
 ns1.kbral.com.br
@@ -28914,7 +28903,6 @@ ns1.twnic.top
 ns1cdnclaude.beer
 ns2.bbcbook.net
 ns2.degreeweb.com
-ns2.googleclouds.net
 ns2.ivamediagroup.com
 ns2.jane2010.filegear-sg.me
 ns2.liposemcortes3d.com
@@ -29545,7 +29533,6 @@ omni.urbanpulse.surf
 omni.vori7nex.lat
 omni.zori6mav.surf
 omnicoresolutions.net
-omnileadzdev.s3.amazonaws.com
 omnisearch.sbs
 omnisec-33243.portmap.host
 omnivectis.com
@@ -30247,6 +30234,7 @@ p4yl-phase.zenithventurex.in.net
 p5.wildf1re.ru
 p568vhkv.bordklo.lat
 p5dyz1.breadpotho1e.surf
+p5f6dr8y.padelconstruct.hu
 p5pywt.ironbay.in.net
 p5q.f1restone.ru
 p65a.wavec0de.ru
@@ -32775,6 +32763,7 @@ qq88.za.com
 qq88one.us.com
 qqdsbnmkloi.cn
 qqes.0prichpe7ch.ru
+qqmrn.webrevelem.hu
 qqplive.top
 qqrsmng.net
 qqstilq.kozow.com
@@ -33224,6 +33213,7 @@ r7t.darkf0x.ru
 r8-node-x101.versicodex.in.net
 r8ada0zp.novacode.digital
 r8bw6dylh.localto.net
+r8jg3f99.padelconstruct.hu
 r8kqm.rantiercling.in.net
 r8m.bramble-age.ru
 r8uw.cl0udwave.ru
@@ -35232,7 +35222,6 @@ sawitgokil.com
 sawkech-42998.portmap.host
 saxjb.bninolimit.com
 saxonfield.org
-say2me.s3.amazonaws.com
 sayaracentral.com
 sayfalse-33597.portmap.host
 sb.stormp1ne.ru
@@ -36880,6 +36869,7 @@ smoketrace.darkfire.coupons
 smokeylife.com
 smokeythepurringcat.com
 smokingantrecords.com
+smoothcompass.top
 smoothmeshway.marblewavebase.garden
 smoothride.velvetroad.coupons
 smoothrun.rapidflow.coupons
@@ -37759,7 +37749,6 @@ spur.gravelwhisk.ru
 spx6900.lol
 spybaseball.space
 spymyheart.com
-spyne-test.s3.amazonaws.com
 spyuganda.com
 spyware.achievementschooldistrict.org
 sqddakti.awakepathog.digital
@@ -40327,7 +40316,6 @@ thayamkeryroyalinn.in
 thctrow.com
 thdnyyif.winter-pulse.christmas
 the-banned.gl.at.ply.gg
-the-mentor.s3.amazonaws.com
 the-pterodactyls.aurovine.com
 the-rehab.us.org
 the-sopranos-family-tree.garden
@@ -40750,7 +40738,6 @@ tn0uaslx.rabk0r5pech.ru
 tn4cp7ai.adju5tc2b.ru
 tn7z.c0ffee8rind.ru
 tndvyt5qg.localto.net
-tnegadge.s3.amazonaws.com
 tnkjrebh.zex3piral.in.net
 tnmr.ddns.net
 tnocf.uptrend.in.net
@@ -41605,6 +41592,8 @@ tteljeo.com
 ttgfvj.bovla7xel.in.net
 tth.123230.xyz
 tth.blogdospesados.com.br
+tth.bolaturbo88.top
+tth.matriculaflix.com
 tth.sekershuk.com
 tth.shurimaster.com
 ttkdmzg.com
@@ -42505,7 +42494,6 @@ update.cg100iii.com
 update.giooga.com
 update.javashell.com
 update.kernel-update.com
-update.learnstore.vip
 update.microsoft-safe.com
 update.mythic.cymru
 update.pbcollege.in.net
@@ -44389,7 +44377,6 @@ video-clip1.to3varem.in.net
 video-clip2.to3vamil.in.net
 video-clip4.kym7sarel.in.net
 video-clip4.kymli4rex.in.net
-video-dev.learnstore.vip
 video-drop.cameoinfusion.in.net
 video-screen5.tov4mixel.in.net
 video.streaming.estream.to
@@ -45060,6 +45047,7 @@ vudxen.quartzjolt.ru
 vudydhue.comedianmental.digital
 vufmel.dev0urspon8y.ru
 vugpiz.l2ckey5mina.ru
+vuhmb.technologiaiviz.hu
 vukyp.icu
 vul3en.go1ogun0ow.ru
 vulgan.gig8lere1y.ru
@@ -46447,6 +46435,7 @@ winwinexpert.com
 winwinexpert.ru
 winworkorders.com
 wioozqc.ru
+wiouy.visszateritok.net
 wiowyaea.lakebit.digital
 wipe3taskhub.everfo7mat.bet
 wipez.top
@@ -50362,6 +50351,7 @@ zhigao5191.com
 zhiiqqd.net
 zhivachkapro.com
 zhqqgpts.heap-lawcert.christmas
+zhxtq.visszateritok.hu
 zhzecai.ru
 zi.jcof9.ru
 zi.prli-1.ru
