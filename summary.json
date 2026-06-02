@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T03:01:53.744Z",
+  "generated_at": "2026-06-02T04:37:40.168Z",
   "total": {
     "ips": 117402,
     "hosts": 48605,
@@ -33,11 +33,11 @@
       "url": "https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt",
       "type": "plain_ip",
       "counts": {
-        "ips": 0,
+        "ips": 5,
         "hosts": 0,
         "networks": 0
       },
-      "error": "request to https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt failed, reason: connect ETIMEDOUT 54.167.134.106:443"
+      "error": null
     },
     {
       "name": "urlhaus_hostfile",
@@ -45,7 +45,7 @@
       "type": "hosts",
       "counts": {
         "ips": 0,
-        "hosts": 423,
+        "hosts": 425,
         "networks": 0
       },
       "error": null
@@ -67,7 +67,7 @@
       "type": "hosts",
       "counts": {
         "ips": 0,
-        "hosts": 47977,
+        "hosts": 47975,
         "networks": 0
       },
       "error": null
