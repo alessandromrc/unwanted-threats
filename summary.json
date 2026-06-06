@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T20:21:38.756Z",
+  "generated_at": "2026-06-06T21:19:27.295Z",
   "total": {
     "ips": 121531,
     "hosts": 48332,
@@ -45,7 +45,7 @@
       "type": "hosts",
       "counts": {
         "ips": 0,
-        "hosts": 547,
+        "hosts": 545,
         "networks": 0
       },
       "error": null
@@ -67,7 +67,7 @@
       "type": "hosts",
       "counts": {
         "ips": 0,
-        "hosts": 47630,
+        "hosts": 47632,
         "networks": 0
       },
       "error": null
