@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-06T00:20:38.644Z",
+  "generated_at": "2026-06-06T01:35:08.129Z",
   "total": {
-    "ips": 116929,
-    "hosts": 48325,
-    "networks": 116981
+    "ips": 121531,
+    "hosts": 48299,
+    "networks": 121583
   },
   "per_feed": [
     {
@@ -55,7 +55,7 @@
       "url": "https://raw.githubusercontent.com/stamparm/ipsum/master/ipsum.txt",
       "type": "csv_like_ip",
       "counts": {
-        "ips": 114854,
+        "ips": 119449,
         "hosts": 0,
         "networks": 0
       },
@@ -67,7 +67,7 @@
       "type": "hosts",
       "counts": {
         "ips": 0,
-        "hosts": 47630,
+        "hosts": 47604,
         "networks": 0
       },
       "error": null
