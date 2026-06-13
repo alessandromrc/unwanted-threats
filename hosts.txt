@@ -5865,7 +5865,6 @@ bookus.in.net
 booloo.hopto.org
 boom-logic.explosionjunip.in.net
 boom.abuse.st
-boom.plume-anchor.ru
 boos-gri.qor9mital.in.net
 boosmars.lipshellcore.lat
 boost-engine.velocityterminal.in.net
@@ -10797,7 +10796,6 @@ dock-svc.basaltloading.in.net
 dock-sync.winddock.in.net
 dock-visu.stoneflare.garden
 dock-way.winddock.in.net
-dock.plume-anchor.ru
 dockbrok.norxevin.in.net
 dockfilter.lena3qit.lat
 dockswitch.matchexact.in.net
@@ -15679,7 +15677,6 @@ gmtzkxm.hit4bet1.com
 gmzhuq.phoniche1lo.in.net
 gn.cl0udstone.ru
 gnaknunvbfs6n5el.org
-gnash.c1rclefang.ru
 gnashhusks.courses
 gnchdcvq.webweave.digital
 gndental415.com
@@ -17046,6 +17043,7 @@ hgonccc.net
 hgt3.7toralex.lat
 hhb123.tk
 hhb3xwzf.parspoker90.com
+hhghzngh.22betkade.online
 hhgyqyai.savefalke.qpon
 hhholyshitttt1243-31975.portmap.host
 hho.uk.com
@@ -23289,7 +23287,6 @@ mav-hf-kita-kk.de
 mavhic.com.yemint.com
 mavlun.luz7it5tretch.ru
 mavqen.ho0freb1rth.ru
-maw.c1rclefang.ru
 mawenterprises.co
 max-acknowledge.gl.at.ply.gg
 maxalaprod-64489.portmap.host
@@ -29146,7 +29143,6 @@ promole5.ddnsfree.com
 promosee.in.net
 promosi-tinted.com
 promosijack.com
-prong.c1rclefang.ru
 prontoenterprise.com
 proof-anchorgrid.proofsurvivor.in.net
 proof-api.epistemegrid.in.net
@@ -31462,7 +31458,6 @@ rootsandextracts.com
 rootsems.com
 rootsmacaronesia.com
 rootsys.duckdns.org
-rope.plume-anchor.ru
 rophim.fwh.is
 rophim10.co
 rophim10.com.mx
@@ -34311,7 +34306,6 @@ span2.safebr1dge.ru
 spanblock.diameterimpassab.ru
 spanishtravelandstudies.com
 spapro.co.com
-spar.plume-anchor.ru
 sparepartstecnam.duckdns.org
 spark-emb.dev-process.work
 spark-news.xyz
@@ -43288,6 +43282,7 @@ xrcbdu11.asso7tunexpl.in.net
 xre.blogdospesados.com.br
 xre.shurimaster.com
 xredgj.holisztikuscsontkovacs.hu
+xrekqgkh.1xyek.net
 xrootx.zapto.org
 xrp-node.ltd
 xrplnode.dev
