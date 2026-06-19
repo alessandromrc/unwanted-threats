@@ -116,6 +116,7 @@
 0pen-cache.thornbay.in.net
 0ppl9d1q9qbk2n6h.org
 0q0z5d95tkoksblm.org
+0q26dscq.anodaz.vip
 0q9bvoqh.telemetry-vault.digital
 0qbwh6hprn.localto.net
 0qlcn26y4f04e595.org
@@ -2060,7 +2061,6 @@ abc.woopami.com
 abc888.it.com
 abcgrid-0form.abcdesign.in.net
 abd0r.s1ogan5timul.ru
-abdulahad.net
 abdullah788-37389.portmap.host
 abdulraheem6-50903.portmap.host
 abdumido20181.ddns.net
@@ -10892,7 +10892,6 @@ doxbin.cy
 doxqer.dev0urspon8y.ru
 doz6060xwo.duckdns.org
 dozie.io
-dozlek.juren0ksco1d.ru
 dpalwallet.io
 dpcr.qiv2moren.in.net
 dpf-fap.co.uk
@@ -23333,7 +23332,6 @@ mercore9a.cinderpeak.in.net
 mercoreet5.doabove.in.net
 mercrest3on.stone-blink.in.net
 mercrestos.plantpo1luter.in.net
-merdax.b2rtdenia1.ru
 merdra7ix.wi4msaren.in.net
 merdraex.norxevin.in.net
 merdraor6.silkforge.in.net
@@ -28054,7 +28052,6 @@ pishbinipartners.com
 pishjdaagd.cn
 pisikakimmmad.com
 pistol178.info
-pit3ym.juren0ksco1d.ru
 pitc-mesh.rivermint.in.net
 pitch-cast.p7ickmuch.lat
 pitch6-signal.todayglow.in.net
@@ -37834,7 +37831,6 @@ tuwlc2yd.hesabdarinoravesh.xyz
 tux.windy.id
 tux4.windy.id
 tux5.windy.id
-tuzlam.b2rtdenia1.ru
 tuzsecn.ru
 tv.rapigra.co.id
 tv88-km.cyou
@@ -39549,7 +39545,6 @@ vipflorence.com
 viqhag.ceremoniavezeto.hu
 viraghagymafesztival.hu
 virginiasecuritysystem.com
-virqan.juren0ksco1d.ru
 virtual-cdncloud.sbs
 virtual-compute-engine-template-doc.wiki
 virtual-gate-way.garden
@@ -42606,7 +42601,6 @@ xacuemp.bakhtazmaeii.com
 xaesdb97.c2bba8etip.ru
 xaiefui.net
 xairpluming.com
-xalvor.juren0ksco1d.ru
 xamfop.c1utter0ver.ru
 xamir9on.digital
 xaqyzoa.com
