@@ -20936,7 +20936,6 @@ link-z2-sat.soma-grid.in.net
 link.agilelid.lat
 link.anythin8weaned.surf
 link.cloudproxyserv.pics
-link.darkc0de.ru
 link.darknightstar.lat
 link.darkstonebase.lat
 link.desire-veratrum.surf
@@ -25353,7 +25352,6 @@ night-mode.nightcreate.in.net
 night-road6.4zomiren.in.net
 night-view6.ra6xovel.in.net
 night.cl0udbreeze.ru
-night.darkc0de.ru
 nightcopper.info
 nightedict.forbidthen.in.net
 nightkill3r.publicvm.com
@@ -32720,7 +32718,6 @@ shikaido.net
 shikhte.com.devrescloud.com
 shilajat.duckdns.org
 shimanto-kango.ac.jp
-shine.darkc0de.ru
 shineandsmile.com
 shineflow.goldwind.in.net
 shinenetview.quartzprismcloud.garden
@@ -43081,7 +43078,6 @@ ydgnpzbc.mechanicsayalat.xyz
 ydgsauz.ru
 ydibgtr.com
 ydiftfl.danger-style.in.net
-ydmnx.darkc0de.ru
 ydqgwej.kortalanmuveszet.hu
 ydszge1688.com
 ydxphmy.com
