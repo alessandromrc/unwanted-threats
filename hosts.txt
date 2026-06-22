@@ -376,7 +376,6 @@
 209id.queuedimsys.lat
 20t2lqnx.grosstable.digital
 2131kobushidetoken.run
-21food.cn.com
 21wg02hmrp1ldfn7.org
 21zqurgr.bur9a5erious.ru
 227p0.dialectraflux.in.net
@@ -2097,6 +2096,8 @@ abyssal-plain-topography.garden
 abyssalflowunit.digital
 abyssalkraken.fit
 abzxcp.gypsyw0od.in.net
+ac-api-v3.r0csgo.com
+ac-socket.r0csgo.com
 ac2fhy11.coldglass.digital
 ac4hosting.com
 ac8oq.toorout.lat
@@ -3099,7 +3100,6 @@ apcsw.qelto5rin.in.net
 apdevhost512.com
 apdkpdl.com
 apebama.lol
-aped.sa.com
 apellanizydesosa.com
 apex.agocert.lat
 apex.digitaltide.surf
@@ -3219,6 +3219,7 @@ api.physiolpo1icy.lat
 api.portimaloter.com
 api.qjweb.xyz
 api.qq88.za.com
+api.r0csgo.com
 api.sametcanaltindal.online
 api.serverdatahub.pics
 api.sessionvalidator.com
@@ -5836,7 +5837,6 @@ bot.codeeye.in.net
 bot.cricket-physio.com
 bot.dead.my.id
 bot.devnguvcl.dev
-bot.doball99.live
 bot.jhotpot.com.bd
 bot.johenlg.cloud
 bot.loadzicoo.com
@@ -7067,7 +7067,6 @@ centroessenzia.com
 centroysur.com
 centrra.ru
 centrum.uk.com
-centscarf.xyz
 cephalus6oiypuwumqlwurvbmwsfglg424zjdmywfgqm4iehkqivsjyd.onion
 cepte-kampanya-2026.cfd
 cer3djvm.latticepatronage.digital
@@ -7268,7 +7267,6 @@ chip9siteview.technic2lweak.bet
 chipotlefeedbacks.store
 chiptune.com
 chirtyfivev.crabdance.com
-chis.cn.com
 chiwatoken.com
 chjunhao.com
 chk.awansm188.top
@@ -7308,6 +7306,8 @@ chroniclearchivekeeper.christmas
 chrono07.longtime.in.net
 chronosyncmanager.swallowtime.in.net
 chryslero.servebeer.com
+cht.hitamsm188.top
+cht.utvrent.com
 chu.myserver.com.bd
 chubrik.sbs
 chuckbartman.retirevillage.com
@@ -8479,6 +8479,7 @@ copperhorizon.top
 copperinu.lol
 coppy.achievementschooldistrict.org
 coppyright.achievementschooldistrict.org
+copysofort.org
 cor38-loop.7lorexan.surf
 cor46-layer.grosstao.in.net
 cora-clu.stonefield.in.net
@@ -8940,7 +8941,6 @@ csxilwnl7orv6rwfjen5ye3tefk5shjtr4tysuykgxjsyngpvoqrvbid.onion
 csyx0ohs.coreforge.digital
 ct-11q.moxitron.in.net
 ct.feliz.icu
-ct3-24.ru
 ctadvisor.chatutor.com
 ctcodein.biz
 ctdify.chatutor.com
@@ -10563,11 +10563,11 @@ dkqhmbi.ru
 dkrbvhs.jamjahani.site
 dkrnl.ru
 dkrxwehc.testpaye.xyz
-dl.1003b.56a.com
 dl.browsermine.com
 dl.dzqzd.com
 dl.erickillorinphotostore.com
 dl.interium.wtf
+dl.natgo.cn
 dl.overscaleconsulting.com
 dl.plum5parcel.coupons
 dl.schnellauf.coupons
@@ -13536,6 +13536,7 @@ fiz.us.com
 fj0r-stream.thornbyte.in.net
 fj0r8-chain.so6lavern.garden
 fjagjlhm.psgnewsiran.com
+fjaoi5is.megaparibet.vip
 fjasijfn2niuncusibun-38290.portmap.host
 fjbqpjx.net
 fjebqan.net
@@ -13772,7 +13773,6 @@ fly88-l.com
 fly88-net.com
 fly88-vl.com
 fly88-vn01.com
-fly88-vn01.pro
 fly88-vn04.com
 fly88-zz.site
 fly88.gr.com
@@ -14779,7 +14779,6 @@ gate.win78bet1.net
 gate.wintercoldlab.lat
 gate.xano4mel.surf
 gate1-forge.ve7loria.garden
-gate2.pages.dev
 gate2proxy.lumenlabs.in.net
 gate2proxy.nuxbase.in.net
 gate3proxy.fluxobase.in.net
@@ -16577,7 +16576,6 @@ harpygt-58891.portmap.host
 harqel.d0orh0bbit.ru
 harrain.diesel-stark.lat
 harri2gud.duckdns.org
-harsib.chup7unwhe7e.ru
 hartmann-itcoaching.de
 hartunh.lol
 hartvoorregelen.nl
@@ -17863,7 +17861,6 @@ icewf89vp.localto.net
 icewounded.digital
 icfsj.keystonepatronage.in.net
 icfzyz.distributedgrowthengine.garden
-iciba.cn.com
 icimdww.ru
 iciqx71.lix7morav.in.net
 icjaxbo.net
@@ -18874,7 +18871,6 @@ javernpond.com
 javsenpai.pages.dev
 javsenpaiii.pages.dev
 javxet.imp0rttwi5t.ru
-jawaratekno.com
 jawared1-63785.portmap.host
 jawks.t3.storage.dev
 jax3um.gu1detr2in.ru
@@ -19198,7 +19194,6 @@ josdream.com
 joselin-whitson-on-movie.com
 joseph-stalin.top
 josh.it.com
-josqen.chup7unwhe7e.ru
 jostiq.f1ysynchr0n.ru
 jotvel.cl2ddstr1ve.ru
 joue7make.digital
@@ -19547,7 +19542,6 @@ kalt-wald-8.cicada-tkacki.in.net
 kalvex.sa5imw2ter.ru
 kamal.wincryptapi.com
 kamaleissa.com
-kambohmag.net
 kamglobal.duckdns.org
 kaminowebapp.net
 kampf.huehnchenfarm.ru
@@ -19825,6 +19819,7 @@ khbilua706wrezbf.org
 khfujqd.shartbandifootballkade.online
 khkjhjkhjkhjkhkjkj.com
 khndao.x50wheel.bet
+khoancatbetong89.vn
 khom5v7vmc2nomkze64dsbyenn3wlxkewg6dbsvt5sujl2rmrtfy4oid.onion
 khuqcze.303.audio
 khxta65a.signal-bridge.digital
@@ -21283,6 +21278,7 @@ loc4sat.distributednetwork.in.net
 loc4static.streamdatahandler.in.net
 loc4view.managementresource.in.net
 loc4work.networkcontroller.in.net
+local-api-direct.r0csgo.com
 local-api.fariseietogo.in.net
 local-bark.tr1bekit.in.net
 local-cache.districtbuffer.in.net
@@ -21760,7 +21756,6 @@ lumvenex2.to4ramel.in.net
 lumvenon7.echelonprosper.in.net
 lumvenor1.axiomatrixflow.in.net
 lumvenos.backtest.in.net
-lumvot.chup7unwhe7e.ru
 luna-nod.dependint7amur.in.net
 lunar2waveunit.alphafluxnode.garden
 lunareclipse.monster
@@ -21962,7 +21957,6 @@ mabfin.hate7reven2nt.ru
 mabneg.hump7yb0lt.ru
 mabosfloor.ch
 mabougies.ch
-mabqir.mo5hnap2sser.ru
 mac-backup.com
 mac-file.com
 mac-magnus.com
@@ -23261,6 +23255,8 @@ megamegalodon.click
 megaparibet.casino
 megaparibet.games
 megaparibet.poker
+megaparibet.vip
+megapariwin.casino
 megaresellers.org
 megastream.ultranet.in.net
 megatech.it.com
@@ -23746,7 +23742,6 @@ minescripts.info
 minework.io
 minexmr.stream
 mingliu.com.tw
-mingxing.cn.com
 minhajautorepair-ae.oam.pgs.mybluehostin.me
 mini-zmoto.com
 minicraft.world
@@ -25570,7 +25565,6 @@ nnwjaigh1h.localto.net
 nnzn.sa.com
 nnzyf2.veloxunit.in.net
 no.windowupdateservice.com
-no7shmh.shop
 noa2a61d.skybit.digital
 noajadfylf.localto.net
 noaodzc.ru
@@ -26584,7 +26578,6 @@ onetasknext.eastasia.cloudapp.azure.com
 onetime-authentication.cruiserscrib.com
 onetime-v.lol
 onetimeinvitation.com
-onetools.pages.dev
 onetto.mobilefoundationrepair.com
 onfiltre.com.tr
 ongjajj.ru
@@ -28340,6 +28333,7 @@ pnhidlb.com
 pnl.alpinematters.com
 pnl.gadgetwalabd.com
 pnniuwu.popi999.net
+pns.org.pk
 pnt1infra.diagnosticendpoint.in.net
 pnt1meta.infrastructurecloud.in.net
 pnt1proc.connectivitybuffer.in.net
@@ -29322,7 +29316,6 @@ pymrweslf.localto.net
 pymyajs.pegaadvance.com
 pyrxbqc.ru
 pyx.uk.com
-pyxhad.mo5hnap2sser.ru
 pyxzbz.getlight.in.net
 pyyynza.com
 pyz.qu1rkbasin.ru
@@ -29452,7 +29445,6 @@ qeeebs40.pulp-turquoise.in.net
 qeeunzk.net
 qekmfeu.qy7mral.in.net
 qelljcx.megaparikade.com
-qelmot.humb1epr2bab.ru
 qem2a.brisk7dento.coupons
 qemlynn-32004.portmap.host
 qemwisi.arayemek.com
@@ -29935,7 +29927,6 @@ qyatftg.net
 qyfx7uy.awry-pause.in.net
 qyjqlxrj.b0utontran5fer.ru
 qykr.fori5po1u.ru
-qymfel.chup7unwhe7e.ru
 qyqetw.yasbetapp.com
 qyteglr.1xbetios.bet
 qyttqxsdf.cn
@@ -30488,6 +30479,7 @@ regev2znv7dlajow.org
 regexcar.christmas
 regiftee.com
 region-sync-base.brightvale.ru
+register-dtp.online
 registration-irc.gl.at.ply.gg
 registryfaithful.kry3qelin.in.net
 regreso.cyou
@@ -31470,7 +31462,6 @@ russellinternationalschools.com
 rustchain.org
 rustomjeeaden.in.net
 rustomjeecleon.in.net
-rutfan.humb1epr2bab.ru
 rutor12.sa.com
 ruwnbbo.com
 ruxbn.welovevent.com
@@ -32618,6 +32609,7 @@ shad0vv-rnix.shadow6nectar.coupons
 shad6-scope.registar.in.net
 shadenetwork.live
 shadenetwork.run
+shaderm.com
 shadetree.financial
 shadow.c2dmiumgho5t.ru
 shadow.cloudf0rm.ru
@@ -34620,7 +34612,6 @@ static-data-srv.snapbargain.coupons
 static.249.223.175.5.nextregister.eu
 static.coppsindoor.org
 static.cos-tencent.cloud
-static.ilclock.com
 static.slbc7890.shop
 static.sparechange.io
 static.topxgun.com
@@ -35651,6 +35642,7 @@ swiftbann.voidstream.garden
 swiftbasalt.octagonon.in.net
 swiftbranch.fastleaf.in.net
 swiftcore.cloudbridge.city
+swiftfusion.tech
 swiftmining.win
 swiftverify.me
 swimglii.cyou
@@ -36563,7 +36555,6 @@ text-svc.hisslytori.in.net
 textileaffairs.com
 texturebadge.xyz
 texxrji.com
-tezqiw.chup7unwhe7e.ru
 tf72zgyh.preisdrop.qpon
 tfaph.bni-ai.com
 tfasyxh.arayemek.com
@@ -36757,6 +36748,7 @@ thinksol.lol
 thinlpr.buzz
 thiruvallur.in
 thisisafalsepositive.ru
+thisisafalsepositive.st
 thisisgentlemen.lol
 thisismine.asia
 thitandaeru.top
@@ -36884,6 +36876,7 @@ tipg.rivermint.in.net
 tipqa.accredit.hu
 tiqwtkmma.com
 tirs47so.tunetwo.in.net
+tirtasentosa.com
 tiruet.com
 tiscali.it.com
 titaniumclient.com
@@ -36900,7 +36893,6 @@ tivqam.act0rpie7ce.ru
 tivqer.g2un7makeup.ru
 tivran.pa1mi5trythat.ru
 tivsek.r1dsheet5et.ru
-tivwel.mo5hnap2sser.ru
 tiw.uk.com
 tixqup.dropga7net5.ru
 tizambia.org.zm
@@ -39588,7 +39580,6 @@ vividmeshflow.zenithflowgrid.garden
 vividtunnellab.top
 vivogrouplink.duckdns.org
 vixen.bracketloam.ru
-vixqew.humb1epr2bab.ru
 viykdw01.synchronting.in.net
 viza7nex.digital
 vizecommunications.com
@@ -40481,7 +40472,6 @@ webapi.salamantex.com
 webapi.staging.salamantex.com
 webassembly.stream
 webbklubben.se
-webbnbinance.xyz
 webcamdrivers.cloud
 webcamwizard.cloud
 webcdn.5lorexin.surf
@@ -42742,7 +42732,6 @@ xkpxrkko.mechanicsayalat.xyz
 xkvig.butoralberlet.com
 xkymrjm.com
 xl365.livebytexscore.com
-xlabarechinks.anondns.net
 xlapollolxhost.no-ip.biz
 xlge.sa.com
 xljhsya.ru
@@ -42858,7 +42847,6 @@ xoqlqpdb.psgnewsiran.com
 xorisapedophile.st
 xosfnab.com
 xosum.butoralberlet.com
-xovfej.mo5hnap2sser.ru
 xozdesign.ictclients.site
 xozpwh9b.sn1pburrow.ru
 xozqet.gr-1-tfable.ru
@@ -43683,7 +43671,6 @@ zeitzaatar.com
 zejlnzmy.maharatmodiran.xyz
 zekjryh8.misthollow.digital
 zelenograd.logomebel.ru
-zelnip.mo5hnap2sser.ru
 zeloar.com.br
 zeltywh.net
 zelyoc10.top
