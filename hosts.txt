@@ -924,7 +924,6 @@
 4wuwovza.hush-pancake.ru
 4wyk.incub-teahouse.in.net
 4xjyevmd.d0tte1ran.ru
-4xm.f1rewave.ru
 4y04a82z.hattrickbetkade.com
 4yf2q0xe.darkpine.digital
 4yfkm8cm.poles-wrinkle.digital
@@ -1555,7 +1554,6 @@
 8119tj0t.bun8topch2n.ru
 812blog.com
 81729sv5.stgsolar.hu
-818ne.storml1ght.ru
 81mtae9.conesemison.in.net
 82a3dcwt.sazehayefooladi.xyz
 82db.notice-ohlamon.surf
@@ -3203,7 +3201,6 @@ api.ioteromixes.com
 api.itsjusttesting.top
 api.kalygenesis.xyz
 api.kernelshift.pics
-api.koz2.in.net
 api.linkdataproc.pics
 api.loretesimorix.com
 api.loseallyour.money
@@ -7809,7 +7806,6 @@ cliff-gate.pinecliff.in.net
 cliff-hinge.bry5laxon.in.net
 cliff-side-sync.brightcliff.in.net
 cliff-unit.pinecliff.in.net
-cliff.f1rewave.ru
 cliff2-vault.verda7lya.garden
 cliffbala.hearkenw2tman.in.net
 cliffbird.sparrowinrock.in.net
@@ -8561,7 +8557,6 @@ core.infrastructurerun.pics
 core.infrawavepro.lat
 core.metadrive.surf
 core.skewed-pronoun.surf
-core.storml1ght.ru
 core.systemlogicops.pics
 core.xori3mav.lat
 core1infra.systeminterface.in.net
@@ -9948,7 +9943,6 @@ delpalazzo.retirevillage.com
 delstrea.sylov8en.in.net
 delta-span.cl0udmere.in.net
 delta.conf1dcorr0de.ru
-delta.f1rewave.ru
 delta.ladboost.lat
 delta.longwave5hot.surf
 delta.nexo5mir.lat
@@ -10886,11 +10880,11 @@ download.gemwin.me
 download.get-version.com
 download.haozip.com
 download.kaobeitu.com
-download.koz2.in.net
 download.logltech.workers.dev
 download.mx1.sa.com
 download.ojxqy.sa.com
 download.pdf00.cn
+download.pdf00.com
 download.perlesimmo.com
 download.remont-center.ru.com
 download.skibidibopbop.lol
@@ -13920,7 +13914,6 @@ forest-run.oaktrail.in.net
 forest-sparr.copyvrok.in.net
 forest-walk1.rav2piren.in.net
 forest.f2rewel1lever.ru
-forest.storml1ght.ru
 forestcraft.exceptionpong.in.net
 forestelder.dubniakpops.ru
 forestfrond.wildfern.in.net
@@ -19922,7 +19915,6 @@ kjlhsgg.net
 kjokzuz.ru
 kjpf3o93.radiantprospera.digital
 kjqgkqg.ru
-kjrif.f1rewave.ru
 kjvbjr.krokodilpince.hu
 kk.windsh1eld.ru
 kk3puzzmu6jfzll6sllchr5olxf4bg4tl7uyq7wtiqqpntkreya3qxqd.onion
@@ -20519,7 +20511,6 @@ layer-io.theorexuslayer.in.net
 layer-obs-usget-tron.wiki
 layer-stack.precisemapnode.in.net
 layer.networkstackmgr.pics
-layer.storml1ght.ru
 layer3-graph.stonemuse.in.net
 layer4-show.prime-sector-unit.in.net
 layerpine.intellectnail.in.net
@@ -21403,7 +21394,6 @@ logs.bestshopppingday.com
 logs.coderlap.pics
 logs.gemwin.me
 logs.go88.se.net
-logs.koz2.in.net
 logs.kubet.de.com
 logs.mx1.sa.com
 logs.netloghubs.pics
@@ -22665,7 +22655,6 @@ malware.rr88-rr886666.com
 malware.rrb.uk.com
 malware.sacduc.net
 malware.saeruet.com
-malware.safeguard.in.net
 malware.sarahl.ru.com
 malware.savethislife.com
 malware.sc88-net.com
@@ -24017,7 +24006,6 @@ monerominer.rocks
 money-maker-default.info
 money-save2.sylpi6ren.in.net
 money.codeeye.in.net
-money001.duckdns.org
 moneyepeople.com.br
 moneypond.in
 mongodb.uk.com
@@ -24107,6 +24095,7 @@ mosrende.vo8xalon.in.net
 moss-spark.latticeventure.in.net
 mossbra.kymle2rax.in.net
 mosscoin.lol
+mosselnet.co.za
 mosslotus2020.shop
 mossoak.blackford.in.net
 mossphoto.zex8liron.in.net
@@ -25820,7 +25809,6 @@ nova.ipsetlap.lat
 nova.powertechlink.lat
 nova.rewardwallet.coupons
 nova.smshero.ai
-nova.storml1ght.ru
 nova.urbanflux.surf
 nova.v0xenridge.ru
 novacare.be
@@ -28254,6 +28242,7 @@ pnhidlb.com
 pnl.alpinematters.com
 pnl.gadgetwalabd.com
 pnniuwu.popi999.net
+pns.org.pk
 pnt1infra.diagnosticendpoint.in.net
 pnt1meta.infrastructurecloud.in.net
 pnt1proc.connectivitybuffer.in.net
@@ -31651,21 +31640,14 @@ safe-store3.elephant-harv.in.net
 safe-svc.againstvisitor.in.net
 safe-vault.bankingrugnia.in.net
 safe.puregoldkey.lat
-safe.safeguard.in.net
 safe.sram-wear.surf
 safe1-id.digital-verify-pro.in.net
 safe4pathgate.lumi4ren.bet
 safe7siteview.verd7loka.bet
 safeaxis.xyz
-safebrowsing.amal.sa.com
-safebrowsing.elijah.ru.com
-safebrowsing.pbcollege.in.net
-safebrowsing.star.co.com
-safebrowsing.sunwin.moi
 safedrive.uk.com
 safegallery.info
 safeguard.censure47contr.coupons
-safeguard.in.net
 safeguardips.com
 safeguardname.com
 safehostunit.piva1save.surf
@@ -32170,7 +32152,6 @@ securevaultholding.co.za
 secureverlfication.com
 security-check-291.pages.dev
 security-check.cloudprotectws.workers.dev
-security.citystore.in.net
 securityalarms.us.com
 securityfenceandwelding.com
 securitynote4458652318.com
@@ -33906,7 +33887,6 @@ spaceview.coolstar.in.net
 spacezonepage.monster
 spadedevelopment.info
 spadeleg.xyz
-spam.onthewifi.com
 spamgym.asia
 span-control.cantileverbridge.in.net
 spanblock.diameterimpassab.ru
@@ -34508,7 +34488,6 @@ static.cos-tencent.cloud
 static.ilclock.com
 static.slbc7890.shop
 static.sparechange.io
-static.youdm.cn
 staticcloudflare.pro
 staticflowsys.ferrumgateweb.garden
 staticflowsys.quantumpathnet.garden
@@ -34762,7 +34741,6 @@ streamerspectrum.dialectraflux.in.net
 streamervial.slashbak.in.net
 streamglo.plotsafe.in.net
 streamhub.fluxnode.in.net
-streammobs.com
 streamnoble.gothrough.in.net
 streamprocessingnode.wiki
 streamsol.sleazyhe2ded.in.net
@@ -37091,7 +37069,6 @@ tps.jp.net
 tptnzya.czhaijiangdrying.com
 tpvggeb.bordino.bet
 tpxovsr.lightforge.garden
-tpxyj-83-252-34-181.a.free.pinggy.link
 tqawqjd.payestation.com
 tqccotdd.gift-runtime-engine.christmas
 tqdgt.inconprofitab1e.surf
@@ -38117,8 +38094,6 @@ unicprimavera.com.br
 unigedgsinc.duckdns.org
 uniglobeluxe.com
 unikasegurancahumanizada.com.br
-unikey.sarahl.ru.com
-unikey.sun.win
 unilink.flamesre5ent.in.net
 union.moosynomo.cloud
 unipurebiotech.com
@@ -38595,7 +38570,6 @@ v2.cclp.org
 v2.chatboxvs.com
 v2.colatv88xb.cc
 v2.coversproject.com
-v2.ctdrpu.za.com
 v2.diamundialradio.org
 v2.fshcgroup.com
 v2.g2academy.co
@@ -39280,7 +39254,6 @@ vidtihe.cyou
 vidyaniketanpublicschools.arbrands.in
 vien418plus.com
 viethuonggroup.com
-vietkey.sarahl.ru.com
 vietorigin.com
 view-cloud.com
 view-finder.precisemapnode.in.net
