@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-25T06:20:19.143Z",
+  "generated_at": "2026-06-25T08:07:09.583Z",
   "total": {
-    "ips": 112517,
-    "hosts": 43870,
-    "networks": 112558
+    "ips": 110396,
+    "hosts": 43833,
+    "networks": 110437
   },
   "per_feed": [
     {
@@ -11,11 +11,11 @@
       "url": "https://mcfp.felk.cvut.cz/publicDatasets/CTU-AIPP-BlackList/Todays-Blacklists/AIP_historical_blacklist_prioritized_by_newest_attackers.csv",
       "type": "csv_ip",
       "counts": {
-        "ips": 10272,
+        "ips": 0,
         "hosts": 0,
         "networks": 0
       },
-      "error": null
+      "error": "request to https://mcfp.felk.cvut.cz/publicDatasets/CTU-AIPP-BlackList/Todays-Blacklists/AIP_historical_blacklist_prioritized_by_newest_attackers.csv failed, reason: connect ETIMEDOUT 147.32.82.194:443"
     },
     {
       "name": "adblock_nocoin_hosts",
@@ -45,7 +45,7 @@
       "type": "hosts",
       "counts": {
         "ips": 0,
-        "hosts": 433,
+        "hosts": 434,
         "networks": 0
       },
       "error": null
@@ -67,7 +67,7 @@
       "type": "hosts",
       "counts": {
         "ips": 0,
-        "hosts": 43167,
+        "hosts": 43129,
         "networks": 0
       },
       "error": null
