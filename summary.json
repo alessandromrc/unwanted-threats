@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-08T22:50:45.752Z",
+  "generated_at": "2026-07-08T23:55:40.986Z",
   "total": {
-    "ips": 112784,
-    "hosts": 44152,
-    "networks": 112784
+    "ips": 112794,
+    "hosts": 44155,
+    "networks": 112843
   },
   "per_feed": [
     {
@@ -11,7 +11,7 @@
       "url": "https://mcfp.felk.cvut.cz/publicDatasets/CTU-AIPP-BlackList/Todays-Blacklists/AIP_historical_blacklist_prioritized_by_newest_attackers.csv",
       "type": "csv_ip",
       "counts": {
-        "ips": 10458,
+        "ips": 10482,
         "hosts": 0,
         "networks": 0
       },
@@ -67,7 +67,7 @@
       "type": "hosts",
       "counts": {
         "ips": 0,
-        "hosts": 43478,
+        "hosts": 43481,
         "networks": 0
       },
       "error": null
@@ -79,9 +79,9 @@
       "counts": {
         "ips": 0,
         "hosts": 0,
-        "networks": 0
+        "networks": 49
       },
-      "error": "Failed to download https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/dshield_7d.netset: 429 Too Many Requests"
+      "error": null
     }
   ]
 }
