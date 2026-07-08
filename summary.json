@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-08T21:54:27.170Z",
+  "generated_at": "2026-07-08T22:50:45.752Z",
   "total": {
     "ips": 112784,
-    "hosts": 44147,
-    "networks": 112833
+    "hosts": 44152,
+    "networks": 112784
   },
   "per_feed": [
     {
@@ -67,7 +67,7 @@
       "type": "hosts",
       "counts": {
         "ips": 0,
-        "hosts": 43473,
+        "hosts": 43478,
         "networks": 0
       },
       "error": null
@@ -79,9 +79,9 @@
       "counts": {
         "ips": 0,
         "hosts": 0,
-        "networks": 49
+        "networks": 0
       },
-      "error": null
+      "error": "Failed to download https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/dshield_7d.netset: 429 Too Many Requests"
     }
   ]
 }
