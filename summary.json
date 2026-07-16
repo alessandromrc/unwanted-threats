@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-16T20:39:43.071Z",
+  "generated_at": "2026-07-16T21:51:06.443Z",
   "total": {
     "ips": 106144,
-    "hosts": 45187,
+    "hosts": 848,
     "networks": 106200
   },
   "per_feed": [
@@ -45,7 +45,7 @@
       "type": "hosts",
       "counts": {
         "ips": 0,
-        "hosts": 534,
+        "hosts": 536,
         "networks": 0
       },
       "error": null
@@ -67,10 +67,10 @@
       "type": "hosts",
       "counts": {
         "ips": 0,
-        "hosts": 44519,
+        "hosts": 0,
         "networks": 0
       },
-      "error": null
+      "error": "Failed to download https://threatfox.abuse.ch/downloads/hostfile/: 503 Service Unavailable"
     },
     {
       "name": "dshield_7d",
