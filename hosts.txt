@@ -7103,11 +7103,9 @@ cdn-cf-cms.bomain.ru
 cdn-clodflare-fotns.cfd
 cdn-clodflare-fotns.click
 cdn-compress-image.sbs
-cdn-css-framework.cfd
 cdn-d57299.cloudflareinsight.com
 cdn-js-conhost.click
 cdn-js-conhost.icu
-cdn-js-connection.cfd
 cdn-plugin-js.beer
 cdn-server-styles.cfd
 cdn-server-styles.click
@@ -8882,7 +8880,6 @@ cpanel.science-ing.org
 cpanel.siefertfamilydentistry.com
 cpantalonesnegro.store
 cpaprofessionals.ca
-cpass.verf-secu4u.art
 cpc188.org
 cpcalendars.beverlyhillmanor.com
 cpch.us.com
@@ -14859,6 +14856,7 @@ fullbox3.wi8sorel.in.net
 fullcrypters.net
 fullr-oom4.cr2pskiing.in.net
 fullr-oom4.guardiansti1l.in.net
+fullstacknir.com
 fullsteamahead.eu
 fulltextreports.com
 fulusus.com
@@ -19982,7 +19980,6 @@ jrszz.popi999.net
 jrudq.ganj.bet
 jrwgrbg.ru
 js-appboy.bomain.ru
-js-framework.cfd
 js-server.beer
 js-shop.my
 js.byxiaolin.dpdns.org
@@ -39619,7 +39616,6 @@ update.kernel-update.com
 update.mythic.cymru
 update.norwayeast.cloudapp.azure.com
 update.updatemicfosoft.com
-update211.security-ssa-gov.com
 update35630.duckdns.org
 updatecurrent.com
 updatedata.us
@@ -41412,6 +41408,7 @@ waithostunit.kren3sync.surf
 waitv.net
 wakanda33.it.com
 wakaoomiaaiumawc.xyz
+wakgo.jbgroup21.com
 wakiwkuwagsyqiaa.xyz
 wakvssup.1xgame.pro
 walasth.ru
@@ -45326,6 +45323,7 @@ zzksh.sm188dvlv.rest
 zzlkkghnmh.cn
 zzpy.dark-salittle.bet
 zzqm.attit-negligent.in.net
+zztz.jetourmexico.com
 zztzqouw.redflat.in.net
 zzvfyei.dahdahtoys.com
 zzwjboym.bcgame.shop
