@@ -1180,6 +1180,7 @@
 5tab1-pulse.idealup.in.net
 5tdxu.sa.com
 5ter1-loop.saltball.in.net
+5teun337.yummiquickway.com
 5ton0-vault.vyr2dalen.in.net
 5tone-mesh.mongofixcore.lat
 5tor-bridge.hostyard.in.net
@@ -5690,7 +5691,6 @@ blog.bardalen.no
 blog.cementah.com
 blog.eticketing.us
 blog.infogenius.fr
-blog.kevoxtech.com
 blog.solartrade.in
 blog3.urbanview.in.net
 blogonpenpal.talnori.boats
@@ -7400,6 +7400,7 @@ channelcrawler.getlight.in.net
 channelmanagerpms.com
 chant-78.com
 chaparcast.com
+chapsandbags.com
 charizard.lol
 charlesriverrecovery.com
 charlestonurbanite.com
@@ -8102,6 +8103,7 @@ cloud-st1.perk9parcel.coupons
 cloud-stack-run-base.co
 cloud-storage-5.vittoriastrada.in.net
 cloud-storage-b.fortezzablu.in.net
+cloud-svc.site
 cloud-sync-engine.christmas
 cloud-sync.courses
 cloud-v10-store.petittravail.in.net
@@ -9971,6 +9973,7 @@ dbomd.famscargo.com
 dbpw.cn.com
 dbvxnw.fullnrg.hu
 dbxqkb.net
+dc10varl.rsudtarutung.com
 dc1infra.applicationbuffer.in.net
 dc1proc.operationalsystem.in.net
 dc1proc.platformendpoint.in.net
@@ -10319,6 +10322,7 @@ depot-reunion-listings-targets.trycloudflare.com
 depot8-frame.snort-uharsky.surf
 depth-canyon-monitor.swiftcanyon.ru
 depthbx.cyou
+depthmeshnode.focallensview.garden
 depthnode.lakeford.in.net
 depttake.ga
 derbi.bet
@@ -30280,6 +30284,7 @@ pubserv.darkbay.in.net
 pucambu.it
 pudqwnh.ru
 puertoplatalocal.com
+puf.808skor.org
 puffingsiterreorganize.courses
 pugiofx.net
 pugtlyf.net
@@ -42864,6 +42869,7 @@ www.adrisex.com
 www.ael1.com
 www.agentedger.com
 www.agno.sk
+www.ai2.qzz.io
 www.aiconsultancy.ch
 www.airobotcatering.com
 www.aitooling.ru
@@ -45502,6 +45508,7 @@ zzpy.dark-salittle.bet
 zzqm.attit-negligent.in.net
 zztz.jetourmexico.com
 zztzqouw.redflat.in.net
+zzux.birladharamshaala.org
 zzvfyei.dahdahtoys.com
 zzwjboym.bcgame.shop
 zzx2x3.quant-splashes.in.net
