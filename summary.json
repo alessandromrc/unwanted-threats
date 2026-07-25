@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-25T22:42:11.190Z",
+  "generated_at": "2026-07-25T23:45:54.340Z",
   "total": {
-    "ips": 112755,
-    "hosts": 45814,
-    "networks": 112807
+    "ips": 112737,
+    "hosts": 45813,
+    "networks": 112789
   },
   "per_feed": [
     {
@@ -11,7 +11,7 @@
       "url": "https://mcfp.felk.cvut.cz/publicDatasets/CTU-AIPP-BlackList/Todays-Blacklists/AIP_historical_blacklist_prioritized_by_newest_attackers.csv",
       "type": "csv_ip",
       "counts": {
-        "ips": 10592,
+        "ips": 10627,
         "hosts": 0,
         "networks": 0
       },
@@ -33,11 +33,11 @@
       "url": "https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt",
       "type": "plain_ip",
       "counts": {
-        "ips": 0,
+        "ips": 5,
         "hosts": 0,
         "networks": 0
       },
-      "error": "request to https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt failed, reason: connect ETIMEDOUT 18.204.9.210:443"
+      "error": null
     },
     {
       "name": "urlhaus_hostfile",
@@ -67,7 +67,7 @@
       "type": "hosts",
       "counts": {
         "ips": 0,
-        "hosts": 44903,
+        "hosts": 44902,
         "networks": 0
       },
       "error": null
