@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Unwanted Threats">
+  <rect width="128" height="128" fill="#1a2332"/>
+  <circle cx="64" cy="64" r="34" fill="none" stroke="#e85d4c" stroke-width="6"/>
+  <path d="M44 44 L84 84 M84 44 L44 84" stroke="#e85d4c" stroke-width="6" stroke-linecap="round"/>
+</svg>

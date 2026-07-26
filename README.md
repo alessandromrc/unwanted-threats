@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.svg" alt="Unwanted Threats" width="128" height="128" />
+</p>
+
 # Unwanted Threats
 
 This repository aggregates multiple public threat intelligence feeds into consolidated JSON and text files.  
