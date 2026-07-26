@@ -3204,7 +3204,6 @@ api.permanentothertheorist.com
 api.physiolpo1icy.lat
 api.pimparolix.com
 api.portimaloter.com
-api.qjweb.xyz
 api.r0csgo.com
 api.sametcanaltindal.online
 api.serverdatahub.pics
@@ -7409,7 +7408,6 @@ chart-api.ashstatistic.in.net
 chart-plotter.topographictrace.in.net
 chase-cvs.org.uk
 chat-server.maverickpreviews.com
-chat-stg.smartdocapp.com
 chat.cc-coins.xyz
 chat.ttseokitty.com
 chatgpt-backup.com
@@ -20025,6 +20023,7 @@ jllxtfy.com
 jloj7ws.dex4lavel.in.net
 jlqawun.net
 jluynhq.ru
+jlwz.cn
 jm7xf.sprutte5t.lat
 jmaeciy3.signal-vault.digital
 jmazpbc.com
@@ -30533,6 +30532,7 @@ pve.paptogel.net
 pvjm75x.silver-dock.in.net
 pvn.xybcaap.my.id
 pvnhnpre.computationalgrid.com
+pvpffy.usa-tupitea.us
 pvsa.gxfugy.cn
 pvvvvn.perfectgame.casino
 pvxvwrfu.sadreislam.xyz
@@ -33614,7 +33614,6 @@ sdrylch.ru
 sdsa.light-parcel.in.net
 sdsda.lat
 sdtawdiq.niliafshar.com
-se-2.ironhide.su
 se2lnidzfvts.org
 se9bavje.lament42leave.digital
 sea2.authcaptcha.com
@@ -40057,6 +40056,7 @@ us4v29jaz9cousy.top
 us5123proj59891ksjn3419.pages.dev
 us5fm2lg.ace90bet.bet
 us7i0ql7.sansekerta.org
+usa-tupitea.us
 usa.goturbo88.top
 usacpkd.ru
 usadigitizer.com
