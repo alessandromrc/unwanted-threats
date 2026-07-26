@@ -10976,6 +10976,8 @@ dns.globalnodeviewset.pics
 dns.quickstepflow.lat
 dns.webcfgbase.pics
 dns.websyncbox.pics
+dns1.dreamls.com
+dns2.dreamls.com
 dns3-check.praxo6lin.in.net
 dnsapi.canon-cumulative.lat
 dnsapi.lumo3ren.lat
@@ -23881,6 +23883,7 @@ malware.yukademy.com
 malware.zonamaluku.com
 malwawre.xoilactvqq.live
 mamamiadomio.cfd
+mamaspizzansubsmenu.com
 mamavic.duckdns.org
 mambet.lol
 mamcwgmwoakuwems.xyz
@@ -42274,6 +42277,7 @@ wfamakg.to2varon.in.net
 wfbgjbz.ru
 wfcskbn.net
 wfmbnyx.penalti.bet
+wfupkm.lippogummy.com
 wfv.floatpried.icu
 wfvof3o.boxemoj.surf
 wfwwdsvv.irantop.bet
