@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-09T08:25:42.451Z",
+  "generated_at": "2026-08-09T09:25:02.674Z",
   "total": {
     "ips": 115273,
-    "hosts": 50119,
+    "hosts": 50124,
     "networks": 115323
   },
   "per_feed": [
@@ -67,7 +67,7 @@
       "type": "hosts",
       "counts": {
         "ips": 0,
-        "hosts": 49437,
+        "hosts": 49442,
         "networks": 0
       },
       "error": null
