@@ -1469,6 +1469,7 @@
 7club.in.net
 7controller.online
 7controller.ru
+7cz5jg6k.enus-goldalign.com
 7d6da0ri.axee.net
 7dml.netstack.lat
 7e4kctpk.orbitaldockingmodule.digital
@@ -12180,6 +12181,7 @@ dsr.bet1forward.com
 dsszzi.linkpc.net
 dstech.net
 dsthypsv.winter-pulse.christmas
+dt6wrsv7.en-usa-sightfresh.com
 dtafamily.com
 dtc.aasscc.how
 dtc.cebolinhaburger.com
@@ -17220,7 +17222,6 @@ global-net-x.mondolavoro.in.net
 global-net.technosphere.in.net
 global-research.space
 global-ship4.elephant-harv.in.net
-global-site-check.bonus3basket.coupons
 global-site6.lax8dorim.in.net
 global-site6.rol1erspeeding.in.net
 global-sync-srv.orbit6crate.coupons
@@ -21159,6 +21160,7 @@ jbwhmuq.i90.bet
 jbwjdp.rial.bet
 jbyap.sm188login.cyou
 jc5eb1c5.radioshartbandi.chat
+jcagence.com
 jcdestinostravel.com
 jcdlhks8.node-pulse.digital
 jce85opnb7.localto.net
@@ -24595,7 +24597,6 @@ m-cooper.com
 m-designbuild.com
 m-f168.com
 m-firma.lat
-m-link.bonus3basket.coupons
 m-u88.com
 m.58wincom.shop
 m.acrobat.lat
@@ -34565,6 +34566,7 @@ riihard.top
 rijqlqe.keyslimdrops-com.com
 rijschool-geduld.nl
 rika90.bet
+rilzg1u6.shop-sightfresh.com
 rim-k11-outer.polar-axis.cfd
 rim-k12-outer.lumen-nodo.in.net
 rim-k77-outer.altocentro.in.net
@@ -36103,7 +36105,6 @@ sdn-cloudflare-js-botstrup.cfd
 sdn-cloudflare-js-botstrup.click
 sdn-cloudflare-js-css.cfd
 sdn-cloudflare-js-css.click
-sdn-cloudflare-js.click
 sdn-inapi-server.sbs
 sdnssmdf-js.beer
 sdnstatistic.com
