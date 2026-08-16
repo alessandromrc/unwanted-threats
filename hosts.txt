@@ -7630,7 +7630,6 @@ cdn-102.undraftedsuction.cfd
 cdn-1415.brightcanvas.digital
 cdn-2faclov.sbs
 cdn-assets.cfworkerzet.workers.dev
-cdn-b12.nifty4locker.coupons
 cdn-b9.bleuforet.coupons
 cdn-clodflare-fotns.cfd
 cdn-clodflare-fotns.click
@@ -16284,6 +16283,7 @@ gaqcskwuoowsmomo.xyz
 gaqkweawewiyuimg.xyz
 gaqqqccykioaegss.xyz
 garage-zimmermann.ch
+garagemattmueller.ch
 garageplusnw.com
 garanti-sans-virus.com
 gard-cano.catflat.in.net
@@ -36105,7 +36105,6 @@ secu-line.drumf1esh.in.net
 secupd.cfd
 secur-grid.yardnext.in.net
 securclea.fabledrift.in.net
-secure-access-point.nifty4locker.coupons
 secure-cloud-link.bleuforet.coupons
 secure-forge.7zoralix.in.net
 secure-hit.fighttrapper.in.net
