@@ -3430,7 +3430,6 @@ api.r0csgo.com
 api.rh7.ninja
 api.sametcanaltindal.online
 api.serverdatahub.pics
-api.sessionvalidator.com
 api.simsys.org
 api.soladify.fun
 api.stackpulse.ink
@@ -3619,7 +3618,6 @@ app.pushonline.online
 app.qq8893.com
 app.slot365.biz
 app.softnetlink.pics
-app.webinfos.top
 app.whatsplus.online
 app.whatsplusdownload.com
 app.xai533k.com
@@ -4702,7 +4700,6 @@ b4rk-core.todayglow.in.net
 b4rk-craft.faultmincin8.in.net
 b4rk-panel.nor3liven.in.net
 b4sic-route.hundred-weight.surf
-b4svvivz.cybervox.digital
 b4syunwp.cloud-lattice.digital
 b4y-drive.rolfgrassinger.work
 b4y-signal.con9uerbunker.in.net
@@ -7403,7 +7400,6 @@ canyonsecu.vo8xalon.in.net
 canyonsyncbox.thorniva.garden
 caoviethoang-chinhhang.com
 cap-shop.online
-cap.dnamain.com
 cap.xyzsm188.top
 cap1ta-flow.spectrumprospera.in.net
 capcambio.com.br
@@ -7733,7 +7729,6 @@ cdn.colatv88xb.cc
 cdn.deltapress.one
 cdn.discussl.com
 cdn.falconworks.cc
-cdn.file6.goodid.com
 cdn.googleaips.net
 cdn.haircutmenfrederickmd.com
 cdn.librarygrades.com
@@ -9201,7 +9196,6 @@ compilescarlet.copyvrok.in.net
 compilpow.driveaway.in.net
 complainprocess.in.net
 comples.biz
-compliancemetrics.net
 complicaty.ru
 compocel.com
 composerefine.zeltorinax.in.net
@@ -9250,8 +9244,6 @@ comwebstat.pav6mirex.pics
 comwebstat.pav8mirel.pics
 comwebstat.scriptnode.pics
 comwww.youcamefromus.com
-con.doiauth.top
-con.spiraltrain.top
 conachen.com
 conaip.com.mx
 conareras.study
@@ -13324,6 +13316,7 @@ eng--memorylift.com
 eng--mitoyn.com
 eng--nervealive.com
 eng--nervearmor.com
+eng--neurowave.us
 eng--neuroxen.com
 eng--prostavaive.com
 eng--sightfresh.com
@@ -14608,7 +14601,6 @@ fast-drive5.povt8aren.in.net
 fast-fire-5.rax7pavel.in.net
 fast-fire-9.raxen-serv.in.net
 fast-fire-9.raxos-node.in.net
-fast-flow-point.rapidbrook.ru
 fast-food1.bov1serin.in.net
 fast-food1.bovla8ren.in.net
 fast-inv.shop
@@ -15297,7 +15289,6 @@ flocompsrep.com
 flokishop.com
 flomol.qpodio.qpon
 floor-node.downpredict.in.net
-flooriscoveringworld.com
 floors-specialist.com
 floppy-excited-advertisers-hosted.trycloudflare.com
 flopstin-gymcargo.cyou
@@ -19676,7 +19667,6 @@ hydro-run.aquastream.in.net
 hydro-svc.needwatka.in.net
 hydroflask.sa.com
 hydrographpoint.digital
-hydrological-collector.rapidbrook.ru
 hydropower-irrigation.garden
 hyffygfukkjutfttyyertrdtrdftdtrdtdrtrttr.duckdns.org
 hyfijhvo.podzone.org
@@ -20103,6 +20093,7 @@ ikguakuwyumugium.xyz
 ikhebkankerinmijnrechterteelbal.st
 ikhppmm.buy-ignitra.com
 ikimquigykukwkgm.xyz
+ikincielesyaciankara.com.tr
 ikjsbyby.pdfbama.com
 ikkeacqwooawweoc.xyz
 ikkqh.dermexcel.net
@@ -21107,7 +21098,6 @@ jalome.nl
 jamaicamihappyga.com
 jamaicaseamoss.com
 jamesbrooker.hopto.org
-jamesmullertech.live
 jamesrichard.net
 jamiemeyer.net
 jamjahani.one
@@ -26203,6 +26193,7 @@ metrics-node.altamontagna.in.net
 metrics-sync-1.petitnuage.in.net
 metrics-sync.kristallwelt.in.net
 metrics.demobunfiber.top
+metrics.gocloudmaps.com
 metricspan.icu
 metricspixel.live
 metrictrace.info
@@ -28535,7 +28526,6 @@ nnzn.sa.com
 nnzyf2.veloxunit.in.net
 no-squat-91.fr
 no.ahanresaan.ir
-no.windowupdateservice.com
 no3htbxq.varzeshlife.ir
 noa2a61d.skybit.digital
 noabasteb.lol
@@ -29251,7 +29241,6 @@ oasisoutdoorliving.store
 oasitre.paleontraglan.in.net
 oassyn.imperturbs1av.in.net
 oasteadomnuluidiaspora.com
-oauth.openvpnet.com
 oavxdiz.bet1xboro.bet
 oay019z6.1xfa.bio
 oazd.olcsongepet.hu
@@ -30400,6 +30389,7 @@ p4cket-signal.oaknet.in.net
 p4cket-stack.hisslytori.in.net
 p4dpx17w.proxy-frontier.digital
 p4l3fctz.bitter-salty.digital
+p4m4q08g.eng--neurowave.us
 p4nkss83.alsulmicpa.com
 p4pav6zh.garatequran.xyz
 p4rce9-loop.raxmi8vel.in.net
@@ -31677,7 +31667,6 @@ plowexports.com
 plp.education
 plskl.pavlore9.surf
 plsleavemealone.com
-plsleavemypanelalone.pleasepitymymamaleavemyscalone.one
 pltwl64fxtgsx0q8.org
 plug-tab-protective-relay.trycloudflare.com
 plugaki.com.br
@@ -33994,8 +33983,6 @@ read-api.boredistascan.in.net
 read-gate.hisslytori.in.net
 read-more2.qi1moxel.in.net
 read-more2.qim8dorel.in.net
-read.bidiwallc.de
-read.rojocapllc.de
 read1-data.norqelix.in.net
 read7siteview.open2byte.surf
 readadobe-document.click
@@ -34230,7 +34217,6 @@ relay-svc.exhortshelk.in.net
 relay.energysdomes.com
 relay.scryyuiopp.com
 relay.serverkinetices.cfd
-relay.sevfrtdxs.com
 relay.stingold.com
 relay.windowupdateservice.com
 relay0.aquadisplay.lol
@@ -36541,7 +36527,6 @@ serwis-o2.netlify.app
 ses.1001gacor.org
 ses.sm188daftar.mom
 sesksz.venusbet90.com
-sessionvalidator.com
 sessionx.net
 sesu.com.tr
 sesyooggocuqaqum.xyz
@@ -38862,7 +38847,6 @@ stati-fy.sbs
 static-cdn.digiframe.in.net
 static-cdn.digisphere.in.net
 static.cdns.space
-static.ilclock.com
 static.quorashift.cc
 static.slbc7890.shop
 static.sparechange.io
@@ -40777,6 +40761,7 @@ tecnominimoto.com
 tecnovacenter.shop
 tecto-sync.tectoniview.in.net
 tectonic-fault-seismograph.garden
+tecunonline.com
 tee.ambil-disini.web.id
 tee.com.pk
 tee.plugazapp.com.br
@@ -42408,6 +42393,7 @@ twp.in.net
 twswsb.cn
 twtaxgo.cn
 twtd.zom7lirex.in.net
+twu-hwt.org
 twvjaye.penalti.website
 twvrjjcu.hugugtejarat4.xyz
 twyd6y14.elizabethspizzadenton.com
@@ -44525,7 +44511,6 @@ vnsm.us.com
 vntxfe.xyz
 vnuhxmfp.jadoou.cfd
 vnukdf.purefunsurfboards.com
-vo230hqh.cybervox.digital
 vo472a21.eng-aqua-burn.com
 voabnu.femeso.hu
 voadtm.glowmire.in.net
@@ -45180,7 +45165,6 @@ watchletter.mirthbay.in.net
 watchthisyear.gotdns.ch
 water-flow.needwatka.in.net
 water-log.midgetplunge.in.net
-water-network-node.rapidbrook.ru
 water-pipe5.to8varin.in.net
 water-pipe5.tov2liren.in.net
 water-stream-analysis.steadybrook.in.net
