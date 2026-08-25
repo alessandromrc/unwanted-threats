@@ -5286,6 +5286,7 @@ beach-view4.there-way.in.net
 beacon-mysummitfcu.org
 beacontrace.bond
 beacontweezersbinge.wiki
+beak.in
 beam-handler.cantileverbridge.in.net
 beam-logic.structuralcore.in.net
 beam-portal.isotopecleaner.in.net
@@ -11150,6 +11151,7 @@ dev-x4-host.plasmaviva.in.net
 dev-x44-host.petittravail.in.net
 dev-x7-host.petitniveaux.in.net
 dev.betway071.com
+dev.blendup.xyz
 dev.buchstapler.ch
 dev.clpcentr.world
 dev.coderlap.pics
@@ -17015,7 +17017,6 @@ gesmfesgs.abcdbro.com
 gestaltgenevelaurencehuber.ch
 gestisafe.ch
 gestoriatorres.com
-gestroom.it
 gestuet-brodersdorf.de
 gesundepflege-schick.de
 gesysuky.workers.dev
@@ -19917,7 +19918,6 @@ hzvvlqps.mechanicsayalat.xyz
 hzydyub.gutdrops-store.com
 hzyocvyc.en-us-slimsplits.com
 hzzgoxjvb.pdfbama.com
-i-love-git.com
 i-smartworld.com
 i.peer4you.net
 i08da.backyard.in.net
@@ -39116,6 +39116,7 @@ stati-fy.sbs
 static-cdn.digiframe.in.net
 static-cdn.digisphere.in.net
 static.cdns.space
+static.ilclock.com
 static.quorashift.cc
 static.slbc7890.shop
 static.sparechange.io
@@ -47228,7 +47229,6 @@ www.pocketfx.net
 www.poemsaboutmydeath.com
 www.pokerdom-kasinos-site.ru
 www.polsteraktuell.de
-www.polymarketapi.xyz
 www.primaltantra.com
 www.procleanair.ch
 www.produkt-3.de
