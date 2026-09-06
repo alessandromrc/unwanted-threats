@@ -1147,9 +1147,12 @@
 58win.band
 58win.boo
 58win.bot
+58win.builders
 58win.cfd
 58win.computer
 58win.fund
+58win.futbol
+58win.gifts
 58win.immo
 58win.institute
 58win.it.com
@@ -1852,6 +1855,7 @@
 8nyu2ajyyg.workers.dev
 8o8xcdx1.rockapp.digital
 8oes4jec.betfakade.com
+8oimtzfy.us-trumpgoldenbadge.com
 8omeu821.1xpin.casino
 8opocc30.1x303.casino
 8pdvcbgagm.localto.net
@@ -3531,6 +3535,7 @@ api.exastealer.com
 api.fivefingerz.dev
 api.gaority.ink
 api.global-net-admin-service.wiki
+api.go8.plus
 api.googlevv.com
 api.h1gh-l3v-aso-xyxi.xyz
 api.hdstlr.net
@@ -3556,6 +3561,7 @@ api.permanentothertheorist.com
 api.physiolpo1icy.lat
 api.pimparolix.com
 api.portimaloter.com
+api.qh88eu.com
 api.r0csgo.com
 api.rh7.ninja
 api.sametcanaltindal.online
@@ -4423,8 +4429,6 @@ ausicsckckkoaiaq.xyz
 aussieauctions.com
 austin-kimbermodernhotel.info
 austin-massage.com
-austro-hub.austrodouble.in.net
-austro02.austrodouble.in.net
 aut.bitflowapp.pics
 aut.clouditapp.pics
 autapigame2025.xyz
@@ -4588,7 +4592,6 @@ avfzq.maia-bentley.com
 avgfrfd.gorbio-echos.com
 avhbto.yasbet90.com
 avhepv.aapartman.hu
-aviammo.shop
 aviationtech.pl
 aviator-check.online
 aviele.gb.net
@@ -6093,7 +6096,6 @@ blogsaglik.net
 blogses.lat
 bloguc.com
 blolannindor.talnori.boats
-blood-unit.dialectblood.in.net
 blood04.dialectblood.in.net
 bloodhorn8123.icu
 bloodsafety.gov.bt
@@ -8719,6 +8721,7 @@ clip-stash.beer
 clip-ten.blowoff.in.net
 clip3-stream.buckish-nabere.lat
 clipfactor.hostingvar.in.net
+clipmagic.co
 clipse-cheats.net
 clipvale.dex9taren.in.net
 clipwes.crimsonridge.in.net
@@ -9005,6 +9008,7 @@ coachandkitchen.com
 coachingaccelerator.com
 coachingfutures.com
 coad-meadow-analytics-center.garden
+coal.albaikmenuonline.com
 coalwork.info
 coastallasercompany.com
 coastlinemirissa.com
@@ -11328,8 +11332,6 @@ dhzbii.usa--echoxen.com
 dhzuadd.hellothere.sbs
 di5pat-ring.prowinserv.in.net
 di8fisku.tinyzonetv.im
-dia-net.dialectblood.in.net
-dia-v5.dialectblood.in.net
 diabetescareth.com
 diablo3.hu
 diagazur.fr
@@ -11900,7 +11902,6 @@ dotprompt.digital
 dotransfert.com
 dottoressaparisiannalisa.it
 double-sync.austrodouble.in.net
-double-v6.austrodouble.in.net
 doubledavespizzatx.com
 doubledynamix.4nmn.com
 doucevie.today
@@ -12797,6 +12798,7 @@ edwinogoe.org
 edxkbtc.partyboxlovely.com
 edzgpr.n1ghtridge.in.net
 ee0xfh5z.certifiedairbalanceinlosangelesca.com
+ee155pkj.us-en-us--puraboost.com
 ee1ewv3.glen4mora.garden
 ee88-life1.com
 eebc669y.eng-us-puraboost.us
@@ -15569,6 +15571,7 @@ fondationinternationaletrokapercfa.org
 fondationmonumentsromains.nimes.fr
 fondazionesozzani.org
 fondmama.com
+fonij.cm
 fonni.net
 font6-face.norxelium.in.net
 fontanayoga.com
@@ -17336,6 +17339,7 @@ global-ship4.elephant-harv.in.net
 global-site6.lax8dorim.in.net
 global-site6.rol1erspeeding.in.net
 global-sports.fr
+global-stash.beer
 global-tax6.sylpi6ren.in.net
 globalafund.com
 globalantitheft.com
@@ -18646,6 +18650,7 @@ healthcareqai.com
 healthchatboard.com
 healthierliving.site
 healthy47.workers.dev
+healthysolid.com
 heap-lawcert.christmas
 hear-easy.com
 heartandshape.com
@@ -18750,6 +18755,7 @@ heragrup.com
 herault-elagage.fr
 herb-store.herbertrutt.work
 herbal-extract-processing.garden
+herbertdwyer.com
 herbscutsandolives.com
 heritagebookpublishing.org
 heritagelending.com.au
@@ -19255,6 +19261,7 @@ hotelier.id
 hoteljune2026.blogspot.com
 hotelk11.com
 hotelkeilir.is
+hotelkshitij.in
 hotelphotoadm.info
 hotelsalvevir.com
 hotelsignbkngguest.help
@@ -19484,6 +19491,7 @@ hucx.fortworthfarm.com
 hud2.com.vn
 hudaaldosari.com
 hudesakaganow.com
+hudovyu.sbs
 huduco.com
 hue3meshway.chromacorebit.garden
 huecitytours.com
@@ -19754,6 +19762,7 @@ ibauh.yanis.hu
 ibdav4vt.matchexact.in.net
 ibdd.briskvale.in.net
 ibefpe.com.br
+ibericacubiertas.com
 ibi.123ful.net
 ibi.sm188dnsxx.top
 ibizatattooconvention.com
@@ -20031,6 +20040,7 @@ ikyyuomqiayscmkg.xyz
 il2l4822.vex8talin.in.net
 ilayacare.com
 ildisabilitylawyer.com
+ileolubami.org.br
 ilgte.aivallalkozok.hu
 ilhvyrij.ipv4has-lampnew.cyou
 ilikecircumcised.com
@@ -20041,6 +20051,7 @@ illegalbeauty.de
 illiquidlabs.com
 illumemedia.peta8mora.bet
 illumewholes.capslock.in.net
+illuminatinwworldorder.com
 illurn-plate.eskimotsutsik.in.net
 ilmlvxt.lolsurpriseball.com
 ilmuo11292.workers.dev
@@ -20048,6 +20059,7 @@ iloveblondegirl.top
 iloveboats.st
 ilovepng.info
 ilovetobe.com
+ilovewithheart.com
 iloveyou.latelierduchocolat.com.mx
 iloveyou.usdtdomain.com
 iloveyoulucid.space
@@ -21575,6 +21587,7 @@ jyllmoqw.worldwde.in.net
 jymbrdt.drumoxel.in.net
 jyp2epby.vajename.xyz
 jyrighxw.prozhedownload.net
+jyrybi.workers.dev
 jysame.workers.dev
 jysozo.workers.dev
 jytiwyxi.workers.dev
@@ -22343,6 +22356,7 @@ koiwmmsceicqaweg.xyz
 kokkegioigaeggyu.xyz
 kokkpxut.jadoobet.vip
 kokymrgy2000.hopto.org
+kolaybet.club
 kolkataida.com
 koloosdas.life
 kolpa.lol
@@ -22530,6 +22544,7 @@ kul3dinteriors.com
 kulike.workers.dev
 kulnpioc.mabanishimi.xyz
 kulygo.workers.dev
+kuncislothoki.co
 kunenecoatings.co.za
 kunnskaping.no
 kuonnjkj.masirpayambari.xyz
@@ -22543,6 +22558,7 @@ kurtjacksonspeaker.com
 kushvillagecolorado.com
 kusslermartinho.adv.br
 kusuhuti.workers.dev
+kuwin.wang
 kuwwcojw.hugugmadani6.xyz
 kuxojy.workers.dev
 kuyquso.akharinbama.ir
@@ -26486,7 +26502,6 @@ morganstat.sbs
 morgvenn.store
 morkaj.bet
 morlies.com
-moro-sync.moroshkasvet.in.net
 moro4tix.digital
 moroccoanimalaid.com
 morocstay.com
@@ -30576,7 +30591,6 @@ picturequitting.monster
 picturesurprise.info
 pid3-check.qul7vexar.in.net
 pidor.catalogotrader.com
-pidoras6742-56928.portmap.host
 pidorsas.site
 piece5-load.prime-sector-unit.in.net
 piedmg3.zexon-plus.in.net
@@ -31864,6 +31878,7 @@ pull.valley-screen.click
 pull2taskhub.peta1vrix.bet
 pull7.motiondepot.one
 pullout.ezgateway.net
+pulsa188slot.co
 pulse-check.urbanflowmetric.in.net
 pulse-gate.stellarflux.in.net
 pulse-logic.neurobloom.in.net
@@ -32287,6 +32302,7 @@ qgrqy.business360.hu
 qgypyyvvzeouq.mospoqkzvk.com
 qh00u7b9.en-slimsounds.com
 qh3sff5j.thetrumptoken.org
+qh88.es
 qh88go.it.com
 qh88sun.com
 qh88vh.jp.net
@@ -35287,6 +35303,7 @@ sdpsychic.com
 sdsa.light-parcel.in.net
 sdsda.lat
 sdtawdiq.niliafshar.com
+sdufkghdfshds.cfd
 sdxore.lnlmotoring.com
 sdxzz21626.workers.dev
 se2lnidzfvts.org
@@ -38702,7 +38719,6 @@ svc5y.prime-media-gate.in.net
 svcd.tavro6xen.lat
 svcnode.net
 svenraben.de
-svet09.moroshkasvet.in.net
 svhost-update-service.casa
 sviaccelerator.com
 svirtual.sanviatorperu.edu.pe
@@ -40853,6 +40869,7 @@ trumplapelpin.us
 trumptokan.com
 trumpump.world
 trunanhal.balancoexpress.sbs
+trungnguyen.co.za
 trungnguyendesign.com
 trungtamfacebook.vn
 trungtammmo.vn
@@ -41808,6 +41825,7 @@ us-us-en-neurovera.com
 us-us-theeloncode.com
 us-us-us-biodentix.com
 us-us-us-blinzador.com
+us-us-us-cardioslim.com
 us-us-us-sightfresh.com
 us-us-usa-lipovive.com
 us-usa-burnflow.com
@@ -44976,6 +44994,7 @@ www.hwnp.org
 www.hxbgruop.com
 www.i4feaqo5h.xyz
 www.iadanzaimmobiliare.com
+www.icollagen.sk
 www.ikukuomagloballimited1.com
 www.ikukuomagloballimited2.com
 www.ikukuomalogistics.com
@@ -45226,7 +45245,6 @@ www.tuttoxpizza.ch
 www.twgxcc.art
 www.u2jlxcn8.shop
 www.uj3gb7q.shop
-www.uqr4lo1t.shop
 www.usaa-login-verify-usaa.chase-cvs.org.uk
 www.usemention.ai
 www.uwucraft.net
@@ -45239,7 +45257,6 @@ www.vhyafr5p.shop
 www.vidfree.net
 www.vijayawadaselfdrivecars.com
 www.vpn.startherepage.net
-www.vqpnhn8j.shop
 www.vuelaviajero.com
 www.w3waqyj3.shop
 www.wav92f55.shop
@@ -45511,6 +45528,7 @@ xfcv55u8.iraniporn.video
 xffoobdu.jamjahani2026.football
 xfgoob.memap.me
 xfktqi.villas-restaurant.com
+xflzi12337.workers.dev
 xfpjksx.fitfirst.net
 xfq2kf92.angizeshfarahani.store
 xfstunjg.fileboroo.com
@@ -46127,6 +46145,7 @@ yghqghh.lolsurpriseball.com
 ygitqw.digital360.hu
 ygjmeq.gregoryschreiercabinetmaker.com
 yglcd57639.workers.dev
+ygmyl768.us-us-us-cardioslim.com
 ygpl.1xgame.pro
 ygswcfd.sight--fresh.org
 ygttuct.laurelwoodacademyfarm.com
