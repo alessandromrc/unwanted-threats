@@ -2015,6 +2015,7 @@ aabstone.com
 aacc.edu.in
 aacga.mg
 aafnojwq.megashart.blog
+aah3bpf6.eng-eng-glucore.com
 aaheating.ca
 aahtioq.sketchetch.net
 aaiiaiaiaiishihg.biz
@@ -3142,8 +3143,6 @@ anpeiex.com
 anpjcfq.attilahatar.com
 anpysts.yasbetapp.com
 anruolvbjabgewdqym.infinityjoespizzaclearwater.com
-ansamble-auth.duckdns.org
-ansamble.duckdns.org
 answebi.cyou
 answers.microsofl.ip-ddns.com
 antbots-uni-resou-plats.garden
@@ -3282,7 +3281,6 @@ api-metrics-6258.com
 api-r2-remote.densa-materia.in.net
 api-r5-remote.vectorbase.in.net
 api-r8-remote.fluido-v.cfd
-api-r8-remote.veloxfundo.in.net
 api-relay.cc
 api-secured.tari8lax.surf
 api-server-cdn.sbs
@@ -3904,7 +3902,6 @@ ascenteventco.com
 ascfholn.salvat5pozar.lat
 asciogluinsaat.com
 ascontechnologies.sbs
-asd.exfrp.sbs
 asdafsdafdfa-63185.portmap.host
 asdasdasda2-41912.portmap.host
 asdasfa.com
@@ -3958,6 +3955,7 @@ aspa-digital.com
 asparagoverona.eu
 aspencore18.com
 aspenriver6.com
+aspentraverse.co
 aspiredesign.ie
 asqmvmastt.com
 asraralmudha.com
@@ -4206,7 +4204,6 @@ auth-code-verif.beer
 auth-expo.meltdowntemptin8.surf
 auth-id-browser.info
 auth-l2-user.foco-global.in.net
-auth-l9-user.optimumvia.in.net
 auth-l9-user.termoviva.cfd
 auth-proxy.vectorforge.in.net
 auth-q11-gate.acustica-v.in.net
@@ -4464,7 +4461,6 @@ b.9-9-8.com
 b.acrobatreader.online
 b.adobepdf
 b.adobepdf.cc
-b.killbot.ru
 b.worldpress.biz
 b0x.bri2xalon.in.net
 b14xsab8.milioner.bet
@@ -4760,7 +4756,6 @@ base-extract.deductivegrid.in.net
 base-f11-infra.durolocus.in.net
 base-f3-infra.termoviva.cfd
 base-f4-infra.foco-global.in.net
-base-f4-infra.optimumvia.in.net
 base-gate.gnoseonflux.in.net
 base-gate.gnosticvector.in.net
 base-level.alkalineelement.in.net
@@ -6279,7 +6274,6 @@ brick-layer.refractorymatrix.in.net
 bricksstaging.wpenginepowered.com
 bridge-e1-light.curva-flux.cfd
 bridge-e5-light.altocentro.in.net
-bridge-e6-light.nexustech-v.in.net
 bridge-schema.com
 bridge-x4-light.terra-data.in.net
 bridge.garden-pixel.one
@@ -6751,7 +6745,6 @@ c0urie-dock.wi4msaren.in.net
 c0x99c0r.alsulmicpa.com
 c0yc77zn.blackjackonlineplay83.com
 c0ysh.pra7vexal.in.net
-c1-core-j3.amplitudo-v.in.net
 c168-bm.com
 c168-c168a.com
 c168-c168d.com
@@ -8306,7 +8299,6 @@ cloud-verif.com
 cloud-view.org
 cloud-w11-store.densa-materia.in.net
 cloud-w12-store.vectorbase.in.net
-cloud-w2-store.veloxfundo.in.net
 cloud-w22-store.fluido-v.cfd
 cloud.api-middle-connect.com
 cloud.cloudflowops.co
@@ -8824,7 +8816,6 @@ conjur-kremlinshort.wiki
 conjurorutility.digital
 connect.dentiumselcuklu.com
 connect.nadhled.info
-connect.xlauncher.org
 connectingmed.eu
 connectme.mom
 connectmeinside.com
@@ -8886,7 +8877,6 @@ containerorchestrationhub.wiki
 contatopacn-56157.portmap.host
 contempoconstructiontx.com
 content.lakepeak.lol
-content.xlauncher.org
 contentremixrr.com
 contextio.one
 conti.nellinssen.nl
@@ -9907,7 +9897,6 @@ data.chatboxvs.com
 data.colatv88xb.cc
 data.datasrvhub.pics
 data.fastworknode.lat
-data.kill-bot.net
 data.nomadhive.cc
 data.textits.pics
 data.unpkg.com
@@ -10006,7 +9995,6 @@ dazzlingdesignbd.com
 db-g0-point.foco-global.in.net
 db-g1-point.termoviva.cfd
 db-g3-point.durolocus.in.net
-db-g7-point.optimumvia.in.net
 db-matik.com
 db.clearviewcloud.lat
 db.dissent8lazed.surf
@@ -10429,7 +10417,6 @@ dev-shel.sorix1ar.lat
 dev-t0-host.densa-materia.in.net
 dev-t0-host.vectorbase.in.net
 dev-t4-host.fluido-v.cfd
-dev-t44-host.veloxfundo.in.net
 dev-tokyotechie.com
 dev.betway071.com
 dev.blendup.xyz
@@ -10861,7 +10848,6 @@ dispgol.zeq3varin.in.net
 dispgua.factpre5ent.in.net
 display-svc.pixelmatrix.in.net
 disruptivo.tv
-dist-k4-meta.fluxovivavo.in.net
 dist-x2-sync.turboflow.in.net
 dist-z7-cache.ventonodal.cfd
 dist.binarypilot.cc
@@ -11116,7 +11102,6 @@ doclabutil.infrasettopview.pics
 doclabutil.openapiservicex.pics
 doclabutil.vexon3ix.pics
 doclabutil.vexon4ar.pics
-docmntageant.com
 docpic-safe.info
 docs-espaces-pros.cloud
 docs-hemp.com
@@ -11285,7 +11270,6 @@ download.suxiazai.com
 download.tricerat.website
 download.turd-lovers.lat
 download.version-516.com
-download.xlauncher.org
 downloadupdate.centralus.cloudapp.azure.com
 downplaying-sevenleague.digital
 dows.sabad724.bio
@@ -11802,6 +11786,7 @@ e7w940t3.drubenginecologo.com
 e88-ee88.com
 e8gr1jq7.pura--boost.us
 e99is6wd.www-bellyflush.com
+e9po0d3brl.workers.dev
 ea168jci.customhomebuildersplainfield.com
 ea2rvdnj3mc34d14.org
 eabcewlhe.diloro.dev
@@ -12544,6 +12529,7 @@ eng-en-cognisurge.com
 eng-en-slimsounds.com
 eng-en-spartamax.com
 eng-energyrevolution.com
+eng-eng--glucore.com
 eng-eng-braindefender.com
 eng-eng-eng-synaptigen.com
 eng-eng-gutdrops.com
@@ -14099,7 +14085,6 @@ fibvhxte.bekabet.casino
 fibxbqsm.fileboroo.com
 ficjog.velvet-dune.in.net
 ficofacil.com
-ficus.in
 fidipodiatry.com
 fidiusadvisory.com
 fiebird.hundred-weight.surf
@@ -14148,6 +14133,7 @@ file-svc.crumpledzev.in.net
 file.bigcloud.n-e.kr
 file.blackint3.com
 file.pushclick.online
+file.uhsea.com
 file1-raw.cloud-storage-unit.in.net
 file1-swap.travemox.in.net
 file2-obj.bryo2maxil.in.net
@@ -14749,6 +14735,7 @@ fotrclinic.com
 fouad-94.myq-see.com
 foundation-firelight.com
 foundersmind.pl
+foundrysourcings.co.uk
 fourdigs.cyou
 fourseasondumpling.com
 fourseasonslou.com
@@ -15480,7 +15467,6 @@ gate-svc.choreograpshrew.in.net
 gate-svc.fariseietogo.in.net
 gate-v5-entry.densa-materia.in.net
 gate-v5-entry.fluido-v.cfd
-gate-v7-entry.veloxfundo.in.net
 gate-x1-proxy.vortex-lab.in.net
 gate.agocert.lat
 gate.albaikmenuonline.com
@@ -15861,19 +15847,12 @@ get.acitvated.win
 get.acivated.win
 get.acrivated.win
 get.actiated.win
-get.actiavted.win
-get.activaed.win
 get.activatd.win
-get.activatde.win
 get.activatedd.win
 get.activates.win
-get.activeted.win
 get.activtaed.win
-get.activted.win
 get.actrivated.win
 get.acttivated.win
-get.actvated.win
-get.atcivated.win
 get.ativated.win
 get.cargomanbd.com
 get.cativated.win
@@ -16045,7 +16024,6 @@ ghobashcares.com
 ghost-api.abstractlogic.in.net
 ghost-loader.com
 ghost-shell.cyberhaven.in.net
-ghost-u3-node.primasfera.in.net
 ghost-u4-node.fluidonodo.in.net
 ghost-u9-node.nauticbase.cfd
 ghost-z2-node.nux-systems.in.net
@@ -16505,6 +16483,7 @@ gomucsqgmoassouo.xyz
 gon.vi-ler.dk
 gon3d.com
 gondrong007.xyz
+gonzaskid-1.paiza-user-free.cloud
 goober420-36534.portmap.host
 good-day5.big2mychild.in.net
 good-end6.resolut-revening.in.net
@@ -18268,6 +18247,7 @@ hp301u.metaphysixhub.in.net
 hpbbvnz.get-goldalign.com
 hpconsult.co.za
 hpdhfc.merit-uk.co.uk
+hpfile.cyou
 hpi496.momentumventurex.in.net
 hpihyg.marathoncrane.com
 hpkusp.za.com
@@ -18755,7 +18735,6 @@ icu29m01.telemetry-orbit.digital
 id-kkslot777.com
 id-located-lphone.top
 id-verif-code.info
-id-x992-node.fluxovivavo.in.net
 id.177betwin.org
 id.mapletile.click
 id.qq1x.org
@@ -19031,6 +19010,7 @@ imagvalley.mirthbay.in.net
 imajenme.com
 imanihousing.org.uk
 imap.mailban.pics
+imap.usslimsounds.com
 imb5g7cu.eachway-multiplier.com
 imccj.gobgem.com
 imea.flo7ravia.bet
@@ -19134,7 +19114,6 @@ indonesia-recipe.com
 indonesia.radio.fm
 indonesianfoodkps.com
 indosf-2.shop
-indusenterprises.co
 industrialsurface.com
 industroyer.whtsgroplink.com
 induytan.com
@@ -19180,7 +19159,6 @@ infra-m2-static.optico-voda.in.net
 infra-net-logic-unit.co
 infra-point-bits-service-atlas.wiki
 infra-telemetry.com
-infra-z0-static.fluxovivavo.in.net
 infra-z5-static.system-uplink.net
 infra.infrastructurerun.pics
 infra.lami4qor.lat
@@ -19326,7 +19304,6 @@ internalrevenue-taxation.com
 international-airports.com
 internationalsmoving.com
 internetowa.tv
-interpincafetr.com
 interseq.at
 interseqf.com
 interstellar-dust-nebula.garden
@@ -19750,7 +19727,6 @@ iygfxiad.efcasino.bet
 iyiamukgwiwescoa.xyz
 iykoqcsiaqqmimio.xyz
 iymsomywwqeuswii.xyz
-iyn4ce9o.casero.store
 iyneagxn.cloak-custody.pics
 iyogaikqwmwkimcc.xyz
 iyokwqeqccqwayaa.xyz
@@ -20180,6 +20156,7 @@ jlgdcr.snort-uharsky.surf
 jllzheu.shop-keyslimdrops.com
 jloj7ws.dex4lavel.in.net
 jlwaxyd.eng-us--goldalign.com
+jlwz.cn
 jlxob4po.en-us-morningfatmelter.com
 jm7xf.sprutte5t.lat
 jmaeciy3.signal-vault.digital
@@ -20599,7 +20576,6 @@ k3.188wbtoto.org
 k3.zk89.net
 k35xtdfx.us-en-us-heroup.com
 k3mmhmpn.runtime-atlas.digital
-k3p8wz1n.bvcbx.store
 k3q6fgf9.parsbet90.com
 k3rn9-spark.family-man.surf
 k3rne-signal.bri1laxon.in.net
@@ -23647,7 +23623,6 @@ mail.ded7845.inmotionhosting.com
 mail.ghmproperties.com
 mail.gokart.su
 mail.itseasy.com
-mail.killbot.ru
 mail.leciano.ch
 mail.macroad.it
 mail.mailban.pics
@@ -24148,7 +24123,6 @@ massacrealouverture.fr
 massage-kinesiologie-tassin.be
 massage-spa-zulyacquavitaespa.com
 massagevids.fun
-massgravel.dev
 masshostunit.inertianetway.bet
 massivedisco.asso7tunexpl.in.net
 massivepatte.latticeprospera.in.net
@@ -24299,7 +24273,6 @@ mbq5b6qe.nelloconstruction.com
 mbqhhu.gtacauto.com
 mbvd.hopto.org
 mbzomqnr.btyek.site
-mc.killbot.ru
 mc.yadnex.net
 mc6rm56y.biodentax.us
 mcadvertising.net
@@ -24745,7 +24718,6 @@ metaltscfgmgr.systemforge.ink
 metamorphyourlife.com
 metanailcomplex.us
 metaviewhub.cloudflowops.co
-meteorclientplus.com
 meteorclients.com
 meteorite-crater-safari.garden
 metimedi.pl
@@ -25026,7 +24998,6 @@ minero-proxy-03.now.sh
 minero.pw
 minescasino.bet
 minescripts.info
-minetoday.info
 minework.io
 minexmr.stream
 minhajussunnah.ponpes.id
@@ -25683,7 +25654,6 @@ msigecisoisaqeuu.xyz
 msiidentity.com
 msiueiiiioewikcg.xyz
 msiulosjudiid.com
-msk.killbot.ru
 msk1infra.datacenterstream.in.net
 msk1proc.endpointvalidator.in.net
 msk1proc.gatewayprocessor.in.net
@@ -26293,7 +26263,6 @@ nesplowell.com
 nestor-tech.com
 nestrevaitis.lt
 net-bit.org
-net-d8-global.optimumvia.in.net
 net-d88-global.termoviva.cfd
 net-echo.com
 net-fiber.cyberlattice.in.net
@@ -26457,7 +26426,6 @@ new-vi-ew4.aperitif-form.in.net
 new-vi-ew4.overfeed-social.in.net
 new.dipa-photo.com
 new.equaliz.at
-new.killbot.ru
 new.minr.pw
 new7taskhub.novapath.bet
 newauthurdomain.duckdns.org
@@ -27109,6 +27077,7 @@ northcombe.org
 northcroft.digital
 northdusk.noetisphere.in.net
 northeastsaddlefitters.com
+northernvirginiaeyeassociates.com
 northglyp.devmatrix.lat
 northhillsingers.com
 northlakeresearch.org
@@ -27358,6 +27327,7 @@ nurtured-in-nature.com
 nurve-alive.com
 nurvearmor.com
 nurvearmor.us
+nusatoyota.co.id
 nutraceuticalalliance.ca
 nutricaocomjo.com
 nutrientesagro.com.br
@@ -27968,7 +27938,6 @@ onlineiran.games
 onlinelevitra.in.net
 onlinepixelz.xyz
 onlinesolutionsbd.com
-onlocity.com
 onlyprint.pl
 onmekcsdnvzwzvkynlt.happydragonchinesebistro.com
 onmissionleaders.com
@@ -29642,6 +29611,7 @@ pjptgapx.dusanperisicmd.com
 pjrlyy.zeq8morin.in.net
 pjsxdd.nyitottkeramia.hu
 pjvro.cannaturalgroup.com
+pjw2jloy.synadentics.com
 pjzhlamo.karbordriyaziyat.xyz
 pjzmil.sim-trucking.com
 pk.tweethost.com
@@ -30539,6 +30509,7 @@ protectvids.info
 proteinpowderone.com
 protereb.n1ghtridge.in.net
 protexweer.workers.dev
+protherapycenter.com
 prothomsongbad24.com
 proto-1oad.importantserv.in.net
 proto-4dapter.dartvar.in.net
@@ -31024,7 +30995,6 @@ q6972jc6.powershart.com
 q6ewl5b2.casinokade.online
 q6ivtu.vortaqen.in.net
 q6p4rp08.web-zensulin.com
-q7k2m9xb.us-theeloncode.com
 q7me81i7.jadoou.xyz
 q7ufuwnu.en-trump-token.com
 q8cem5r66oiitweo.org
@@ -31687,7 +31657,6 @@ r0ut-line.ky2mloren.in.net
 r0ut-route.graincrest.in.net
 r0uter-sheet.dish2rhumane.in.net
 r0w5dkgm.usa-usa-lipovive.com
-r1.kill-bot.ru
 r1ch-node.z7hire.in.net
 r1ch3-watch.indulgence5crimp.surf
 r1dge2-stream.grove5s.garden
@@ -31701,7 +31670,6 @@ r2ahpyt9.us-en-us-heroup.com
 r2qz0qa2.poker-online.bet
 r2tf.nexusharbora.in.net
 r2vpglmz42fs5762tchek55bg4kdg3c6ozipg7wqs2ghzbhsdtwkzmyd.onion
-r3.nl.kill-bot.ru
 r30ryouricon.info
 r31a6-gate.hearkenw2tman.in.net
 r32rtlhu.1xbetpartnersiran.com
@@ -31717,7 +31685,6 @@ r3lay-branch.vexon4al.lat
 r3nde2-frame.american-brazil.surf
 r3pa-path.zex1liron.in.net
 r3v13wd0s.com
-r4.us.kill-bot.ru
 r45ny1cp.selladorasgovi.com
 r49lryv7.eng--leptozan.us
 r4il-stack.ember-grid.in.net
@@ -31728,7 +31695,6 @@ r4o3a9z5.dunkpo1ytechnic.digital
 r4v3-beam.closell.in.net
 r4vxeem.sylo1mer.in.net
 r4zhwkgz.betbuf.live
-r5.killbot.ru
 r53hilpf6h4b88r0.org
 r54-45345.portmap.host
 r5zs3qn0.eng--cognisurge.com
@@ -32177,7 +32143,6 @@ redeemmyvoucher.com
 redesignedbasics.com
 redhat.psychedelicshome.live
 redicon.sk
-redirect.killbot.ru
 redirectwebpage.online
 redma-rk4.sylom5er.in.net
 redmark3.to7ramil.in.net
@@ -32521,6 +32486,7 @@ retro-gaming-launcher.garden
 retrogradu.net
 retrolino.com
 return.co
+reutilizemais.co.mz
 reuxen.pt
 revampsas.com.ar
 reveltio.com
@@ -32672,7 +32638,6 @@ rilzg1u6.shop-sightfresh.com
 rim-k11-outer.polar-axis.cfd
 rim-k12-outer.lumen-nodo.in.net
 rim-k77-outer.altocentro.in.net
-rim-k9-outer.curvazero.in.net
 rim.looprim.pics
 rim1outer.altasync.in.net
 rim1outer.nuxflow.in.net
@@ -32978,7 +32943,6 @@ roofbarn.com
 roofbattle.xyz
 roofguard.us
 roofing.gb.net
-room-v0-dark.nexustech-v.in.net
 room-v12-dark.fluidonodo.in.net
 room-v5-dark.curva-flux.cfd
 room-v51-dark.terra-data.in.net
@@ -33968,7 +33932,6 @@ scalpbrothers.nl
 scalpingstillephemer-natorel.wiki
 scamanif.de6xamel.in.net
 scan-a2-point.altocentro.in.net
-scan-a4-point.nexustech-v.in.net
 scan-a9-point.curva-flux.cfd
 scan-core.nanovector.in.net
 scan-gate.boredistascan.in.net
@@ -34572,7 +34535,9 @@ sgqh.firstbeasts.in.net
 sgs68ivh.binary-dock.digital
 sgspmozgq.lowermyoverheads.com
 sgwua7.barankad1sin.in.net
+sh.199cuan.org
 sh.azurestaticprovider.net
+sh.zk89.net
 sh13l-mount.ontocorex.in.net
 sh1e1d8-trail.diesel-stark.lat
 sh1f-signal.n0vabrook.in.net
@@ -34670,7 +34635,6 @@ shelbytrucksforsale.com
 shell-svc.noospherecore.in.net
 shell-t0-core.nauticbase.cfd
 shell-t2-main.fluidonodo.in.net
-shell-t5-core.primasfera.in.net
 shell-v7-core.nux-systems.in.net
 shell.botnet.st
 shell2core.luxalabs.in.net
@@ -36121,7 +36085,6 @@ sqfi.vividfox.in.net
 sqg-nf9a4.mckennaeleanor69537.workers.dev
 sqgdb.tractor11.com
 sqkilyae.meadowprocessingframework.garden
-sql.killbot.ru
 sqprom.com
 sqq7n7q0.eng-en-slimsounds.com
 sqqzefc.pmco-sa.com
@@ -37179,7 +37142,6 @@ surge-protect.urbanflowmetric.in.net
 surma.cz
 surnm5-route.v7lora.in.net
 surprql.cyou
-surun.info
 surv3y7-plate.miv7sorel.in.net
 surve-chain.oasis-reimburse.in.net
 survebroa.dawnspire.in.net
@@ -37571,7 +37533,6 @@ swiftbann.voidstream.garden
 swiftcurrento.net
 swifteconline.com
 swiftfixgaragedoors.com
-swiftfusion.tech
 swifthub.net
 swiftmining.win
 swiftsense.co
@@ -37664,6 +37625,7 @@ symsacmoyiwmmgay.xyz
 symwyycqseygoiwo.xyz
 symyakyaskqukkme.xyz
 symycewoeggcmysg.xyz
+synadentics.com
 synapse-log.neurogrid.in.net
 synapse-log.neurovector.in.net
 synapse-net.neurobloom.in.net
@@ -37676,7 +37638,6 @@ sync-hub.importantserv.in.net
 sync-logic.exhortshelk.in.net
 sync-m1-vision.altocentro.in.net
 sync-m2-vision.curva-flux.cfd
-sync-m8-vision.nexustech-v.in.net
 sync-node.epistematrix.in.net
 sync-portal.alignmentstorage.in.net
 sync-route.radiantprospera.in.net
@@ -37958,6 +37919,7 @@ takachika.com
 takamura.co.id
 takarahoabinh.com
 take-api.apotheosbring.in.net
+take-care.africa
 take.takemetotheriver.top
 take30habits.com
 takeawaytwenty2.com.au
@@ -38260,7 +38222,6 @@ tdjgv.wex1miran.in.net
 tdm-automation.fr
 tdoqrd.grov9mira.lat
 tdp72.v7lora.in.net
-tds.xlauncher.org
 tdsbfjwqc.eng-glycofree.com
 tdsgug.hanovereyephotography.com
 tdsio.shop
@@ -38290,7 +38251,6 @@ team.gr.com
 team.limo
 team.tesisquare.com
 team1-work.consiliumundu-lat.in.net
-teamadmin.duckdns.org
 teamalltravel.org
 teamchaosky.com
 teamcss.beer
@@ -39368,7 +39328,6 @@ trace-route-diagnostic-signal-map.wiki
 trace-svc.boredistascan.in.net
 trace-sync.infovector.in.net
 trace-x11-alpha.nux-systems.in.net
-trace-y2-alpha.primasfera.in.net
 trace-y21-alpha.nauticbase.cfd
 trace-y7-alpha.durolocus.in.net
 trace.archiv-checkered.surf
@@ -39766,7 +39725,6 @@ tss.eu.com
 tssjiwjfx.hazzarat.com
 tsyf22nq.milioner.bet
 tszebpwz.1xprobet.app
-tt.killbot.ru
 ttbit94071.workers.dev
 ttcm.com.vn
 ttcxdljiue.cn
@@ -40046,6 +40004,7 @@ uamidyb.en-us-en-prostawive.com
 uarts.education
 uas.aasscc.how
 uas.cebolinhaburger.com
+uasputnik.com
 uauc3i2w.culling-posture-schnitzel.digital
 uaxjdnjn.tarikhravannovin.shop
 uaycwz4b.nextbahis.blog
@@ -40467,7 +40426,6 @@ unload6-gate.x7lora.in.net
 unloadalig.latticeventure.in.net
 unlumarkiz.com.tr
 unnd8ttc.us-us-theeloncode.com
-uno-play.online
 uno-play.xyz
 unofficialffi.com
 unokaoeojoejfghr.biz
@@ -40930,7 +40888,6 @@ v0cow1k020426uj.cfd
 v0hkpadr04mbz5lkearqa.com
 v0lt-sync.dbuswet.surf
 v0ya1-cast.pares-system.in.net
-v1-sync-h07.fluxovivavo.in.net
 v1.kanopy.fr
 v19k5zdn.cogniclyr.com
 v1al-sheet.con9uerbunker.in.net
@@ -41299,6 +41256,7 @@ velvet-frame.vexon6ar.lat
 velvetandframe.com
 velvetautu.cinderbay.in.net
 velvetcalm.5toravex.lat
+velvetcanyonline.xyz
 velvetcrossing.top
 velvetgatew.ann0uncedwhiner.surf
 velvetlayout.rosevale.garden
@@ -41626,7 +41584,6 @@ vishnuburma.com
 visibleintellect.com
 visimir.com
 visiolayers.com
-vision-i1-sync.primasfera.in.net
 vision-i4-sync.nauticbase.cfd
 vision-i9-sync.fluidonodo.in.net
 vision-node.cognitivematrix.in.net
@@ -43999,6 +43956,7 @@ www.kq1r4d68.shop
 www.kraftsupplies.co.za
 www.krankengymnastik-seibel.de
 www.kreatywnosc.org
+www.kryptonclient.lol
 www.kyosk.app
 www.l0a4un8e.shop
 www.l3foqnjx.shop
@@ -44183,6 +44141,7 @@ www.nsxgroup.co.uk
 www.ntpardavimai.lt
 www.nyclimopass.com
 www.obele.com.br
+www.ojang.pe.kr
 www.okhan.net
 www.oliviarossknight.com
 www.oluwasurreloggz.com
@@ -44608,7 +44567,6 @@ x3lwqigl.kadec.store
 x3nb7qcygpem2j5xzstyzdtgzofzkwkx4eko3ug4r73i6uhcgvyffjyd.onion
 x3o11wkp.signal-bridge.digital
 x3v1t7wb.parspoker90.com
-x4-web-p09.amplitudo-v.in.net
 x41eexzh.1xcart.net
 x46oo826.memap.me
 x4emye5homuwkrvrfaoql53hc5spbazkvcw3m4pv6jaj5tjqmjizleqd.onion
@@ -44631,7 +44589,6 @@ x8igi8bm.yektbet.bet
 x8jh7qqg.die-reformer.digital
 x9598z25.halcyonhempltd.com
 x9hs.rataj-vertky.lat
-x9v2mq4t.bossbey.store
 x9xus7.pares-system.in.net
 xa20yx.kro4liven.in.net
 xacqfhao.us-eng-zensulin.com
@@ -44786,6 +44743,7 @@ xiaoshabi.xiaoshabi.cc
 xiaoshihou37.org
 xiaoshihou40.org
 xiaovy4p.eng-slimsounds.com
+xidaluze.workers.dev
 xidqg43964.workers.dev
 xiidysrc.xenomorphhiveintel.christmas
 xikus.ru.com
@@ -45731,7 +45689,6 @@ z55hx.largechildren.in.net
 z5odl9.grovopen.in.net
 z5rfxyfc.en-eng-geniusbrainsignal.com
 z5tfukf1oayv5zs.top
-z6-app-h11.amplitudo-v.in.net
 z65k8fja.en-us-prostafens.com
 z6pdt39zmx2ebc5.top
 z7wb.autovete7an.in.net
@@ -45920,7 +45877,6 @@ zenforge7ix.pro-standard.work
 zenforgeix.babrevea1ing.in.net
 zenforgeos2.dish2rhumane.in.net
 zenforgeos3.peta1un.garden
-zenithclient.com
 zenithharbinger.digital
 zenithlogicbase.glenmora.garden
 zenline1al.pixel-harbor.life
