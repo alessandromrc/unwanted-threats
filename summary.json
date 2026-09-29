@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-29T22:00:41.598Z",
+  "generated_at": "2026-09-29T23:00:38.633Z",
   "total": {
     "ips": 126000,
-    "hosts": 45786,
+    "hosts": 45780,
     "networks": 126052
   },
   "per_feed": [
@@ -33,11 +33,11 @@
       "url": "https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt",
       "type": "plain_ip",
       "counts": {
-        "ips": 0,
+        "ips": 5,
         "hosts": 0,
         "networks": 0
       },
-      "error": "Failed to download https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt: 504 Gateway Time-out"
+      "error": null
     },
     {
       "name": "urlhaus_hostfile",
@@ -67,7 +67,7 @@
       "type": "hosts",
       "counts": {
         "ips": 0,
-        "hosts": 45117,
+        "hosts": 45110,
         "networks": 0
       },
       "error": null
