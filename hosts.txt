@@ -4909,7 +4909,6 @@ bistrotdelasaulaie.fr
 bit-fox.mav2terol.surf
 bit-fox.mav7loren.surf
 bit-stream.logicstream.in.net
-bit-stream.quantacircuit.in.net
 bit-weave.logicalfabric.in.net
 bit.fastbitbox.pics
 bit.vpsgateway.pics
@@ -5748,6 +5747,7 @@ brownhc.cyou
 browningconsultingtexas.com
 brownpeachx.com
 browscheck.codes
+browseid.codes
 browser-hazard.gl.at.ply.gg
 browsermine.com
 browserperplexity.com
@@ -23011,7 +23011,6 @@ mind-api.obsessivescum.in.net
 mind-data.noeticstream.in.net
 mind-hub.cogniversehub.in.net
 mind-node.neurogrid.in.net
-mind-node.neurovector.in.net
 mind-stack.cognitivematrix.in.net
 mind-sync.noetisphere.in.net
 mind-sync.noospherecore.in.net
@@ -26613,7 +26612,6 @@ packbind.kym2lirex.in.net
 packet-cascade.digital
 packet-distribution-core.christmas
 packet-flow.logicstream.in.net
-packet-flow.quantacircuit.in.net
 packet-frontier.digital
 packet-lattice.digital
 packet-orbit.digital
@@ -29229,7 +29227,6 @@ quasartrafficnet.lol
 quatangtaydo.com
 quauuacgeausqkgy.xyz
 quawuacegiemokis.xyz
-qubit-sync.quantacircuit.in.net
 quccwsymamiwgiew.xyz
 quebecsereinhalcyon.com
 quederry.com
@@ -33544,7 +33541,6 @@ spedus.fortene7vous.in.net
 spee.ecryptobits.com
 speech-svc.dialectdozing.in.net
 speed-optimizer.com
-speed-test.quantacircuit.in.net
 speedotrade.com
 speedpi12321.xyz
 speedquizzing.com
@@ -36077,6 +36073,7 @@ theroadhogs.com
 theroaringbear.com
 therodeoroundup.com
 theroyalpizza.com
+thesalons.in
 thesamba-viewpicture.com
 thesarsangroup.com
 thesepco.com
@@ -36178,7 +36175,6 @@ thought-api.noetisphere.in.net
 thought-api.noospherecore.in.net
 thought-hub.cognitivematrix.in.net
 thought-hub.neurogrid.in.net
-thought-hub.neurovector.in.net
 thovelvet.task7force.work
 thre-thic.pav1mirex.lat
 threa-moon.to9varem.in.net
@@ -40353,6 +40349,7 @@ wordc.ga
 wordfluxa.com
 wordpress-zakelijk.strijbosch.nl
 wordpress.maartendevoldere.be
+wordpress.pullstack.cloud
 wordpress.soulapp.me
 wordpresslogin.kinsta.cloud
 wordsmithworx.com
@@ -41356,7 +41353,6 @@ www.zt9398net.online
 www2.hollywoodgulfcoast.com
 wwwev70243.workers.dev
 wwwvbcsajmj.cn
-wwww.pqpicc.com
 wwwydzo.penaltibazi.com
 wwyik.dependint7amur.in.net
 wx3wxihq.norxelav.in.net
