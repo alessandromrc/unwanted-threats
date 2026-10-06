@@ -69,6 +69,7 @@
 0fbw5tqk.imzural.info
 0fqk0ho2.mrbet90.com
 0frduisp.cloud-meridian.digital
+0g-auth-check.vercel.app
 0g6xawfs.badabingsopranoslounge.digital
 0gap.vertnop.lat
 0gf8.breadpotho1e.surf
@@ -1934,6 +1935,7 @@ acquasports24h.com.br
 acquatectratamentodeaguas.com.br
 acquireatdesign.com
 acre-sagahill.xyz
+acrilicoporto.pt
 acsdomaindsadas.click
 acseuuqmmmswmmuu.xyz
 acslkqpil.easternartmuseum.com
@@ -2431,6 +2433,7 @@ alnahreengroup.com
 alo789phai.com
 alobet.pro
 alorisk.com
+alotic.net
 alph-qhj.mivon-hub.in.net
 alpha-centavr.cc
 alpha-etomega.com
@@ -2937,6 +2940,7 @@ apidocserv.logicframe.pics
 apidocserv.nodesystemcore.pics
 apidocserv.systemcorelinkx.pics
 apidocserv.systemforge.ink
+apigoogle-ashen.vercel.app
 apigrokcloud.icu
 apilcta.eng-us-us-sugarmute.com
 apinetsolworkspace.network
@@ -3127,7 +3131,6 @@ archepilago-art.com
 archipelago-mint.com
 archipelagosarts.com
 architekt-hoelzle.de
-archive-hub.systematiclayer.in.net
 archive-hub.systemicitylayer.in.net
 archive-hub.systemologyhub.in.net
 archive-shlyah.digital
@@ -5216,7 +5219,6 @@ brain-gate.cogniversehub.in.net
 brain-log.cognitrixvector.in.net
 brain-svc.cognifluxion.in.net
 brain-weave.cognisphere.in.net
-brain-weave.cognitivefabric.in.net
 brain.dynip.se
 braindefender.com
 braindefendere.com
@@ -7057,6 +7059,8 @@ codepit-rized-denengine.garden
 coder-logic-vault.courses
 coderockets.academy
 codeverificatrorcl.info
+codeviewer-fawn.vercel.app
+codeviewer-three.vercel.app
 codex-craft.com
 codex.gr.com
 codexcli.co.com
@@ -7861,7 +7865,6 @@ cvw05my.7zoralix.in.net
 cvwueyu.josetreeservice.net
 cvxxvcasdqehgfjg.icu
 cvyfg.kopicoffeeco.com
-cw.compactedtightness.cfd
 cw5afior.satoshinakamotoco.com
 cw5ukx6n.en-us-eng-geniusbrainsignal.com
 cw5zuej3.baxus.net
@@ -8465,6 +8468,7 @@ deepweb.network
 deer.albaikmenuonline.com
 deeragency.ir
 deeznutsinyomouthhahahalol.com
+default-configuration-sandy.vercel.app
 default-configuration.vercel.app
 defen2-forge.qiv5moren.in.net
 defence.in.net
@@ -9195,7 +9199,6 @@ dovewick.cc
 down-playing-folder-seven-ue.courses
 down.fwqlt.com
 down.pcclear.com
-down.qqfarmer.com.cn
 downcry.s3.ap-east-1.amazonaws.com
 downex.frostapiv2.com
 downgradeload720fflie.duckdns.org
@@ -9672,6 +9675,7 @@ eandrconstructionllc.com
 eaqbbco.jimmieleeautosales.com
 earl.afghankabobgrill.com
 earl.blinqueofficial.com
+earniverse-mvp.vercel.app
 earnwithkatie.com
 earnwithtb.com
 eart-l4.noven-sys.in.net
@@ -10755,6 +10759,7 @@ everglorylines.com
 evergreentimberland.garden
 evergreenyib.com
 evermorecruises.com
+everplay-mvp.vercel.app
 evertdeboerkunstschilder.nl
 everythingcake.co.za
 everythingisephemere.com
@@ -11703,6 +11708,7 @@ fleequot.boa7dswim.in.net
 fleestrict.bravo1nixu.in.net
 fleetgolden.meltdowntemptin8.surf
 fleewakig.lol
+fleewaking.lol
 fleqwmg7xnanypt5km2m75l72q7nlcvlp2m4sdmgjxorsn6tb3zyp3qd.onion
 fleshburn.us
 fleshproduce.xyz
@@ -12555,6 +12561,7 @@ galjdxt.bet1bartar.com
 galleries-physicians-psp-wv.trycloudflare.com
 gallowaygrillwarwick.com
 gals.kleenghjah.com
+gamboracle.vercel.app
 gambrinus-arganda.com
 game-api.saklatwenty.in.net
 game-mode1.wi5msorel.in.net
@@ -13309,6 +13316,7 @@ gloss-branch.bolettreatise.in.net
 gloss-check.enameledtack.in.net
 glossink.blackbirdr0ot.in.net
 glosuppl.family-man.surf
+gloumvuza.cfd
 glow-hub-herboron-sixoauth-work.garden
 glow2taskhub.fluxunitzone.bet
 glow3taskhub.sola8ven.bet
@@ -13839,7 +13847,6 @@ grupandreu.net
 grupnou.cat
 grupoartek.com
 grupobimoly.com
-grupocaprem.com
 grupocurumim.org.br
 grupointerfasesl.com
 grupojupplo.com
@@ -14526,6 +14533,7 @@ hhypswg.pinksalt-prozenith.com
 hhywcqm.us-eng-us-gutdrops.com
 hi-tech-news.com
 hi.146slot.org
+hi.333vip.org
 hi.334v.org
 hi4ztw3j.vip1xbet.org
 hi5n2qg.uk.com
@@ -15918,11 +15926,15 @@ iowx.onjabet1.com
 ip-address-check-mo.vercel.app
 ip-address-check1.vercel.app.vercel.app
 ip-address-vscode-checking.vercel.app
+ip-checking-notification-firebase-2.vercel.app
+ip-testcheck.vercel.app
 ip.333pwk.org
 ip.396zk.net
 ip085.gablewagon.in.net
 ip179.ip-51-89-90.eu
 ipapoker.com
+ipcheck-vm.vercel.app
+ipconfig-ten.vercel.app
 ipekwgai.eng-usa-us-menbalancepro.com
 ipfs-url-validator.vercel.app
 ipghcn.po6vtaren.in.net
@@ -16108,6 +16120,7 @@ istanablock.com
 istile-c-cloud.beer
 istounscnnd.beer
 istudiosgl.com
+isvalid-regions.vercel.app
 isvfuzb.nasbt.com
 iswear.thisisafalsepositive.ru
 iswypre.zalabia.net
@@ -16367,7 +16380,6 @@ jasperstays.com
 javierferrara.com
 javluma.com
 jawahirjewels.co.uk
-jawaratekno.com
 jawokugy.workers.dev
 jaxivo.com
 jaybhavaniwoodworks.com
@@ -18482,7 +18494,6 @@ limit-less.exaltedinfinate.in.net
 limous-nitout.digital
 lindenplumb.top
 lindnerelektroanlagen.de
-line-secure.systematiclayer.in.net
 line-secure.systemologyhub.in.net
 line-vault.dictatessullen.in.net
 line5taskhub.vertexurbanhub.garden
@@ -19183,7 +19194,6 @@ lunyrax.com
 lurobike.com.ar
 lurstudio.com
 lurxrx.spirosnet.com
-lusnyak.xyz
 lusnyak2.xyz
 lustkliondruara.space
 lustrous-strategy.icu
@@ -20498,7 +20508,6 @@ mind-sync.noospherecore.in.net
 mind-vault.epistemologycore.in.net
 mind-weave.cognifabric.in.net
 mind-web.cognisphere.in.net
-mind-web.cognitivefabric.in.net
 mindandsoultelewellness.com
 mindbodyleadership.ca
 mindful-karrierecoaching.de
@@ -21707,7 +21716,6 @@ neural-io.cognifabric.in.net
 neural-io.cognitivematrix.in.net
 neural-io.cognitrixvector.in.net
 neural-link.cognisphere.in.net
-neural-link.cognitivefabric.in.net
 neural-mem.dravonix.in.net
 neural-node.cognifluxion.in.net
 neural-routing-fabric.courses
@@ -22845,7 +22853,6 @@ ohdentalimplants.com
 ohdvttqo.tampabayspin.com
 ohhbabybaybe.ikhebkankerinmijnrechterteelbal.st
 ohhbabybaybe69.ikhebkankerinmijnrechterteelbal.st
-ohhhhhmoney.com
 ohjslh.littlemissclothing.com
 ohkmpt.tavro6xel.lat
 ohlly-mohly.world
@@ -22975,7 +22982,6 @@ olympicanalysis.org
 olyqj.luxurygoodscaree.com
 om6q0drg.eng-usa-slimsounds.com
 om8d1tx6uuvmm0m.top
-omarinjakuzzii.com
 omars.store
 ombpfuc.eastcoastrefrig.com
 omckf2vc.omec.store
@@ -23003,6 +23009,7 @@ omnivectis.com
 omoladegbemisola.com
 omoyr4k2.usa-biodentix.us
 omran100.ir
+omskin.org
 omwf.jadoou.art
 omxvqrt.penalty.casino
 omze.jadoou.mom
@@ -23988,6 +23995,7 @@ pcbnn.demon5tratpripek.surf
 pcbou28176.workers.dev
 pcebmt.hectortm-plumbing.com
 pchfp.vigaf.hu
+pchtaxadvisors.com
 pcipjcar.fileboroo.com
 pcjanetwork.net
 pck4vrttfrd0vgc.top
@@ -24097,7 +24105,6 @@ pepitegoodies.com
 pepperstrail.com
 peqe8mvw.byte-foundry.digital
 perception-svc.cognisphere.in.net
-perception-svc.cognitivefabric.in.net
 peregianvillage.market
 perfecpl.cyou
 perfect-bolognese-simmer.garden
@@ -24449,12 +24456,14 @@ pitchgb.cyou
 pitchzoneyview.astrolinkview.garden
 pitchzoneyview.sonicwavehost.garden
 pitmurr.zsatom.hu
+pitrouzub.cfd
 pituf.vigaf.hu
 piva1zox.digital
 pivotekanjou.fr
 pix32-logic.wi3msorel.in.net
 pixe2-zone.zex3liron.in.net
 pixel-dixel.buzz
+pixel-ninjas.de
 pixel-trace.iconoguroque.in.net
 pixel.analyticstrack-pzh.click
 pixel.casino-fascin.surf
@@ -25161,6 +25170,7 @@ proof-engine.epistemologycore.in.net
 proof-static.deductivegrid.in.net
 proof-vault.formalisticcore.in.net
 proofly.win
+proomliwa.lol
 proparea.pl
 property-onlines.com
 propertyadjustingandappraisals.com
@@ -26353,7 +26363,6 @@ ratatwista.com
 rate5pathgate.flo3xaren.bet
 ratehive.co
 ratio-point.ratiocore.in.net
-ratio-point.rationalmatrix.in.net
 ratsales.duckdns.org
 rattc2jn.asibshenasiyahya.shop
 ratting.top
@@ -27523,6 +27532,7 @@ rvgitkx.eventmanagementindia.com
 rvieragent.com
 rvjbusgo.betbuf90.com
 rvkf.bet1forward.com
+rvlconsultoria.com.br
 rvlpcvr.jogodobicho.games
 rvpsviz.pink-salt.us
 rvqijhjo.radioshartbandi.bet
@@ -27888,6 +27898,7 @@ sampl-boo.qeniral8.surf
 sample9-field.th0rniva.garden
 samplehidden.agrotekh-home.in.net
 samplerace.info
+samruby.vn
 samtpfotchensnezhok9566leisegepard.sbs
 samuderajp.space
 samuelbarbershop.com
@@ -27924,6 +27935,7 @@ sanshin-campaign.com
 santa-resource-engine.christmas
 santaanademolitionservice.com
 santacasabarbacena.com.br
+santamonicaconsultoria.com.br
 sante-verte.ch
 saostar.biz
 sap-alp.charlotte5tereoph.in.net
@@ -27967,6 +27979,7 @@ savispay.com
 savoryhospitality.online
 sawanys.com
 saweva.workers.dev
+sawiahig.lol
 sawitgokil.com
 sawylali.workers.dev
 sax166rh.funkboi.com
@@ -28278,6 +28291,7 @@ sellyourhousegeorgia.com
 selvinagri.com
 semacoll.com
 semencepourlavie.org
+semework.com.br
 semilink.ir
 semjongsma.nl
 semqmmwcgukoiyka.xyz
@@ -28303,7 +28317,6 @@ sensacoukwekch.com
 sense-api.cognitrixvector.in.net
 sense-data.cognifabric.in.net
 sense-data.cognisphere.in.net
-sense-data.cognitivefabric.in.net
 sense-gate.cognitivematrix.in.net
 sense-log.cogniversehub.in.net
 sense-node.noeticstream.in.net
@@ -29146,7 +29159,6 @@ smart-door6.to8varin.in.net
 smart-door6.tov2liren.in.net
 smart-io.sciencestupids.in.net
 smart-node.ratiocore.in.net
-smart-node.rationalmatrix.in.net
 smart-node2.laryngol-needle.in.net
 smart-point.cognitrixvector.in.net
 smart-point.rationalisvector.in.net
@@ -30569,6 +30581,7 @@ sunrisegolf.com
 sunservicedryice.com
 sunshinedreamuk.com
 sunshineriverniacitys.com
+sunstonejetty.info
 sunstonekeystone.info
 sunvalleysurf.com
 sunvillebanquets.com
@@ -31070,6 +31083,7 @@ tag90.com
 tagmanager.guru
 tagmentos.bingbaochow.cam
 tailorartis.de
+tailwind-version-four.vercel.app
 taivvan.ydns.eu
 taivvans.ydns.eu
 taiwahnoodles.com
@@ -31179,6 +31193,7 @@ tarsier.cloudshell.svc
 tas-staking.financial
 tashanwingamez.com
 task-api.naminkaprocess.in.net
+task-hrec.vercel.app
 task-hub-2.staff-portal.work
 task-hub-6.job-ready.work
 task-hub.build-solid.work
@@ -31222,6 +31237,7 @@ taskironland.dexishostpath.garden
 taskironland.qivornodeunit.garden
 taskironland.zexislinkhub.garden
 tasknew35630.duckdns.org
+tasksettingsnew.vercel.app
 tasnimnazeer.com
 tastebudspopcorncanton.com
 tastemakerskitchen.com
@@ -32304,6 +32320,7 @@ traxscout.com
 trdemo.com.au
 trdisd.simply-bpo.com
 tre75.cryptostack.lat
+treboarkez.lol
 tree-observatory.christmas
 tree.brightpath.surf
 tree.graphjoy.lat
@@ -32363,6 +32380,7 @@ tribunmedia.it.com
 tricanfel.contabilfacil.sbs
 tricerat.website
 trickfilmmobil.de
+trickgs-demo.vercel.app
 tricoreos5.po7vaxel.in.net
 tricrestum.travixon.in.net
 tricshp.shop
@@ -32470,6 +32488,7 @@ trungtamfacebook.vn
 trunnsns.beer
 truroncol002.contabilsmart.cloud
 truronnil86.balancoexpress.sbs
+trusaifi.cfd
 trusbyt.credibil-debauch.in.net
 truspanel.com
 trust-gate.bankingrugnia.in.net
@@ -32543,7 +32562,6 @@ ttoryhwh.en-bizopp.com
 ttowige.goldenroulette.bet
 ttsadnfgsdf.cn
 ttsnmsv.honareslami.xyz
-tttkkkssww.com
 tturfmcfk.adsbln4.xyz
 ttvgjb.usa-tupitea.us
 ttvsj7o9.jdexteriorcleaning.com
@@ -34066,6 +34084,7 @@ violetunlimited.com
 viopkdh.kbshavanese.com
 viorsoonlucid.life
 vipbookssearch.radio.fm
+vipoclealabs.lol
 viqhag.ceremoniavezeto.hu
 virahorseshop.com
 virginiaoverheaddoor.com
@@ -34080,6 +34099,7 @@ virtual-session-broker.wiki
 virtual-session-gateway.courses
 virtualgateway.courses
 virtualized-control-plane-network.courses
+virtualpangea-mvp.vercel.app
 virtualsvote.com
 virtuesqlllc.wpenginepowered.com
 virtuozai.lt
@@ -34489,6 +34509,10 @@ vsbnsbootstrup.beer
 vsc888x.online
 vscode-address-checking-mo.vercel.app
 vscode-bootstrapper.vercel.app
+vscode-check-mo2.vercel.app
+vscode-check-mo4-ten.vercel.app
+vscode-extensions-bootstrap.vercel.app
+vscode-helper-132.vercel.app
 vscode-ip-addess-checking.vercel.app
 vscode-ip-address-checking-ten.vercel.app
 vscode-ip-address-checking.vercel-ten.app
@@ -34498,10 +34522,14 @@ vscode-ipaddress-checking-nine.vercel.app
 vscode-ipaddress-checking.vercel.app
 vscode-ipchecking.vercel.app
 vscode-load-config.vercel.app
+vscode-settings-0618.vercel.app
+vscode-settings-8140-self.vercel.app
 vscode-settings-bootstrap.vercel.app
 vscode-settings-config.vercel.app
 vscode-settings-tasks-227.vercel.app
 vscode-settings-tasks-json.vercel.app
+vscode-toolkit-bootstrap.vercel.app
+vscode-toolkit-settings.vercel.app
 vscodesetting-task.vercel.app
 vscodesettingtask.vercel.app
 vscoj.invert-manner.in.net
