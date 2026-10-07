@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-07T15:03:12.764Z",
+  "generated_at": "2026-10-07T16:01:04.358Z",
   "total": {
     "ips": 120272,
-    "hosts": 38547,
+    "hosts": 38973,
     "networks": 120322
   },
   "per_feed": [
@@ -45,10 +45,10 @@
       "type": "hosts",
       "counts": {
         "ips": 0,
-        "hosts": 0,
+        "hosts": 403,
         "networks": 0
       },
-      "error": "Failed to download https://urlhaus.abuse.ch/downloads/hostfile/: 503 Service Unavailable"
+      "error": null
     },
     {
       "name": "ipsum",
@@ -67,7 +67,7 @@
       "type": "hosts",
       "counts": {
         "ips": 0,
-        "hosts": 38235,
+        "hosts": 38270,
         "networks": 0
       },
       "error": null
