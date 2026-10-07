@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-07T12:00:38.616Z",
+  "generated_at": "2026-10-07T13:07:32.479Z",
   "total": {
     "ips": 120272,
-    "hosts": 38961,
+    "hosts": 38563,
     "networks": 120322
   },
   "per_feed": [
@@ -45,10 +45,10 @@
       "type": "hosts",
       "counts": {
         "ips": 0,
-        "hosts": 402,
+        "hosts": 0,
         "networks": 0
       },
-      "error": null
+      "error": "Failed to download https://urlhaus.abuse.ch/downloads/hostfile/: 503 first byte timeout"
     },
     {
       "name": "ipsum",
@@ -67,7 +67,7 @@
       "type": "hosts",
       "counts": {
         "ips": 0,
-        "hosts": 38260,
+        "hosts": 38251,
         "networks": 0
       },
       "error": null
