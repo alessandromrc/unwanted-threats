@@ -3172,7 +3172,6 @@ archepilago-art.com
 archipelago-mint.com
 archipelagosarts.com
 archive-hub.systemicitylayer.in.net
-archive-hub.systemologyhub.in.net
 archive-shlyah.digital
 archive.mintfair.click
 archpowered.com
@@ -5315,7 +5314,6 @@ brain-game.cc
 brain-gate.cogniversehub.in.net
 brain-log.cognitrixvector.in.net
 brain-svc.cognifluxion.in.net
-brain-weave.cognisphere.in.net
 brain.dynip.se
 braindefender.com
 braindefendere.com
@@ -5370,7 +5368,6 @@ brdxo.old-ground.garden
 bre-rednitzhembach.sbs
 breackhave11.buzz
 breagc.dexor-host.in.net
-break-down.analyticaengine.in.net
 breakneckridgefarm.com
 breakthroughbreathwork.com
 breakthroughgee.ddns.net
@@ -8253,6 +8250,7 @@ dao-etherfi.xyz
 dapala.net
 dapd5tn1b020426hz.cfd
 dapp-uniswap-org.vstorag3.com
+dapypu.workers.dev
 daqev.run
 daqotransformers.com
 daraleilm.com
@@ -11738,7 +11736,6 @@ file-list4.de4xpamil.in.net
 file-node.boredistascan.in.net
 file-save6.dex9taren.in.net
 file-stack.systemicitylayer.in.net
-file-stack.systemologyhub.in.net
 file-svc.crumpledzev.in.net
 file.bigcloud.n-e.kr
 file.blackint3.com
@@ -18872,7 +18869,6 @@ limous-nitout.digital
 lindenplumb.top
 lindnerelektroanlagen.de
 lindoibueno.com
-line-secure.systemologyhub.in.net
 line-vault.dictatessullen.in.net
 line5taskhub.vertexurbanhub.garden
 linehostunit.peta1vrix.bet
@@ -20886,7 +20882,6 @@ mind-hub.cogniversehub.in.net
 mind-sync.noetisphere.in.net
 mind-sync.noospherecore.in.net
 mind-weave.cognifabric.in.net
-mind-web.cognisphere.in.net
 mindandsoultelewellness.com
 mindbodyleadership.ca
 mindful-karrierecoaching.de
@@ -22112,7 +22107,6 @@ neural-api.cogniversehub.in.net
 neural-atlas-code-flat.courses
 neural-io.cognifabric.in.net
 neural-io.cognitrixvector.in.net
-neural-link.cognisphere.in.net
 neural-mem.dravonix.in.net
 neural-node.cognifluxion.in.net
 neural-routing-fabric.courses
@@ -24526,7 +24520,6 @@ pepesnix.org
 pepino-pizza.de
 pepperstrail.com
 peqe8mvw.byte-foundry.digital
-perception-svc.cognisphere.in.net
 peregianvillage.market
 peretzgroup.com
 perfecpl.cyou
@@ -26797,7 +26790,6 @@ range2021.myftp.biz
 rangezendegi.com
 ranjbarchef.com
 rank-index.systemicitylayer.in.net
-rank-index.systemologyhub.in.net
 rank-log.systematrixhub.in.net
 rank-node.systematrixflow.in.net
 rank-svc.inferentrixhub.in.net
@@ -28860,7 +28852,6 @@ sensa69casino.com
 sensacoukwekch.com
 sense-api.cognitrixvector.in.net
 sense-data.cognifabric.in.net
-sense-data.cognisphere.in.net
 sense-log.cogniversehub.in.net
 sense-node.noeticstream.in.net
 sense-vault.cognifluxion.in.net
@@ -32474,7 +32465,6 @@ thorn2-mark.zexo4mira.in.net
 thornbanner.cryptostack.lat
 thorneur.histor5corching.in.net
 thosefloorguys.com
-thought-api.cognisphere.in.net
 thought-api.noetisphere.in.net
 thought-api.noospherecore.in.net
 thovelvet.task7force.work
