@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T14:02:13.315Z",
+  "generated_at": "2026-10-07T15:03:12.764Z",
   "total": {
     "ips": 120272,
     "hosts": 38547,
@@ -48,7 +48,7 @@
         "hosts": 0,
         "networks": 0
       },
-      "error": "Failed to download https://urlhaus.abuse.ch/downloads/hostfile/: 503 Timed out while waiting"
+      "error": "Failed to download https://urlhaus.abuse.ch/downloads/hostfile/: 503 Service Unavailable"
     },
     {
       "name": "ipsum",
