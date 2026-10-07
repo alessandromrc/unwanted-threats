@@ -4085,7 +4085,6 @@ base-audit.gnoseologiccore.in.net
 base-gate.gnoseonflux.in.net
 base-gate.gnosticvector.in.net
 base-logic.axiomaticsphere.in.net
-base-matrix.axiomatrix.in.net
 base-point.fastidmatrix.in.net
 base-point.ministobelisk.in.net
 base-point.shapeprimrose.in.net
@@ -4323,7 +4322,6 @@ behrandesign.com
 beijingcosmetics.com
 beijinglottery.pro
 being-log.ontofluxion.in.net
-being-node.ontologicalflux.in.net
 bejow65678-31238.portmap.host
 bekaagreensolutions.com
 bel1tower.digital
@@ -6163,6 +6161,7 @@ cash-win.nl
 cash8siteview.peta1vrix.bet
 cashbeet.com
 cashforcarss.co.nz
+cashin24.ca
 cashorix.xyz
 casino-universum.com
 casinobahis.app
@@ -7573,7 +7572,6 @@ core-api.ontocorex.in.net
 core-bit.net
 core-gate.apotheosbring.in.net
 core-hub.systemoraengine.in.net
-core-logic.axiomatrix.in.net
 core-logic.herbertrutt.work
 core-ost-node-system.garden
 core-point.midgetplunge.in.net
@@ -11071,7 +11069,6 @@ exec-unit.herbertrutt.work
 exelitycorp.com
 exercise.mwbwu.workers.dev
 exhaustoverwint.digital
-exist-api.ontologicalflux.in.net
 existed-bunch-balance-councils.trycloudflare.com
 exlt.behtarin-site-shartbandi.com
 exo-api.tf
@@ -11897,7 +11894,6 @@ fix1logicnet.pavi1xen.bet
 fix7-cast.zex3piral.in.net
 fixed-node.axiomorphengine.in.net
 fixed-point.axiomaticsphere.in.net
-fixed-point.axiomatrix.in.net
 fixers.de
 fixthicket.awry-pause.in.net
 fixzba.cosaques.com
@@ -18514,7 +18510,6 @@ laveelabvet.com.br
 lavenushk.com
 lavishednailssalon.com
 law-check.axiomaticsphere.in.net
-law-check.axiomatrix.in.net
 law-check.axiomorphengine.in.net
 law-roofing.com
 lawfirm.paperbirdtech.com
@@ -20573,7 +20568,6 @@ mesh-node.job-ready.work
 mesh-node.shapeprimrose.in.net
 mesh-node.staff-portal.work
 mesh-point.epistematrix.in.net
-mesh-static.axiomatrix.in.net
 mesh-static.fastidmatrix.in.net
 mesh.sentra.cx
 mesh.temo.click
@@ -21743,6 +21737,7 @@ mytravelguia.com
 mytrfnuif.com
 myverifhouse.sbs
 myverifyblog.sbs
+mywolexe.workers.dev
 myxowolo.workers.dev
 myyoikamwqwuuaia.xyz
 myzcyjdkacfxmpndgou.hibridgedispensary.com
@@ -26988,7 +26983,6 @@ real-fact3.eighth-swollen.in.net
 real-fact3.po3vaxkyml.in.net
 real-fact3.qi8maren.in.net
 real-io.ontofluxion.in.net
-real-time-io.ontologicalflux.in.net
 real.botnet.st
 real.kabgagk234d.info
 realestateagentsd.com
@@ -27462,6 +27456,7 @@ right-time-hq.com
 right.4b3a91fd1b35ab2d023f5d71713a6c00.workers.dev
 rightawaycuttingcoring.com
 righttoparticipate.org
+rihan.store
 riihard.top
 rijqlqe.keyslimdrops-com.com
 rijschool-geduld.nl
@@ -27939,7 +27934,6 @@ rukkolpi55.icu
 rule-check.monarchold.in.net
 rule-engine.metalogicstream.in.net
 rule-node.systemoraengine.in.net
-rule-set.axiomatrix.in.net
 rule-svc.axiomorphengine.in.net
 rule6taskhub.cosmologic.bet
 rumahbersalinmedicalhacking.com
@@ -30139,7 +30133,6 @@ soundtrk.com
 soundudito.it
 soup-tone.pro
 soupack.handker-unicamer.surf
-source-data.ontologicalflux.in.net
 source-hub.gnoseologiccore.in.net
 sourcepower-eg.com
 sourcingallproductsworldwide.duckdns.org
@@ -31263,6 +31256,7 @@ sushiandpoke.pt
 susinail.com
 sustainground.com
 sutf.kafekarachi.com
+sutisuda.workers.dev
 sutterpoint.com
 suvc.backgammon.download
 suvjqi.liberty-token.org
@@ -33371,7 +33365,6 @@ twoshoes.co.za
 twovirginiasmedia.com
 twtd.zom7lirex.in.net
 twtrends.eu
-twu-hwt.org
 twvjaye.penalti.website
 twvrjjcu.hugugtejarat4.xyz
 twyd6y14.elizabethspizzadenton.com
@@ -37681,6 +37674,7 @@ xomsymkut.derbi.football
 xomvdxaa.red90.casino
 xoqairj.zor4melax.in.net
 xoqlqpdb.psgnewsiran.com
+xoqypeka.workers.dev
 xoso6640.com
 xosum.butoralberlet.com
 xosyhizi.workers.dev
