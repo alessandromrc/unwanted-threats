@@ -639,6 +639,7 @@
 3frnhzcnlkjnw5q3tm6elzizinm2k3bmrtf2xwqjzpcxzeqwn2tv6wyd.onion
 3gk1o3xg.betoshart.live
 3gwd.saget-sly.surf
+3hgcabfd1k.workers.dev
 3hhx8mtzd3dnc.org
 3hjfke61.usoleamoozesh.xyz
 3hw0w4v6.usa-dentilock.us
@@ -5313,7 +5314,6 @@ bradman.cz
 bradtkr.com
 bragerfitness.com
 brahmalihvc.online
-brain-api.cognifabric.in.net
 brain-bright.net
 brain-game.cc
 brain-gate.cogniversehub.in.net
@@ -5602,6 +5602,7 @@ bundlfilter.so6lavern.garden
 bungalowparkakenveen.nl
 bunnea.duckdns.org
 bunntyca.icu
+buqusily.workers.dev
 burden.aeafh.workers.dev
 bureai.com
 burkesfinefoods.com
@@ -7486,6 +7487,7 @@ contentgate.net
 contentremixrr.com
 contextio.one
 contididit.conti.pk
+continentalgroup.net.in
 continuumgrp.com
 contr2ddesign.digital
 contractor.click
@@ -11256,7 +11258,6 @@ fabbricastorie.it
 fabbricastorie.org
 fabidi.com
 fabr2-path.over-resweat.in.net
-fabric-svc.cognifabric.in.net
 fabric16.com
 fabricadetampoes.com.br
 fabriciofameli.com.br
@@ -14656,7 +14657,6 @@ heat5pathgate.voda4flux.surf
 heat5siteview.silicapathsys.garden
 heat8logicway.sola8ven.bet
 heatfixpro.com
-heather-goblet.with.playit.plus
 heathergent.cloudvector.ink
 heatherkiln.top
 heatherquarz.ru
@@ -15361,7 +15361,6 @@ huanarpomacho.com
 hub-gate.theorexuslayer.in.net
 hub-relay.honeupwar.in.net
 hub-secure.inferentrixhub.in.net
-hub-secure.systematrixhub.in.net
 hub-secure.theoriconhub.in.net
 hub.celeb-cytology.surf
 hub.datasrvhub.pics
@@ -18496,7 +18495,6 @@ lawnmowerrepairmiamifl.com
 lawnmowinglawrenceville.com
 lawofi.xyz
 laye-zone.nova7frame.life
-layer-check.cognifabric.in.net
 layer-check.systemicitylayer.in.net
 layer-get-win-tron.wiki
 layer-io.theorexuslayer.in.net
@@ -18681,6 +18679,7 @@ lesteredesdeprotecao.com.br
 lestyanesfiai.hu
 leswap.store
 lethanhtai.com
+letmeliveit.com
 letotravel.gr
 letsgomakemoneyoncaptcha.beer
 lette-logic.to6varil.in.net
@@ -18863,7 +18862,6 @@ link-gate.ontocorex.in.net
 link-gate.symposiumwash.in.net
 link-hub.goodtwain.in.net
 link-hub.inferentrixhub.in.net
-link-node.systematrixhub.in.net
 link.agilelid.lat
 link.anythin8weaned.surf
 link.cloudproxyserv.pics
@@ -20851,7 +20849,6 @@ mind-data.noeticstream.in.net
 mind-hub.cogniversehub.in.net
 mind-sync.noetisphere.in.net
 mind-sync.noospherecore.in.net
-mind-weave.cognifabric.in.net
 mindandsoultelewellness.com
 mindbodyleadership.ca
 mindful-karrierecoaching.de
@@ -22082,7 +22079,6 @@ netzwerkstatt-westereiden.de
 neura-vector.vo3xiran.in.net
 neural-api.cogniversehub.in.net
 neural-atlas-code-flat.courses
-neural-io.cognifabric.in.net
 neural-io.cognitrixvector.in.net
 neural-mem.dravonix.in.net
 neural-node.cognifluxion.in.net
@@ -28816,7 +28812,6 @@ sensa138var.com
 sensa69casino.com
 sensacoukwekch.com
 sense-api.cognitrixvector.in.net
-sense-data.cognifabric.in.net
 sense-log.cogniversehub.in.net
 sense-node.noeticstream.in.net
 sense-vault.cognifluxion.in.net
@@ -29698,7 +29693,6 @@ smart-door6.tov2liren.in.net
 smart-io.sciencestupids.in.net
 smart-node2.laryngol-needle.in.net
 smart-point.cognitrixvector.in.net
-smart-point.rationalisvector.in.net
 smart-point2.benomkin5.in.net
 smart-point2.tix7marel.in.net
 smart-student2.6zoranel.in.net
@@ -32416,7 +32410,6 @@ thinger.io
 think-hub.cognifluxion.in.net
 think-node.cognitrixvector.in.net
 think-node.cogniversehub.in.net
-think-node.rationalisvector.in.net
 thinkandwriteny.com
 thinkingbusiness.net
 thirtyfivemarch.com
@@ -32546,6 +32539,7 @@ titaniumcoastinnovations.com
 tite.org.uk
 titlereason.xyz
 tiv2dcd7.cloud-sphere.digital
+tivex.store
 tivimates.net
 tiwdt.hazzarat.com
 tiziyditr2xof4y.top
@@ -34450,7 +34444,6 @@ vector-gate.cognifluxion.in.net
 vector-hub.gnosticvector.in.net
 vector-svc.cognitrixvector.in.net
 vector-svc.cogniversehub.in.net
-vector-svc.rationalisvector.in.net
 vector.archiv-checkered.surf
 vector3sitehub.cobaltpathsys.garden
 vector3sitehub.vectorpointsite.garden
