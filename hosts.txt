@@ -2885,11 +2885,9 @@ api3-hop.web-traffic-trace.in.net
 api3-job.global-server-sync.in.net
 api3-log.smart-system-check.in.net
 api3-ready.active-service-hub.in.net
-api3-safe.smart-home-verify.in.net
 api3-site.secure-proxy-way.in.net
 api3-tls.remote-access-node.in.net
 api3-trace.travel-point-trace.in.net
-api3-trade.local-market-hub.in.net
 api3-work.office-task-sync.in.net
 api4-sync.krynexor.in.net
 apiass.brand5calpel.lat
@@ -12161,7 +12159,6 @@ gate6-site.kry8navel.in.net
 gate6-site.qul9merox.in.net
 gate6-way.active-service-hub.in.net
 gate6-way.bri7tanon.in.net
-gate6-way.smart-home-verify.in.net
 gate6-way.solid-build-trace.in.net
 gate6-way.travel-point-trace.in.net
 gate6-way.vo2xeral.in.net
@@ -12549,6 +12546,7 @@ ghpprofessionalpaintingllc.com
 ghuctqf.ef90bet.com
 ghukonhgf.com
 ghyrtamr.plinko-1xbet.games
+ghyu.in
 gi4q7bgx.infinityjoespizzaclearwater.com
 gi4tt6hi.enus-puraboost.com
 gialird.pishbini11.com
@@ -14113,7 +14111,6 @@ home-style1.k2ymlirem.in.net
 home-tech-repair.space
 home-tray1.mi5demeanwork.in.net
 home-tray1.wate7pugnac.in.net
-home1-verify.smart-home-verify.in.net
 homeartinteriors.com
 homebrew-sh.com
 homechefsecrets.com
@@ -17063,6 +17060,7 @@ kytini.workers.dev
 kyuta.my.id
 kyvqgkidufinrkdprb.oakdalerodeogrounds.com
 kyxuncq.jamjahani.net
+kyxyxymo.workers.dev
 kyzizowa.workers.dev
 kyzvja.matsnews.com
 kz6e3mq6.pipo303.com
@@ -20886,13 +20884,11 @@ node.lena3qit.surf
 node.rapidfirepixel.lat
 node.urbanflux.surf
 node2-area.urban-growth-data.in.net
-node2-check.smart-home-verify.in.net
 node2-core.active-service-hub.in.net
 node2-draw.solid-build-trace.in.net
 node2-info.global-health-check.in.net
 node2-info.tech-support-desk.in.net
 node2-key.digital-verify-pro.in.net
-node2-list.local-market-hub.in.net
 node2-map.travel-point-trace.in.net
 node2-map.web-traffic-trace.in.net
 node2-obj.cloud-storage-unit.in.net
@@ -24728,6 +24724,7 @@ qwesxzxngtf.cn
 qwfh.bekabet.casino
 qwfwhg4.lol
 qwimnzu.daqotransformers.com
+qwjq421ff1.workers.dev
 qwnvfv.elcornerderaulmorote.com
 qxaail.shop-tinnitrol.com
 qxaeex.3lunavex.life
@@ -27151,7 +27148,6 @@ shop-tinnitrol.us
 shop.nokill.fr
 shop.spacciocchialivision.it
 shop.sunroom.it
-shop1-data.local-market-hub.in.net
 shop1.puremarket.in.net
 shop95.de
 shopbanghe.vn
@@ -29009,7 +29005,6 @@ svc5-relay.local-market-hub.in.net
 svc5-relay.office-task-sync.in.net
 svc5-relay.prime-media-gate.in.net
 svc5-relay.quv7maren.in.net
-svc5-relay.smart-home-verify.in.net
 svc5-relay.solid-build-trace.in.net
 svc5-relay.travel-point-trace.in.net
 svc5-relay.travexin.in.net
@@ -31882,13 +31877,11 @@ vault4-file.office-task-sync.in.net
 vault4-file.prime-media-gate.in.net
 vault4-id.global-server-sync.in.net
 vault4-id.tech-support-desk.in.net
-vault4-info.smart-home-verify.in.net
 vault4-io.cloud-storage-unit.in.net
 vault4-key.quv7maren.in.net
 vault4-key.xel7morax.in.net
 vault4-key.zor5liven.in.net
 vault4-on.secure-proxy-way.in.net
-vault4-root.local-market-hub.in.net
 vault4-root.solid-build-trace.in.net
 vault4-safe.global-health-check.in.net
 vault4-sh.remote-access-node.in.net
