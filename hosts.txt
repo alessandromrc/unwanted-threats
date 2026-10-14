@@ -2699,8 +2699,6 @@ api.wp-station.com
 api.yuretemelo.com
 api1.haedalcompany.com
 api17.colatv88xd.cc
-api2-node.scanda1visibil.in.net
-api2-node.xel7morax.in.net
 apiass.brand5calpel.lat
 apibyte4811.com
 apicascade.eight-education.lat
@@ -13059,7 +13057,6 @@ host.metadrive.surf
 host.serveminecraft.net
 host.urbanflowbase.lat
 host.xori3mav.lat
-host3-link.scanda1visibil.in.net
 host3-peer.xel7morax.in.net
 hostfastland.dexisnetflow.garden
 hostfastland.mivonflowsrv.garden
@@ -24509,7 +24506,6 @@ securelogin.lpzoo.org
 securepathiul.life
 security-analyze.ltd
 securityalertcaptchacheck.com
-securitynote4458652318.com
 securitysur.info
 securo45z554mw7rgrt7wcgv5eenj2xmxyrsdj3fcjsvindu63s4bsid.onion
 sedgeoriel.co
@@ -24868,6 +24864,7 @@ shortway2.wi8sorim.in.net
 showmecoffee.monster
 showoff-display.com
 shpu1xz9.gdcpemasaranbekasi.com
+shqdown.ggzuhao.com
 shreekantdaga.com
 shrikrishnasaiclinic.com
 shrqj.mabanimashin.site
@@ -29399,7 +29396,6 @@ view.logicreef.surf
 view.magicflowpoint.lat
 view.rapidreef.surf
 view.tari8lax.lat
-view1-core.scanda1visibil.in.net
 view2-data.clear-stream-web.in.net
 view2pathgate.focallensview.garden
 view2siteview.nexo7peak.surf
@@ -32698,6 +32694,7 @@ zeuephv.tafsirquran.xyz
 zeus138.co
 zeus138.ink
 zeus773jpe.online
+zevyza.workers.dev
 zewaplus.club
 zexrhdz.penaltibazi.com
 zf-adobe.lat
