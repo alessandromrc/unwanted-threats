@@ -2907,7 +2907,6 @@ area.solidcore.surf
 area.solidlink.surf
 area.solidstonecore.lat
 area.solidtechcore.lat
-area1.urbanview.in.net
 areahostunit.grov6tela.bet
 areahostunit.nelo2qir.bet
 areahostunit.tavi8grid.surf
@@ -4692,7 +4691,6 @@ box.addpunctu2tion.surf
 box.coldwindy.lat
 box.fastbitbox.pics
 box.mailban.pics
-box2.fast-delivery.in.net
 boxart21.rs
 boxingready.com
 boziqucu.workers.dev
@@ -5868,7 +5866,6 @@ city-wa-lk2.guardiansti1l.in.net
 city-wa-lk2.kymle5rax.in.net
 city-wa-lk2.po3vaxil.in.net
 city-walk6.there-way.in.net
-city5.fast-delivery.in.net
 citycapitaltraders.com
 cityli-fe2.bovla4ren.in.net
 cityli-fe2.kymle2rix.in.net
@@ -9972,6 +9969,7 @@ feedspanone.net
 feersona.net
 feeykse.betbacklink.com
 fefsfes.org
+fehiwy.workers.dev
 feiratecnomoda.com.br
 feiyuwei.com
 felelossegbiztosito.hu
@@ -12603,7 +12601,6 @@ helix2kvkqjzrkh3ospyukij7uemxwvbdmqberjmrudjmqy4hspwzzqd.onion
 helixr2sncrd3ndsz5oho6mzqw3x5u7mvox5zcsngc5wm7v4l5k7oryd.onion
 help.mcsq.workers.dev
 help1.mcsq.workers.dev
-help5.puremarket.in.net
 helpdesk09-26.com
 helper.zulipchat.com
 helptocheckc.com
@@ -14089,7 +14086,6 @@ itdrr.vikstore.hu
 item-details4.domna-replenish.in.net
 item-details4.zom5pirel.in.net
 item.ikevbhm-gitch.workers.dev
-item4.puremarket.in.net
 itemrange.com
 itfr9qb.sorix7el.lat
 ithfkpx.amoozeshtagipour.shop
@@ -14316,7 +14312,6 @@ java.omsules.life
 javb.omsules.life
 javeqe.workers.dev
 jawahirjewels.co.uk
-jawaratekno.com
 jaxivo.com
 jaybhavaniwoodworks.com
 jayswraps.com
@@ -17010,7 +17005,6 @@ main.commontexture76.one
 main.everym2nham.surf
 main.southcarolinacounselor.com
 main.systemlogicops.pics
-main6.puremarket.in.net
 mainhold.duckdns.org
 mainpipeline.co.uk
 mainrist.click
@@ -20090,7 +20084,6 @@ orche.duckdns.org
 order-status1.lax8dorim.in.net
 order-status1.rol1erspeeding.in.net
 order.mkdaddy.com
-order1.fast-delivery.in.net
 ordereltacofeliz.com
 orderlacocinamexicanfood.com
 orderre.shop
@@ -21339,7 +21332,6 @@ posomywu.workers.dev
 posostamioalkfjka.com
 post-card1.kiv5leren.in.net
 post-card3.de8xporel.in.net
-post3.fast-delivery.in.net
 post5pathgate.expresser-pray.bet
 postaconsultora.com
 postaspen18.com
@@ -23989,6 +23981,7 @@ salud-masculina-mexic.buzz
 saludmasculina-mx.buzz
 salutemarket.net
 sam-sa.net
+sam-tech.pro
 samanthadefalco.com
 same53-51830.portmap.host
 samehoo229.fun
@@ -24790,7 +24783,6 @@ site.wintercoldlab.lat
 site.xano4mel.surf
 site2siteview.astrosync.bet
 site4siteview.novapath.bet
-site6.fast-delivery.in.net
 site7siteview.tavi8grid.surf
 site8siteview.colorist-resignat.bet
 site8siteview.felo7zone.surf
@@ -27473,7 +27465,6 @@ tosee-laser.com
 toseuhlxdkhpqachkr.phim18k.de
 total-summary4.lax8dorim.in.net
 total-summary4.rol1erspeeding.in.net
-total4.fast-delivery.in.net
 totalads.monster
 totalconstructionsolutionswi.com
 totallycooldevs.2bd.net
@@ -29666,6 +29657,7 @@ w6fq6ja8.gembet.live
 w701gr9l.eng-us-zensulin.com
 w7yspq54.betexper.bet
 w8avjtdi.rsfoodproducts.com
+w8cyew46.metricsdataapi.com
 w8sxay63.varzeshlife.ir
 w90084qc.zom8lirex.in.net
 w9so9yni.enus-lipovive.com
