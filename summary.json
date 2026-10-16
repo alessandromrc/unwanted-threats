@@ -1,9 +1,11 @@
 {
-  "generated_at": "2026-10-16T13:01:51.269Z",
+  "generated_at": "2026-10-16T13:03:18.671Z",
   "total": {
-    "ips": 129656,
-    "hosts": 32334,
-    "networks": 129707
+    "ips": 131226,
+    "hosts": 412132,
+    "networks": 132963,
+    "networks6": 91,
+    "tor_exit_nodes": 1212
   },
   "per_feed": [
     {
@@ -13,7 +15,8 @@
       "counts": {
         "ips": 10640,
         "hosts": 0,
-        "networks": 0
+        "networks": 0,
+        "networks6": 0
       },
       "error": null
     },
@@ -24,7 +27,8 @@
       "counts": {
         "ips": 0,
         "hosts": 312,
-        "networks": 0
+        "networks": 0,
+        "networks6": 0
       },
       "error": null
     },
@@ -35,7 +39,8 @@
       "counts": {
         "ips": 5,
         "hosts": 0,
-        "networks": 0
+        "networks": 0,
+        "networks6": 0
       },
       "error": null
     },
@@ -45,8 +50,9 @@
       "type": "hosts",
       "counts": {
         "ips": 0,
-        "hosts": 432,
-        "networks": 0
+        "hosts": 431,
+        "networks": 0,
+        "networks6": 0
       },
       "error": null
     },
@@ -57,7 +63,8 @@
       "counts": {
         "ips": 125469,
         "hosts": 0,
-        "networks": 0
+        "networks": 0,
+        "networks6": 0
       },
       "error": null
     },
@@ -68,7 +75,8 @@
       "counts": {
         "ips": 0,
         "hosts": 31606,
-        "networks": 0
+        "networks": 0,
+        "networks6": 0
       },
       "error": null
     },
@@ -79,7 +87,68 @@
       "counts": {
         "ips": 0,
         "hosts": 0,
-        "networks": 51
+        "networks": 51,
+        "networks6": 0
+      },
+      "error": null
+    },
+    {
+      "name": "spamhaus_drop",
+      "url": "https://www.spamhaus.org/drop/drop.txt",
+      "type": "plain_ip_or_cidr",
+      "counts": {
+        "ips": 0,
+        "hosts": 0,
+        "networks": 1689,
+        "networks6": 0
+      },
+      "error": null
+    },
+    {
+      "name": "spamhaus_dropv6",
+      "url": "https://www.spamhaus.org/drop/dropv6.txt",
+      "type": "plain_cidr_v6",
+      "counts": {
+        "ips": 0,
+        "hosts": 0,
+        "networks": 0,
+        "networks6": 91
+      },
+      "error": null
+    },
+    {
+      "name": "feodotracker_ips",
+      "url": "https://feodotracker.abuse.ch/downloads/ipblocklist.txt",
+      "type": "plain_ip",
+      "counts": {
+        "ips": 5,
+        "hosts": 0,
+        "networks": 0,
+        "networks6": 0
+      },
+      "error": null
+    },
+    {
+      "name": "blocklistde_all",
+      "url": "https://lists.blocklist.de/lists/all.txt",
+      "type": "plain_ip",
+      "counts": {
+        "ips": 24465,
+        "hosts": 0,
+        "networks": 0,
+        "networks6": 0
+      },
+      "error": null
+    },
+    {
+      "name": "phishing_database_domains",
+      "url": "https://raw.githubusercontent.com/Phishing-Database/Phishing.Database/master/phishing-domains-ACTIVE.txt",
+      "type": "plain_domain",
+      "counts": {
+        "ips": 0,
+        "hosts": 379803,
+        "networks": 0,
+        "networks6": 0
       },
       "error": null
     }
