@@ -44,12 +44,38 @@ const FEEDS = [
     name: 'dshield_7d',
     type: 'plain_ip_or_cidr',
     url: 'https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/dshield_7d.netset'
+  },
+  {
+    name: 'spamhaus_drop',
+    type: 'plain_ip_or_cidr',
+    url: 'https://www.spamhaus.org/drop/drop.txt'
+  },
+  {
+    name: 'spamhaus_dropv6',
+    type: 'plain_cidr_v6',
+    url: 'https://www.spamhaus.org/drop/dropv6.txt'
+  },
+  {
+    name: 'feodotracker_ips',
+    type: 'plain_ip',
+    url: 'https://feodotracker.abuse.ch/downloads/ipblocklist.txt'
+  },
+  {
+    name: 'blocklistde_all',
+    type: 'plain_ip',
+    url: 'https://lists.blocklist.de/lists/all.txt'
+  },
+  {
+    name: 'phishing_database_domains',
+    type: 'plain_domain',
+    url: 'https://raw.githubusercontent.com/Phishing-Database/Phishing.Database/master/phishing-domains-ACTIVE.txt'
   }
 ];
 
 const ipv4Regex = /^(?:\d{1,3}\.){3}\d{1,3}$/;
 const ipv4OrCidrRegex = /^(?:\d{1,3}\.){3}\d{1,3}(?:\/\d{1,2})?$/;
 const hostnameRegex = /^(?!\d+\.)[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
+const ipv6CidrRegex = /^([0-9a-fA-F]{0,4}:){2,7}[0-9a-fA-F]{0,4}\/\d{1,3}$/;
 
 function isPrivateOrReserved(ip) {
   if (!ipv4Regex.test(ip)) return false;
@@ -177,6 +203,34 @@ function parseCsvLikeIpFeed(text) {
   return { ips, hosts: new Set(), networks: new Set() };
 }
 
+function parseCidrV6Feed(text) {
+  const networks6 = new Set();
+  const lines = text.split(/\r?\n/);
+  for (const rawLine of lines) {
+    const line = rawLine.trim();
+    if (!line || line.startsWith('#') || line.startsWith(';')) continue;
+    const token = line.split(/\s+/)[0];
+    if (ipv6CidrRegex.test(token)) {
+      networks6.add(token.toLowerCase());
+    }
+  }
+  return { ips: new Set(), hosts: new Set(), networks: new Set(), networks6 };
+}
+
+function parsePlainDomainFeed(text) {
+  const hosts = new Set();
+  const lines = text.split(/\r?\n/);
+  for (const rawLine of lines) {
+    const line = rawLine.trim();
+    if (!line || line.startsWith('#')) continue;
+    const token = line.split(/\s+/)[0];
+    if (hostnameRegex.test(token)) {
+      hosts.add(token.toLowerCase());
+    }
+  }
+  return { ips: new Set(), hosts, networks: new Set(), networks6: new Set() };
+}
+
 async function fetchAndParseFeed(feed) {
   try {
     const text = await downloadText(feed.url);
@@ -185,9 +239,11 @@ async function fetchAndParseFeed(feed) {
     if (feed.type === 'plain_ip') return { feed, ...parsePlainIpFeed(text) };
     if (feed.type === 'plain_ip_or_cidr') return { feed, ...parsePlainIpOrCidrFeed(text) };
     if (feed.type === 'csv_like_ip') return { feed, ...parseCsvLikeIpFeed(text) };
-    return { feed, ips: new Set(), hosts: new Set(), networks: new Set() };
+    if (feed.type === 'plain_cidr_v6') return { feed, ...parseCidrV6Feed(text) };
+    if (feed.type === 'plain_domain') return { feed, ...parsePlainDomainFeed(text) };
+    return { feed, ips: new Set(), hosts: new Set(), networks: new Set(), networks6: new Set() };
   } catch (err) {
-    return { feed, error: err.message, ips: new Set(), hosts: new Set(), networks: new Set() };
+    return { feed, error: err.message, ips: new Set(), hosts: new Set(), networks: new Set(), networks6: new Set() };
   }
 }
 
@@ -214,6 +270,15 @@ function writeMikrotikRsc(filePath, addresses, listName = 'unwanted-threats') {
   writeArrayToTxt(filePath, lines);
 }
 
+function toMikrotikV6AddressListLine(address, list) {
+  return `/ipv6/firewall/address-list add list=${list} address=${address} comment="${list}/mikrotik" timeout=48h;`;
+}
+
+function writeMikrotikV6Rsc(filePath, addresses, listName = 'unwanted-threats') {
+  const lines = addresses.map((address) => toMikrotikV6AddressListLine(address, listName));
+  writeArrayToTxt(filePath, lines);
+}
+
 async function getUptimeRobotIPs() {
   const ips = new Set();
   const URL = 'https://cdn.uptimerobot.com/api/IPv4.txt';
@@ -235,6 +300,27 @@ async function getUptimeRobotIPs() {
   return ips;
 }
 
+async function getTorExitNodes() {
+  const ips = new Set();
+  const URL = 'https://check.torproject.org/torbulkexitlist';
+
+  try {
+    const text = await downloadText(URL);
+    const lines = text.split(/\r?\n/);
+    for (const rawLine of lines) {
+      const line = rawLine.trim();
+      if (!line || line.startsWith('#')) continue;
+      const token = line.split(/\s+/)[0];
+      if (ipv4Regex.test(token) && !isPrivateOrReserved(token)) {
+        ips.add(token);
+      }
+    }
+  } catch (err) {
+    console.error(`Error fetching Tor exit nodes: ${err.message}`);
+  }
+  return ips;
+}
+
 async function main() {
   ensureOutputDir();
 
@@ -243,15 +329,17 @@ async function main() {
   const allIps = new Set();
   const allHosts = new Set();
   const allNetworks = new Set();
+  const allNetworks6 = new Set();
   const perFeedSummary = [];
 
   const uptimerobotIPs = await getUptimeRobotIPs();
+  const torExitNodes = await getTorExitNodes();
 
   for (const result of results) {
-    const { feed, ips, hosts, networks, error } = result;
+    const { feed, ips, hosts, networks, networks6, error } = result;
     if (ips) {
       ips.forEach(ip => {
-        if (!isFalsePositive(ip) && !(uptimerobotIPs.has(ip))) 
+        if (!isFalsePositive(ip) && !(uptimerobotIPs.has(ip)))
         {
           allIps.add(ip);
         }
@@ -263,6 +351,9 @@ async function main() {
     if (networks) {
       networks.forEach(n => allNetworks.add(n));
     }
+    if (networks6) {
+      networks6.forEach(n => allNetworks6.add(n));
+    }
 
     perFeedSummary.push({
       name: feed.name,
@@ -271,7 +362,8 @@ async function main() {
       counts: {
         ips: ips ? ips.size : 0,
         hosts: hosts ? hosts.size : 0,
-        networks: networks ? networks.size : 0
+        networks: networks ? networks.size : 0,
+        networks6: networks6 ? networks6.size : 0
       },
       error: error || null
     });
@@ -296,18 +388,30 @@ async function main() {
   writeMikrotikRsc(path.join(OUTPUT_DIR, 'ips.rsc'), ipsArray);
   writeMikrotikRsc(path.join(OUTPUT_DIR, 'networks.rsc'), networksArray);
 
+  const networks6Array = Array.from(allNetworks6).sort();
+  writeArrayToTxt(path.join(OUTPUT_DIR, 'networks6.txt'), networks6Array);
+  writeJson(path.join(OUTPUT_DIR, 'networks6.json'), networks6Array);
+  writeMikrotikV6Rsc(path.join(OUTPUT_DIR, 'networks6.rsc'), networks6Array);
+
 
   writeArrayToTxt(path.join(OUTPUT_DIR, 'uptimerobot_ips.txt'), Array.from(uptimerobotIPs).sort());
   writeJson(path.join(OUTPUT_DIR, 'uptimerobot_ips.json'), Array.from(uptimerobotIPs).sort());
   writeMikrotikRsc(path.join(OUTPUT_DIR, 'uptimerobot_ips.rsc'), Array.from(uptimerobotIPs).sort(), 'uptimerobot');
   writeMikrotikRsc(path.join(OUTPUT_DIR, 'uptimerobot_networks.rsc'), Array.from(uptimerobotIPs).map(ip => `${ip}/32`).sort(), 'uptimerobot');
 
+  const torExitNodesArray = Array.from(torExitNodes).sort();
+  writeArrayToTxt(path.join(OUTPUT_DIR, 'tor_exit_nodes.txt'), torExitNodesArray);
+  writeJson(path.join(OUTPUT_DIR, 'tor_exit_nodes.json'), torExitNodesArray);
+  writeMikrotikRsc(path.join(OUTPUT_DIR, 'tor_exit_nodes.rsc'), torExitNodesArray, 'tor-exit-nodes');
+
   writeJson(path.join(OUTPUT_DIR, 'summary.json'), {
     generated_at: new Date().toISOString(),
     total: {
       ips: ipsArray.length,
       hosts: hostsArray.length,
-      networks: networksArray.length
+      networks: networksArray.length,
+      networks6: networks6Array.length,
+      tor_exit_nodes: torExitNodesArray.length
     },
     per_feed: perFeedSummary
   });
