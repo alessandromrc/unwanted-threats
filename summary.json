@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-19T08:04:37.614Z",
+  "generated_at": "2026-10-19T09:03:25.636Z",
   "total": {
-    "ips": 124803,
-    "hosts": 411425,
-    "networks": 126540,
+    "ips": 124928,
+    "hosts": 411415,
+    "networks": 126665,
     "networks6": 91,
     "tor_exit_nodes": 1203
   },
@@ -50,7 +50,7 @@
       "type": "hosts",
       "counts": {
         "ips": 0,
-        "hosts": 423,
+        "hosts": 422,
         "networks": 0,
         "networks6": 0
       },
@@ -74,7 +74,7 @@
       "type": "hosts",
       "counts": {
         "ips": 0,
-        "hosts": 30920,
+        "hosts": 30911,
         "networks": 0,
         "networks6": 0
       },
