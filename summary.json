@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-20T01:13:44.436Z",
+  "generated_at": "2026-10-20T02:01:02.995Z",
   "total": {
-    "ips": 127910,
-    "hosts": 411284,
-    "networks": 129651,
+    "ips": 121805,
+    "hosts": 411204,
+    "networks": 123546,
     "networks6": 91,
-    "tor_exit_nodes": 1208
+    "tor_exit_nodes": 1205
   },
   "per_feed": [
     {
@@ -61,7 +61,7 @@
       "url": "https://raw.githubusercontent.com/stamparm/ipsum/master/ipsum.txt",
       "type": "csv_like_ip",
       "counts": {
-        "ips": 119131,
+        "ips": 117445,
         "hosts": 0,
         "networks": 0,
         "networks6": 0
@@ -74,7 +74,7 @@
       "type": "hosts",
       "counts": {
         "ips": 0,
-        "hosts": 30790,
+        "hosts": 30710,
         "networks": 0,
         "networks6": 0
       },
