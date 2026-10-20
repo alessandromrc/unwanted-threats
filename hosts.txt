@@ -152001,7 +152001,6 @@ dark-open-5.godn2strich.in.net
 dark-pine.mecayok955.workers.dev
 dark-river-7082.if8s8qwf.workers.dev
 dark-river-79b4.jamar1026.workers.dev
-dark-shade1.deser8othic.in.net
 dark-shape-cd0f.s7oni7hz.workers.dev
 dark-silence-8824.unitedcargosan5885.workers.dev
 dark-silence-fc6e.dylineeazra03.workers.dev
@@ -154378,10 +154377,8 @@ deep-ocean3.condit-rearrange.in.net
 deep-ocean3.to6varil.in.net
 deep-ocean3.to7virel.in.net
 deep-pdf.github.io
-deep-red4.deser8othic.in.net
 deep-sea-hydrothermal-vent.garden
 deep-sea1.wi5sarpo1v.in.net
-deep-soil3.firs-tachycardia.in.net
 deep-space-artificial-gravity.garden
 deep-translucent-beaufort.glitch.me
 deep-void6.blasph-nimalo.in.net
@@ -163958,6 +163955,7 @@ down.fwqlt.com
 down.irntoken-zf.biz
 down.metamask-us.cc
 down.pcclear.com
+down.qqfarmer.com.cn
 down.rmsitexzweb.cc
 down.t0kanpoaket.biz
 down.t0kbnpobket.biz
@@ -189903,6 +189901,7 @@ fe3558e8e3d7372fa063352af7852979-dot-gle9392420309493993.rj.r.appspot.com
 fe36bc56.xyz
 fe479469-04fb-4f20-85aa-dd7842a6b286-00-2q8r4x4pt5jg4.worf.replit.dev
 fe4b6dd6.bwxt5e.shop
+fe5.88kfc.org
 fe54e8d5.9jyji2.shop
 fe704c48.sjw36sya1739.shop
 fe70beba.adorn-insight.co.uk
@@ -198399,7 +198398,6 @@ frescofish.in
 fresh-7b92d.firebaseapp.com
 fresh-app-l1.grabs5tatus.in.net
 fresh-app-l1.jemannik5helma.in.net
-fresh-bloom6.firs-tachycardia.in.net
 fresh-brassy-mascara.glitch.me
 fresh-class.com
 fresh-grateful-offer.glitch.me
@@ -211007,7 +211005,6 @@ green-high-waste-4689346.vercel.app
 green-job.pl
 green-kusu-6605.under.jp
 green-lamp2.corex4varm.in.net
-green-leaf1.firs-tachycardia.in.net
 green-limit-71ed.coboya75089342.workers.dev
 green-macrohim-work-center.garden
 green-optima.com.ua
@@ -225078,7 +225075,6 @@ high-principled-dig.000webhostapp.com
 high-roof5.hai1owhiten.in.net
 high-speed4.blasph-nimalo.in.net
 high-speedfiber.com
-high-stem4.firs-tachycardia.in.net
 high-step6.corex4varm.in.net
 high-tension-muscle.000webhostapp.com
 high-tension-outlet.000webhostapp.com
@@ -337389,7 +337385,6 @@ palclone.netlify.app
 palco.it
 palconf.000webhostapp.com
 palderinvest.info
-pale-blue3.deser8othic.in.net
 pale-eat-pursue-adware.trycloudflare.com
 pale-good-story.glitch.me
 pale-small-origami.glitch.me
@@ -362069,7 +362064,6 @@ pure-2.com
 pure-color6.pulp-turquoise.in.net
 pure-edge.co.za
 pure-growth.com
-pure-seed5.firs-tachycardia.in.net
 pure-water6.7zorimel.in.net
 pure-water6.zore9varin.in.net
 pure.chord1opari.surf
@@ -389270,7 +389264,6 @@ soft-cha-ir2.overfeed-social.in.net
 soft-dango-d8e27e.netlify.app
 soft-feather-0c50.alladinbarry.workers.dev
 soft-fire-6q.archit-physiol.in.net
-soft-grey2.deser8othic.in.net
 soft-heart-2ed8.ma878696d.workers.dev
 soft-land-1.nov2liren.in.net
 soft-land-1.noven-hub.in.net
@@ -403271,6 +403264,7 @@ vidhigupta14.github.io
 vidhunnpvipinn.github.io
 vidieckymakler.sk
 vidmar07.github.io
+vidohebu.workers.dev
 vidreviewer.myfunnelish.com
 vidsloii.bcgamekade.online
 vidtihe.cyou
@@ -406817,7 +406811,6 @@ wild-ciph.demon5tratpripek.surf
 wild-flora-processing-go-system.garden
 wild-folder-routing-path.garden
 wild-paper-1428.izharuddinmiftah.workers.dev
-wild-root2.firs-tachycardia.in.net
 wild.brightpath.surf
 wild.graphjoy.lat
 wild.greenforest.surf
