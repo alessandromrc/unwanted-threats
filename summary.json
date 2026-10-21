@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-21T16:00:48.208Z",
+  "generated_at": "2026-10-21T17:00:48.063Z",
   "total": {
-    "ips": 127885,
-    "hosts": 411225,
-    "networks": 129622,
+    "ips": 128122,
+    "hosts": 380115,
+    "networks": 129859,
     "networks6": 91,
-    "tor_exit_nodes": 1220
+    "tor_exit_nodes": 1221
   },
   "per_feed": [
     {
@@ -50,11 +50,11 @@
       "type": "hosts",
       "counts": {
         "ips": 0,
-        "hosts": 462,
+        "hosts": 0,
         "networks": 0,
         "networks6": 0
       },
-      "error": null
+      "error": "Failed to download https://urlhaus.abuse.ch/downloads/hostfile/: 410 Gone"
     },
     {
       "name": "ipsum",
@@ -74,11 +74,11 @@
       "type": "hosts",
       "counts": {
         "ips": 0,
-        "hosts": 30691,
+        "hosts": 0,
         "networks": 0,
         "networks6": 0
       },
-      "error": null
+      "error": "Failed to download https://threatfox.abuse.ch/downloads/hostfile/: 410 Gone"
     },
     {
       "name": "dshield_7d",
@@ -133,7 +133,7 @@
       "url": "https://lists.blocklist.de/lists/all.txt",
       "type": "plain_ip",
       "counts": {
-        "ips": 25481,
+        "ips": 25545,
         "hosts": 0,
         "networks": 0,
         "networks6": 0
