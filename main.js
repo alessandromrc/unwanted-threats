@@ -9,6 +9,12 @@ console.log(`Loaded ${FALSE_POSITIVES.length} false positives from false_positiv
 
 const OUTPUT_DIR = path.join(__dirname, 'output');
 
+// URLhaus and ThreatFox (both abuse.ch) retired unauthenticated downloads;
+// both now require a free Auth-Key appended to the export URL. Set
+// ABUSECH_AUTH_KEY (env var / GitHub Actions secret) to enable these two
+// feeds - they are skipped if it isn't set, rather than failing the run.
+const ABUSECH_AUTH_KEY = process.env.ABUSECH_AUTH_KEY;
+
 const FEEDS = [
   {
     name: 'AIP_historical_blacklist',
@@ -25,21 +31,21 @@ const FEEDS = [
     type: 'plain_ip',
     url: 'https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt'
   },
-  {
+  ...(ABUSECH_AUTH_KEY ? [{
     name: 'urlhaus_hostfile',
     type: 'hosts',
-    url: 'https://urlhaus.abuse.ch/downloads/hostfile/'
-  },
+    url: `https://urlhaus-api.abuse.ch/v2/files/exports/${ABUSECH_AUTH_KEY}/hostfile.txt`
+  }] : []),
   {
     name: 'ipsum',
     type: 'csv_like_ip',
     url: 'https://raw.githubusercontent.com/stamparm/ipsum/master/ipsum.txt'
   },
-  {
+  ...(ABUSECH_AUTH_KEY ? [{
     name: 'threatfox_hostfile',
     type: 'hosts',
-    url: 'https://threatfox.abuse.ch/downloads/hostfile/'
-  },
+    url: `https://threatfox-api.abuse.ch/v2/files/exports/${ABUSECH_AUTH_KEY}/hostfile.txt`
+  }] : []),
   {
     name: 'dshield_7d',
     type: 'plain_ip_or_cidr',
@@ -69,6 +75,11 @@ const FEEDS = [
     name: 'phishing_database_domains',
     type: 'plain_domain',
     url: 'https://raw.githubusercontent.com/Phishing-Database/Phishing.Database/master/phishing-domains-ACTIVE.txt'
+  },
+  {
+    name: 'moyaifeed',
+    type: 'plain_ip',
+    url: 'https://feed.moyai.one'
   }
 ];
 
@@ -102,10 +113,15 @@ function isFalsePositive(ip) {
   return FALSE_POSITIVES.includes(ip);
 }
 
+function redactSecrets(value) {
+  if (!ABUSECH_AUTH_KEY) return value;
+  return value.split(ABUSECH_AUTH_KEY).join('<REDACTED>');
+}
+
 async function downloadText(url) {
   const res = await fetch(url);
   if (!res.ok) {
-    throw new Error(`Failed to download ${url}: ${res.status} ${res.statusText}`);
+    throw new Error(`Failed to download ${redactSecrets(url)}: ${res.status} ${res.statusText}`);
   }
   return res.text();
 }
@@ -243,7 +259,7 @@ async function fetchAndParseFeed(feed) {
     if (feed.type === 'plain_domain') return { feed, ...parsePlainDomainFeed(text) };
     return { feed, ips: new Set(), hosts: new Set(), networks: new Set(), networks6: new Set() };
   } catch (err) {
-    return { feed, error: err.message, ips: new Set(), hosts: new Set(), networks: new Set(), networks6: new Set() };
+    return { feed, error: redactSecrets(err.message), ips: new Set(), hosts: new Set(), networks: new Set(), networks6: new Set() };
   }
 }
 
@@ -357,7 +373,7 @@ async function main() {
 
     perFeedSummary.push({
       name: feed.name,
-      url: feed.url,
+      url: redactSecrets(feed.url),
       type: feed.type,
       counts: {
         ips: ips ? ips.size : 0,

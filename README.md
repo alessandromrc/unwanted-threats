@@ -4,7 +4,7 @@
 
 # Unwanted Threats
 
-This repository aggregates multiple public threat intelligence feeds into consolidated JSON and text files.  
+This repository aggregates multiple public threat intelligence feeds into consolidated JSON and text files.
 The data is automatically refreshed (via GitHub Actions) and served from the `output` branch so it can be consumed over HTTPS.
 
 ---
@@ -74,33 +74,44 @@ Tor exit nodes are kept as a separate list rather than merged into the main bloc
 
 The script currently pulls from the following public feeds:
 
-- AIP historical blacklist (CSV)  
-- Adblock NoCoin host file  
-- EmergingThreats Block IPs  
-- URLHaus hostfile  
-- Ipsum IP blacklist  
-- ThreatFox hostfile  
-- FireHOL DShield 7‑day IP set  
+- AIP historical blacklist (CSV)
+- Adblock NoCoin host file
+- EmergingThreats Block IPs
+- URLHaus hostfile (requires `ABUSECH_AUTH_KEY`, see below)
+- Ipsum IP blacklist
+- ThreatFox hostfile (requires `ABUSECH_AUTH_KEY`, see below)
+- FireHOL DShield 7‑day IP set
 - Spamhaus DROP (hijacked/malicious IPv4 netblocks)
 - Spamhaus DROPv6 (hijacked/malicious IPv6 netblocks)
 - Feodo Tracker botnet C2 IP blocklist (abuse.ch)
 - Blocklist.de attacker IPs (SSH/mail/Apache brute force, last 48h)
 - Phishing.Database active phishing domains
+- Moyai threat feed
 
 These are the concrete URLs wired into `main.js`:
 
 - ```https://mcfp.felk.cvut.cz/publicDatasets/CTU-AIPP-BlackList/Todays-Blacklists/AIP_historical_blacklist_prioritized_by_newest_attackers.csv```
 - ```https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt```
 - ```https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt```
-- ```https://urlhaus.abuse.ch/downloads/hostfile/```
+- ```https://urlhaus-api.abuse.ch/v2/files/exports/<ABUSECH_AUTH_KEY>/hostfile.txt```
 - ```https://raw.githubusercontent.com/stamparm/ipsum/master/ipsum.txt```
-- ```https://threatfox.abuse.ch/downloads/hostfile/```
+- ```https://threatfox-api.abuse.ch/v2/files/exports/<ABUSECH_AUTH_KEY>/hostfile.txt```
 - ```https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/dshield_7d.netset```
 - ```https://www.spamhaus.org/drop/drop.txt```
 - ```https://www.spamhaus.org/drop/dropv6.txt```
 - ```https://feodotracker.abuse.ch/downloads/ipblocklist.txt```
 - ```https://lists.blocklist.de/lists/all.txt```
 - ```https://raw.githubusercontent.com/Phishing-Database/Phishing.Database/master/phishing-domains-ACTIVE.txt```
+- ```https://feed.moyai.one```
+
+### abuse.ch Auth-Key (URLhaus / ThreatFox)
+
+abuse.ch now requires a free personal Auth-Key for all URLhaus and ThreatFox exports (including the plain hostfile). Get one at [auth.abuse.ch](https://auth.abuse.ch/), then set it as the `ABUSECH_AUTH_KEY` environment variable:
+
+- **Locally:** `export ABUSECH_AUTH_KEY="your-key"` before running `npm run start`.
+- **GitHub Actions:** add it as a repository secret (**Settings ▸ Secrets and variables ▸ Actions ▸ New repository secret**, name `ABUSECH_AUTH_KEY`) — the workflow passes it through automatically.
+
+The key is never written to any file in this repo; it's only read from the environment at runtime, and is redacted from `summary.json` and error messages. If `ABUSECH_AUTH_KEY` isn't set, the `urlhaus_hostfile` and `threatfox_hostfile` feeds are skipped and everything else runs normally.
 
 ---
 

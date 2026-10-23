@@ -28,6 +28,8 @@ jobs:
 
       - name: Run main script
         run: node main.js
+        env:
+          ABUSECH_AUTH_KEY: ${{ secrets.ABUSECH_AUTH_KEY }}
 
       - name: Set commit date
         id: date
