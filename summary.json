@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-23T13:01:07.220Z",
+  "generated_at": "2026-10-23T13:44:18.896Z",
   "total": {
-    "ips": 133665,
-    "hosts": 380115,
-    "networks": 135400,
+    "ips": 133907,
+    "hosts": 411939,
+    "networks": 135642,
     "networks6": 91,
     "tor_exit_nodes": 1215
   },
@@ -46,15 +46,15 @@
     },
     {
       "name": "urlhaus_hostfile",
-      "url": "https://urlhaus.abuse.ch/downloads/hostfile/",
+      "url": "https://urlhaus-api.abuse.ch/v2/files/exports/<REDACTED>/hostfile.txt",
       "type": "hosts",
       "counts": {
         "ips": 0,
-        "hosts": 0,
+        "hosts": 456,
         "networks": 0,
         "networks6": 0
       },
-      "error": "Failed to download https://urlhaus.abuse.ch/downloads/hostfile/: 410 Gone"
+      "error": null
     },
     {
       "name": "ipsum",
@@ -70,15 +70,15 @@
     },
     {
       "name": "threatfox_hostfile",
-      "url": "https://threatfox.abuse.ch/downloads/hostfile/",
+      "url": "https://threatfox-api.abuse.ch/v2/files/exports/<REDACTED>/hostfile.txt",
       "type": "hosts",
       "counts": {
         "ips": 0,
-        "hosts": 0,
+        "hosts": 31410,
         "networks": 0,
         "networks6": 0
       },
-      "error": "Failed to download https://threatfox.abuse.ch/downloads/hostfile/: 410 Gone"
+      "error": null
     },
     {
       "name": "dshield_7d",
@@ -133,7 +133,7 @@
       "url": "https://lists.blocklist.de/lists/all.txt",
       "type": "plain_ip",
       "counts": {
-        "ips": 28470,
+        "ips": 28525,
         "hosts": 0,
         "networks": 0,
         "networks6": 0
@@ -147,6 +147,18 @@
       "counts": {
         "ips": 0,
         "hosts": 379803,
+        "networks": 0,
+        "networks6": 0
+      },
+      "error": null
+    },
+    {
+      "name": "moyaifeed",
+      "url": "https://feed.moyai.one",
+      "type": "plain_ip",
+      "counts": {
+        "ips": 21,
+        "hosts": 0,
         "networks": 0,
         "networks6": 0
       },
