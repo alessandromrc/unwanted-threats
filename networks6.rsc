@@ -24,6 +24,7 @@
 /ipv6/firewall/address-list add list=unwanted-threats address=2405:b180::/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ipv6/firewall/address-list add list=unwanted-threats address=2405:e880::/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ipv6/firewall/address-list add list=unwanted-threats address=2602:f9bb::/36 comment="unwanted-threats/mikrotik" timeout=48h;
+/ipv6/firewall/address-list add list=unwanted-threats address=2602:ff84::/36 comment="unwanted-threats/mikrotik" timeout=48h;
 /ipv6/firewall/address-list add list=unwanted-threats address=2602:ffa0::/36 comment="unwanted-threats/mikrotik" timeout=48h;
 /ipv6/firewall/address-list add list=unwanted-threats address=2604:be0:fff0::/44 comment="unwanted-threats/mikrotik" timeout=48h;
 /ipv6/firewall/address-list add list=unwanted-threats address=2607:d100::/32 comment="unwanted-threats/mikrotik" timeout=48h;
