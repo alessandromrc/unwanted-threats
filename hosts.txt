@@ -35302,6 +35302,7 @@ admin.media-cooperation-center.com
 admin.melienvios.com
 admin.metamask.22ceshi.com
 admin.miningblockdata.com
+admin.model-point.click
 admin.mtsip.nl
 admin.myrbcsecure.com
 admin.nap.maixuanthanh.id.vn
@@ -170112,6 +170113,7 @@ economiaonlinebrasil-com.umbler.net
 economic-sage-tortellini.glitch.me
 economic.dyndns.dk
 economicimpactnotice.org
+economicmyra.workers.dev
 economicproject.org
 economicspa.org.usrfiles.com
 economie-fgov.be-id81hafdbuz1ba8fb187uafb1ba71bv7a.com.de
@@ -172451,7 +172453,6 @@ electlrum.org
 electon.xyz
 electra-conveyor.pages.dev
 electrex.it
-electri.billregulator.com
 electric-folds.000webhostapp.com
 electric-tesla.com
 electric-utilities.com
@@ -196464,6 +196465,7 @@ forhuman8.icu
 foribya.pro
 forigcreator.ml
 foriles.com
+forjadosbernabe.com
 forjalabtech.com
 forjoinusth.sgp1.digitaloceanspaces.com
 fork-equinox-pajama.glitch.me
@@ -201143,6 +201145,7 @@ g98708ds.beget.tech
 g98765xfghjk654wrt.pages.dev
 g9cgqv5qkjif4ec6frbynwzkwrs9rb.richardl.xyz
 g9epkl53.site-asli-bedon-filter-1xbet.com
+g9h533a0.georgelounge.bar
 g9iifqdwg3qbrpsqqvgt1ugv5cunaocwhuzbg3zfgubs2ueb1.pages.dev
 g9l6s9w5.greenestreetchurch.com
 g9lo26em.shartland.com
@@ -204939,6 +204942,7 @@ georgegreg658.cabanova.com
 georgehmyersandson.com
 georgejolly.com
 georgekolman.com
+georgelounge.bar
 georgemoghalu.org
 georgenicolae.ro
 georgeodika.wixsite.com
@@ -209279,7 +209283,6 @@ goldteknikservis.com
 goldtimexgroup.com
 goldtooth.com
 goldunitpath.verdalya.garden
-goldunitpath5.silicongateway.garden
 goldunitpath5.zenithdockunit.garden
 goldwavss.com
 goldy-b-jon.000webhostapp.com
@@ -221304,6 +221307,7 @@ health.sigmacoast.one
 health.winnererasable.cc
 health0.pinetile86.click
 health263.systems
+health3.flex-haven.click
 healthaccountmanagementpages.github.io
 healthandbeautyblog.5pm.co.uk
 healthaura.in
@@ -225209,7 +225213,6 @@ hhsdskmg.com
 hhsdskms.com
 hhsjfiwa.5q5e5o.cn
 hhsjsjsjbhjrjdjd.000webhostapp.com
-hhskkmmtyust.cn
 hhsna00098766.webflow.io
 hhstm.blogspot.bg
 hhsu.consulting.linux47.unoeuro-server.com
@@ -267432,7 +267435,6 @@ lead-ginger-energy.glitch.me
 lead-mardi-heath-eternal.trycloudflare.com
 lead-tracking-system.biz
 lead-vac.com
-lead4tasksys.silicongateway.garden
 lead4tasksys.zenithdockunit.garden
 leadandsales.com
 leadastepahead.com
@@ -270843,7 +270845,6 @@ linect.ztyrg.xyz
 lineend.info
 linehostunit.peta1vrix.bet
 linehostunit1.cobaltpathsys.garden
-linehostunit1.vectorpointsite.garden
 lineicmimarlik.com
 linekd.duckdns.org
 linekwdemo2.com
@@ -277413,6 +277414,7 @@ lovebits.ml
 lovebonito.vip
 lovebooksloveautho-wixsite-com.usrfiles.com
 lovecasino.co
+lovecute3ssss.top
 lovecutessss.top
 lovedawn.com
 lovedog.tw
@@ -347442,7 +347444,6 @@ point.oceanstormview.lat
 point.puro2tal.lat
 point.zoepastorsgathering.org
 point8fluxsys.cobaltpathsys.garden
-point8fluxsys.vectorpointsite.garden
 pointball-llvwkkfsoo.edgeone.app
 pointbofa.groupsint.com
 pointcanunit.vectorpathsys.bet
@@ -388982,7 +388983,6 @@ silgaz19.github.io
 silhouettedancecompany.com
 silica4path.lunavera.garden
 silicon-juniper-daughter.glitch.me
-silicon7point.silicongateway.garden
 silicon7point.verdalya.garden
 silicon7point.zenithdockunit.garden
 silicon8host.veloria.garden
@@ -398133,6 +398133,7 @@ trace.novagarden.lol
 trace.novi7xel.surf
 trace.silverwoodhub.lat
 trace7taskhub.dusherport2ge.bet
+trace9.web-nest.xyz
 tracerecord.info
 traceropszone.net
 tracerwiresoft.com
@@ -403599,7 +403600,6 @@ vechainliveclaimdapp.pages.dev
 vechainofficial.org
 vector.archiv-checkered.surf
 vector3sitehub.cobaltpathsys.garden
-vector3sitehub.vectorpointsite.garden
 vectorgridzone.digital
 vectorpointbit.veloria.garden
 vectorprospera.digital
@@ -411981,7 +411981,6 @@ zin-n.shop
 zinc-bird-gigantoraptor.glitch.me
 zinc-yielding-raft.glitch.me
 zinc8siteview.thari9xel.bet
-zincflowbase.silicongateway.garden
 zincflowbase.zenithdockunit.garden
 zingy-biscotti-4c5f29.netlify.app
 zingy-fox-1ceca2.netlify.app
