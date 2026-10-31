@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-30T23:00:45.007Z",
+  "generated_at": "2026-10-31T00:01:04.556Z",
   "total": {
-    "ips": 151202,
-    "hosts": 412496,
-    "networks": 153012,
+    "ips": 151453,
+    "hosts": 412504,
+    "networks": 153263,
     "networks6": 92,
-    "tor_exit_nodes": 1224
+    "tor_exit_nodes": 1225
   },
   "per_feed": [
     {
@@ -37,12 +37,12 @@
       "url": "https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt",
       "type": "plain_ip",
       "counts": {
-        "ips": 0,
+        "ips": 5,
         "hosts": 0,
         "networks": 0,
         "networks6": 0
       },
-      "error": "Failed to download https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt: 504 Gateway Time-out"
+      "error": null
     },
     {
       "name": "urlhaus_hostfile",
@@ -50,7 +50,7 @@
       "type": "hosts",
       "counts": {
         "ips": 0,
-        "hosts": 457,
+        "hosts": 458,
         "networks": 0,
         "networks6": 0
       },
@@ -74,7 +74,7 @@
       "type": "hosts",
       "counts": {
         "ips": 0,
-        "hosts": 31967,
+        "hosts": 31974,
         "networks": 0,
         "networks6": 0
       },
@@ -133,7 +133,7 @@
       "url": "https://lists.blocklist.de/lists/all.txt",
       "type": "plain_ip",
       "counts": {
-        "ips": 25017,
+        "ips": 25074,
         "hosts": 0,
         "networks": 0,
         "networks6": 0
