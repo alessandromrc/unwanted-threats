@@ -1251,3 +1251,4 @@
 /ip firewall address-list add list=tor-exit-nodes address=95.179.161.253 comment="tor-exit-nodes/mikrotik" timeout=48h;
 /ip firewall address-list add list=tor-exit-nodes address=95.211.239.220 comment="tor-exit-nodes/mikrotik" timeout=48h;
 /ip firewall address-list add list=tor-exit-nodes address=96.44.167.209 comment="tor-exit-nodes/mikrotik" timeout=48h;
+/ip firewall address-list add list=tor-exit-nodes address=96.44.167.216 comment="tor-exit-nodes/mikrotik" timeout=48h;
