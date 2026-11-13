@@ -26505,6 +26505,7 @@ abandonedwebnote495.ml
 abandonismod.tk
 abang.lombokabang.com
 abangensem.com
+abangpoteh.com
 abangsayangq.blogspot.com
 abannbiff-ticcom.site
 abano5.ge
@@ -59650,7 +59651,6 @@ api.linkr.bio
 api.litaquan2023.top
 api.localhost8000.fun
 api.login.o-rg.com
-api.loretesimorix.com
 api.marketing.staging.mentorcliq.com
 api.meetione.top
 api.microsoftgroup.com
@@ -72897,6 +72897,7 @@ asyhomensecapp.com.br
 asynchronous-javascriptor.github.io
 asynchronous-message-routing-framework.wiki
 asynchronouswatering-system.garden
+asyncify.fun
 asynclient21.duckdns.org
 asyncmove.com
 asyproduction.com
@@ -154166,7 +154167,6 @@ decentralizedfix.live
 decentralizedfixpanel.pages.dev
 decentralizedl.ink
 decentralizedmainnet.info
-decentralizedmessagingframework.wiki
 decentralizednodes-1o4.pages.dev
 decentralizedpad.pages.dev
 decentralizedprotocol-5ih.pages.dev
@@ -208525,6 +208525,7 @@ goodinfojagd.hekko24.pl
 goodish-probe.000webhostapp.com
 goodkarmapay.com
 goodkav.ru
+goodlandfp.com
 goodlife-society.com
 goodlifelakerentals.com
 goodlingerie.com.br
@@ -242913,6 +242914,7 @@ irlfyhgxruwolhcy-dot-millinium.ey.r.appspot.com
 irlivesupport.vercel.app
 irljgzvr.sanjeshvaandazegiri.shop
 irm-facebook-2221117818.maak.org.mk
+irm.st
 irmaclothing.com
 irmagen.ir
 irmasbeneditinasdp.com.br
@@ -378553,7 +378555,6 @@ runtime-nexus.digital
 runtime-processing-node.christmas
 runtime-sphere.digital
 runtime.hvwnrellsg.ru
-runtimeexecutionlayer.wiki
 runtimefabric.courses
 runtimerailbit.com
 runtimeringnow.com
@@ -391084,6 +391085,7 @@ swiftenv.io
 swiftfieldxc.vercel.app
 swiftfixgaragedoors.com
 swiftflux.cc
+swiftfusion.tech
 swiftmining.win
 swiftnodeaccessrefix.pages.dev
 swiftnoderessolves.pages.dev
