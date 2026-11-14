@@ -36824,7 +36824,6 @@ advanced-enable-certificated-pages-041300120124.tk
 advanced-enable-certificated-pages-044300120124.tk
 advanced-enable-certificated-pages-valid-0296466016.xyz
 advanced-enable-pages-help-2020.my.id
-advanced-it-infrastructure.courses
 advanced-pixelverseglobal.com
 advanced-share.pages.dev
 advanced.thegovuk.com
@@ -114615,6 +114614,7 @@ bo-id98.info
 bo-libbelin.edu-lib.fr
 bo-pdffiller.lat
 bo.apij4ya.org
+bo.appel4d.com
 bo.guo7iyfr.dns-dynamic.net
 bo.zaixy117.gq
 bo0fa.sytes.net
@@ -137245,7 +137245,6 @@ cloudridgef.vercel.app
 cloudrizz.pages.dev
 cloudrover.vercel.app
 cloudruntime.christmas
-cloudruntime.courses
 clouds-33b3.citlaliheck.workers.dev
 clouds-band-6652.leecarlos.workers.dev
 clouds-cake-4525.teairncakli.workers.dev
@@ -139150,7 +139149,6 @@ codenovac.vercel.app
 codepasta.app
 codephoenix86.github.io
 codepit-rized-denengine.garden
-coder-logic-vault.courses
 coder2x.github.io
 coderamrit.github.io
 coderegenesis.com
@@ -220098,6 +220096,7 @@ hdpwuj.lipogumme.com
 hdq123magyarul.over-blog.com
 hdqnacguyvufqezx-dot-millinium.ey.r.appspot.com
 hdqzc.casinomhub.bet
+hdrichmondstag.wpengine.com
 hdrikanmounts.com
 hdrnt.top
 hdrsssjxuxnmdeairaeyxwtyjp.lspower.xyz
@@ -321427,6 +321426,7 @@ nordkingbackup3.space
 nordlayer-vpn.com
 nordlets.ml
 nordmann-automobilgruppe.de
+nordo.store
 nordorange.com
 nordpost-dkk-anywherecode9616046.codeanyapp.com
 nordra4ex.kymle5rax.in.net
@@ -403804,6 +403804,7 @@ wordcreateplis.myddns.me
 wordfund-wealth.com
 wordmover.shop
 wordpower.vn
+wordpress-1226367-4631498.cloudwaysapps.com
 wordpress-1517926-5835952.cloudwaysapps.com
 wordpress-1532214-5908742.cloudwaysapps.com
 wordpress-1555568-6027080.cloudwaysapps.com
@@ -404193,6 +404194,7 @@ wuwei.pilot45.com
 wuyhuy-d9gx.vercel.app
 wv12i.icu
 wv2opp5z.fuzy.store
+wvat5jzlpr.workers.dev
 wvesyle.moderncountryrocketheaters.com
 wvew.elitesport.ir
 wvg.brslot.net
@@ -407674,6 +407676,7 @@ znvd-casefb345275.vercel.app
 znwnfcpcontacts.helenclare.id.au
 znzbc4912xifckubjls.waie.de
 znzk3tim.betyek.net
+zo.apaljitu.org
 zo4t1q36.moarefeslami.xyz
 zoasav.onlineshart.com
 zoastklaeon.pro
