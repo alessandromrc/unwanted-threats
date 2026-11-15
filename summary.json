@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-15T08:00:44.538Z",
+  "generated_at": "2026-11-15T09:00:40.946Z",
   "total": {
-    "ips": 140943,
-    "hosts": 407659,
-    "networks": 142748,
+    "ips": 141030,
+    "hosts": 407666,
+    "networks": 142835,
     "networks6": 90,
-    "tor_exit_nodes": 1260
+    "tor_exit_nodes": 1259
   },
   "per_feed": [
     {
@@ -50,7 +50,7 @@
       "type": "hosts",
       "counts": {
         "ips": 0,
-        "hosts": 463,
+        "hosts": 464,
         "networks": 0,
         "networks6": 0
       },
@@ -74,7 +74,7 @@
       "type": "hosts",
       "counts": {
         "ips": 0,
-        "hosts": 27131,
+        "hosts": 27137,
         "networks": 0,
         "networks6": 0
       },
@@ -157,7 +157,7 @@
       "url": "https://feed.moyai.one",
       "type": "plain_ip",
       "counts": {
-        "ips": 4234,
+        "ips": 4221,
         "hosts": 0,
         "networks": 0,
         "networks6": 0
