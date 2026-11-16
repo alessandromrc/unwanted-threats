@@ -17,6 +17,9 @@
 /ip firewall address-list add list=tor-exit-nodes address=103.91.65.44 comment="tor-exit-nodes/mikrotik" timeout=48h;
 /ip firewall address-list add list=tor-exit-nodes address=104.167.241.224 comment="tor-exit-nodes/mikrotik" timeout=48h;
 /ip firewall address-list add list=tor-exit-nodes address=104.167.241.4 comment="tor-exit-nodes/mikrotik" timeout=48h;
+/ip firewall address-list add list=tor-exit-nodes address=104.167.242.116 comment="tor-exit-nodes/mikrotik" timeout=48h;
+/ip firewall address-list add list=tor-exit-nodes address=104.167.242.117 comment="tor-exit-nodes/mikrotik" timeout=48h;
+/ip firewall address-list add list=tor-exit-nodes address=104.167.242.118 comment="tor-exit-nodes/mikrotik" timeout=48h;
 /ip firewall address-list add list=tor-exit-nodes address=104.168.0.177 comment="tor-exit-nodes/mikrotik" timeout=48h;
 /ip firewall address-list add list=tor-exit-nodes address=104.219.236.100 comment="tor-exit-nodes/mikrotik" timeout=48h;
 /ip firewall address-list add list=tor-exit-nodes address=104.244.72.115 comment="tor-exit-nodes/mikrotik" timeout=48h;
@@ -253,7 +256,6 @@
 /ip firewall address-list add list=tor-exit-nodes address=185.132.53.45 comment="tor-exit-nodes/mikrotik" timeout=48h;
 /ip firewall address-list add list=tor-exit-nodes address=185.132.53.46 comment="tor-exit-nodes/mikrotik" timeout=48h;
 /ip firewall address-list add list=tor-exit-nodes address=185.132.53.47 comment="tor-exit-nodes/mikrotik" timeout=48h;
-/ip firewall address-list add list=tor-exit-nodes address=185.132.53.58 comment="tor-exit-nodes/mikrotik" timeout=48h;
 /ip firewall address-list add list=tor-exit-nodes address=185.150.28.13 comment="tor-exit-nodes/mikrotik" timeout=48h;
 /ip firewall address-list add list=tor-exit-nodes address=185.154.110.142 comment="tor-exit-nodes/mikrotik" timeout=48h;
 /ip firewall address-list add list=tor-exit-nodes address=185.154.110.16 comment="tor-exit-nodes/mikrotik" timeout=48h;
