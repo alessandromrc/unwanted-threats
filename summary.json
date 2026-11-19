@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-19T22:02:53.109Z",
+  "generated_at": "2026-11-19T23:02:53.313Z",
   "total": {
-    "ips": 142993,
+    "ips": 143119,
     "hosts": 409886,
-    "networks": 144787,
+    "networks": 144913,
     "networks6": 90,
     "tor_exit_nodes": 1300
   },
@@ -133,7 +133,7 @@
       "url": "https://lists.blocklist.de/lists/all.txt",
       "type": "plain_ip",
       "counts": {
-        "ips": 25185,
+        "ips": 25049,
         "hosts": 0,
         "networks": 0,
         "networks6": 0
@@ -157,7 +157,7 @@
       "url": "https://feed.moyai.one",
       "type": "plain_ip",
       "counts": {
-        "ips": 4191,
+        "ips": 4175,
         "hosts": 0,
         "networks": 0,
         "networks6": 0
