@@ -66022,6 +66022,7 @@ approfferuty.000webhostapp.com
 approlog.000webhostapp.com
 appropriatelyselfish.com
 appropriatenetgitzos.xyz
+appropriateyellow.workers.dev
 approtecyourconfrm.ga
 approutera.vercel.app
 approva-app.top
@@ -111122,7 +111123,6 @@ bjyqjg.onlineshart.com
 bjyynsryxmipvngg-dot-millinium.ey.r.appspot.com
 bjzijin.com.cn
 bjziywguihufkjsitjmsrhitrb-dot-gl9393jan.uk.r.appspot.com
-bjzrz6je.packet-cascade.digital
 bjzzmbhhgkczdpjk-dot-millinium.ey.r.appspot.com
 bk-mvfj.jp.tbspye.com
 bk.aerovisioncity.com
@@ -168711,6 +168711,7 @@ ec2-44-211-145-54.compute-1.amazonaws.com
 ec2-50-18-236-143.us-west-1.compute.amazonaws.com
 ec2-52-10-148-244.us-west-2.compute.amazonaws.com
 ec2-52-10-45-89.us-west-2.compute.amazonaws.com
+ec2-52-14-78-149.us-east-2.compute.amazonaws.com
 ec2-52-214-206-13.eu-west-1.compute.amazonaws.com
 ec2-52-24-238-189.us-west-2.compute.amazonaws.com
 ec2-52-3-247-59.compute-1.amazonaws.com
@@ -263475,7 +263476,6 @@ labreled14.temp.swtest.ru
 labs.escala-web.com
 labs.sells-it.net
 labsalus.lv
-labshift-winmail-get.christmas
 labsmolin.kz
 labswesternadventamplify.xyz
 labticianorderonline.com
@@ -263519,7 +263519,6 @@ laciest-goal.000webhostapp.com
 lacimaecohotel.com
 lacitoyennelibreposted.ga
 lacittacivile.it
-lack.work.gd
 lackadaisical-steadfast-string.glitch.me
 lackedbootweb245.ga
 lacks.dyndns.dk
@@ -401339,7 +401338,6 @@ w3c-sn.com
 w3jxkd42.jardins-do-mar.com
 w3k7uo.fit
 w3mba.com
-w3ruma49.packet-cascade.digital
 w3s.link
 w3villa-rajveer-singh.github.io
 w4.altertogel.net
@@ -401785,7 +401783,9 @@ wbvnmod.cn
 wbworkshops.com
 wbzi6m3h6k.xyz
 wbzza.sbs
+wc-doge.ddns.net
 wc-verify.duckdns.org
+wc-vps.ddns.net
 wc2z5pjy.digeststart.us
 wc7skdzu.yakhbet.com
 wcexplorer-cache.onwebapps.com
