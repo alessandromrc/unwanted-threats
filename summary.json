@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-22T22:02:55.145Z",
+  "generated_at": "2026-11-22T23:02:59.794Z",
   "total": {
-    "ips": 141909,
+    "ips": 142013,
     "hosts": 380576,
-    "networks": 143707,
+    "networks": 143811,
     "networks6": 90,
-    "tor_exit_nodes": 1253
+    "tor_exit_nodes": 1254
   },
   "per_feed": [
     {
@@ -133,7 +133,7 @@
       "url": "https://lists.blocklist.de/lists/all.txt",
       "type": "plain_ip",
       "counts": {
-        "ips": 22304,
+        "ips": 22305,
         "hosts": 0,
         "networks": 0,
         "networks6": 0
