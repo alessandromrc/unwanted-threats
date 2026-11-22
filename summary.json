@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-22T04:03:02.904Z",
+  "generated_at": "2026-11-22T05:02:59.120Z",
   "total": {
-    "ips": 139885,
-    "hosts": 408486,
-    "networks": 141684,
+    "ips": 140007,
+    "hosts": 380573,
+    "networks": 141806,
     "networks6": 90,
     "tor_exit_nodes": 1263
   },
@@ -50,7 +50,7 @@
       "type": "hosts",
       "counts": {
         "ips": 0,
-        "hosts": 459,
+        "hosts": 460,
         "networks": 0,
         "networks6": 0
       },
@@ -74,11 +74,11 @@
       "type": "hosts",
       "counts": {
         "ips": 0,
-        "hosts": 27970,
+        "hosts": 0,
         "networks": 0,
         "networks6": 0
       },
-      "error": null
+      "error": "Failed to download https://threatfox-api.abuse.ch/v2/files/exports/<REDACTED>/hostfile.txt: 502 Bad Gateway"
     },
     {
       "name": "dshield_7d",
@@ -133,7 +133,7 @@
       "url": "https://lists.blocklist.de/lists/all.txt",
       "type": "plain_ip",
       "counts": {
-        "ips": 22643,
+        "ips": 22623,
         "hosts": 0,
         "networks": 0,
         "networks6": 0
@@ -157,7 +157,7 @@
       "url": "https://feed.moyai.one",
       "type": "plain_ip",
       "counts": {
-        "ips": 4564,
+        "ips": 4595,
         "hosts": 0,
         "networks": 0,
         "networks6": 0
