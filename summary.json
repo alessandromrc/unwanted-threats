@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-22T17:02:39.020Z",
+  "generated_at": "2026-11-22T18:02:39.311Z",
   "total": {
-    "ips": 141370,
-    "hosts": 380576,
-    "networks": 143168,
+    "ips": 141461,
+    "hosts": 380115,
+    "networks": 143259,
     "networks6": 90,
     "tor_exit_nodes": 1253
   },
@@ -50,11 +50,11 @@
       "type": "hosts",
       "counts": {
         "ips": 0,
-        "hosts": 463,
+        "hosts": 0,
         "networks": 0,
         "networks6": 0
       },
-      "error": null
+      "error": "Failed to download https://urlhaus-api.abuse.ch/v2/files/exports/<REDACTED>/hostfile.txt: 502 Bad Gateway"
     },
     {
       "name": "ipsum",
@@ -133,7 +133,7 @@
       "url": "https://lists.blocklist.de/lists/all.txt",
       "type": "plain_ip",
       "counts": {
-        "ips": 22429,
+        "ips": 22417,
         "hosts": 0,
         "networks": 0,
         "networks6": 0
