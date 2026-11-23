@@ -7631,8 +7631,6 @@
 2f982290.sibforms.com
 2fa-auth-76080.com
 2fa-coinbasewallet.com
-2fa-cp.cfd
-2fa-cp.click
 2fa-mail.ru
 2fa-metamask.online.snackbarko.nl
 2fa-myetherwallet.com
@@ -39394,6 +39392,7 @@ aggrandizingwebs.gq
 aggravatingadmiredfossil.crimassociates.repl.co
 aggravatingclosedparallelprocessing.pruebadecora.repl.co
 aggreg.myportfolio.com
+aggregation.ifrjsmor.com
 aggressive-pest.surge.sh
 aggressorecotone.com
 aggtqykusf.duckdns.org
@@ -59373,6 +59372,7 @@ api.askdoctor.uz
 api.atinkaonline.com
 api.atlasbyte.xyz
 api.bancaloan.com
+api.bcytua.cc
 api.billingafrica.com
 api.bot-jembuts-verif.com
 api.bot-lastry-verified.com
@@ -59401,6 +59401,7 @@ api.dev.mostaza.org
 api.devark.jp
 api.digitalairstrike.io
 api.discord.cool-js.cloud
+api.dloria.cc
 api.dobox.com
 api.elasticemail.com
 api.elevateitapp.com
@@ -59443,6 +59444,7 @@ api.ketoriloxisd.com
 api.kksrs.com
 api.kolaybet.club
 api.kookjar.com
+api.kytira.cc
 api.landset.mx
 api.lce9v.com
 api.lgin.msa.trafficmanager.net
@@ -59519,11 +59521,15 @@ api.sweetiecam.com
 api.tataskabehmbuh.com
 api.telegram-ya.com
 api.telfire.live
+api.teloce.cc
+api.terral.cc
 api.test.allegromicro.cloud
 api.tiktokmall365.net
 api.timeforsurveys.com
 api.tokec.im
+api.trione.cc
 api.tuipoekolqrx.com
+api.vbrtex.cc
 api.verynewsy.com
 api.vexxuhq.site
 api.vfibra.com.br
@@ -61607,6 +61613,7 @@ app.accessactivation.com
 app.acess24hrsportal.com
 app.acessar-mina-fatura-digital-s5d8s.com
 app.acesso.cliente.br.kkiki.xyz
+app.activity.trmaz.xyz
 app.acuityscheduling.com
 app.acvt99rmh001.xyz
 app.adconnector.de
@@ -73898,6 +73905,7 @@ atq-phi.vercel.app
 atq.dsd.mybluehost.me
 atqdtkpldtcslpnq-dot-millinium.ey.r.appspot.com
 atqfb.calirayalake.com
+atqnw.anuytzc.xyz
 atr2t37ngllrkkbt7tsxprlnuejxknxjjiqvy3woralbuok3unhuzeqd.onion
 atracklines.tumblr.com
 atraini.cl
@@ -91427,6 +91435,7 @@ b.postai.update.config.com.hnhsofttechsolutions.com
 b.proofandcos.workers.dev
 b.san6u03.xyz
 b.sandiu566.xyz
+b.search-hub.xyz
 b.telegranrf.cc
 b.velvet.by
 b.worldpress.biz
@@ -92746,7 +92755,6 @@ backyard.caq.com.au
 backyardhoneycompany.com
 backyardthrowdown.com
 baclinks.xyz
-bacloudserver.beer
 bacnguyen020104.github.io
 bacnolobia-sucursall--yassercontreras.repl.co
 bacolombiapers.webcindario.com
@@ -103065,7 +103073,6 @@ bbdkvyoets.duckdns.org
 bbdndnsdn.weebly.com
 bbdpxjuocgydqqda-dot-millinium.ey.r.appspot.com
 bbdrou.cc
-bbdsnssserver.beer
 bbe.vercel.app
 bbe00639-f138-48d6-a302-d78d41b9461c-00-3q0x6wqdkekq9.picard.replit.dev
 bbe551.cn
@@ -103588,7 +103595,6 @@ bcmsc.deckico.bet
 bcn.pages.dev
 bcnbatcave.com
 bcncbdfgsd.com
-bcncdncl-ns.beer
 bcncncn.pages.dev
 bcns.ai
 bcnsistemas.pt
@@ -104810,7 +104816,6 @@ bedardseniorcare.com
 bedavagbpaketleri.com
 bedavasorgupaneli.help
 bedbrqtvrgpsbiwl-dot-millinium.ey.r.appspot.com
-bedcdnset.beer
 beddinibistrot.com
 bedecked-autumn-purpose.glitch.me
 bedecked-fuschia-tire.glitch.me
@@ -106006,6 +106011,7 @@ bendosmads.com.fozzyhost.com
 bendotticostruzioni.com
 bendpsychologist.com
 bendwise-recording.000webhostapp.com
+bene.hypstok.info
 benedettimusic.com
 benedictmfg.com
 benedictre.cf
@@ -106647,7 +106653,6 @@ best-app.pancreta-app-auth.com
 best-appus-ledgerlive.webflow.io
 best-basedbrett.com
 best-buys.ru
-best-claudns-js.beer
 best-coin-mixers.com
 best-commit-ts2b.surge.sh
 best-cow-networking-hence.trycloudflare.com
@@ -109212,7 +109217,6 @@ bigsbubbasbadbbq.com
 bigsignals.xyz
 bigsipfest.com
 bigskyaviation.com
-bigsmart.beer
 bigsmexis.com
 bigsp0079.bitbucket.io
 bigsp045.bitbucket.io
@@ -110946,7 +110950,6 @@ bj3om19077jyckqvpfb.zthc.de
 bj52kv8jypi.vyiz.my.id
 bj5cqt.webwave.dev
 bj7i71.40261.81935.m.shuaihu99.com
-bj88play.games
 bj8lt4fm8evwyl.pages.dev
 bjalyvatghtbbnwi-dot-millinium.ey.r.appspot.com
 bjamethmn0ztwsgtpbm.liusanjie.cc
@@ -116264,7 +116267,6 @@ bootorchestra.com
 bootsandcompany.com
 bootspot.tk
 bootstrap-cdn.net
-bootstrap-css-framework.cfd
 bootstrap-maxcdn.beer
 bootstrapapplreplica.netlify.app
 bootstrapccdn.com
@@ -119998,7 +120000,6 @@ bsrwebsscmivazbz-dot-millinium.ey.r.appspot.com
 bss-mercd.lovestoblog.com
 bss78ghbnn.wixsite.com
 bssadvtt-dvttt.com
-bssapi.click
 bssc.se
 bssegq6ka7w0.qwo231sdx.club
 bsspbd.com
@@ -124751,6 +124752,7 @@ c.nnjgdyduerosd.com
 c.nvgtn3656.com
 c.nvgtn365k.com
 c.obwhatsappdownload.com
+c.orjqg.sbs
 c.pushonline.online
 c.san6566.xyz
 c.sandiu5kk.xyz
@@ -126661,6 +126663,7 @@ caperartbyberni.com
 capernaitical-cuckoomaid.s3.us-east-2.amazonaws.com
 capetastefulr.com
 capfayushman.com
+capi.dtdcloud.com
 capi1taline.liveingwhitewater.icu
 capicuaturismo.com.ar
 capilart.com.br
@@ -126759,8 +126762,6 @@ captainpepe.org
 captainsgallery.com
 captaloneeautonfirm.hopto.org
 captch.online
-captcha-cds.cfd
-captcha-cds.click
 captcha-signin-amzn23.duckdns.org
 captcha-web.cc
 captcha.pay.pai.umleiten.ch.theredmillbakehouse.com.au
@@ -128958,7 +128959,6 @@ cckoient.boroo.bet
 ccktg2subj.jimdofree.com
 cclaim-draco.duckdns.org
 cclaquila.it
-ccleaner.gl
 ccleanerupdate.mysynology.net
 cclnjcyzkhpwtyxbfsnolkpnpd.polished-shore-301017.uk.r.appspot.com
 cclose.com
@@ -129427,7 +129427,6 @@ cdnjs.bootstrapscdn.com
 cdnjs.cloudflane.com
 cdnjs.cloudflire.com
 cdnjs.cloudflire.net
-cdnjsdelivr.beer
 cdnln.pages.dev
 cdnmp.com
 cdnnews.hs-sites.com
@@ -131182,6 +131181,7 @@ chanhxecotuyen.com
 chankarwan.temp.swtest.ru
 channamok.com
 channel-based-waveform.com
+channel-sdk.tentvs.com
 channel-tele-xlocal.pages.dev
 channel.volta.eu.org
 channelhub.info
@@ -135734,7 +135734,6 @@ claude-docs.org
 claude-flare-verification.vercel.app
 claudecars.dotster.com
 claudedivug.com
-claudemo.net
 claudesave.beer
 claudettes.net
 claudevorilhon.com
@@ -136614,8 +136613,6 @@ cloud-protect-091.com
 cloud-reconncet-9f0e.czwl05dv.workers.dev
 cloud-rise-66b4.jeilkaicunrd.workers.dev
 cloud-robinhood-login.flazio.com
-cloud-safe.cfd
-cloud-safe.click
 cloud-salad-8852.neleuoarbrlei.workers.dev
 cloud-save-image.sbs
 cloud-scn.info
@@ -138671,6 +138668,7 @@ codecerification.beer
 codecis.net
 codecraft7.github.io
 coded404-see.mdbgo.io
+codedevapp.com
 codedrop.thevisionpoints.com
 codeearthenginegooglecom.gif001.workers.dev
 codeeezzz.github.io
@@ -156381,7 +156379,6 @@ dev-jijhh888.pantheonsite.io
 dev-joingrupo.pantheonsite.io
 dev-jonrleavitttelewormus.pantheonsite.io
 dev-jourrapidegh.pantheonsite.io
-dev-js-cdn.cfd
 dev-ju9a987436.pantheonsite.io
 dev-junbgaas.pantheonsite.io
 dev-junhas.pantheonsite.io
@@ -164206,7 +164203,6 @@ dref-meta-murf-vesk.pages.dev
 dref-meta-murf.pages.dev
 drefdan.com
 drefdr454ef.com
-dreff-nsdns.beer
 dregfiledoc.ml
 dreggiyts.myftp.org
 dreigs-mccreauw-hyuierry.yolasite.com
@@ -176124,7 +176120,6 @@ etax2-vyadgipanama-pagos.comhtax2.mef.gob.paetax2weblogin.aspx.ministeriopublico
 etbit-intacces.com
 etbjrecfyusrzkyncra-numzdpkoqlknozcrnce-n-rjcojwbjpltynatlsq.glitch.me
 etc-akiaki.cam
-etc-cte.org
 etc-kwt.com
 etc-login.com
 etc-meisai-jp.fkuywgo.cn
@@ -192436,7 +192431,6 @@ finestattregister.weebly.com
 finework.top
 fingalaxytech.com
 fingb2.com
-finger.claudemo.net
 finger.claudenell.net
 finger.claudettes.net
 fingercheese.com
@@ -199898,7 +199892,6 @@ ga.zxiaofan.com
 ga4eexwvn5swmi6.e8273.pro
 ga5.uk
 ga888thu.com
-ga888vn.ru.com
 ga93j6p.duckdns.org
 gaa-ter.onmore.top
 gaaaraaanannnt.site
@@ -201780,7 +201773,6 @@ gb-saw9him.club
 gb-shop.com
 gb-tamor.zeabur.app
 gb-us-meta-center-acccount.pages.dev
-gb-westerveld.nl
 gb-wh.imml.top
 gb.ra3c.com
 gb.roya1-ma1l-delivery.com
@@ -210227,7 +210219,6 @@ grehu-6d48.aedlripreaz.workers.dev
 greiboitruqueuje-6861.vercel.app
 greidisgood.com.au
 greiquewofrogru.vercel.app
-grell.nl
 grem-meta.pages.dev
 gremaslsoii.nbvihosgertiulocaeminaui.link
 grembcc.ml
@@ -222482,6 +222473,7 @@ helper-busines-verify.vercel.app
 helper-dd5eb.web.app
 helper-lnstagram.gq
 helper-meta-support.ml
+helper-sdk.tentvs.com
 helperalertsys.com
 helperbirds.com
 helpercenterapeal.web.app
@@ -232576,6 +232568,7 @@ idbrokerwebex.com
 idbsb.esportregister.my.id
 idbzwjfbaw.duckdns.org
 idc-52715135.taqwalabmultan.com
+idc.dtdcloud.com
 idcaregoninfoagoucre-dit.com
 idcase-01833828.shah-tech.com
 idcase-23764189.shah-tech.com
@@ -242079,6 +242072,7 @@ ip-testcheck.vercel.app
 ip-vm.vercel.app
 ip.333pwk.org
 ip.faicai888.cc
+ip.tentvs.com
 ip.yummyhouse.com.mx
 ip102-6.thdo.ncuk.net
 ip121.ip-145-239-168.eu
@@ -242210,6 +242204,7 @@ ipi.gov.mz
 ipickapp.cl
 ipictorial.store
 ipikbcwuwvzerdso-dot-millinium.ey.r.appspot.com
+ipinfo.comonxp.com
 ipip99.zzux.com
 ipissbgroup.com
 ipixacademy.com
@@ -263304,6 +263299,7 @@ l6vqnsu2yesx1ca06aoct8cp4aifwb5.vddew.ink
 l6x.a5e.myftpupload.com
 l6y96jmj.ravanshenasisaeedi.xyz
 l7.atom80.org
+l70ett.51eim.net
 l74u0.ima8invika.garden
 l75.eee.mywebsitetransfer.com
 l7a.org.uk
@@ -266284,7 +266280,6 @@ ledegr--desktop-live.webflow.io
 ledegrlive-wallet-us.pages.dev
 ledegrwallet.azurewebsites.net
 ledelampa.com
-ledele.de
 leder-login-web-get.pages.dev
 lederrcmstar.webflow.io
 lederss-livvdownload.webflow.io
@@ -278526,6 +278521,7 @@ m.kvy3683.com
 m.kvy6326.com
 m.kvz6952.com
 m.kvz8727.com
+m.l1biz.sbs
 m.lachel.co.kr
 m.langfangfuqi.com
 m.lastmadridtopic.com
@@ -319423,6 +319419,7 @@ nieseng.sbs
 niesmenato.mk
 nietaktrudno.click
 nietflix.nl
+nietv.ahd2020.com
 nieuw-rbosc.xyz
 nieuw.kunsthuysbest.nl
 nieuw.net-upt.com
@@ -330905,6 +330902,7 @@ optimized-ad-service-meta-pr3-no312-rose.vercel.app
 optimized-ad-support-meta-pr3-no954-gamma.vercel.app
 optimizedoutcomesbook.com
 optimizepresslandingpage.com
+optimizerapi.long.tv
 optimizercontenceptionfase.themecloud.dev
 optimovements.com
 optimum-mining.com
@@ -334163,6 +334161,7 @@ p78q.xyz
 p78r.xyz
 p7do7hzs.verticalrewards.com
 p7ga4syg.parentingemagazine.com
+p7l.aton108.net
 p7lsz4.cmep-ci.com
 p7n5n0qg.en-us-glucotrustt-bites.com
 p7sqrqld0qskclaykgck4sd4kmobyy6qesq.pages.dev
@@ -334286,6 +334285,7 @@ pabasic.xyz
 pabay.xyz
 pabazer.freewebhostmost.com
 pabbas01.wixsite.com
+pabcq.anuytzc.xyz
 pabdnour20.temp.swtest.ru
 pabdxziufzersqcj-dot-millinium.ey.r.appspot.com
 pabhrr.dreamhosters.com
@@ -365903,6 +365903,7 @@ random-dot-t6yq5rw.rj.r.appspot.com
 random-robbie.github.io
 random.aruba-random.studiorosin.com
 random.hawored.top
+random.vivosoc.cc
 random.w-i-se-security.top
 random5444.duckdns.org
 randomallies.com
@@ -366250,7 +366251,6 @@ ratsales.duckdns.org
 ratshy.com
 rattanhope.com
 rattc2jn.asibshenasiyahya.shop
-ratting.top
 rattle-burnt-swallow-fghgjhjk.glitch.me
 rattle-sweltering-christmas.glitch.me
 rattle-towering-flier.glitch.me
@@ -381341,7 +381341,6 @@ salwa.attawafouk.com
 salyers-law.com
 salytcxchlh7c.mocha.app
 salzseedco.tk
-sam-sa.net
 sam.65e.org
 sam.carreli.eu.org
 sam.henderson.ultramedicinadiagnostica.com.br
@@ -383036,6 +383035,7 @@ sas2453axz.appspot.com
 sasa-codashop.duckdns.org
 sasa2.fixiow.icu
 sasa21tantekugirang.000webhostapp.com
+sasa6.fixiow.icu
 sasakidenki.com
 sasaktelwebmailrequiredpreventaccountcl.webflow.io
 sasalome.com
@@ -384774,7 +384774,6 @@ selamhailecom.netlify.app
 selamselam.lol
 selecionada.shop
 selectimmo-dz.com
-selectkoi.nl
 selenespension.com
 seleniteatrium.org
 selenitehammam.info
@@ -387350,6 +387349,7 @@ sosimply-portala.powerappsportals.com
 sosiska228.net
 soslhh.shop-metabodrops.com
 sosmed.jagowebsitemurah.com
+soso.fixiow.icu
 sospao.com
 sosstat.beer
 sosvirus.net
@@ -393784,6 +393784,7 @@ timenews247.com
 timephoriaofficial.com
 timeqadhoele.vercel.app
 timesofvartha.com
+timestamp-sdk.tentvs.com
 timestesol.com
 timesync.westus2.cloudapp.azure.com
 timewarnerent.com
@@ -397590,7 +397591,9 @@ uplhodllogin.gitbook.io
 uplholdlogin.gitbook.io
 uplifioac.vercel.app
 uplinof-eight.vercel.app
+upload-sasdk.tentvs.com
 upload.frame-quest.lol
+upload.mytvos.com
 uploadingyourproject687268747isjhgjjmz.pages.dev
 uploads-gain.vercel.app
 uploads.dev30vps045401.managerc20vpx5903.host
@@ -399909,6 +399912,7 @@ vcvtqmiefu.duckdns.org
 vcwxkel0.get-echofree.com
 vcxddac.eng--digestistart.com
 vd1qf14082587.cfd
+vd3s.hypstok.info
 vdbadffgroup.top
 vdbadffgrouqonline.help
 vdbdvfvf987654.weebly.com
@@ -401264,7 +401268,6 @@ vuq72f2a.truenarrator.com
 vuryua.ru
 vusjrbtl.fileboroo.com
 vutvfrxtn.housingadvice.org.uk
-vuurwerkwinkeldordrecht.nl
 vuvwlz.fluss.hu
 vuwvp.drdavidzweiback.com
 vuxxtdqp.signalfrontier.top
@@ -405942,6 +405945,7 @@ xfgoob.memap.me
 xfh4ukygyngxvx2.duckdns.org
 xfidfjsd.weebly.com
 xfiity333.weeblysite.com
+xfile.kkoper.cc
 xfinity-100538.weeblysite.com
 xfinity-102145.weeblysite.com
 xfinity-103196.weeblysite.com
@@ -407531,6 +407535,7 @@ z5y8ncc.cn
 z65k8fja.en-us-prostafens.com
 z6g263qc.canadianweb.org
 z7e79dln.luxerabet100.com
+z7hn.alghas.cc
 z7kqxbhjtn8ntgspd3.pages.dev
 z7offy1h.linuxfortravelers.com
 z7ql7rl5.gregoriasmod.com
