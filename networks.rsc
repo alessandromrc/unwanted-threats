@@ -804,6 +804,7 @@
 /ip firewall address-list add list=unwanted-threats address=101.200.88.205/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=101.201.38.226/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=101.201.43.202/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=101.201.71.54/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=101.201.76.235/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=101.203.128.0/19 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=101.204.69.58/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -1022,6 +1023,7 @@
 /ip firewall address-list add list=unwanted-threats address=101.43.152.123/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=101.43.159.218/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=101.43.175.238/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=101.43.237.10/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=101.43.4.181/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=101.43.45.128/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=101.43.48.195/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -1454,6 +1456,7 @@
 /ip firewall address-list add list=unwanted-threats address=102.129.53.222/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=102.129.53.54/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=102.129.54.129/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=102.129.54.179/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=102.129.55.100/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=102.129.55.115/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=102.129.55.196/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -1551,6 +1554,7 @@
 /ip firewall address-list add list=unwanted-threats address=102.178.116.209/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=102.178.145.63/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=102.178.147.96/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=102.178.54.237/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=102.179.132.21/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=102.179.135.86/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=102.179.15.30/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -2208,6 +2212,7 @@
 /ip firewall address-list add list=unwanted-threats address=102.64.36.123/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=102.64.36.13/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=102.64.36.139/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=102.64.36.192/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=102.64.36.92/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=102.64.37.122/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=102.64.37.209/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -2234,6 +2239,7 @@
 /ip firewall address-list add list=unwanted-threats address=102.64.41.30/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=102.64.41.40/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=102.64.41.81/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=102.64.42.128/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=102.64.42.161/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=102.64.42.181/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=102.64.42.5/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -2319,6 +2325,7 @@
 /ip firewall address-list add list=unwanted-threats address=103.102.142.98/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=103.102.236.0/22 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=103.102.46.200/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=103.103.125.225/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=103.103.146.149/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=103.103.163.220/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=103.103.245.149/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -3471,6 +3478,7 @@
 /ip firewall address-list add list=unwanted-threats address=103.161.104.105/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=103.161.104.96/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=103.161.104.99/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=103.161.105.238/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=103.161.16.196/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=103.161.170.12/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=103.161.207.2/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -4801,6 +4809,7 @@
 /ip firewall address-list add list=unwanted-threats address=103.237.58.197/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=103.237.58.251/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=103.237.58.42/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=103.237.58.63/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=103.237.58.80/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=103.237.86.0/23 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=103.238.115.193/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -6060,6 +6069,7 @@
 /ip firewall address-list add list=unwanted-threats address=103.83.235.146/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=103.83.252.200/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=103.83.254.118/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=103.83.254.119/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=103.83.28.216/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=103.83.86.0/23 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=103.83.87.103/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -8437,6 +8447,7 @@
 /ip firewall address-list add list=unwanted-threats address=104.7.12.9/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=104.7.14.57/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=104.8.85.117/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=105.108.246.174/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=105.112.254.19/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=105.12.0.140/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=105.154.102.185/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -8482,6 +8493,7 @@
 /ip firewall address-list add list=unwanted-threats address=105.243.68.170/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=105.244.225.160/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=105.245.119.107/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=105.246.94.103/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=105.247.215.76/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=105.247.89.210/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=105.27.142.130/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -8496,6 +8508,7 @@
 /ip firewall address-list add list=unwanted-threats address=105.69.91.254/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=105.72.176.66/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=105.72.243.96/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=105.75.37.65/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=105.96.0.156/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=105.96.11.65/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=105.96.53.240/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -12410,6 +12423,7 @@
 /ip firewall address-list add list=unwanted-threats address=109.62.221.150/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=109.62.96.205/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=109.63.11.183/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=109.63.129.106/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=109.63.133.112/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=109.63.135.157/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=109.63.140.33/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -13124,6 +13138,7 @@
 /ip firewall address-list add list=unwanted-threats address=111.192.19.3/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=111.192.21.154/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=111.192.212.102/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=111.192.212.223/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=111.192.28.24/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=111.192.57.225/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=111.192.60.128/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -15187,6 +15202,7 @@
 /ip firewall address-list add list=unwanted-threats address=113.78.40.201/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=113.78.43.127/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=113.78.8.230/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=113.78.9.145/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=113.78.9.152/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=113.80.100.131/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=113.80.106.120/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -16613,6 +16629,7 @@
 /ip firewall address-list add list=unwanted-threats address=117.235.68.51/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=117.236.124.166/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=117.238.108.68/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=117.239.45.10/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=117.240.0.49/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=117.240.142.212/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=117.240.61.131/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -16729,6 +16746,7 @@
 /ip firewall address-list add list=unwanted-threats address=117.39.41.112/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=117.39.42.151/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=117.39.45.117/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=117.39.46.19/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=117.39.63.46/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=117.39.63.58/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=117.4.153.121/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -17431,6 +17449,7 @@
 /ip firewall address-list add list=unwanted-threats address=118.92.109.63/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=118.93.247.114/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=118.95.166.90/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=118.97.196.34/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=118.97.46.244/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=118.99.102.162/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=118.99.121.148/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -17615,6 +17634,7 @@
 /ip firewall address-list add list=unwanted-threats address=119.204.122.94/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=119.205.211.214/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=119.205.51.3/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=119.206.78.168/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=119.206.94.126/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=119.207.0.75/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=119.207.21.240/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -21555,6 +21575,7 @@
 /ip firewall address-list add list=unwanted-threats address=129.212.235.22/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=129.212.236.67/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=129.212.239.220/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=129.212.239.36/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=129.213.123.215/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=129.213.151.234/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=129.213.162.27/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -21573,6 +21594,7 @@
 /ip firewall address-list add list=unwanted-threats address=129.221.193.184/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=129.221.195.6/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=129.221.196.18/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=129.221.200.132/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=129.221.204.224/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=129.221.224.34/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=129.221.232.209/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -23320,6 +23342,8 @@
 /ip firewall address-list add list=unwanted-threats address=136.108.138.225/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=136.108.158.135/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=136.108.184.254/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=136.108.206.133/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=136.108.213.54/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=136.108.220.20/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=136.108.230.149/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=136.108.237.247/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -23329,6 +23353,7 @@
 /ip firewall address-list add list=unwanted-threats address=136.108.7.5/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=136.109.200.200/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=136.109.203.154/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=136.109.48.24/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=136.110.123.3/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=136.110.23.104/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=136.110.71.224/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -23340,10 +23365,12 @@
 /ip firewall address-list add list=unwanted-threats address=136.114.24.102/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=136.115.163.28/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=136.115.208.88/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=136.115.38.153/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=136.115.46.0/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=136.116.134.157/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=136.116.168.82/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=136.116.172.161/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=136.116.222.25/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=136.116.27.45/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=136.117.0.186/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=136.117.164.117/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -23627,6 +23654,7 @@
 /ip firewall address-list add list=unwanted-threats address=136.144.35.13/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=136.144.35.130/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=136.144.35.132/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=136.144.35.133/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=136.144.35.136/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=136.144.35.137/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=136.144.35.139/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -23637,6 +23665,7 @@
 /ip firewall address-list add list=unwanted-threats address=136.144.35.143/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=136.144.35.144/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=136.144.35.146/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=136.144.35.147/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=136.144.35.148/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=136.144.35.149/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=136.144.35.15/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -24277,6 +24306,8 @@
 /ip firewall address-list add list=unwanted-threats address=136.67.101.180/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=136.67.131.49/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=136.67.137.80/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=136.67.146.236/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=136.67.147.150/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=136.67.154.210/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=136.67.184.181/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=136.67.2.95/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -24295,6 +24326,7 @@
 /ip firewall address-list add list=unwanted-threats address=136.71.136.76/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=136.71.167.87/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=136.71.195.116/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=136.71.228.157/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=136.72.2.122/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=136.72.2.200/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=136.72.35.177/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -24310,6 +24342,7 @@
 /ip firewall address-list add list=unwanted-threats address=136.86.228.67/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=136.86.233.216/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=136.86.246.154/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=136.87.103.88/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=136.87.151.221/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=136.87.17.231/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=136.87.36.93/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -24681,6 +24714,7 @@
 /ip firewall address-list add list=unwanted-threats address=138.0.135.136/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=138.0.143.120/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=138.0.150.170/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=138.0.189.231/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=138.0.206.82/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=138.0.239.74/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=138.0.54.142/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -27058,6 +27092,7 @@
 /ip firewall address-list add list=unwanted-threats address=140.211.167.233/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=140.213.112.89/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=140.213.202.76/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=140.213.217.156/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=140.213.37.115/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=140.213.38.76/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=140.213.45.159/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -27511,6 +27546,7 @@
 /ip firewall address-list add list=unwanted-threats address=142.44.225.114/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=142.44.225.144/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=142.44.225.182/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=142.44.225.211/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=142.44.225.243/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=142.44.225.26/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=142.44.225.71/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -29914,6 +29950,7 @@
 /ip firewall address-list add list=unwanted-threats address=146.247.123.6/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=146.247.242.84/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=146.247.248.37/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=146.251.251.68/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=146.252.0.0/16 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=146.255.242.234/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=146.255.252.54/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -31000,6 +31037,7 @@
 /ip firewall address-list add list=unwanted-threats address=148.113.130.206/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=148.113.130.226/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=148.113.130.227/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=148.113.130.232/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=148.113.130.246/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=148.113.130.39/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=148.113.130.45/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -31733,6 +31771,7 @@
 /ip firewall address-list add list=unwanted-threats address=15.207.221.103/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=15.207.88.3/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=15.207.89.53/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=15.220.1.18/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=15.223.141.239/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=15.223.187.219/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=15.224.153.9/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -31773,6 +31812,7 @@
 /ip firewall address-list add list=unwanted-threats address=15.235.96.62/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=15.235.96.75/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=15.235.98.140/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=15.235.98.29/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=15.236.40.225/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=15.236.61.7/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=15.237.250.155/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -34779,6 +34819,7 @@
 /ip firewall address-list add list=unwanted-threats address=154.127.42.3/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=154.127.42.52/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=154.127.43.18/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=154.127.43.236/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=154.127.43.3/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=154.127.44.3/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=154.127.44.34/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -35180,6 +35221,7 @@
 /ip firewall address-list add list=unwanted-threats address=154.36.152.216/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=154.38.165.139/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=154.38.182.130/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=154.39.147.64/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=154.39.242.118/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=154.39.242.16/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=154.39.242.20/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -38392,6 +38434,7 @@
 /ip firewall address-list add list=unwanted-threats address=159.89.100.196/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=159.89.107.191/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=159.89.107.95/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=159.89.11.129/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=159.89.11.48/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=159.89.111.94/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=159.89.114.129/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -39197,6 +39240,7 @@
 /ip firewall address-list add list=unwanted-threats address=160.191.244.4/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=160.191.244.41/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=160.191.244.74/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=160.191.29.38/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=160.191.46.253/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=160.191.55.6/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=160.191.87.178/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -42503,6 +42547,7 @@
 /ip firewall address-list add list=unwanted-threats address=167.248.133.6/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=167.248.133.7/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=167.248.133.8/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=167.248.148.5/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=167.249.140.196/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=167.249.140.231/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=167.249.140.33/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -43350,6 +43395,7 @@
 /ip firewall address-list add list=unwanted-threats address=168.100.149.31/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=168.100.149.50/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=168.100.149.52/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=168.100.149.6/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=168.100.149.73/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=168.100.149.75/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=168.100.149.82/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -43788,6 +43834,7 @@
 /ip firewall address-list add list=unwanted-threats address=169.224.21.14/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=169.224.21.172/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=169.224.21.236/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=169.224.26.164/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=169.224.7.91/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=169.224.83.209/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=169.224.86.73/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -45371,6 +45418,7 @@
 /ip firewall address-list add list=unwanted-threats address=172.105.24.10/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=172.105.25.203/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=172.105.3.120/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=172.105.34.113/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=172.105.56.8/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=172.105.69.26/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=172.105.69.66/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -49445,6 +49493,7 @@
 /ip firewall address-list add list=unwanted-threats address=176.103.11.11/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=176.103.11.132/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=176.103.11.138/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=176.103.11.16/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=176.103.15.118/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=176.103.15.121/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=176.103.15.155/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -49458,6 +49507,7 @@
 /ip firewall address-list add list=unwanted-threats address=176.103.2.17/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=176.103.2.209/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=176.103.2.81/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=176.103.2.84/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=176.103.220.223/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=176.103.220.3/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=176.103.221.211/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -49497,6 +49547,7 @@
 /ip firewall address-list add list=unwanted-threats address=176.103.6.88/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=176.103.68.164/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=176.103.7.117/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=176.103.7.150/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=176.103.7.159/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=176.103.7.238/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=176.103.7.44/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -49826,6 +49877,7 @@
 /ip firewall address-list add list=unwanted-threats address=176.126.86.160/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=176.126.96.25/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=176.128.112.53/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=176.128.193.169/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=176.128.232.181/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=176.128.69.111/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=176.129.97.136/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -51251,6 +51303,7 @@
 /ip firewall address-list add list=unwanted-threats address=177.44.71.72/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=177.44.71.74/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=177.44.71.78/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=177.44.71.80/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=177.44.71.85/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=177.44.71.89/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=177.44.71.91/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -51361,6 +51414,7 @@
 /ip firewall address-list add list=unwanted-threats address=177.7.30.146/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=177.70.118.116/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=177.70.164.211/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=177.70.165.8/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=177.70.253.208/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=177.70.27.32/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=177.70.27.41/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -52213,6 +52267,7 @@
 /ip firewall address-list add list=unwanted-threats address=178.176.250.39/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=178.176.59.20/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=178.176.66.131/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=178.176.72.23/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=178.176.79.9/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=178.178.120.135/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=178.178.194.123/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -52367,6 +52422,7 @@
 /ip firewall address-list add list=unwanted-threats address=178.219.105.102/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=178.219.105.110/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=178.219.105.222/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=178.219.105.252/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=178.219.105.64/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=178.219.106.131/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=178.219.38.228/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -52374,6 +52430,7 @@
 /ip firewall address-list add list=unwanted-threats address=178.219.97.94/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=178.219.98.111/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=178.219.98.127/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=178.219.98.182/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=178.219.98.211/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=178.219.98.246/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=178.219.98.92/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -52653,6 +52710,7 @@
 /ip firewall address-list add list=unwanted-threats address=179.1.223.36/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=179.1.224.13/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=179.1.224.24/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=179.1.228.5/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=179.1.228.6/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=179.100.22.238/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=179.100.82.174/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -55884,6 +55942,7 @@
 /ip firewall address-list add list=unwanted-threats address=182.181.222.152/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=182.182.12.4/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=182.182.193.96/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=182.183.81.5/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=182.184.230.96/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=182.184.30.96/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=182.184.66.75/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -56544,6 +56603,7 @@
 /ip firewall address-list add list=unwanted-threats address=183.196.127.122/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=183.196.144.45/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=183.196.76.51/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=183.197.241.167/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=183.199.206.185/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=183.200.111.66/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=183.201.208.25/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -57929,6 +57989,7 @@
 /ip firewall address-list add list=unwanted-threats address=185.17.124.55/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=185.17.124.80/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=185.17.125.213/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=185.17.125.247/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=185.17.125.251/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=185.17.125.37/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=185.17.125.38/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -60889,6 +60950,7 @@
 /ip firewall address-list add list=unwanted-threats address=186.109.203.150/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=186.109.52.120/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=186.113.255.200/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=186.115.187.14/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=186.115.40.219/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=186.116.1.219/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=186.117.149.128/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -61141,6 +61203,7 @@
 /ip firewall address-list add list=unwanted-threats address=186.177.193.212/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=186.179.0.0/18 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=186.179.105.1/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=186.179.142.116/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=186.179.167.88/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=186.179.40.168/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=186.179.67.46/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -61518,6 +61581,7 @@
 /ip firewall address-list add list=unwanted-threats address=186.22.245.20/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=186.22.245.207/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=186.22.245.24/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=186.22.245.25/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=186.22.245.27/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=186.22.245.29/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=186.22.245.38/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -62056,6 +62120,7 @@
 /ip firewall address-list add list=unwanted-threats address=187.138.239.38/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=187.14.49.218/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=187.14.50.104/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=187.14.55.77/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=187.14.56.89/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=187.14.82.234/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=187.14.82.236/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -64421,6 +64486,7 @@
 /ip firewall address-list add list=unwanted-threats address=190.153.121.2/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=190.153.21.124/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=190.153.249.99/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=190.153.66.136/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=190.153.80.176/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=190.154.190.104/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=190.154.245.67/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -65140,12 +65206,14 @@
 /ip firewall address-list add list=unwanted-threats address=190.61.40.49/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=190.61.40.50/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=190.61.40.81/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=190.61.43.83/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=190.61.44.253/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=190.61.44.90/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=190.61.55.220/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=190.61.58.89/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=190.61.61.206/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=190.61.63.58/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=190.61.84.170/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=190.61.89.189/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=190.62.89.58/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=190.64.90.158/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -65519,6 +65587,7 @@
 /ip firewall address-list add list=unwanted-threats address=191.9.24.3/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=191.9.45.150/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=191.90.168.122/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=191.91.1.217/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=191.95.131.93/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=191.96.1.106/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=191.96.101.180/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -71456,6 +71525,7 @@
 /ip firewall address-list add list=unwanted-threats address=195.205.30.250/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=195.205.4.122/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=195.205.4.160/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=195.205.4.180/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=195.206.181.88/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=195.206.182.194/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=195.206.182.195/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -72113,6 +72183,7 @@
 /ip firewall address-list add list=unwanted-threats address=196.0.113.110/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=196.0.119.250/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=196.0.120.6/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=196.0.122.122/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=196.0.122.22/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=196.0.124.138/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=196.0.124.150/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -73367,6 +73438,7 @@
 /ip firewall address-list add list=unwanted-threats address=198.244.168.11/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=198.244.168.111/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=198.244.168.122/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=198.244.168.123/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=198.244.168.129/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=198.244.168.130/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=198.244.168.131/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -73489,6 +73561,7 @@
 /ip firewall address-list add list=unwanted-threats address=198.244.242.141/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=198.244.242.149/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=198.244.242.15/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=198.244.242.158/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=198.244.242.159/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=198.244.242.167/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=198.244.242.169/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -73501,6 +73574,7 @@
 /ip firewall address-list add list=unwanted-threats address=198.244.242.237/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=198.244.242.244/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=198.244.242.245/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=198.244.242.248/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=198.244.242.253/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=198.244.242.26/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=198.244.242.27/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -74419,6 +74493,7 @@
 /ip firewall address-list add list=unwanted-threats address=2.28.45.87/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=2.28.64.118/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=2.29.137.125/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=2.29.141.43/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=2.29.179.122/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=2.29.185.0/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=2.29.187.71/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -74780,6 +74855,7 @@
 /ip firewall address-list add list=unwanted-threats address=2.58.21.105/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=2.58.241.50/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=2.58.241.68/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=2.58.241.73/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=2.58.52.163/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=2.58.56.0/24 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=2.58.56.165/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -76654,6 +76730,7 @@
 /ip firewall address-list add list=unwanted-threats address=200.217.54.130/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=200.217.88.48/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=200.218.246.97/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=200.219.12.120/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=200.219.12.93/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=200.219.200.16/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=200.219.255.102/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -76773,6 +76850,7 @@
 /ip firewall address-list add list=unwanted-threats address=200.55.85.202/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=200.55.85.72/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=200.55.86.188/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=200.56.110.185/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=200.58.100.240/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=200.58.166.84/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=200.58.81.226/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -78078,6 +78156,7 @@
 /ip firewall address-list add list=unwanted-threats address=202.8.43.16/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=202.8.43.190/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=202.8.43.242/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=202.8.43.54/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=202.8.43.55/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=202.8.43.65/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=202.82.20.241/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -80238,6 +80317,7 @@
 /ip firewall address-list add list=unwanted-threats address=209.126.199.41/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=209.126.3.224/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=209.126.7.247/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=209.126.83.79/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=209.126.88.0/22 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=209.128.195.6/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=209.13.96.163/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -81422,6 +81502,7 @@
 /ip firewall address-list add list=unwanted-threats address=212.237.217.193/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=212.24.100.138/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=212.241.16.169/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=212.241.72.65/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=212.244.235.217/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=212.252.167.85/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=212.252.167.86/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -83001,6 +83082,7 @@
 /ip firewall address-list add list=unwanted-threats address=216.128.172.183/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=216.129.184.213/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=216.131.104.10/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=216.131.84.143/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=216.133.148.237/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=216.137.144.0/20 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=216.137.185.195/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -88476,8 +88558,10 @@
 /ip firewall address-list add list=unwanted-threats address=223.198.160.163/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=223.198.161.254/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=223.198.162.236/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=223.198.164.205/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=223.198.165.90/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=223.204.204.13/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=223.204.235.233/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=223.204.247.53/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=223.204.97.65/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=223.205.73.97/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -89585,6 +89669,7 @@
 /ip firewall address-list add list=unwanted-threats address=24.37.254.66/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=24.38.224.113/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=24.39.156.214/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=24.42.172.40/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=24.43.144.225/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=24.43.161.211/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=24.43.161.216/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -91725,12 +91810,14 @@
 /ip firewall address-list add list=unwanted-threats address=34.132.128.17/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.133.146.162/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.133.188.189/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=34.134.185.45/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.134.26.114/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.134.69.125/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.134.99.37/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.136.156.14/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.136.164.98/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.136.60.147/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=34.136.75.137/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.138.114.77/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.138.126.190/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.138.16.199/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -91866,10 +91953,12 @@
 /ip firewall address-list add list=unwanted-threats address=34.148.131.205/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.148.159.148/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.148.206.96/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=34.148.212.4/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.148.229.74/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.148.27.202/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.148.51.44/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.148.59.3/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=34.148.68.30/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.148.74.72/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.148.83.176/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.148.84.202/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -92048,6 +92137,8 @@
 /ip firewall address-list add list=unwanted-threats address=34.168.68.232/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.168.95.123/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.169.10.253/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=34.169.19.251/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=34.169.253.254/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.17.130.5/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.17.132.2/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.17.132.218/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -92090,6 +92181,7 @@
 /ip firewall address-list add list=unwanted-threats address=34.174.87.68/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.174.90.245/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.175.0.11/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=34.175.102.86/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.175.114.32/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.175.118.185/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.175.133.250/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -92106,6 +92198,7 @@
 /ip firewall address-list add list=unwanted-threats address=34.175.194.110/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.175.20.108/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.175.216.250/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=34.175.223.199/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.175.25.66/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.175.46.237/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.175.61.20/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -92623,6 +92716,7 @@
 /ip firewall address-list add list=unwanted-threats address=34.26.28.147/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.26.44.178/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.26.81.60/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=34.26.95.204/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.27.175.213/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.27.40.76/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.27.81.40/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -92699,6 +92793,7 @@
 /ip firewall address-list add list=unwanted-threats address=34.3.95.51/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.3.95.59/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.3.95.82/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=34.30.110.78/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.30.134.144/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.30.36.199/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.30.82.253/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -92857,6 +92952,7 @@
 /ip firewall address-list add list=unwanted-threats address=34.44.225.175/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.44.247.169/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.45.175.108/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=34.45.243.135/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.45.55.180/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.46.138.166/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.46.61.107/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -92880,7 +92976,9 @@
 /ip firewall address-list add list=unwanted-threats address=34.48.132.48/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.48.137.64/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.48.196.220/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=34.48.207.86/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.48.217.82/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=34.48.70.146/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.48.71.228/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.48.8.18/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.48.91.29/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -92946,14 +93044,18 @@
 /ip firewall address-list add list=unwanted-threats address=34.53.235.228/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.53.254.104/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.53.254.35/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=34.55.178.202/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.56.134.151/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=34.56.181.132/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.56.229.114/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.56.241.78/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=34.56.3.31/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.56.30.246/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.56.36.185/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.56.56.213/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.57.170.86/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.57.181.41/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=34.57.184.10/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.57.36.253/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.57.82.154/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.58.119.71/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -92962,6 +93064,7 @@
 /ip firewall address-list add list=unwanted-threats address=34.58.76.209/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.59.129.201/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.6.146.160/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=34.6.149.225/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.6.151.153/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.6.166.249/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.6.182.17/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -93029,6 +93132,7 @@
 /ip firewall address-list add list=unwanted-threats address=34.64.143.108/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.64.150.120/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.64.162.164/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=34.64.182.0/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.64.191.105/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.64.196.216/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.64.211.226/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -93125,6 +93229,7 @@
 /ip firewall address-list add list=unwanted-threats address=34.7.87.83/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.70.79.204/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.71.106.243/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=34.72.136.49/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.72.155.3/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.72.176.129/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.72.198.95/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -93265,6 +93370,7 @@
 /ip firewall address-list add list=unwanted-threats address=34.81.97.174/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.82.28.232/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.82.87.118/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=34.83.166.80/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.83.17.72/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.84.10.107/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.84.113.242/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -93290,6 +93396,7 @@
 /ip firewall address-list add list=unwanted-threats address=34.85.21.203/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.85.220.20/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.85.23.144/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=34.85.235.158/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.86.108.106/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.86.143.137/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=34.86.165.175/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -93575,6 +93682,7 @@
 /ip firewall address-list add list=unwanted-threats address=35.180.124.135/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=35.180.232.126/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=35.184.254.205/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=35.186.178.121/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=35.187.118.13/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=35.187.119.100/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=35.187.183.9/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -93614,7 +93722,9 @@
 /ip firewall address-list add list=unwanted-threats address=35.196.228.197/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=35.196.243.2/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=35.196.251.228/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=35.196.46.136/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=35.196.49.143/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=35.196.71.226/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=35.197.145.122/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=35.197.145.205/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=35.197.152.175/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -95157,6 +95267,7 @@
 /ip firewall address-list add list=unwanted-threats address=35.214.217.36/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=35.214.218.11/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=35.214.218.220/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=35.214.218.91/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=35.214.219.89/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=35.214.220.196/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=35.214.222.127/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -95241,6 +95352,7 @@
 /ip firewall address-list add list=unwanted-threats address=35.221.84.80/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=35.222.117.243/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=35.222.239.11/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=35.222.253.29/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=35.222.36.13/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=35.223.20.126/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=35.223.230.230/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -95248,6 +95360,7 @@
 /ip firewall address-list add list=unwanted-threats address=35.223.24.92/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=35.224.212.24/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=35.225.56.28/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=35.226.47.76/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=35.226.8.173/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=35.227.105.218/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=35.227.109.86/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -95358,6 +95471,7 @@
 /ip firewall address-list add list=unwanted-threats address=35.237.124.8/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=35.237.143.111/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=35.237.167.156/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=35.237.64.35/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=35.237.80.183/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=35.237.89.18/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=35.237.94.18/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -95462,6 +95576,7 @@
 /ip firewall address-list add list=unwanted-threats address=35.252.173.37/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=35.252.198.161/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=35.252.20.170/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=35.252.201.68/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=35.252.21.156/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=35.252.25.151/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=35.252.250.136/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -96526,6 +96641,7 @@
 /ip firewall address-list add list=unwanted-threats address=37.221.150.58/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=37.221.151.20/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=37.221.152.46/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=37.221.153.126/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=37.221.153.144/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=37.221.153.157/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=37.221.153.191/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -98002,6 +98118,8 @@
 /ip firewall address-list add list=unwanted-threats address=39.129.27.80/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=39.129.8.132/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=39.129.9.180/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=39.129.90.137/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=39.129.90.138/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=39.130.240.177/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=39.130.240.253/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=39.144.124.186/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -98278,6 +98396,7 @@
 /ip firewall address-list add list=unwanted-threats address=4.150.203.20/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=4.150.203.30/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=4.150.203.36/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=4.154.139.59/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=4.154.208.10/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=4.156.234.70/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=4.157.250.195/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -98911,6 +99030,7 @@
 /ip firewall address-list add list=unwanted-threats address=41.139.0.93/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=41.139.10.162/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=41.139.10.195/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=41.139.10.218/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=41.139.10.245/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=41.139.10.75/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=41.139.11.144/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -99086,6 +99206,7 @@
 /ip firewall address-list add list=unwanted-threats address=41.219.149.78/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=41.219.61.253/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=41.220.138.55/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=41.220.233.130/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=41.220.30.130/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=41.221.216.67/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=41.221.49.85/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -99203,6 +99324,7 @@
 /ip firewall address-list add list=unwanted-threats address=41.73.0.47/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=41.73.123.22/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=41.73.242.219/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=41.74.113.187/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=41.74.122.8/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=41.74.48.105/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=41.74.5.209/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -99623,6 +99745,7 @@
 /ip firewall address-list add list=unwanted-threats address=43.130.16.212/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=43.130.173.9/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=43.130.174.37/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=43.130.228.240/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=43.130.228.73/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=43.130.230.20/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=43.130.26.3/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -105185,9 +105308,14 @@
 /ip firewall address-list add list=unwanted-threats address=45.164.18.235/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=45.164.201.74/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=45.164.246.0/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=45.164.246.1/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=45.164.246.10/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=45.164.246.12/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=45.164.246.13/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=45.164.246.3/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=45.164.246.6/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=45.164.246.7/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=45.164.246.9/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=45.164.249.70/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=45.164.39.253/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=45.165.170.41/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -105353,8 +105481,10 @@
 /ip firewall address-list add list=unwanted-threats address=45.179.145.23/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=45.179.188.174/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=45.179.188.189/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=45.179.189.106/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=45.179.189.107/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=45.179.189.55/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=45.179.189.77/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=45.179.68.61/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=45.180.136.12/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=45.180.16.0/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -117554,6 +117684,7 @@
 /ip firewall address-list add list=unwanted-threats address=51.195.244.187/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=51.195.244.191/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=51.195.244.193/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=51.195.244.203/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=51.195.244.211/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=51.195.244.213/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=51.195.244.232/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -117569,6 +117700,7 @@
 /ip firewall address-list add list=unwanted-threats address=51.195.244.54/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=51.195.244.6/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=51.195.244.81/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=51.195.244.94/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=51.195.244.99/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=51.195.255.251/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=51.195.3.41/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -117820,6 +117952,7 @@
 /ip firewall address-list add list=unwanted-threats address=51.68.71.26/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=51.68.90.171/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=51.75.116.202/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=51.75.119.112/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=51.75.119.153/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=51.75.119.154/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=51.75.119.161/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -117937,6 +118070,7 @@
 /ip firewall address-list add list=unwanted-threats address=51.81.104.40/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=51.81.104.44/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=51.81.104.45/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=51.81.105.24/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=51.81.107.180/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=51.81.110.16/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=51.81.110.22/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -117951,9 +118085,11 @@
 /ip firewall address-list add list=unwanted-threats address=51.81.111.135/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=51.81.111.136/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=51.81.111.140/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=51.81.111.141/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=51.81.111.3/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=51.81.111.69/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=51.81.111.72/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=51.81.111.73/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=51.81.155.228/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=51.81.163.16/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=51.81.163.18/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -130516,6 +130652,7 @@
 /ip firewall address-list add list=unwanted-threats address=77.60.231.50/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=77.61.64.143/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=77.63.38.247/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=77.63.38.255/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=77.63.39.130/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=77.63.39.146/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=77.63.39.147/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -131195,6 +131332,7 @@
 /ip firewall address-list add list=unwanted-threats address=78.159.130.8/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=78.159.89.46/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=78.162.215.211/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=78.163.179.133/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=78.163.187.73/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=78.164.53.150/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=78.165.10.173/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -138479,6 +138617,7 @@
 /ip firewall address-list add list=unwanted-threats address=89.151.134.157/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=89.151.179.210/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=89.151.188.52/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=89.151.200.0/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=89.151.28.55/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=89.152.139.218/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=89.152.55.51/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -138591,6 +138730,7 @@
 /ip firewall address-list add list=unwanted-threats address=89.201.158.196/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=89.203.137.28/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=89.203.142.96/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=89.203.248.214/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=89.203.249.174/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=89.203.249.226/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=89.207.79.41/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -139049,6 +139189,7 @@
 /ip firewall address-list add list=unwanted-threats address=89.86.42.191/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=89.87.251.37/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=89.88.224.171/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=89.92.180.237/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=89.92.69.226/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=89.93.246.156/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=89.93.83.17/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -139405,6 +139546,7 @@
 /ip firewall address-list add list=unwanted-threats address=91.195.69.24/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=91.195.95.66/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=91.196.110.170/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=91.196.110.58/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=91.196.111.103/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=91.196.111.127/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=91.196.111.204/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -140080,6 +140222,7 @@
 /ip firewall address-list add list=unwanted-threats address=91.225.234.165/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=91.225.234.184/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=91.226.11.188/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=91.226.113.156/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=91.226.114.83/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=91.226.115.112/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=91.226.115.123/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -142325,6 +142468,7 @@
 /ip firewall address-list add list=unwanted-threats address=94.156.77.75/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=94.158.115.115/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=94.158.178.252/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=94.158.244.49/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=94.158.246.117/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=94.158.49.223/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=94.158.52.31/32 comment="unwanted-threats/mikrotik" timeout=48h;
@@ -143832,6 +143976,7 @@
 /ip firewall address-list add list=unwanted-threats address=95.85.6.108/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=95.87.7.47/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=95.87.7.76/32 comment="unwanted-threats/mikrotik" timeout=48h;
+/ip firewall address-list add list=unwanted-threats address=95.87.94.119/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=95.9.165.38/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=95.9.233.135/32 comment="unwanted-threats/mikrotik" timeout=48h;
 /ip firewall address-list add list=unwanted-threats address=95.9.83.111/32 comment="unwanted-threats/mikrotik" timeout=48h;
