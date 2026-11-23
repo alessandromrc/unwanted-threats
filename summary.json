@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-23T11:02:50.448Z",
+  "generated_at": "2026-11-23T12:02:54.299Z",
   "total": {
-    "ips": 141969,
-    "hosts": 408344,
-    "networks": 143767,
+    "ips": 142055,
+    "hosts": 408340,
+    "networks": 143853,
     "networks6": 90,
     "tor_exit_nodes": 1251
   },
@@ -50,7 +50,7 @@
       "type": "hosts",
       "counts": {
         "ips": 0,
-        "hosts": 475,
+        "hosts": 469,
         "networks": 0,
         "networks6": 0
       },
@@ -74,7 +74,7 @@
       "type": "hosts",
       "counts": {
         "ips": 0,
-        "hosts": 27812,
+        "hosts": 27814,
         "networks": 0,
         "networks6": 0
       },
@@ -133,7 +133,7 @@
       "url": "https://lists.blocklist.de/lists/all.txt",
       "type": "plain_ip",
       "counts": {
-        "ips": 22125,
+        "ips": 22079,
         "hosts": 0,
         "networks": 0,
         "networks6": 0
