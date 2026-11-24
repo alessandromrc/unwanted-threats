@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-24T11:02:52.378Z",
+  "generated_at": "2026-11-24T12:00:52.864Z",
   "total": {
-    "ips": 143495,
-    "hosts": 406998,
-    "networks": 145293,
+    "ips": 147643,
+    "hosts": 406994,
+    "networks": 149442,
     "networks6": 90,
-    "tor_exit_nodes": 1253
+    "tor_exit_nodes": 1252
   },
   "per_feed": [
     {
@@ -13,12 +13,12 @@
       "url": "https://mcfp.felk.cvut.cz/publicDatasets/CTU-AIPP-BlackList/Todays-Blacklists/AIP_historical_blacklist_prioritized_by_newest_attackers.csv",
       "type": "csv_ip",
       "counts": {
-        "ips": 0,
+        "ips": 10640,
         "hosts": 0,
         "networks": 0,
         "networks6": 0
       },
-      "error": "request to https://mcfp.felk.cvut.cz/publicDatasets/CTU-AIPP-BlackList/Todays-Blacklists/AIP_historical_blacklist_prioritized_by_newest_attackers.csv failed, reason: connect ETIMEDOUT 147.32.82.194:443"
+      "error": null
     },
     {
       "name": "adblock_nocoin_hosts",
@@ -74,7 +74,7 @@
       "type": "hosts",
       "counts": {
         "ips": 0,
-        "hosts": 26437,
+        "hosts": 26433,
         "networks": 0,
         "networks6": 0
       },
@@ -87,7 +87,7 @@
       "counts": {
         "ips": 0,
         "hosts": 0,
-        "networks": 51,
+        "networks": 52,
         "networks6": 0
       },
       "error": null
@@ -133,7 +133,7 @@
       "url": "https://lists.blocklist.de/lists/all.txt",
       "type": "plain_ip",
       "counts": {
-        "ips": 22599,
+        "ips": 22571,
         "hosts": 0,
         "networks": 0,
         "networks6": 0
