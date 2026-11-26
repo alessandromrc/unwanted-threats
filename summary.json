@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-26T05:00:46.064Z",
+  "generated_at": "2026-11-26T06:00:55.546Z",
   "total": {
-    "ips": 146427,
-    "hosts": 406895,
-    "networks": 148212,
+    "ips": 146522,
+    "hosts": 380576,
+    "networks": 148307,
     "networks6": 90,
     "tor_exit_nodes": 1257
   },
@@ -50,7 +50,7 @@
       "type": "hosts",
       "counts": {
         "ips": 0,
-        "hosts": 456,
+        "hosts": 463,
         "networks": 0,
         "networks6": 0
       },
@@ -74,11 +74,11 @@
       "type": "hosts",
       "counts": {
         "ips": 0,
-        "hosts": 26378,
+        "hosts": 0,
         "networks": 0,
         "networks6": 0
       },
-      "error": null
+      "error": "Invalid response body while trying to fetch https://threatfox-api.abuse.ch/v2/files/exports/<REDACTED>/hostfile.txt: Premature close"
     },
     {
       "name": "dshield_7d",
@@ -133,7 +133,7 @@
       "url": "https://lists.blocklist.de/lists/all.txt",
       "type": "plain_ip",
       "counts": {
-        "ips": 23080,
+        "ips": 22989,
         "hosts": 0,
         "networks": 0,
         "networks6": 0
