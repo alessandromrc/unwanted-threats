@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-27T02:00:48.607Z",
+  "generated_at": "2026-11-27T03:00:34.742Z",
   "total": {
-    "ips": 150628,
-    "hosts": 407046,
-    "networks": 152416,
+    "ips": 149865,
+    "hosts": 407055,
+    "networks": 151653,
     "networks6": 90,
-    "tor_exit_nodes": 1264
+    "tor_exit_nodes": 1263
   },
   "per_feed": [
     {
@@ -61,7 +61,7 @@
       "url": "https://raw.githubusercontent.com/stamparm/ipsum/master/ipsum.txt",
       "type": "csv_like_ip",
       "counts": {
-        "ips": 141565,
+        "ips": 145238,
         "hosts": 0,
         "networks": 0,
         "networks6": 0
@@ -74,7 +74,7 @@
       "type": "hosts",
       "counts": {
         "ips": 0,
-        "hosts": 26527,
+        "hosts": 26536,
         "networks": 0,
         "networks6": 0
       },
@@ -133,7 +133,7 @@
       "url": "https://lists.blocklist.de/lists/all.txt",
       "type": "plain_ip",
       "counts": {
-        "ips": 25044,
+        "ips": 25046,
         "hosts": 0,
         "networks": 0,
         "networks6": 0
